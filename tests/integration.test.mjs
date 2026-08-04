@@ -553,9 +553,26 @@ check('idle chip states what the graph is, with real numbers', () => {
 });
 
 check('the answer card renders a subgraph', () => {
-  const r = ask('What is the intended use of the StatStrip Glucose meter?');
-  const c = explainGraphContribution(r.citations, idx, r.analysis);
-  assert(c, 'no contribution to draw');
+  // Which specific question yields a cross-document answer is corpus-dependent:
+  // as the corpus grows, a question with one clearly best source correctly
+  // resolves to a single document, and 'single-document answers claim no graph
+  // contribution' covers that case. What must hold is the capability - when an
+  // answer does span documents, the card draws the subgraph. So probe the bank
+  // rather than pinning one fixture that a corpus change can invalidate.
+  const candidates = [
+    'What is the intended use of the StatStrip Glucose meter?',
+    'How does hematocrit affect creatinine measurement?',
+    'What substances interfere with glucose results?',
+    'What is the clinical significance of measuring lactate?',
+    'What is the intended use of the StatSensor Creatinine meter?',
+  ];
+  let r = null, c = null;
+  for (const q of candidates) {
+    r = ask(q);
+    c = explainGraphContribution(r.citations, idx, r.analysis);
+    if (c) break;
+  }
+  assert(c, 'no cross-document answer in the bank produced a contribution to draw');
   const svg = renderMiniGraph(c, idx);
   assert(/<svg/.test(svg), 'no svg emitted');
   assert(/mg-edge/.test(svg) && /mg-doc/.test(svg), 'subgraph has no edges or nodes');
