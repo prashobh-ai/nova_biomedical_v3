@@ -4085,3 +4085,62 @@ summary:focus-visible, [tabindex]:focus-visible {
   .ta-list { animation: none; }
   .is-autofilled { animation: none; }
 }
+
+
+/* ---------------------------------------------------------------------------
+   Video citations. A page number is the wrong address for a video, so the
+   citation embeds the player seeked to the second the sentence was spoken.
+   --------------------------------------------------------------------------- */
+.lineage-video .lineage-stamp {
+  font-variant-numeric: tabular-nums;
+  color: var(--accent, #f43f7a);
+  font-weight: 600;
+}
+.lineage-tier {
+  display: inline-block;
+  margin-left: .5rem;
+  padding: .1em .5em;
+  border-radius: 999px;
+  font-size: .72em;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  border: 1px solid currentColor;
+  opacity: .85;
+}
+.lineage-tier.is-transcribed { color: #fbbf24; }
+.lineage-tier.is-authored    { color: #34d399; }
+
+.lineage-video-frame {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin: .6rem 0;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #000;
+  border: 1px solid rgba(255, 255, 255, .12);
+}
+.lineage-video-frame iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+.lineage-video-link {
+  display: inline-block;
+  margin-top: .4rem;
+  font-size: .86em;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--accent, #f43f7a);
+}
+.lineage-video-link:hover { text-decoration: underline; }
+.lineage-video-note {
+  margin-top: .35rem;
+  font-size: .78em;
+  opacity: .7;
+}
+@media (max-width: 640px) {
+  .lineage-video-frame { margin: .5rem 0; }
+}
