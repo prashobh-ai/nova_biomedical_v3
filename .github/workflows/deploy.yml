@@ -29,8 +29,31 @@ jobs:
       - name: Install pipeline dependencies
         run: pip install -r pipeline/requirements.txt
 
+      # The corpus should be committed - that is the whole point of
+      # knowledge_fabric/. This restores it if a clone has not run
+      # fetch_corpus.py yet, so a first push cannot fail confusingly.
+      - name: Cache document corpus
+        uses: actions/cache@v4
+        with:
+          path: |
+            knowledge_fabric/product_manuals
+            knowledge_fabric/fda_files/documents
+          key: corpus-${{ hashFiles('knowledge_fabric/SOURCES.csv') }}
+
+      - name: Ensure corpus is present
+        run: |
+          EXPECTED=$(python -c "import csv; print(sum(1 for r in csv.DictReader(open('knowledge_fabric/SOURCES.csv')) if r['path'].endswith('.pdf')))")
+          FOUND=$(find knowledge_fabric -name '*.pdf' | wc -l)
+          echo "PDFs: $FOUND present, $EXPECTED expected"
+          if [ "$FOUND" -lt "$EXPECTED" ]; then
+            echo "::warning::Corpus incomplete in git ($FOUND/$EXPECTED). Restoring from SOURCES.csv."
+            echo "::warning::Run scripts/fetch_corpus.py locally and commit knowledge_fabric/."
+            python scripts/fetch_corpus.py
+          fi
+
       - name: Build index from knowledge_fabric
-        run: python -m pipeline.build_index \
+        run: |
+          python -m pipeline.build_index \
             --source knowledge_fabric \
             --fda knowledge_fabric/fda_files/structured \
             --youtube knowledge_fabric/youtube \

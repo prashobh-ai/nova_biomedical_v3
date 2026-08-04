@@ -24,14 +24,39 @@ jobs:
           pip install -r pipeline/requirements.txt
           pip install pytest pyyaml
 
+      # The corpus should be committed - that is the whole point of
+      # knowledge_fabric/. But a clone that has not run fetch_corpus.py yet would
+      # otherwise fail with a confusing error, so restore it if incomplete.
+      # fetch_corpus.py is idempotent: present files are checksum-verified and
+      # skipped, missing ones are downloaded from the URLs in SOURCES.csv.
+      - name: Cache document corpus
+        uses: actions/cache@v4
+        with:
+          path: |
+            knowledge_fabric/product_manuals
+            knowledge_fabric/fda_files/documents
+          key: corpus-${{ hashFiles('knowledge_fabric/SOURCES.csv') }}
+
+      - name: Ensure corpus is present
+        run: |
+          EXPECTED=$(python -c "import csv; print(sum(1 for r in csv.DictReader(open('knowledge_fabric/SOURCES.csv')) if r['path'].endswith('.pdf')))")
+          FOUND=$(find knowledge_fabric -name '*.pdf' | wc -l)
+          echo "PDFs: $FOUND present, $EXPECTED expected"
+          if [ "$FOUND" -lt "$EXPECTED" ]; then
+            echo "::warning::Corpus incomplete in git ($FOUND/$EXPECTED). Restoring from SOURCES.csv."
+            echo "::warning::Run scripts/fetch_corpus.py locally and commit knowledge_fabric/."
+            python scripts/fetch_corpus.py
+          fi
+
       - name: Run pipeline tests
         run: pytest tests/ -v
 
       - name: Build index
         run: |
           python -m pipeline.build_index \
-            --source docs_source \
-            --fda knowledge_sources/fda_structured \
+            --source knowledge_fabric \
+            --fda knowledge_fabric/fda_files/structured \
+            --youtube knowledge_fabric/youtube \
             --out /tmp/index.json \
             --semantic-out /tmp/semantic.json
 
@@ -45,22 +70,29 @@ jobs:
           assert s['chunk_count'] >= 1
           assert s['entity_count'] >= 1
           assert idx['bm25']['vocab']
-          # Phase 2 invariants
           assert s['source_count'] >= 1, 'no connectors ran'
           assert idx['graph']['stats']['edge_count'] > 0, 'graph has no edges'
           assert 'facets' in idx, 'facets missing'
           typed = set(idx['graph']['edge_types'])
           assert typed - {'CO_OCCURS'}, 'graph has no typed edges'
+          types = {d['source_type'] for d in idx['documents']}
+          assert 'document' in types, 'no document records'
+          assert 'fda_regulatory' in types, 'no FDA records'
           print('Index OK:', s)
+          print('Sources:', sorted(types))
           PY
 
       - name: Build site data for integration test
         run: |
           python -m pipeline.build_index \
-            --source docs_source \
-            --fda knowledge_sources/fda_structured \
+            --source knowledge_fabric \
+            --fda knowledge_fabric/fda_files/structured \
+            --youtube knowledge_fabric/youtube \
             --out site/data/index.json \
             --semantic-out site/data/semantic.json
+
+      - name: Corpus verification
+        run: python scripts/verify_corpus.py --gate
 
       - name: Set up Node
         uses: actions/setup-node@v4
@@ -73,10 +105,11 @@ jobs:
       - name: Browser integration test
         run: node tests/integration.test.mjs
 
-      # Answer quality is a product requirement, not a nice-to-have. These
-      # assertions encode the exact failures from demo 2 so they cannot recur.
       - name: Answer quality gate
         run: node tests/integration.test.mjs 2>&1 | grep -q "0 failed"
 
-      - name: Retrieval evaluation (report only on PRs)
-        run: python -m eval.evaluate --index /tmp/index.json --semantic /tmp/semantic.json
+      - name: Retrieval evaluation (report only)
+        run: |
+          python -m eval.evaluate \
+            --index /tmp/index.json \
+            --semantic /tmp/semantic.json
