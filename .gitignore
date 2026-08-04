@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Build artifacts (CI regenerates on every push)
+site/data/index.json
+site/data/semantic.json
+site/data/eval_report.json
+site/data/verification.json
+
+# Transcription scratch
+knowledge_fabric/youtube/audio_tmp/
+
+# NEVER ignore the corpus. The raw data living in the repo is the point:
+# anyone can open knowledge_fabric/ and count what the dashboard claims.
+!knowledge_fabric/**

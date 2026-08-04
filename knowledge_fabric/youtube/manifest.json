@@ -1,0 +1,1594 @@
+{
+  "generated_at": "2026-08-04T00:53:50+00:00",
+  "video_count": 79,
+  "withdrawn_count": 0,
+  "videos": {
+    "-LO_XRsVwkw": {
+      "video_id": "-LO_XRsVwkw",
+      "title": "NanoCellect® | N1 Single Cell Dispenser",
+      "description": "From antibody discovery to monoclonal CHO cell line development and single-cell genomics, precise single-cell dispensing is critical. The N1 Single-Cell Dispenser supports deposition into 96- or 384-well plates, dispensing 1 to 100 cells per well or two-way bulk sorting, with built-in integration to WOLF® software.",
+      "duration_sec": 67,
+      "published_at": "2026-08-03",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "NanoCellect®",
+        "Product Demonstrations (Virtual & In-Person)",
+        "English (US)",
+        "Bioprocessing"
+      ],
+      "content_hash": "933bd4ef39c2f0f0",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "017RzGWkUnE": {
+      "video_id": "017RzGWkUnE",
+      "title": "FLEX2 製品紹介ビデオ(日本語版)",
+      "description": "バイオプロファイルFLEX2はノバ・バイオメディカルが開発した画期的なMicroSensor™カード技術と光学測定、凝固点浸透圧法を組み合わせた全く新しい細胞培養環境自動分析装置です。電極に関わるメンテナンスは不要で、測定時間の短縮とサンプル量の大幅な削減を実現しました。",
+      "duration_sec": 330,
+      "published_at": "2020-06-22",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "BioProfile®",
+        "Japanese | 日本語",
+        "Bioprocessing"
+      ],
+      "content_hash": "49d4c932f6198327",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "02AhXkxScoI": {
+      "video_id": "02AhXkxScoI",
+      "title": "血液ガスでわかる！マグネシウムを理解 (1)：マグネシウムの生体内での役割",
+      "description": "血液ガスでわかる！マグネシウムを理解 シリーズ(1)",
+      "duration_sec": 668,
+      "published_at": "2020-10-15",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Outpatient Care",
+        "Japanese | 日本語",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "4250bef84fe652e6",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "0S2eg0srHRA": {
+      "video_id": "0S2eg0srHRA",
+      "title": "Overcoming confounding issues in point of care POC glucose measurement",
+      "description": "In her 2007 article, Glucose Measurement: Confounding Issues in Setting Targets for Inpatient Management, Dr. Kathleen Dungan identified the challenges hospitals faced using point-of-care (POC) glucose meters for tight glycemic management of hospitalized patients. Dr. Dungan will revisit key topics including the lack of standard glucose level targets for critically ill patients, conditions and interfering substances that may cause inaccurate glucose results, and measurement differences among specimen types (venous, arterial, and capillary). She will also discuss the impact of technology improvements in glucose meters.",
+      "duration_sec": 4140,
+      "published_at": "2022-01-24",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Outpatient Care",
+        "English (US)",
+        "Hospital",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "d663f41ab042f535",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "0SHUkBhPxVY": {
+      "video_id": "0SHUkBhPxVY",
+      "title": "Glucose meter use in the critically ill Why improved meter accuracy may lead to better ICU outcomes",
+      "description": "Point-of-care (POC) glucose meters are used every day in hospitals around the world—but are they safe for all patients?  Most hospital glucose meters are not characterized or FDA-cleared for use with critically ill patients. There continue to be concerns about errors and interferences in whole blood glucose in the critically ill.  In this webinar Dr. Karon will review evidence and data about glucose meter accuracy in the ICU; and explain how improved glucose meter accuracy may improve the efficacy of glycemic control and eventually improve critical care outcomes.",
+      "duration_sec": 3965,
+      "published_at": "2022-02-07",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "StatStrip®",
+        "English (US)",
+        "Hospital",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "41c297cb4c9222a1",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "2D1GF_kiQGc": {
+      "video_id": "2D1GF_kiQGc",
+      "title": "Data rich cell line screening: Leveraging BioProfile® FLEX2 and ambr® 15 cell culture integration",
+      "description": "This presentation is available for free, in its entirety, by registering via this link:",
+      "duration_sec": 251,
+      "published_at": "2021-02-17",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "BioProfile®",
+        "English (US)",
+        "Bioprocessing",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "6e76def6aeaa6636",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "2wSbm6EgjT4": {
+      "video_id": "2wSbm6EgjT4",
+      "title": "Prime Plus Unique Tests",
+      "description": "The Stat Profile Prime Plus critical care blood gas analyzer features a comprehensive test menu, including ionized magnesium, BUN, creatinine (with eGFR) and estimated plasma volume. Learn more https://www.novabiomedical.com/prime-plus/",
+      "duration_sec": 31,
+      "published_at": "2023-02-03",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Stat Profile®",
+        "English (US)",
+        "Hospital"
+      ],
+      "content_hash": "a966b78378b73600",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "2xh0JWOaP5g": {
+      "video_id": "2xh0JWOaP5g",
+      "title": "Arterial Blood Gases: Obtaining a Sample and Avoiding Pre-Analytical Errors in Companion Animals",
+      "description": "Presenter: Jake Wolf, DVM",
+      "duration_sec": 2606,
+      "published_at": "2022-08-22",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Stat Profile®",
+        "English (US)",
+        "Veterinary",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "21ab4b554ba4b473",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "5yrxgd6tm-o": {
+      "video_id": "5yrxgd6tm-o",
+      "title": "Stat Profile Prime Plus- Critical Care Blood Gas Analyzer",
+      "description": "Stat Profile Prime Plus is critical care blood gas analyzer with a comprehensive 20-test menu. This whole blood analyzer includes: blood gases, electrolytes, metabolites, hematology, and non-lysing CO-Oximetry.",
+      "duration_sec": 173,
+      "published_at": "2020-04-07",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Stat Profile®",
+        "English (US)",
+        "Hospital"
+      ],
+      "content_hash": "672c429c9aa3d639",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "7Gz36idk5Dc": {
+      "video_id": "7Gz36idk5Dc",
+      "title": "Nova Biomedical - Sistema Allegro – Farmacia",
+      "description": "",
+      "duration_sec": 46,
+      "published_at": "2022-08-26",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Allegro®",
+        "StatStrip®",
+        "Outpatient Care"
+      ],
+      "content_hash": "6803b141316fa0f5",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "7bXrC6f9J3s": {
+      "video_id": "7bXrC6f9J3s",
+      "title": "Interview sur l'Importance du Dépistage des Maladies Rénales",
+      "description": "Dans cette discussion captivante, le Professeur Jean-Paul Cristol du CHU de Montpellier et le docteur Estelle Ricard-Sutra de la Fondation Charles Mion-AIDER Santé vous guident à travers l'importance stratégique du dépistage précoce des maladies rénales.",
+      "duration_sec": 472,
+      "published_at": "2024-04-15",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Outpatient Care",
+        "French (France) | Français",
+        "Hospital",
+        "Educational In-Person Seminars"
+      ],
+      "content_hash": "67f1fef84516abf8",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "7vUmiNFHjG0": {
+      "video_id": "7vUmiNFHjG0",
+      "title": "ArtelWare™: PCS® - Managing Pipette Calibration Schedules",
+      "description": "Learn how to set up automated calibration and verification schedules for your pipettes within ArtelWare. This video covers configuring schedule intervals, setting up email notification triggers when calibrations are coming due or overdue, and managing the schedule dashboard. Automated scheduling ensures no pipette falls through the cracks and helps labs maintain continuous compliance.",
+      "duration_sec": 415,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Hospital"
+      ],
+      "content_hash": "8d93a7984f7a67cd",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "91NrXvLndKc": {
+      "video_id": "91NrXvLndKc",
+      "title": "Allegro - A Fast, Simple Capillary Blood Analyzer",
+      "description": "A compact, point-of-care (POC) analyzer that features individually selectable, clinically important menu tests from a capillary finger stick or urine sample.",
+      "duration_sec": 92,
+      "published_at": "2020-05-21",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Allegro®",
+        "Outpatient Care",
+        "English (US)"
+      ],
+      "content_hash": "a86d5ddfd29d9539",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "9QayDsxdw9w": {
+      "video_id": "9QayDsxdw9w",
+      "title": "Allegro Producto 03  Procedimiento 09 21",
+      "description": "",
+      "duration_sec": 573,
+      "published_at": "2022-08-30",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Allegro®",
+        "StatStrip®",
+        "Spanish (Spain) | Español"
+      ],
+      "content_hash": "314d616f615a18d7",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "9ytXMQhmVjI": {
+      "video_id": "9ytXMQhmVjI",
+      "title": "Red, Hot, and Inflamed Part II: Treatment and Monitoring of SIRS and Sepsis in Small Animals",
+      "description": "Presenters:",
+      "duration_sec": 4888,
+      "published_at": "2022-08-22",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "StatSensor®",
+        "English (US)",
+        "Veterinary",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "d9c86c562486f9a6",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "B6dnZQ8pH70": {
+      "video_id": "B6dnZQ8pH70",
+      "title": "ArtelWare™: Artel MVS® - Customizing Liquid Handler Workflows",
+      "description": "Learn how to customize automated liquid handler (ALH) workflows within ArtelWare™. This video walks through setting up device-specific parameters, configuring verification sequences, and tailoring workflows to match your lab's specific protocols and liquid handling platforms. Whether you are running Hamilton, Tecan, Beckman, or any other supported handler, this video shows you how to configure the MVS to work the way your lab works.",
+      "duration_sec": 287,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "e75febdbd1fe86d7",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "BUfsTDaVlLM": {
+      "video_id": "BUfsTDaVlLM",
+      "title": "ArtelWare™:  MVS® - Creating a Summed Volume Verification",
+      "description": "Walk through how to create a summed volume verification plan using the Artel MVS.",
+      "duration_sec": 286,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "88f09b7da86b85b2",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "BjyBm4RxGvE": {
+      "video_id": "BjyBm4RxGvE",
+      "title": "FLEX2とambr15のインテグレーション紹介(日本語ナレーション)",
+      "description": "バイオプロファイルFLEX2はノバ・バイオメディカルが開発した画期的なMicroSensor™カード技術と光学測定、凝固点浸透圧法を組み合わせた全く新しい細胞培養環境自動分析装置です。少ないサンプル量で最大16項目(Gluc, Lac, Gln, Glu, NH4+, Na+, K+, Ca++, pH, PCO2, PO2, 合計細胞密度、生存細胞密度、生存率、細胞直径、浸透圧)を測定可能です。",
+      "duration_sec": 389,
+      "published_at": "2020-06-22",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "BioProfile®",
+        "Japanese | 日本語",
+        "Bioprocessing"
+      ],
+      "content_hash": "96345f2699060e23",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "D5yNYs5Lz1I": {
+      "video_id": "D5yNYs5Lz1I",
+      "title": "Stat Profile Prime Plus, Estimated Plasma Volume",
+      "description": "Prime Plus critical care analyzers have the ability to report estimated plasma volume (ePV), a very important test for critically ill patients. The plasma volume status of a patient is one of the top priorities in evaluating and treating many different conditions including shock, sepsis, congestive heart failure (CHF), acute or chronic kidney disease, chronic pulmonary disease, as well as general postoperative care. For more information about Prime Plus please visit https://www.novabiomedical.com/prime-plus/index.php.",
+      "duration_sec": 49,
+      "published_at": "2023-03-13",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Stat Profile®",
+        "English (US)",
+        "Hospital"
+      ],
+      "content_hash": "2cee538b7fd95314",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "DDOpAkbeJw8": {
+      "video_id": "DDOpAkbeJw8",
+      "title": "The Importance of Proper Electrolyte Management in CRRT | AKI & CRRT 2022",
+      "description": "In this seminar, Dr. Thiago Reis, Clinica de Doencas Renais de Brasilia, discusses the importance of proper electrolyte management in continuous renal replacement therapy. He reviews the efficacy and safety of regional citrate anticoagulation, the role of ionized calcium and reviews the importance of measuring ionized magnesium instead of total magnesium.",
+      "duration_sec": 832,
+      "published_at": "2022-08-19",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Stat Profile®",
+        "English (US)",
+        "Hospital",
+        "Educational In-Person Seminars"
+      ],
+      "content_hash": "ba302c80863395cb",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "DHvJGrR3K2g": {
+      "video_id": "DHvJGrR3K2g",
+      "title": "Follow up of AKI: What's the Best Strategy | AKI & CRRT 2022",
+      "description": "The Nova Biomedical Symposium at AKI & CCRT 2022",
+      "duration_sec": 799,
+      "published_at": "2022-08-19",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Nova Max Pro™",
+        "Outpatient Care",
+        "English (US)",
+        "Educational In-Person Seminars"
+      ],
+      "content_hash": "a489634b7b580ad2",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "ENhl1XIlsQg": {
+      "video_id": "ENhl1XIlsQg",
+      "title": "血液ガスでわかる！マグネシウムを理解(3) ：イオン化マグネシウムと総マグネシウムの違い",
+      "description": "血液ガスでわかる！マグネシウムを理解 シリーズ(3)",
+      "duration_sec": 529,
+      "published_at": "2020-10-15",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Outpatient Care",
+        "Japanese | 日本語",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "9156c82ffbf589c7",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "F5bbQRa_y2c": {
+      "video_id": "F5bbQRa_y2c",
+      "title": "Retour en image sur la semaine Nationale du Rein 2024",
+      "description": "Grâce à notre technologie innovante, le StatSensor offre la possibilité d'obtenir des résultats de créatinine et d'eGFR en seulement 30 secondes à partir d'un simple prélèvement sanguin au bout du doigt. Cette avancée a joué un rôle essentiel dans plusieurs initiatives de dépistage à travers la France, dont la campagne menée avec succès à la Clinique Saint Jean Sud de France.",
+      "duration_sec": 294,
+      "published_at": "2024-04-15",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "StatSensor®",
+        "French (France) | Français",
+        "Hospital",
+        "Educational In-Person Seminars"
+      ],
+      "content_hash": "f7713027318e4e16",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "FYGLc_q_WMs": {
+      "video_id": "FYGLc_q_WMs",
+      "title": "Surviving Sepsis in Veterinary Medicine Chapter 1: Development of Organ Failure",
+      "description": "Presenter:",
+      "duration_sec": 3487,
+      "published_at": "2022-08-22",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "English (US)",
+        "Veterinary",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "8bc7a48a20a599a2",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "FmUl4L6Iqjk": {
+      "video_id": "FmUl4L6Iqjk",
+      "title": "Nova Biomedical at EuroMedLab 2021",
+      "description": "Watch the in-booth interview from EuroMedLab as Anne Deutsch, Ph.D., M.Sc. shows the Stat Strip GLU/KET hospital meter and discusses how it can detect and correct for interferences.",
+      "duration_sec": 701,
+      "published_at": "2022-05-26",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Stat Profile®",
+        "StatSensor®",
+        "StatStrip®",
+        "Outpatient Care",
+        "Hospital",
+        "Educational In-Person Seminars"
+      ],
+      "content_hash": "c25b3513e5f616ea",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "G-SgbL_hX_Q": {
+      "video_id": "G-SgbL_hX_Q",
+      "title": "Cardiopulmonary Resuscitation and Blood Gas Sampling",
+      "description": "Presenter: Jake Wolf, DVM",
+      "duration_sec": 3653,
+      "published_at": "2022-08-22",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Stat Profile®",
+        "English (US)",
+        "Veterinary",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "9cb4b55be5999d44",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "GhxtuzaIJxA": {
+      "video_id": "GhxtuzaIJxA",
+      "title": "Estimated Plasma Volume in CRRT | AKI & CRRT 2022",
+      "description": "The Nova Biomedical Symposium at AKI & CCRT 2022",
+      "duration_sec": 1039,
+      "published_at": "2022-08-19",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Stat Profile®",
+        "StatStrip®",
+        "English (US)",
+        "Hospital",
+        "Educational In-Person Seminars"
+      ],
+      "content_hash": "6d55cb2d9b528b35",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "GwOW7lP6xwE": {
+      "video_id": "GwOW7lP6xwE",
+      "title": "Demystifying Labs Standards",
+      "description": "Reliable liquid handling starts with trusted standards. This video explores the ISO regulations behind manual and automated liquid handling systems and shows how Artel calibration and verification technologies help laboratories maintain data integrity, accuracy, and compliance.",
+      "duration_sec": 247,
+      "published_at": "2026-07-20",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "Bioprocessing",
+        "Hospital"
+      ],
+      "content_hash": "64da21a07ae36e51",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "HCbwCH8verM": {
+      "video_id": "HCbwCH8verM",
+      "title": "ArtelWare™: Managing Pipettes Devices",
+      "description": "Learn how to add, edit, and manage your multichannel pipette inventory in ArtelWare. This video covers entering pipette details (manufacturer, model, serial number, channel count), tracking calibration status, assigning pipettes to users or locations, and viewing calibration history. Centralizing your pipette inventory in ArtelWare makes it easy to stay on top of calibration schedules and maintain audit-ready documentation.",
+      "duration_sec": 724,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "ca4dced30a20cc02",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "HOXyRpkPCJo": {
+      "video_id": "HOXyRpkPCJo",
+      "title": "Red, hot, and inflamed Part I: Recognizing and diagnosing SIRS and sepsis in small animals",
+      "description": "Presenters:",
+      "duration_sec": 3547,
+      "published_at": "2022-08-22",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Nova Vet™",
+        "English (US)",
+        "Veterinary",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "f515bb3b644f2a3b",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "IE6xMWFwIbU": {
+      "video_id": "IE6xMWFwIbU",
+      "title": "Allegro Producto 02  Presentación del producto 09 21",
+      "description": "",
+      "duration_sec": 896,
+      "published_at": "2022-08-30",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Allegro®",
+        "StatStrip®",
+        "Spanish (Spain) | Español"
+      ],
+      "content_hash": "e3fd2c37264e64ea",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "IJN7V03TdFI": {
+      "video_id": "IJN7V03TdFI",
+      "title": "Data rich cell line screening Leveraging BioProfile FLEX2 and ambr15 cell culture integration",
+      "description": "See more Nova BioProfile videos at this link:",
+      "duration_sec": 2315,
+      "published_at": "2024-02-20",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "BioProfile®",
+        "English (US)",
+        "Bioprocessing",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "ca47e2388d3bcce8",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "IyVEoWZQ_X4": {
+      "video_id": "IyVEoWZQ_X4",
+      "title": "Preventing Pre analytical Errors in Critical Care Testing",
+      "description": "Pre-analytical errors represent 88% of defects in laboratory testing and many of these errors stem from incorrect specimen collection. This webinar will address issues such as collection techniques, contamination with IV fluids, hemolysis, transport problems (including delays and pneumatic transport),  and handling effects of anticoagulants, improper mixing, and collection of blood with capillary tubes.  To illustrate some of these points, several case examples will be presented.",
+      "duration_sec": 3634,
+      "published_at": "2022-02-14",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Stat Profile®",
+        "English (US)",
+        "Hospital",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "0f2d52487a8d680e",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "JO6bCDS4sZ8": {
+      "video_id": "JO6bCDS4sZ8",
+      "title": "Allegro Producto 01  Introducción 09 21",
+      "description": "",
+      "duration_sec": 358,
+      "published_at": "2022-08-30",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Allegro®",
+        "StatStrip®",
+        "Spanish (Spain) | Español"
+      ],
+      "content_hash": "00a8192cc7160bd3",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "L571VMrNmJs": {
+      "video_id": "L571VMrNmJs",
+      "title": "ArtelWare™: Managing Locations",
+      "description": "Walk through setting up and managing lab locations within ArtelWare. Locations are how instruments, pipettes, verification plans, and results data get organized across your lab or across multiple sites. This video shows how to create, edit, and structure locations so your data stays organized and traceable, especially for multi-site or multi-building operations.",
+      "duration_sec": 335,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "bdefd4b1291d16bc",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "MStyReu0Cak": {
+      "video_id": "MStyReu0Cak",
+      "title": "ArtelWare™: Importing a Plate Layout from Data Manager",
+      "description": "For labs transitioning from the legacy MVS Data Manager software to ArtelWare, this video shows how to export your existing plate layout configurations from Data Manager and import them into ArtelWare. This ensures continuity of your verification setup without having to manually recreate plate layouts, saving time and reducing the risk of configuration errors during the software transition.",
+      "duration_sec": 356,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "6b22c6b760fef07c",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "O7rxlygSC44": {
+      "video_id": "O7rxlygSC44",
+      "title": "Sistema Allegro – Procedura",
+      "description": "",
+      "duration_sec": 571,
+      "published_at": "2022-08-26",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Allegro®",
+        "StatStrip®",
+        "Outpatient Care"
+      ],
+      "content_hash": "b2960be72b5115c8",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "OcPDxwr39bg": {
+      "video_id": "OcPDxwr39bg",
+      "title": "BioProfile Flex 2 with ambr® 15 integration",
+      "description": "BioProfile Flex 2 is a comprehensive automated cell culture analyzer that eliminates chemistry sensor maintenance, increases analyzer speed, and reduces sample volume. The full 16 cell culture test menu includes: Glucose, Lactate, Glutamine, Glutamate, NH4+, Na+, K+, Ca++, pH, PCO2, PO2, total cell density, viable cell density, viability, cell diameter, and osmolality.",
+      "duration_sec": 358,
+      "published_at": "2020-04-07",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "BioProfile®",
+        "English (US)",
+        "Bioprocessing"
+      ],
+      "content_hash": "f5aa3d8b47e632ed",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "Q03Jy7MItGM": {
+      "video_id": "Q03Jy7MItGM",
+      "title": "Chronic Kidney Disease Screening or Chronic Kidney Disease Screening and Monitoring",
+      "description": "Learn how creatinine point-of-care testing may be used to detect and monitor chronic kidney disease.",
+      "duration_sec": 1740,
+      "published_at": "2021-06-24",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Nova Max Pro™",
+        "Outpatient Care",
+        "English (US)",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "b6f716aaeedcd037",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "S1Xlvaou8SQ": {
+      "video_id": "S1Xlvaou8SQ",
+      "title": "Bioprocess Automation for PAT with BioProfile FLEX2 plus Seg-Flow",
+      "description": "This presentation is available for free, in its entirety, by registering via this link:",
+      "duration_sec": 158,
+      "published_at": "2021-02-17",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "BioProfile®",
+        "English (US)",
+        "Bioprocessing",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "5e4668d95b520068",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "S81XpvjjW0M": {
+      "video_id": "S81XpvjjW0M",
+      "title": "ArtelWare™: MVS® - Managing Verification Plans",
+      "description": "Walk through how to create and manage calibration plans for multichannel pipettes in ArtelWare™. This video covers setting calibration schedules, defining target volumes and tolerance limits, configuring the number of replicates, and assigning plans to specific pipettes. Well-structured calibration plans ensure consistent pipette performance monitoring and simplify compliance documentation.",
+      "duration_sec": 649,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "17f6a57fbf3733e4",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "SPnP7IT29Ac": {
+      "video_id": "SPnP7IT29Ac",
+      "title": "StatStrip GLU Hospital Meter",
+      "description": "The only glucose meters cleared by US FDA and Health Canada for use with all patients, including critically ill. For more information please visit https://www.novabiomedical.com/statstrip-glu/index.php.",
+      "duration_sec": 33,
+      "published_at": "2023-03-13",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "StatStrip®",
+        "English (US)",
+        "Hospital"
+      ],
+      "content_hash": "410fb7738c129749",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "StXLA74MOS0": {
+      "video_id": "StXLA74MOS0",
+      "title": "Early Diagnosis and Screening for AKI/CKD | AKI & CRRT 2022",
+      "description": "The Nova Biomedical Symposium at AKI & CCRT 2022",
+      "duration_sec": 501,
+      "published_at": "2022-08-19",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "StatSensor®",
+        "English (US)",
+        "Hospital",
+        "Educational In-Person Seminars"
+      ],
+      "content_hash": "1fa0204bfcb2ab67",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "T_ztgQp97Do": {
+      "video_id": "T_ztgQp97Do",
+      "title": "ArtelWare™: MVS® - Performing a Summed Volume Verification",
+      "description": "Learn how to perform a summed volume verification using the MVS. Unlike standard single-dispense verifications, a summed volume verification measures the total combined volume from multiple sequential dispense steps into the same well. This is particularly useful for workflows where a liquid handler performs multiple transfers to build up a final volume, and you need to verify the cumulative accuracy of the entire sequence.",
+      "duration_sec": 335,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "56c97e981a8e0a89",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "TehnjesWxu0": {
+      "video_id": "TehnjesWxu0",
+      "title": "Bedside glucose testing in critically ill patients The importance of improved accuracy",
+      "description": "Healthcare providers rely heavily on glucose meters for patient monitoring and administering proper medication levels, including insulin, and these meters play a significant role in detecting and preventing hypoglycemia. This webinar will review, recent literature and published case reports demonstrating that not all glucose meters are up to the task, especially when used with critically ill patients.",
+      "duration_sec": 3888,
+      "published_at": "2022-01-31",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "StatStrip®",
+        "English (US)",
+        "Hospital",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "51d439ba3f16ecea",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "UBCdmkAzVyA": {
+      "video_id": "UBCdmkAzVyA",
+      "title": "Stat Profile Prime Plus Critical Care Blood Gas",
+      "description": "Stat Profile Prime Plus is a comprehensive, whole blood critical care analyzer that combines blood gases, electrolytes, metabolites, CO-Oximetry, and 34 calculated results in a simple, compact analyzer.",
+      "duration_sec": 31,
+      "published_at": "2023-03-21",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Stat Profile®",
+        "English (US)",
+        "Hospital"
+      ],
+      "content_hash": "2cc3e6ec7045933f",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "VuF-WoXVB3Q": {
+      "video_id": "VuF-WoXVB3Q",
+      "title": "ArtelWare™: MVS® - Running the MVS Calibrator Plate and Baseline Plate",
+      "description": "Step-by-step demonstration of how to run both the Calibrator Plate and Baseline Plate through the plate reader. This video covers proper plate placement, checking for bubbles or contaminants, initiating the read sequence, and interpreting the calibration results. Running these plates establishes the measurement baseline that all subsequent verifications are compared against.",
+      "duration_sec": 238,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "8f5968093608510c",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "WKqTySZy5GA": {
+      "video_id": "WKqTySZy5GA",
+      "title": "NanoCellect® WOLF G2® Cell Sorter",
+      "description": "The WOLF G2® Gentle Cell Sorter combines two-laser, nine-color detection with gentle microfluidic sorting to support bulk sorting and single-cell dispensing. Paired with the N1 Single-Cell Dispenser, it enables precise sorting into 96- and 384-well plates for applications including single-cell genomics, gene editing, antibody discovery, stem cell research, immunology, infectious disease, plant biology, and cell line development.",
+      "duration_sec": 111,
+      "published_at": "2026-08-03",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "NanoCellect®",
+        "Product Demonstrations (Virtual & In-Person)",
+        "English (US)",
+        "Bioprocessing"
+      ],
+      "content_hash": "c82c5d7ed5d3dccf",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "We2n0NnOE1U": {
+      "video_id": "We2n0NnOE1U",
+      "title": "血液ガスでわかる！マグネシウムを理解(2) ：カルシウムとマグネシウムの関係",
+      "description": "血液ガスでわかる！マグネシウムを理解 シリーズ(2)",
+      "duration_sec": 554,
+      "published_at": "2020-10-15",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Outpatient Care",
+        "Japanese | 日本語",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "a2802a9cbf096a17",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "YP6-qB-EqiU": {
+      "video_id": "YP6-qB-EqiU",
+      "title": "ArtelWare™: MVS® - Managing Pipette Calibration Plans",
+      "description": "Walk through how to create and manage calibration plans for multichannel pipettes in ArtelWare™. This video covers setting calibration schedules, defining target volumes and tolerance limits, configuring the number of replicates, and assigning plans to specific pipettes. Well-structured calibration plans ensure consistent pipette performance monitoring and simplify compliance documentation.",
+      "duration_sec": 511,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "e508e281559da529",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "ZbLIEup7bz8": {
+      "video_id": "ZbLIEup7bz8",
+      "title": "Flex2 Online-Autosampler",
+      "description": "The BioProfile FLEX2 On-Line Autosampler (OLS) is a modular system that connects as many as 10 bioreactors to a FLEX2 analyzer for automated sampling and analysis of key cell culture analytes including pH, gases, metabolites, osmometry, cell density, and cell viability. The OLS’ small sample volume and fast analysis time provide automated sampling and analysis of 10 bioreactors in less than 1.5 hours. Setup time for a full, 10-bioreactor system requires less than 20 minutes. With proven data comparability to manual sampling methods, the FLEX2 OLS can be connected to OPC-compliant control systems for automated sampling, analysis, and feedback control.",
+      "duration_sec": 406,
+      "published_at": "2020-10-15",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "BioProfile®",
+        "Japanese | 日本語",
+        "Bioprocessing"
+      ],
+      "content_hash": "9e4bca7a4a94276c",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "_gtVKITAoKU": {
+      "video_id": "_gtVKITAoKU",
+      "title": "ArtelWare™: Activating an MVS® Calibrator Plate",
+      "description": "A quick walkthrough showing how to activate a new Calibrator Plate in ArtelWare™. The Calibrator Plate is essential for ensuring your plate reader is producing accurate absorbance measurements. This video covers scanning the barcode, confirming lot information, and preparing the plate for use in the reader calibration process.",
+      "duration_sec": 74,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "a87d81dd3708b408",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "aX67hUHF1xs": {
+      "video_id": "aX67hUHF1xs",
+      "title": "ArtelWare™: Adding an MVS® Instrument",
+      "description": "Learn how to register and add a new MVS instrument into ArtelWare™. This video covers entering the instrument serial number, associating it with a lab location, configuring the plate reader connection, and confirming the instrument is ready for use. This is a required step before running any verifications or calibrations.",
+      "duration_sec": 284,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "d9504a0a58a9f39d",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "ae1rtnjn2jA": {
+      "video_id": "ae1rtnjn2jA",
+      "title": "ArtelWare™: Label & Report Customization",
+      "description": "Walk through how to customize verification reports and labels within ArtelWare. This video covers adding your organization's logo, adjusting report layouts, selecting which data fields appear on printed reports, and configuring label output for the Brother label printer. Customized reports and labels help streamline documentation for audits, internal quality reviews, and regulatory compliance.",
+      "duration_sec": 208,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "afa3a703b107cf51",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "bUrRS9xBOXM": {
+      "video_id": "bUrRS9xBOXM",
+      "title": "ArtelWare™: MVS® - Performing an Automated Liquid Handler Verification",
+      "description": "Watch a full ALH verification from start to finish. This video walks through every step: selecting the verification plan, scanning consumable barcodes, preparing and loading the verification plate, dispensing the Artel solutions on the liquid handler, reading the plate on the MVS, and reviewing the results. This is the core workflow that users will perform on a regular basis to monitor liquid handler performance.",
+      "duration_sec": 312,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "a8fcabbfcdebcdef",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "bpJcMudyMlQ": {
+      "video_id": "bpJcMudyMlQ",
+      "title": "ArtelWare™: Managing Users",
+      "description": "Learn how to manage user accounts in ArtelWare. This video covers creating new user profiles, assigning roles and permissions, editing existing accounts, and managing access levels. Proper user management is essential for maintaining 21 CFR Part 11 compliance and ensuring that only authorized personnel can perform verifications, approve results, or modify system settings.",
+      "duration_sec": 668,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "9faef54abd05a373",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "cCSfjwFEqLQ": {
+      "video_id": "cCSfjwFEqLQ",
+      "title": "Allegro",
+      "description": "Allegro is a compact, point-of-care (POC) analyzer that features a clinically important menu of 10 measured and individually selectable tests, plus 7 calculated tests. All tests are measured with disposable, ready-to-use cartridges or test strips, and are easily performed by non-technical personnel.",
+      "duration_sec": 32,
+      "published_at": "2023-03-13",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Allegro®",
+        "Outpatient Care",
+        "English (US)"
+      ],
+      "content_hash": "8b93a42e28a304f5",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "cr3Yvowd1uE": {
+      "video_id": "cr3Yvowd1uE",
+      "title": "Advancements in Automated Analysis of Micro-bioreactor Cell Culture Parameters",
+      "description": "This presentation is available for free, in its entirety, by registering via this link:",
+      "duration_sec": 167,
+      "published_at": "2021-02-17",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "BioProfile®",
+        "English (US)",
+        "Bioprocessing",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "ee75692b342aa527",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "duIG7vtwv3c": {
+      "video_id": "duIG7vtwv3c",
+      "title": "A Conversation with Ravi Mehta, Professor of Medicine",
+      "description": "Dennis Begos, Associate Medical Director, Medical and Scientific Affairs sits down with Ravi Mehta, Professor of Medicine at University of California-San Diego. Prof. Mehta discusses his work in the International Society of Nephrology's 0by25 initiative, which calls for global strategies to diagnose and treat AKI in patients with potentially reversible diseases.",
+      "duration_sec": 1711,
+      "published_at": "2021-03-12",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Stat Profile®",
+        "StatSensor®",
+        "Nova Max Pro™",
+        "Outpatient Care",
+        "English (US)",
+        "Hospital",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "e88a32bfe6aeb42c",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "eIhJAJcmFd8": {
+      "video_id": "eIhJAJcmFd8",
+      "title": "StatStrip Glucose/Ketone Meter",
+      "description": "No meter preparation or calibration coding steps are required. Insert a ketone strip and StatStrip Glucose/Ketone meter automatically recognizes the strip and converts the meter to ketone measuring mode. For more information please visit https://www.novabiomedical.com/statstrip-ketone/index.php.",
+      "duration_sec": 43,
+      "published_at": "2023-03-13",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "StatStrip®",
+        "English (US)",
+        "Hospital"
+      ],
+      "content_hash": "840cfec9db0ab8b4",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "efiQsPsjgAQ": {
+      "video_id": "efiQsPsjgAQ",
+      "title": "「その場で30秒で血中クレアチニンを測定　POCT　迅速クレアチニン測定　スタットセンサーエクスプレスi操作説明動画」",
+      "description": "「迅速血中クレアチニン分析装置　スタットセンサーエクスプレスiの検体測定及びQC測定のための操作説明動画です。正しい操作でスタットセンサーエクスプレスiをご活用いただき、簡便かつ迅速に血中クレアチニン濃度を測定し、造影前の腎機能スクリーニングや効率的な運用にお役立てください。」",
+      "duration_sec": 118,
+      "published_at": "2025-02-11",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "StatSensor®",
+        "Outpatient Care",
+        "Japanese | 日本語",
+        "Hospital"
+      ],
+      "content_hash": "b444c4bd932bab87",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "emzFd-z6iQI": {
+      "video_id": "emzFd-z6iQI",
+      "title": "ArtelWare™: MVS® - Adding a Library Plate Model",
+      "description": "Walk through how to add a custom library plate layout to the MVS catalog in ArtelWare™. Once a plate layout is saved to the catalog, it can be reused across future verifications without re-entering the configuration each time. This video covers defining the plate layout, naming and saving it, and selecting it from the catalog when setting up new verification plans.",
+      "duration_sec": 222,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "3a917e93072152b4",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "gg5vNTJmbV8": {
+      "video_id": "gg5vNTJmbV8",
+      "title": "Allegro Blood Chemistry Analzyer",
+      "description": "A Fast, Simple, Capillary Blood Analyzer",
+      "duration_sec": 66,
+      "published_at": "2023-03-21",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Allegro®",
+        "StatStrip®",
+        "Outpatient Care",
+        "English (US)",
+        "Hospital"
+      ],
+      "content_hash": "0d826f45c4d3fddb",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "gogFM-9s_rU": {
+      "video_id": "gogFM-9s_rU",
+      "title": "Deep Diving into Clinical Utilization of Ionized Magnesium with Dr. Kato",
+      "description": "Magnesium activates more than 300 enzymes, it is indispensable for energy usage and is essential for life support. As with calcium, magnesium has 3 fractions and the physiologically active fraction of magnesium is the ionized form.",
+      "duration_sec": 1427,
+      "published_at": "2021-10-29",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Outpatient Care",
+        "English (US)",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "70f0f8906795cf68",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "hQpF3rZcbIk": {
+      "video_id": "hQpF3rZcbIk",
+      "title": "Role of ionized magnesium in the care of the ICU patient: implications for point",
+      "description": "This webinar reviews the pathophysiology and clinical consequence of hypomagnesemia in critically ill patients admitted to the intensive care unit (ICU). We will review the various methods of magnesium concentration determination, along with the recent published studies evaluating ionized magnesium monitoring in the ICU. We will determine clinical scenarios appropriate for ionized magnesium monitoring and evaluate its impact on hypomagnesemia sensitivity, specificity, and cost savings.",
+      "duration_sec": 121,
+      "published_at": "2022-01-10",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "English (US)",
+        "Hospital",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "9f65f7a46896c0ac",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "he6_CDmYuec": {
+      "video_id": "he6_CDmYuec",
+      "title": "BioProfile FLEX2: Cell Culture Analyzer",
+      "description": "BioProfile Flex 2 is a comprehensive automated cell culture analyzer that eliminates chemistry sensor maintenance, increases analyzer speed, and reduces sample volume.",
+      "duration_sec": 321,
+      "published_at": "2019-08-01",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "BioProfile®",
+        "English (US)",
+        "Bioprocessing"
+      ],
+      "content_hash": "15d38c83953320d1",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "iaeCzVMOi98": {
+      "video_id": "iaeCzVMOi98",
+      "title": "StatStrip LAC/Hb/Hct",
+      "description": "The StatStrip Lactate and Hemoglobin/Hematocrit Meter system (StatStrip LAC/Hb/Hct) is a handheld, easy-to-use meter system that measures LAC, Hb and Hct at the point-of-care using two disposable biosensors and tiny capillary blood samples for all tests. StatStrip’s lactate biosensor provides lab-like accuracy in just 13 seconds from 0.6 microliters of capillary blood. StatStrip’s Hb/Hct biosensor accurately measures - not calculates - both Hb and Hct in 40 seconds from a 1.6 microliter capillary sample.",
+      "duration_sec": 32,
+      "published_at": "2023-03-21",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "StatStrip®",
+        "English (US)",
+        "Hospital"
+      ],
+      "content_hash": "9314ffdeface63b8",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "jaRCHt7hsuY": {
+      "video_id": "jaRCHt7hsuY",
+      "title": "Ionized Magnesium Versus Total Magnesium Measurement.  Does it Matter?",
+      "description": "Traditionally, total magnesium (tMg) measured in the laboratory is used to identify patients with hypomagnesemia. However, various studies have shown the clinical significance of using iMg, the functional form of tMg, to correctly identify patients with hypomagnesemia.",
+      "duration_sec": 1341,
+      "published_at": "2022-01-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Outpatient Care",
+        "English (US)",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "30d1b9d492505a34",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "jzP4MnQkn7k": {
+      "video_id": "jzP4MnQkn7k",
+      "title": "ArtelWare™: MVS® - Managing Automated Liquid Handler Devices",
+      "description": "Learn how to add a new automated liquid handler to the MVS system within ArtelWare™. This video covers entering device details (manufacturer, model, serial number), assigning the handler to a lab location, and linking it to verification plans. Every liquid handler in your lab needs to be registered in ArtelWare before it can be verified.",
+      "duration_sec": 277,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "67ea7791ab8e4217",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "nRr999Llito": {
+      "video_id": "nRr999Llito",
+      "title": "血液ガスでわかる！マグネシウムを理解(5)：イオン化マグネシウムを追加することの患者にとっての意義",
+      "description": "血液ガスでわかる！マグネシウムを理解 シリーズ(5)",
+      "duration_sec": 1294,
+      "published_at": "2020-10-15",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Outpatient Care",
+        "Japanese | 日本語",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "eb6f7592c9abf72c",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "p3Lt0s-kOCM": {
+      "video_id": "p3Lt0s-kOCM",
+      "title": "StatSensor Creatinine and eGFR Meters",
+      "description": "The StatSensor Creatinine Hospital Meter System is a handheld analyzer and miniaturized, single-use biosensor for whole blood creatinine testing. StatSensor Creatinine incorporates patented Multi-Well™ technology. StatSensor Creatinine's advanced technology enables simple, rapid, and accurate assessment of renal function by fingerstick capillary blood sampling at the point of care.",
+      "duration_sec": 28,
+      "published_at": "2023-03-21",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "StatSensor®",
+        "English (US)",
+        "Hospital"
+      ],
+      "content_hash": "a3c387804cc8d50e",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "p702N9zxvk4": {
+      "video_id": "p702N9zxvk4",
+      "title": "Monitor Kidney Function, In or Outside the Hospital",
+      "description": "Nova Biomedical offers point-of-care devices that can be used to monitor kidney function with a capillary fingerstick sample.",
+      "duration_sec": 113,
+      "published_at": "2023-03-23",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Allegro®",
+        "StatSensor®",
+        "StatStrip®",
+        "Outpatient Care",
+        "English (US)",
+        "Hospital"
+      ],
+      "content_hash": "90985adf0a4634bc",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "qo62QQklJNU": {
+      "video_id": "qo62QQklJNU",
+      "title": "Clinical Impact of Blood Glucose Monitoring Accuracy in Critical Care",
+      "description": "A clinician’s treatment of critically ill patients can be undermined by inaccurate point-of-care (POC) glucose meter results. Inaccurate results are most often caused by interferences related to endogenous and exogenous substances including abnormal hematocrit levels, medications, and non-glucose sugars. Inaccurate glucose results put patients at risk for improper insulin dosing and undetected hypoglycemic events and have caused adverse events and patient deaths.",
+      "duration_sec": 4678,
+      "published_at": "2022-01-17",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "StatStrip®",
+        "English (US)",
+        "Hospital",
+        "Educational In-Person Seminars"
+      ],
+      "content_hash": "4585b1d91f85e0f8",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "sJYfqUWMS8c": {
+      "video_id": "sJYfqUWMS8c",
+      "title": "ArtelWare™: Installing & Mapping a Brother Label Printer",
+      "description": "A step-by-step technical setup guide for installing the Brother label printer and mapping it to ArtelWare. This video covers driver installation, printer mapping within the software, and troubleshooting common setup issues so that labels for instruments, pipettes, and consumables print correctly every time.",
+      "duration_sec": 351,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "c8456ade4834def9",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "sKneuKv6KAU": {
+      "video_id": "sKneuKv6KAU",
+      "title": "Dia Mundial do Rim 2023: \"Cuidando dos Vulneráveis, Preparando-se para Desafios Inesperados.\"",
+      "description": "Em comemoração ao Dia Mundial do Rim a Nova Biomedical convida a todos para assistirem o nosso podcast, que debate o tema da campanha Cuidar dos Vulneráveis, Estar Preparado para os Desafios Inesperados.",
+      "duration_sec": 5911,
+      "published_at": "2023-03-08",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Outpatient Care",
+        "Portuguese (Portugal) | Português",
+        "Hospital",
+        "Educational In-Person Seminars"
+      ],
+      "content_hash": "fdc812273740858c",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "vupitVadyms": {
+      "video_id": "vupitVadyms",
+      "title": "血液ガスでわかる！マグネシウムを理解(4)：マグネシウムの血中濃度と臨床症状 -JP/iMg((約11分)",
+      "description": "血液ガスでわかる！マグネシウムを理解 シリーズ(4)",
+      "duration_sec": 621,
+      "published_at": "2020-10-15",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Outpatient Care",
+        "Japanese | 日本語",
+        "On-Demand Educational Webinars"
+      ],
+      "content_hash": "55a72adf2271b894",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "xZt8qvbOClg": {
+      "video_id": "xZt8qvbOClg",
+      "title": "Point-of-Care Glucose Testing in Critically Ill Patients",
+      "description": "Explore the role of accurate point-of-care (POC) glucose testing in proper glycemic management of hospitalized patients. See the full video at: http://www2.novabio.us/BedsideGlucoseTesting",
+      "duration_sec": 1516,
+      "published_at": "2019-02-13",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "StatSensor®",
+        "StatStrip®",
+        "Nova Pro™",
+        "English (US)",
+        "Hospital",
+        "Educational In-Person Seminars"
+      ],
+      "content_hash": "336775e364d50c3e",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "xjE7si4XIp8": {
+      "video_id": "xjE7si4XIp8",
+      "title": "ArtelWare™: MVS® - Performing a Multichannel Pipette Calibration",
+      "description": "A detailed, end-to-end tutorial on performing a multichannel pipette calibration using the MVS. This video covers solution preparation, selecting the calibration plan, dispensing into the verification plate, reading the plate on the MVS, and reviewing the calibration results including accuracy and precision metrics for each channel. At nearly 18 minutes, this is the most comprehensive video in the series and covers the full calibration workflow in detail.",
+      "duration_sec": 1069,
+      "published_at": "2026-06-05",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Artel®",
+        "English (US)",
+        "ArtelWare™ Training Program | Artel MVS® & Artel PCS®",
+        "Bioprocessing"
+      ],
+      "content_hash": "fc8680956b42b7ba",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    },
+    "zTKvas47J6I": {
+      "video_id": "zTKvas47J6I",
+      "title": "Nova Biomedical Italia - Sistema Allegro",
+      "description": "",
+      "duration_sec": 883,
+      "published_at": "2022-08-26",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Allegro®",
+        "StatStrip®"
+      ],
+      "content_hash": "a7fac4c9aac36679",
+      "first_seen": "2026-08-04",
+      "withdrawn": false,
+      "transcript_status": "pending",
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9
+    }
+  }
+}

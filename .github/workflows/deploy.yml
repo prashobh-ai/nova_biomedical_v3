@@ -1,0 +1,95 @@
+name: Build and Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install pipeline dependencies
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Build index from knowledge_fabric
+        run: python -m pipeline.build_index \
+            --source knowledge_fabric \
+            --fda knowledge_fabric/fda_files/structured \
+            --youtube knowledge_fabric/youtube \
+            --out site/data/index.json \
+            --semantic-out site/data/semantic.json
+
+      - name: Verify build artifacts
+        run: |
+          test -f site/index.html
+          test -f site/data/index.json
+          test -f site/data/semantic.json
+          test -f knowledge_fabric/SOURCES.csv
+          test -f knowledge_fabric/INVENTORY.md
+          ls -lh site/data/index.json site/data/semantic.json
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # Blocks the deploy if pipeline output and browser code have drifted apart.
+      # A contract mismatch here renders the whole site non-functional while
+      # every Python test still passes.
+      - name: Browser integration test
+        run: node tests/integration.test.mjs
+
+      # Every published number must trace back to a file in the repo. This gate
+      # exists because a headline count nobody can reproduce is worse than no
+      # count at all - it fails the first time someone opens the repository and
+      # starts counting.
+      - name: Corpus verification gate
+        run: |
+          python scripts/verify_corpus.py --gate --json site/data/verification.json
+
+      - name: Retrieval quality gate
+        run: |
+          python -m eval.evaluate --gate --json site/data/eval_report.json
+        # A retrieval regression ships broken answers to every user. Failing the
+        # deploy is cheaper than shipping a fabric that quietly stopped finding things.
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+        with:
+          # Enable GitHub Pages automatically if it isn't already turned on,
+          # so the first deploy doesn't fail with "Get Pages site failed".
+          enablement: true
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

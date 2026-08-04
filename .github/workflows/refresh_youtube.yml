@@ -1,0 +1,87 @@
+name: Refresh YouTube knowledge source
+
+# Metadata only. Audio is never fetched here — the free runner caps a job at six
+# hours and YouTube throttles datacentre IPs, so the one-time backfill runs
+# locally (scripts/youtube_transcribe.py) and its output is committed.
+#
+# This job commits the refreshed cache. That commit triggers deploy.yml, which
+# rebuilds the index behind the existing eval gate. Builds stay deterministic
+# because build_index only ever reads committed files.
+
+on:
+  schedule:
+    - cron: "0 2 * * *"        # 02:00 UTC daily
+  workflow_dispatch:
+    inputs:
+      all_languages:
+        description: "Queue non-English videos for transcription too"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write               # needed to commit the refreshed cache
+
+concurrency:
+  group: youtube-refresh
+  cancel-in-progress: false     # never interrupt a run mid-manifest-write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install yt-dlp
+        run: pip install --upgrade yt-dlp
+
+      - name: Refresh channel metadata
+        env:
+          # Optional. Without it the script falls back to yt-dlp, which needs no
+          # credentials. With it, the run is more reliable from a CI IP.
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_CHANNEL_ID: ${{ vars.YOUTUBE_CHANNEL_ID }}
+        run: |
+          python scripts/youtube_refresh.py \
+            --channel @NovaBiomedical \
+            ${{ inputs.all_languages && '--all-languages' || '' }}
+
+      - name: Show pending transcription work
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          q = pathlib.Path("knowledge_fabric/youtube/transcribe_queue.json")
+          if q.exists():
+              data = json.loads(q.read_text())
+              print(f"{data['pending']} videos awaiting transcription")
+              for item in data["queue"][:10]:
+                  print(f"  - {item['title'][:70]}")
+              if data["pending"]:
+                  print("\nRun locally: python scripts/youtube_transcribe.py")
+          PY
+
+      - name: Commit cache if changed
+        run: |
+          git config user.name  "knowledge-fabric-bot"
+          git config user.email "actions@github.com"
+          git add knowledge_fabric/youtube/
+          if git diff --cached --quiet; then
+            echo "No change — channel is in sync, nothing to deploy."
+            exit 0
+          fi
+          # The commit message is the audit trail: git log over this path is a
+          # dated history of every change to the video corpus.
+          SUMMARY=$(python - <<'PY'
+          import json, pathlib
+          m = json.loads(pathlib.Path("knowledge_fabric/youtube/manifest.json").read_text())
+          print(f"{m['video_count']} active, {m['withdrawn_count']} withdrawn")
+          PY
+          )
+          git commit -m "chore(youtube): refresh channel cache — $SUMMARY"
+          git push
