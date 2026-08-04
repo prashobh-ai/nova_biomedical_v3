@@ -239,7 +239,10 @@ function populateSuggestions() {
 // Numbers are intentionally generic so the same logic works for any corpus.
 // ============================================================================
 const BOILER_RE = /\b(evidence|references|channels|sources|press|recognitions?|insights|blogs?|whitepapers?|reports?|videos?|youtube|linkedin|twitter|official|version|tone)\b/i;
-function isBoilerplate(section_path) {
+function isBoilerplate(section_path, sourceType) {
+  // See search.js: video section paths are connector-authored structure, not
+  // scraped nav headings, so the boilerplate rule must not apply to them.
+  if (sourceType === 'video') return false;
   return (section_path || []).some(s => BOILER_RE.test(s));
 }
 
@@ -272,7 +275,7 @@ function computeMaturity() {
   const ownership = clamp(Math.round(45 + (nameLeaves / Math.max(totalLeaves, 1)) * 120), 25, 95);
 
   // Documentation depth: % chunks NOT in boilerplate sections
-  const nonBoiler = chunks.filter(c => !isBoilerplate(c.section_path)).length;
+  const nonBoiler = chunks.filter(c => !isBoilerplate(c.section_path, c.source_type)).length;
   const documentation = Math.round((nonBoiler / Math.max(chunks.length, 1)) * 100);
 
   // Freshness: % chunks mentioning a recent year (sliding window of last 3 years)
@@ -360,7 +363,7 @@ function computeRisk() {
   const docCount = new Set(chunks.map(c => c.document_id)).size;
 
   // 1. Boilerplate dominance: % of corpus that's URLs/citations/metadata
-  const boilerChunks = chunks.filter(c => isBoilerplate(c.section_path)).length;
+  const boilerChunks = chunks.filter(c => isBoilerplate(c.section_path, c.source_type)).length;
   const boilerPct = Math.round((boilerChunks / Math.max(chunks.length, 1)) * 100);
 
   // 2. Lone-source domains: top-level sections appearing in only one doc
@@ -436,7 +439,7 @@ function renderLineageDemo() {
   const chunks = state.chunks;
   // Pick a non-boilerplate, reasonably substantive chunk to demo with
   const candidate = chunks.find(c =>
-    !isBoilerplate(c.section_path) &&
+    !isBoilerplate(c.section_path, c.source_type) &&
     (c.text || '').length > 80 &&
     (c.section_path || []).length >= 1
   ) || chunks[0];

@@ -20,7 +20,14 @@ export function tokenize(text) {
 // Centralized here so both cohesion and answer composer use the same rule.
 const BOILERPLATE_SECTION_RE = /\b(evidence|references|channels|sources|press\s*releases?|recognitions?|insights\s*&?\s*blogs?|blogs?|whitepapers?|reports?|videos?|youtube|linkedin|twitter|official\s+\S+\s+pages?|version|tone)\b/i;
 
-export function isBoilerplateSection(section_path) {
+// The rule targets nav/footer headings scraped out of web pages. A video's
+// section_path is structural metadata the connector wrote - ['Webinar', title,
+// 'at 2:22'] - not a scraped heading, and the word "Video" in position 0 is a
+// content type, not boilerplate. Without this exemption every video record in
+// the corpus is silently dropped from answers by a regex written for v2 web
+// scrapes, which is exactly what happened.
+export function isBoilerplateSection(section_path, sourceType) {
+  if (sourceType === 'video') return false;
   if (!section_path || section_path.length === 0) return false;
   for (const s of section_path) {
     if (BOILERPLATE_SECTION_RE.test(s)) return true;
@@ -278,7 +285,8 @@ export function cohereByDocument(rawRanked, chunks, opts = {}) {
   // Fall back to unfiltered ranking only if everything is boilerplate —
   // in that case the answer composer will hit its low-confidence path
   // honestly.
-  const nonBoiler = rawRanked.filter(r => !isBoilerplateSection(chunks[r.chunkIdx].section_path));
+  const nonBoiler = rawRanked.filter(r => !isBoilerplateSection(
+    chunks[r.chunkIdx].section_path, chunks[r.chunkIdx].source_type));
   const workingRanked = nonBoiler.length >= 2 ? nonBoiler : rawRanked;
 
   const docScores = new Map();

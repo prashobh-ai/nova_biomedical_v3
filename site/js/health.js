@@ -25,7 +25,16 @@
 //     freshness would report a corpus of current IFUs as critically out of date.
 // So coverage and freshness are computed over maintained documents only, and the
 // exclusion is stated on the card rather than hidden.
-function isMaintainedDocument(d) { return d.source_type === 'document'; }
+// The distinction that matters is what a record IS, not which connector
+// delivered it. An FDA 510(k) clearance is an event-dated historical fact
+// whether it arrived as a CSV row or as a PDF from accessdata.fda.gov - both
+// carry a decision date, neither is documentation anyone maintains. Keying this
+// on source_type alone treated 62 clearance PDFs as product manuals that ought
+// to be current, which collapsed Currency from 100 to 0 and reported a corpus of
+// 1.8-year-old IFUs as critically out of date.
+function isMaintainedDocument(d) {
+  return d.source_type === 'document' && d.domain !== 'Regulatory';
+}
 
 function clamp01(x) { return Math.max(0, Math.min(1, x)); }
 function pct(x) { return Math.round(clamp01(x) * 100); }
@@ -39,7 +48,7 @@ function coverage(index) {
   const docs = maintained.length || index.documents.length;
   const ids = new Set(maintained.map(d => d.id));
   const chunks = maintained.length
-    ? index.chunks.filter(c => c.source_type === 'document').length
+    ? index.chunks.filter(c => ids.has(c.document_id)).length
     : index.chunks.length;
   const perDoc = chunks / Math.max(docs, 1);
   // 8 retrievable passages per document is the point past which additional
@@ -52,7 +61,7 @@ function coverage(index) {
     formula: 'min(1, meanPassagesPerDocument / 8) × 100',
     inputs: { maintainedDocuments: docs, passages: chunks,
               meanPassagesPerDocument: +perDoc.toFixed(2), target: TARGET,
-              excluded: index.documents.length - docs, excludedReason: 'structured FDA records (1 passage by construction)' },
+              excluded: index.documents.length - docs, excludedReason: 'regulatory records — structured rows and clearance PDFs alike' },
     meaning: 'How much retrievable material exists per document.',
     lowMeans: 'Documents are indexed but thin — the retriever often has only one ' +
               'candidate passage per document, so it cannot choose the best one.',
