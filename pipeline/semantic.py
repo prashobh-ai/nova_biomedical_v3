@@ -25,8 +25,10 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 # Tuned for payload size vs. retrieval quality on a corpus of this scale.
-MAX_TERMS = 6000
-N_COMPONENTS = 96
+MAX_TERMS = 12000    # widened with the corpus for the same reason
+N_COMPONENTS = 192   # raised from 96: the v3 corpus is ~2.7x larger, and 96 dims
+                     # retained only 42% of variance, which measurably degraded
+                     # semantic recall and answer quality.
 MIN_DF = 2
 
 

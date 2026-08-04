@@ -301,7 +301,19 @@ def parse_any(path: Path) -> ParsedDocument:
     return PARSERS[ext](path)
 
 
+# Files that document the repository rather than form part of the corpus.
+REPO_METADATA_FILES = {"INVENTORY.md", "SOURCES.csv", "README.md", "SETUP.md",
+                       "CHANGELOG.md", "CONTRIBUTING.md", "LICENSE.md"}
+
+
 def iter_sources(source_dir: Path) -> Iterator[Path]:
     for p in sorted(source_dir.rglob("*")):
-        if p.is_file() and p.suffix.lower() in PARSERS:
-            yield p
+        if not p.is_file() or p.suffix.lower() not in PARSERS:
+            continue
+        # Repository metadata is not corpus content. INVENTORY.md describes the
+        # corpus, so indexing it makes the fabric answer questions about itself
+        # with its own file listing - and it silently inflates the document count
+        # above the number of source files anyone can see on disk.
+        if p.name in REPO_METADATA_FILES or p.name.startswith("."):
+            continue
+        yield p
