@@ -7,6 +7,7 @@ import { buildAnswer } from './answer.js?v=5';
 import { KnowledgeGraph } from './graph.js?v=5';
 import { initInsights } from './insights.js?v=5';
 import { initLineage, renderLineage } from './lineage.js?v=5';
+import { initVideoDiscipline, initReveal, initGraphControls } from './uipolish.js?v=1';
 import { initExplain, openExplain } from './explain.js?v=5';
 import { matchQuestionBank, QUESTION_BANK } from './questionbank.js?v=5';
 import { Typeahead } from './typeahead.js?v=12';
@@ -39,6 +40,9 @@ const state = {
 // Boot
 // ============================================================================
 async function boot() {
+  // Motion is bound after the first paint so nothing is left hidden if a
+  // transition never runs.
+  requestAnimationFrame(() => { initReveal(document); initVideoDiscipline(); });
   try {
     // 'no-cache' forces the browser to revalidate the index with the server on
     // every load, so a freshly-deployed corpus (new documents) shows up without
@@ -320,20 +324,34 @@ function renderVideoSources(citations) {
   const vids = (citations || []).filter(c => c.chunk && c.chunk.source_type === 'video');
   if (!vids.length) { host.hidden = true; host.innerHTML = ''; return; }
 
-  // One player per video, even when several segments of it are cited; the
-  // earliest cited moment is the one worth opening on.
+  // One player per video, even when several of its segments are cited. Which
+  // moment to open on is the whole point, and "earliest" was wrong: a video is
+  // often cited BOTH as a transcript segment ("spoken at 1:43") and as its
+  // publisher-written description, which has no spoken moment and therefore
+  // start_sec 0. Taking the earliest picked the description every time, so the
+  // player opened at 0:00 and showed the wrong badge - the exact symptom of
+  // "the timestamp is not shown and the video does not start there".
+  //
+  // Rank instead: a transcribed segment always beats a description, and among
+  // segments the most relevant one wins (lowest citation number, since citations
+  // are numbered by rank). Only fall back to the description when nothing in
+  // this answer was actually spoken.
   const byVideo = new Map();
   for (const c of vids) {
     const m = c.chunk.meta || {};
     const id = m.video_id;
     if (!id) continue;
     const start = Math.max(0, Math.floor(m.start_sec || 0));
+    const transcribed = m.evidence_tier === 'machine_transcribed';
     const prev = byVideo.get(id);
-    if (!prev || start < prev.start) {
+    const better = !prev
+      || (transcribed && !prev.transcribed)                       // segment beats description
+      || (transcribed === prev.transcribed && c.num < prev.num);  // then by relevance
+    if (better) {
       byVideo.set(id, {
         id, start, num: c.num,
         title: c.chunk.document_name || 'Video source',
-        transcribed: m.evidence_tier === 'machine_transcribed',
+        transcribed,
         excerpt: c.chunk.paragraph_excerpt || (c.chunk.text || '').slice(0, 180),
         playlists: Array.isArray(m.playlists) ? m.playlists.slice(0, 2) : [],
       });
@@ -378,6 +396,9 @@ function renderVideoSources(citations) {
       <div class="video-sources-grid">${cards}</div>
     </div>`;
   host.hidden = false;
+  // New iframes each answer, so rebind. Also reveals the new section.
+  initVideoDiscipline();
+  initReveal(host);
 }
 
 // What the graph contributed to the answer just produced.
@@ -577,6 +598,10 @@ function renderLineageDemo() {
 function setupGalaxy() {
   const container = document.getElementById('galaxy');
   state.graph = new KnowledgeGraph(container, state.index);
+  // Zoom / fit / focus controls. Wheel-zoom alone is undiscoverable, and on a
+  // scrolling page it fights the scroll; explicit controls make the graph usable
+  // instead of decorative.
+  initGraphControls(state.graph.network);
   state.graph.render();
   state.graph.onEntityClick = showEntityDetail;
 

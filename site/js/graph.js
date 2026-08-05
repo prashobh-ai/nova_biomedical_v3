@@ -78,9 +78,14 @@ export class KnowledgeGraph {
       },
       interaction: {
         hover: true,
-        tooltipDelay: 180,
+        hoverConnectedEdges: true,     // hovering a node lights its links
+        selectConnectedEdges: true,
+        tooltipDelay: 120,
         dragNodes: true,
+        dragView: true,
         zoomView: true,
+        navigationButtons: false,      // we render our own, styled to the page
+        keyboard: { enabled: false },  // must not swallow page scroll keys
       },
       nodes: {
         scaling: { min: 8, max: 30, label: { enabled: true, min: 11, max: 16 } },
@@ -94,6 +99,15 @@ export class KnowledgeGraph {
     };
 
     this.network = new vis.Network(this.container, data, options);
+
+    // Pointer feedback. Without it nothing signals that nodes are clickable,
+    // which is why the graph reads as decoration rather than a control.
+    this.network.on('hoverNode', () => {
+      this.container.style.cursor = 'pointer';
+    });
+    this.network.on('blurNode', () => {
+      this.container.style.cursor = 'default';
+    });
 
     this.network.on('click', params => {
       if (params.nodes.length > 0 && this.onEntityClick) {
@@ -246,14 +260,19 @@ export class KnowledgeGraph {
         size = 18;
         opacity = 0.95;
       } else {
-        // Unrelated — fade hard. This is the "BOOM, everything unrelated
-        // disappears" effect. Without aggressive fade, the activation is
-        // too subtle for a director sitting 4 feet from the screen.
+        // Unrelated — recede, but stay legible. The previous treatment faded
+        // these to 0.12 to make activation unmissable, which worked but cost
+        // the thing the graph is FOR: seeing the activated set against the
+        // corpus it was drawn from. A trace floating in empty space says
+        // "here are four nodes"; the same trace against a visible fabric says
+        // "here are four nodes out of four hundred, and here is what they are
+        // connected to". The contrast between 1.0 and 0.38 is ample at demo
+        // distance because activated nodes are also larger and pink.
         color = C.NODE_BASE;
         fontColor = baseLabel;
         borderWidth = 0;
-        size = 6;
-        opacity = 0.12;
+        size = 10;
+        opacity = 0.38;
       }
       nodeUpdates.push({
         id: entity.id,
@@ -270,16 +289,24 @@ export class KnowledgeGraph {
       id: i,
       color: activeEdgeIds.has(i)
         ? { color: C.EDGE_ACTIVE, opacity: 0.9 }
-        : { color: C.EDGE_BASE, opacity: 0.04 },   // was 0.15 — make unrelated nearly invisible
-      width: activeEdgeIds.has(i) ? Math.max(1.2, Math.log(r.weight + 1) * 1.1) : 0.2,
+        : { color: C.EDGE_BASE, opacity: 0.16 },  // present as context, not erased
+      width: activeEdgeIds.has(i) ? Math.max(1.2, Math.log(r.weight + 1) * 1.1) : 0.35,
     }));
     this.edges.update(edgeUpdates);
 
     if (activeEntityIds.size > 0) {
+      // Frame the activated cluster, then pull back a little so the surrounding
+      // fabric stays in shot. Fitting tightly to the active nodes alone crops
+      // away the context that makes the activation meaningful.
       this.network.fit({
         nodes: [...activeEntityIds, ...neighborIds],
         animation: { duration: 600, easingFunction: 'easeInOutQuad' },
       });
+      setTimeout(() => {
+        const s = this.network.getScale();
+        this.network.moveTo({ scale: s * 0.72,
+          animation: { duration: 420, easingFunction: 'easeOutQuad' } });
+      }, 620);
       // Trigger the BOOM CSS flash (radial pink pulse from center) — gives
       // a visceral "activated" feel even before the user notices the fade.
       const canvas = this.container;
