@@ -79,51 +79,66 @@ export function initVideoDiscipline() {
 }
 
 /* --------------------------------------------------------------------------
-   2. Reveal on scroll
+   2. Arrival animations
    --------------------------------------------------------------------------
-   Sections fade and rise a little as they enter. Deliberately restrained: a
-   short distance, a single easing, and it runs ONCE per element. Re-animating
-   on every scroll direction change is the thing that makes a page feel cheap
-   rather than considered.
+   Three properties, each of which was wrong in the first attempt:
 
-   prefers-reduced-motion is honoured by not observing at all, so the content is
-   simply present - never left hidden by a transition that will not run.
+   CENTRE, NOT EDGE.  A plain IntersectionObserver fires the moment one pixel
+   crosses the boundary, so by the time the section is actually being looked at
+   the animation has already finished off-screen. The root margin here shrinks
+   the trigger zone to the middle band of the viewport, so a section animates
+   when it is the thing you are reading.
+
+   BOTH DIRECTIONS.  Scrolling back up a page and finding every section already
+   spent is worse than no motion at all. Elements are unset when they leave the
+   band and replay on re-entry, which is what makes the readiness gauge redraw
+   whether you arrive from above or below.
+
+   NEVER STRANDED.  Everything animated starts at opacity 0, so a trigger that
+   never runs would hide content permanently. Anything already past the band on
+   load is marked in-view immediately, and reduced-motion skips the observer
+   entirely rather than relying on it.
 -------------------------------------------------------------------------- */
-const REVEAL_SELECTOR = [
-  'section > .section-head',
-  '.answer-card', '.explain-panel', '.metric-card', '.insight-card',
-  '.health-card', '.video-sources', '.graph-value-wrap',
-  '.pillars-panel .pillar', '.stat-tile', '.risk-card',
+const INVIEW_SELECTOR = [
+  'section', '.section-head', '.answer-card', '.explain-panel',
+  '.metric-card', '.insight-card', '.health-card', '.stat-tile', '.risk-card',
+  '.heatmap', '.health-rings', '.pillars-panel .pillar',
 ].join(',');
+
+let inviewObserver = null;
 
 export function initReveal(root = document) {
   const reduce = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
-  const targets = [...root.querySelectorAll(REVEAL_SELECTOR)]
-    .filter(el => !el.dataset.revealBound);
+  const targets = [...root.querySelectorAll(INVIEW_SELECTOR)]
+    .filter(el => !el.dataset.inviewBound);
   if (!targets.length) return;
 
   if (reduce) {
-    targets.forEach(el => { el.dataset.revealBound = '1'; el.classList.add('is-revealed'); });
+    targets.forEach(el => { el.dataset.inviewBound = '1'; el.classList.add('is-inview'); });
     return;
   }
 
-  const io = new IntersectionObserver((entries, obs) => {
-    entries.forEach(e => {
-      if (!e.isIntersecting) return;
-      // Stagger siblings slightly so a row of cards arrives as a sequence
-      // rather than a single block appearing at once.
-      const sibs = [...(e.target.parentElement?.children || [])];
-      const delay = Math.min(sibs.indexOf(e.target), 5) * 55;
-      e.target.style.transitionDelay = `${delay}ms`;
-      e.target.classList.add('is-revealed');
-      obs.unobserve(e.target);
+  if (!inviewObserver) {
+    inviewObserver = new IntersectionObserver(entries => {
+      for (const e of entries) {
+        // Replay rather than latch: add on entry, remove on exit.
+        e.target.classList.toggle('is-inview', e.isIntersecting);
+      }
+    }, {
+      // Middle band of the viewport: -34% top and bottom leaves roughly the
+      // central third as the trigger zone.
+      rootMargin: '-34% 0px -34% 0px',
+      threshold: 0,
     });
-  }, { rootMargin: '0px 0px -8% 0px', threshold: 0.08 });
+  }
 
   targets.forEach(el => {
-    el.dataset.revealBound = '1';
-    el.classList.add('will-reveal');
-    io.observe(el);
+    el.dataset.inviewBound = '1';
+    inviewObserver.observe(el);
+    // Anything already sitting in or above the band on load must not wait for a
+    // scroll that may never come.
+    const r = el.getBoundingClientRect();
+    if (r.top < window.innerHeight * 0.66) el.classList.add('is-inview');
   });
 }
 

@@ -319,8 +319,13 @@ function clockLabel(sec) {
 // hearing the speaker say it, which no page reference can offer - so this is a
 // first-class section of the answer, not something buried in a lineage panel.
 function renderVideoSources(citations) {
+  // Retired. Video players are rendered inside Source Lineage (Section 03),
+  // where the document -> page -> paragraph chain already lives, so a second
+  // block under the answer showed every video twice. Kept as a no-op rather
+  // than deleted because the call site and the markup host still exist.
   const host = document.getElementById('video-sources-wrap');
-  if (!host) return;
+  if (host) { host.hidden = true; host.innerHTML = ''; }
+  if (true) return;
   const vids = (citations || []).filter(c => c.chunk && c.chunk.source_type === 'video');
   if (!vids.length) { host.hidden = true; host.innerHTML = ''; return; }
 

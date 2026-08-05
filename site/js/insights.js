@@ -61,7 +61,10 @@ function renderHeatmap() {
       <div class="hm-row${hidden ? ' hm-row-extra' : ''}"${hidden ? ' hidden' : ''}>
         <span class="hm-label" title="${escapeHtml(r.name)}">${escapeHtml(stripExt(r.name))}</span>
         <div class="hm-track">
-          <div class="hm-fill" style="width:${pct}%">
+          <!-- Target width is a custom property so CSS can grow the bar from 0
+               when the panel scrolls into view. Setting width directly here
+               would paint the finished chart before anyone is looking at it. -->
+          <div class="hm-fill" style="--hm-w:${pct}%">
             <span class="hm-value">${r.chunks}c · ${r.entities}e</span>
           </div>
         </div>
