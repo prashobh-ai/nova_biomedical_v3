@@ -101,21 +101,20 @@ async function boot() {
 // through the real ask() pipeline, so citations, graph, and lineage stay in
 // sync — nothing here is a canned answer. Empty the array to fall back to the
 // corpus-derived suggestions.
-// Four chips, deliberately chosen to land on four DIFFERENT intents, so the
-// first thing a viewer clicks already demonstrates that the system reads the
-// question rather than pattern-matching keywords.
+// Four chips on four DIFFERENT intents, so the first thing a viewer clicks
+// already shows the system reading the question rather than matching keywords.
 //
-// Every one is also CROSS-SOURCE: each answer cites a product manual or
-// regulatory filing AND a channel video, so the first click renders the "Watch
-// the source" player section too. A demo that has to be steered towards video
-// with a special question proves nothing; these are simply the strongest
-// questions the corpus answers, and they happen to draw on both because the
-// fabric genuinely connects them. Percentages measured, not asserted.
+// Each one also cites a document AND a video, and the video citation carries a
+// REAL timestamp - the player opens at the second the sentence was spoken, not
+// at 0:00. That is the point worth making in a demo: the chronic-kidney-disease
+// answer lands 19 minutes 50 seconds into a clinical talk. No page citation can
+// do that, and nobody has to take the claim on trust because the player is right
+// there. Percentages and timestamps measured, not asserted.
 const PRESET_QUESTIONS = [
-  'How do I perform a summed volume verification?',                 // PROCEDURE    83.31%  2 video + 1 doc
-  'What is chronic kidney disease screening?',                      // DEFINITION   77.42%  1 video + 3 docs
-  'What is StatStrip LAC Hb Hct used for?',                         // INTENDED_USE 71.20%  1 video + 1 doc
-  'How is creatinine measured at the point of care?',               // MECHANISM    59.63%  1 video + 3 docs
+  'What is chronic kidney disease screening?',                  // DEFINITION    73.8%  video @19:50
+  'What sample volume does the glucose test need?',             // SPECIFICATION 65.7%  video @3:16
+  'How do I import a plate layout from Data Manager?',          // PROCEDURE     65.0%  video @1:43
+  'Why measure ionized magnesium instead of total magnesium?',  // COMPARISON    61.1%  video @6:16
 ];
 
 // The questions to surface as chips / seed the demo answer: curated presets

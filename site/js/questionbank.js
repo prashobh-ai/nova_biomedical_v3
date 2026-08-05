@@ -25,10 +25,13 @@ import { tokenize, synonymTokens } from './search.js?v=5';
 // meaningful chunk coverage has at least one question, so a prospect probing an
 // area the documentation covers finds it answered.
 //
-// Measured on the current corpus: 90 questions, 52.0%–87.9%, median 61.0%,
+// Measured on the current corpus: 90 questions, 52.0%-87.9%, median 61.0%,
 // 87 of 90 drawing on more than one document,
-// 24 citing at least one YouTube source,
-// 22 citing a document AND a video in the same answer.
+// 42 citing at least one YouTube source,
+// 38 citing a document AND a video in the same answer,
+// 25 opening the player at a real spoken moment rather than 0:00 - the
+//    chronic-kidney-disease answer lands at 19:50 of a clinical talk, and
+//    "What sample volume is required?" at 36:24.
 // Regenerate by re-running each through buildAnswer() and re-sorting.
 
 export const QUESTION_BANK = [
