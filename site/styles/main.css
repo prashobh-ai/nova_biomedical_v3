@@ -2329,10 +2329,11 @@ body.narrative .pane-risk { display: none !important; }
 }
 
 .hero-status {
-  position: absolute;
-  top: 30px;
-  right: 32px;
-  z-index: 3;
+  /* Positioning is owned by .hero-stage .hero-status further down. Anchoring
+     it here too is what stretched the chip into a stage-sized capsule: two
+     rules each set one corner, all four offsets resolved, and an absolutely
+     positioned box with four offsets fills its container. This block styles
+     the pill only. */
   display: flex;
   align-items: center;
   gap: 10px;
@@ -4443,8 +4444,9 @@ summary:focus-visible, [tabindex]:focus-visible {
 }
 .hero-stage .hero-status {
   position: absolute;
-  top: 12px; right: 12px;
-  z-index: 5;
+  left: 14px; bottom: 14px;
+  top: auto; right: auto; /* single anchor — never let a second corner set, or the chip stretches */
+  z-index: 6;
 }
 .hero-stage .graph-controls {
   position: absolute;
@@ -4560,33 +4562,37 @@ summary:focus-visible, [tabindex]:focus-visible {
     gap: 18px;
   }
 
-  /* Right column: a real panel with an edge, so it reads as an instrument
-     rather than a texture bleeding off the page. */
+  /* Right column: .hero-stage already draws the panel frame. The galaxy fills
+     it edge to edge - a second border and a fixed 720px height inside a taller
+     stage left a dead band at the bottom where the status chip and hint
+     floated outside the panel. One frame, one fill. */
   .hero-galaxy {
-    position: relative;
-    inset: auto;
-    z-index: 2;
-    height: min(76vh, 720px);
-    border-radius: 18px;
+    /* Absolute fill, not height: 100% - the stage sits in an auto grid row,
+       so a percentage height resolves to 0 and the canvas initialises empty. */
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    height: auto;
+    border-radius: 0;
     overflow: hidden;
-    border: 1px solid rgba(150, 170, 255, 0.22);
-    /* Flat panel tint only. A radial-gradient here rendered as a hard-edged
-       purple disc over the canvas - the graph has its own glow and does not
-       need a second one behind it. */
-    background: rgba(8, 12, 38, 0.42);
-    box-shadow: 0 30px 70px -38px rgba(0, 0, 0, 0.92),
-                inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    border: 0;
+    background: transparent;
+    box-shadow: none;
     /* No dim, no blur. It is being read now, not sat behind. */
     opacity: 1;
     filter: none;
   }
 
+  /* One interaction hint, not two: .hero-galaxy::before already prints
+     "Drag to pan · scroll to zoom · click a node" bottom-centre. */
+  .graph-hint { display: none; }
+
   /* The section wash sat over the whole hero; keep it off the panel. */
   .hero-section::before { z-index: 0; }
   .hero-veil, .hero-scrim { display: none; }
 
-  /* Status chip and detail card belong to the panel, not the viewport. */
-  .hero-status { position: absolute; left: 14px; bottom: 14px; z-index: 6; }
+  /* Detail card belongs to the panel, not the viewport. (Status chip is
+     anchored once, by .hero-stage .hero-status — not re-anchored here.) */
   .galaxy-detail { position: absolute; right: 14px; top: 14px; z-index: 8;
                    max-width: min(360px, 42%); }
   .graph-controls { right: 14px; bottom: 14px; }
