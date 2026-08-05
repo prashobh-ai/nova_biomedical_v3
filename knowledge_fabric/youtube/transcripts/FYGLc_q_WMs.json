@@ -1,0 +1,6598 @@
+{
+ "video_id": "FYGLc_q_WMs",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 1318,
+ "cues": [
+  {
+   "start": 3.44,
+   "end": 8.72,
+   "text": "hello everyone my name is patrick humber"
+  },
+  {
+   "start": 6.16,
+   "end": 10.16,
+   "text": "allegri culture i'm a veterinarian an"
+  },
+  {
+   "start": 8.72,
+   "end": 13.2,
+   "text": "immunologist"
+  },
+  {
+   "start": 10.16,
+   "end": 15.52,
+   "text": "currently i serve as the medical and"
+  },
+  {
+   "start": 13.2,
+   "end": 18.64,
+   "text": "scientific director for nova biomedical"
+  },
+  {
+   "start": 15.52,
+   "end": 21.92,
+   "text": "in waltham massachusetts"
+  },
+  {
+   "start": 18.64,
+   "end": 23.84,
+   "text": "today's topic is surviving sepsis"
+  },
+  {
+   "start": 21.92,
+   "end": 29.88,
+   "text": "in veterinary medicine"
+  },
+  {
+   "start": 23.84,
+   "end": 29.88,
+   "text": "chapter one development of organ failure"
+  },
+  {
+   "start": 30.08,
+   "end": 35.12,
+   "text": "this presentation contains only"
+  },
+  {
+   "start": 32.64,
+   "end": 38.48,
+   "text": "educational materials that are free"
+  },
+  {
+   "start": 35.12,
+   "end": 38.48,
+   "text": "of any commercial content"
+  },
+  {
+   "start": 39.68,
+   "end": 42.16,
+   "text": "for today"
+  },
+  {
+   "start": 40.96,
+   "end": 45.84,
+   "text": "we have"
+  },
+  {
+   "start": 42.16,
+   "end": 48.64,
+   "text": "the following agenda introduction"
+  },
+  {
+   "start": 45.84,
+   "end": 50.24,
+   "text": "a review on the immune response in vital"
+  },
+  {
+   "start": 48.64,
+   "end": 53.52,
+   "text": "organ failure"
+  },
+  {
+   "start": 50.24,
+   "end": 56.4,
+   "text": "neutrophils in organ failure and"
+  },
+  {
+   "start": 53.52,
+   "end": 56.4,
+   "text": "few conclusions"
+  },
+  {
+   "start": 57.36,
+   "end": 62.16,
+   "text": "so let us begin with a small"
+  },
+  {
+   "start": 59.28,
+   "end": 64.72,
+   "text": "introduction on search"
+  },
+  {
+   "start": 62.16,
+   "end": 67.44,
+   "text": "after all what is sepsis"
+  },
+  {
+   "start": 64.72,
+   "end": 70.16,
+   "text": "basically it is a dysregulated"
+  },
+  {
+   "start": 67.44,
+   "end": 72.96,
+   "text": "inflammatory response"
+  },
+  {
+   "start": 70.16,
+   "end": 74.64,
+   "text": "to infection or trauma"
+  },
+  {
+   "start": 72.96,
+   "end": 76.64,
+   "text": "it is progressive"
+  },
+  {
+   "start": 74.64,
+   "end": 79.52,
+   "text": "organic slow"
+  },
+  {
+   "start": 76.64,
+   "end": 80.8,
+   "text": "and causing multiple vital organ failure"
+  },
+  {
+   "start": 79.52,
+   "end": 82.96,
+   "text": "coupled"
+  },
+  {
+   "start": 80.8,
+   "end": 85.2,
+   "text": "with critical reduction in tissue"
+  },
+  {
+   "start": 82.96,
+   "end": 88.64,
+   "text": "proportion"
+  },
+  {
+   "start": 85.2,
+   "end": 91.36,
+   "text": "more than 1.5 million people get sepsis"
+  },
+  {
+   "start": 88.64,
+   "end": 94.32,
+   "text": "each year in the u.s"
+  },
+  {
+   "start": 91.36,
+   "end": 97.04,
+   "text": "close to 250 000 americans die from"
+  },
+  {
+   "start": 94.32,
+   "end": 99.36,
+   "text": "sepsis each year"
+  },
+  {
+   "start": 97.04,
+   "end": 100.96,
+   "text": "7 to 10 patients with sepsis had"
+  },
+  {
+   "start": 99.36,
+   "end": 102.88,
+   "text": "recently used"
+  },
+  {
+   "start": 100.96,
+   "end": 106.16,
+   "text": "healthcare services"
+  },
+  {
+   "start": 102.88,
+   "end": 108.96,
+   "text": "or had chronic diseases requiring"
+  },
+  {
+   "start": 106.16,
+   "end": 111.36,
+   "text": "frequent medical care"
+  },
+  {
+   "start": 108.96,
+   "end": 115.12,
+   "text": "and one in three patients who die in a"
+  },
+  {
+   "start": 111.36,
+   "end": 118.96,
+   "text": "hospital have sepsis"
+  },
+  {
+   "start": 115.12,
+   "end": 120.48,
+   "text": "so sepsis has been redefined a total of"
+  },
+  {
+   "start": 118.96,
+   "end": 122.64,
+   "text": "three times"
+  },
+  {
+   "start": 120.48,
+   "end": 125.28,
+   "text": "this is the last consensus on"
+  },
+  {
+   "start": 122.64,
+   "end": 127.36,
+   "text": "definitions of sepsis"
+  },
+  {
+   "start": 125.28,
+   "end": 130.32,
+   "text": "and"
+  },
+  {
+   "start": 127.36,
+   "end": 132.72,
+   "text": "stresses sepsis is defined"
+  },
+  {
+   "start": 130.32,
+   "end": 134.48,
+   "text": "as an organ dysfunction"
+  },
+  {
+   "start": 132.72,
+   "end": 137.44,
+   "text": "organ dysfunction"
+  },
+  {
+   "start": 134.48,
+   "end": 139.12,
+   "text": "caused by a dysregulated heart response"
+  },
+  {
+   "start": 137.44,
+   "end": 142.16,
+   "text": "to infection"
+  },
+  {
+   "start": 139.12,
+   "end": 144.56,
+   "text": "and a shark is a subset of sepsis in"
+  },
+  {
+   "start": 142.16,
+   "end": 146.36,
+   "text": "which underlying circulatory and"
+  },
+  {
+   "start": 144.56,
+   "end": 149.2,
+   "text": "cellular metabolic"
+  },
+  {
+   "start": 146.36,
+   "end": 151.92,
+   "text": "abnormalities profound enough"
+  },
+  {
+   "start": 149.2,
+   "end": 154.96,
+   "text": "to substantially increase the mortality"
+  },
+  {
+   "start": 151.92,
+   "end": 154.96,
+   "text": "in those patients"
+  },
+  {
+   "start": 155.2,
+   "end": 159.36,
+   "text": "in this graphic we have the annual"
+  },
+  {
+   "start": 157.76,
+   "end": 161.6,
+   "text": "sepsis"
+  },
+  {
+   "start": 159.36,
+   "end": 163.68,
+   "text": "incidents in the u.s the important"
+  },
+  {
+   "start": 161.6,
+   "end": 166.0,
+   "text": "message here is"
+  },
+  {
+   "start": 163.68,
+   "end": 167.84,
+   "text": "that sepsis"
+  },
+  {
+   "start": 166.0,
+   "end": 170.56,
+   "text": "septic shock"
+  },
+  {
+   "start": 167.84,
+   "end": 175.4,
+   "text": "have been increasing"
+  },
+  {
+   "start": 170.56,
+   "end": 175.4,
+   "text": "on a regular basis since 2004"
+  },
+  {
+   "start": 176.4,
+   "end": 179.84,
+   "text": "in comparison of the average length of"
+  },
+  {
+   "start": 178.8,
+   "end": 182.64,
+   "text": "the stay"
+  },
+  {
+   "start": 179.84,
+   "end": 183.44,
+   "text": "for septicemia or sepsis in hospitals we"
+  },
+  {
+   "start": 182.64,
+   "end": 186.64,
+   "text": "see"
+  },
+  {
+   "start": 183.44,
+   "end": 189.6,
+   "text": "this graph that on the x-axis we have"
+  },
+  {
+   "start": 186.64,
+   "end": 192.08,
+   "text": "the h and in the y-axis we have length"
+  },
+  {
+   "start": 189.6,
+   "end": 194.72,
+   "text": "of the stay in number of days"
+  },
+  {
+   "start": 192.08,
+   "end": 196.56,
+   "text": "the blue bars represent sepsis and the"
+  },
+  {
+   "start": 194.72,
+   "end": 199.2,
+   "text": "green bars represent"
+  },
+  {
+   "start": 196.56,
+   "end": 201.8,
+   "text": "other hospitalizations as it can be"
+  },
+  {
+   "start": 199.2,
+   "end": 204.48,
+   "text": "appreciated"
+  },
+  {
+   "start": 201.8,
+   "end": 206.64,
+   "text": "hospitalizations due to sepsis"
+  },
+  {
+   "start": 204.48,
+   "end": 209.6,
+   "text": "have obviously"
+  },
+  {
+   "start": 206.64,
+   "end": 212.76,
+   "text": "larger average length of stay"
+  },
+  {
+   "start": 209.6,
+   "end": 212.76,
+   "text": "in hospitals"
+  },
+  {
+   "start": 212.8,
+   "end": 216.96,
+   "text": "for the financial impact of"
+  },
+  {
+   "start": 215.12,
+   "end": 220.56,
+   "text": "patients with sepsis"
+  },
+  {
+   "start": 216.96,
+   "end": 222.56,
+   "text": "we can see that the ranking number one"
+  },
+  {
+   "start": 220.56,
+   "end": 223.68,
+   "text": "septicemia is the most expensive"
+  },
+  {
+   "start": 222.56,
+   "end": 227.72,
+   "text": "conditions"
+  },
+  {
+   "start": 223.68,
+   "end": 227.72,
+   "text": "to be treated in the u.s"
+  },
+  {
+   "start": 228.0,
+   "end": 230.72,
+   "text": "in veterinary medicine"
+  },
+  {
+   "start": 229.92,
+   "end": 234.0,
+   "text": "we"
+  },
+  {
+   "start": 230.72,
+   "end": 236.0,
+   "text": "need more data on sepsis nevertheless"
+  },
+  {
+   "start": 234.0,
+   "end": 237.84,
+   "text": "what is available indicates that at"
+  },
+  {
+   "start": 236.0,
+   "end": 240.8,
+   "text": "least four percent"
+  },
+  {
+   "start": 237.84,
+   "end": 243.52,
+   "text": "of drugs are needed to the icus"
+  },
+  {
+   "start": 240.8,
+   "end": 246.72,
+   "text": "are because of sepsis"
+  },
+  {
+   "start": 243.52,
+   "end": 248.08,
+   "text": "in terms in terms of mortality rates"
+  },
+  {
+   "start": 246.72,
+   "end": 250.56,
+   "text": "we have"
+  },
+  {
+   "start": 248.08,
+   "end": 254.32,
+   "text": "different rates ranging between"
+  },
+  {
+   "start": 250.56,
+   "end": 256.16,
+   "text": "50 to 36 percent these are the"
+  },
+  {
+   "start": 254.32,
+   "end": 257.84,
+   "text": "publications available"
+  },
+  {
+   "start": 256.16,
+   "end": 260.64,
+   "text": "for the mortality rates in the last"
+  },
+  {
+   "start": 257.84,
+   "end": 260.64,
+   "text": "couple of years"
+  },
+  {
+   "start": 262.32,
+   "end": 269.0,
+   "text": "so let us review the immune response in"
+  },
+  {
+   "start": 265.2,
+   "end": 269.0,
+   "text": "vital organ failure"
+  },
+  {
+   "start": 271.52,
+   "end": 278.24,
+   "text": "a summary of the immune response"
+  },
+  {
+   "start": 275.04,
+   "end": 281.04,
+   "text": "on the left column we see several arrows"
+  },
+  {
+   "start": 278.24,
+   "end": 283.84,
+   "text": "that will start with stimuli"
+  },
+  {
+   "start": 281.04,
+   "end": 287.36,
+   "text": "sensors and effective cells"
+  },
+  {
+   "start": 283.84,
+   "end": 290.48,
+   "text": "we have modulators and biomarkers and we"
+  },
+  {
+   "start": 287.36,
+   "end": 290.48,
+   "text": "have outcomes"
+  },
+  {
+   "start": 290.8,
+   "end": 294.4,
+   "text": "we will be dealing with sensors"
+  },
+  {
+   "start": 293.12,
+   "end": 297.84,
+   "text": "and"
+  },
+  {
+   "start": 294.4,
+   "end": 299.2,
+   "text": "in the cells we'll be focusing on"
+  },
+  {
+   "start": 297.84,
+   "end": 301.76,
+   "text": "neutrophils"
+  },
+  {
+   "start": 299.2,
+   "end": 303.52,
+   "text": "here we have the sensors"
+  },
+  {
+   "start": 301.76,
+   "end": 305.52,
+   "text": "here we have"
+  },
+  {
+   "start": 303.52,
+   "end": 308.08,
+   "text": "the organs affected"
+  },
+  {
+   "start": 305.52,
+   "end": 310.88,
+   "text": "and obviously today we'll be focusing"
+  },
+  {
+   "start": 308.08,
+   "end": 315.12,
+   "text": "ourselves on the nucleophiles and the"
+  },
+  {
+   "start": 310.88,
+   "end": 317.12,
+   "text": "role in organ sepsis in organ failure"
+  },
+  {
+   "start": 315.12,
+   "end": 320.4,
+   "text": "just a review on"
+  },
+  {
+   "start": 317.12,
+   "end": 323.52,
+   "text": "the immune response basically is divided"
+  },
+  {
+   "start": 320.4,
+   "end": 326.72,
+   "text": "into two major phases"
+  },
+  {
+   "start": 323.52,
+   "end": 330.08,
+   "text": "in systems innate immunity"
+  },
+  {
+   "start": 326.72,
+   "end": 332.72,
+   "text": "and adaptive immunity"
+  },
+  {
+   "start": 330.08,
+   "end": 335.12,
+   "text": "in innate immunity we have the microbes"
+  },
+  {
+   "start": 332.72,
+   "end": 336.64,
+   "text": "so we have molecules derived from this"
+  },
+  {
+   "start": 335.12,
+   "end": 339.76,
+   "text": "damage"
+  },
+  {
+   "start": 336.64,
+   "end": 342.56,
+   "text": "that the these will be sensed or"
+  },
+  {
+   "start": 339.76,
+   "end": 345.2,
+   "text": "detected in epithelial barriers"
+  },
+  {
+   "start": 342.56,
+   "end": 348.08,
+   "text": "by the neutrophils"
+  },
+  {
+   "start": 345.2,
+   "end": 351.04,
+   "text": "and we have the triggering of"
+  },
+  {
+   "start": 348.08,
+   "end": 353.84,
+   "text": "several inflammatory cascades leading to"
+  },
+  {
+   "start": 351.04,
+   "end": 353.84,
+   "text": "organ failure"
+  },
+  {
+   "start": 354.32,
+   "end": 357.92,
+   "text": "this is a very nice"
+  },
+  {
+   "start": 356.16,
+   "end": 359.92,
+   "text": "paper"
+  },
+  {
+   "start": 357.92,
+   "end": 362.56,
+   "text": "that describes"
+  },
+  {
+   "start": 359.92,
+   "end": 364.96,
+   "text": "the molecular biology of inflammation of"
+  },
+  {
+   "start": 362.56,
+   "end": 366.48,
+   "text": "sepsis"
+  },
+  {
+   "start": 364.96,
+   "end": 367.36,
+   "text": "this in this paper"
+  },
+  {
+   "start": 366.48,
+   "end": 369.84,
+   "text": "guys"
+  },
+  {
+   "start": 367.36,
+   "end": 369.84,
+   "text": "we have"
+  },
+  {
+   "start": 369.92,
+   "end": 372.0,
+   "text": "two"
+  },
+  {
+   "start": 370.72,
+   "end": 375.04,
+   "text": "different"
+  },
+  {
+   "start": 372.0,
+   "end": 378.16,
+   "text": "origins of molecules that will trigger"
+  },
+  {
+   "start": 375.04,
+   "end": 381.36,
+   "text": "a response that has been sensed by three"
+  },
+  {
+   "start": 378.16,
+   "end": 384.56,
+   "text": "types of receptors"
+  },
+  {
+   "start": 381.36,
+   "end": 387.6,
+   "text": "the molecules are even are"
+  },
+  {
+   "start": 384.56,
+   "end": 388.4,
+   "text": "those derived from pathogens"
+  },
+  {
+   "start": 387.6,
+   "end": 391.84,
+   "text": "or"
+  },
+  {
+   "start": 388.4,
+   "end": 394.48,
+   "text": "those derived from damage from our own"
+  },
+  {
+   "start": 391.84,
+   "end": 395.84,
+   "text": "cells"
+  },
+  {
+   "start": 394.48,
+   "end": 399.12,
+   "text": "these"
+  },
+  {
+   "start": 395.84,
+   "end": 401.8,
+   "text": "cells they have molecular patterns"
+  },
+  {
+   "start": 399.12,
+   "end": 404.24,
+   "text": "so we have two types of patterns"
+  },
+  {
+   "start": 401.8,
+   "end": 407.12,
+   "text": "pathogen-associated molecular patterns"
+  },
+  {
+   "start": 404.24,
+   "end": 410.0,
+   "text": "damage associated molecular patterns"
+  },
+  {
+   "start": 407.12,
+   "end": 413.2,
+   "text": "that they will be recognized by three"
+  },
+  {
+   "start": 410.0,
+   "end": 413.2,
+   "text": "types of receptors"
+  },
+  {
+   "start": 413.6,
+   "end": 419.52,
+   "text": "these receptors are present"
+  },
+  {
+   "start": 416.16,
+   "end": 421.52,
+   "text": "in the cells of the immune system"
+  },
+  {
+   "start": 419.52,
+   "end": 422.64,
+   "text": "we will be focusing on one of those"
+  },
+  {
+   "start": 421.52,
+   "end": 425.04,
+   "text": "receptors"
+  },
+  {
+   "start": 422.64,
+   "end": 426.0,
+   "text": "which is the first one you see here is"
+  },
+  {
+   "start": 425.04,
+   "end": 428.64,
+   "text": "the tall"
+  },
+  {
+   "start": 426.0,
+   "end": 428.64,
+   "text": "receptors"
+  },
+  {
+   "start": 429.76,
+   "end": 434.48,
+   "text": "what are the toll-like receptors"
+  },
+  {
+   "start": 432.32,
+   "end": 437.52,
+   "text": "these are transmembrane proteins"
+  },
+  {
+   "start": 434.48,
+   "end": 439.84,
+   "text": "expressed in cells of the innate immune"
+  },
+  {
+   "start": 437.52,
+   "end": 443.44,
+   "text": "system"
+  },
+  {
+   "start": 439.84,
+   "end": 446.64,
+   "text": "they do recognize molecules in pathogens"
+  },
+  {
+   "start": 443.44,
+   "end": 448.88,
+   "text": "that are not observed in mammals"
+  },
+  {
+   "start": 446.64,
+   "end": 450.4,
+   "text": "and activate signal transduction"
+  },
+  {
+   "start": 448.88,
+   "end": 452.64,
+   "text": "pathways leading"
+  },
+  {
+   "start": 450.4,
+   "end": 454.32,
+   "text": "to inflammatory responses to destroy"
+  },
+  {
+   "start": 452.64,
+   "end": 456.56,
+   "text": "these pathogens"
+  },
+  {
+   "start": 454.32,
+   "end": 458.0,
+   "text": "they are present in flies"
+  },
+  {
+   "start": 456.56,
+   "end": 460.4,
+   "text": "in mammals"
+  },
+  {
+   "start": 458.0,
+   "end": 462.56,
+   "text": "that are some molecules to"
+  },
+  {
+   "start": 460.4,
+   "end": 466.32,
+   "text": "these receptors in flies and they are"
+  },
+  {
+   "start": 462.56,
+   "end": 469.76,
+   "text": "designated as the toll-like receptors"
+  },
+  {
+   "start": 466.32,
+   "end": 470.8,
+   "text": "we have a total of 11 proteins here we"
+  },
+  {
+   "start": 469.76,
+   "end": 473.44,
+   "text": "have"
+  },
+  {
+   "start": 470.8,
+   "end": 476.4,
+   "text": "we should focus on the lower part it"
+  },
+  {
+   "start": 473.44,
+   "end": 479.84,
+   "text": "says pathogen and pamps those are the"
+  },
+  {
+   "start": 476.4,
+   "end": 479.84,
+   "text": "receptors that we're referring to"
+  },
+  {
+   "start": 480.4,
+   "end": 484.88,
+   "text": "initially"
+  },
+  {
+   "start": 482.08,
+   "end": 487.2,
+   "text": "we have two groups of molecules on the"
+  },
+  {
+   "start": 484.88,
+   "end": 490.4,
+   "text": "left you will see"
+  },
+  {
+   "start": 487.2,
+   "end": 492.72,
+   "text": "these cell molecules derived from"
+  },
+  {
+   "start": 490.4,
+   "end": 494.88,
+   "text": "inflammation of tissue damage"
+  },
+  {
+   "start": 492.72,
+   "end": 496.08,
+   "text": "and they are endogenous molecules"
+  },
+  {
+   "start": 494.88,
+   "end": 497.12,
+   "text": "released"
+  },
+  {
+   "start": 496.08,
+   "end": 499.44,
+   "text": "by"
+  },
+  {
+   "start": 497.12,
+   "end": 501.2,
+   "text": "tissues and necrotic"
+  },
+  {
+   "start": 499.44,
+   "end": 503.84,
+   "text": "area cells"
+  },
+  {
+   "start": 501.2,
+   "end": 506.96,
+   "text": "and on the right we have those molecules"
+  },
+  {
+   "start": 503.84,
+   "end": 509.92,
+   "text": "produced by microorganisms"
+  },
+  {
+   "start": 506.96,
+   "end": 511.68,
+   "text": "exogenous microorganisms"
+  },
+  {
+   "start": 509.92,
+   "end": 514.08,
+   "text": "these molecules"
+  },
+  {
+   "start": 511.68,
+   "end": 515.6,
+   "text": "have patterns and those patterns are"
+  },
+  {
+   "start": 514.08,
+   "end": 518.72,
+   "text": "recognized"
+  },
+  {
+   "start": 515.6,
+   "end": 519.76,
+   "text": "by these tall receptors"
+  },
+  {
+   "start": 518.72,
+   "end": 522.08,
+   "text": "and"
+  },
+  {
+   "start": 519.76,
+   "end": 524.4,
+   "text": "as you can see here"
+  },
+  {
+   "start": 522.08,
+   "end": 526.16,
+   "text": "you have downstream cascades being"
+  },
+  {
+   "start": 524.4,
+   "end": 529.12,
+   "text": "activated that are extremely"
+  },
+  {
+   "start": 526.16,
+   "end": 529.12,
+   "text": "pro-inflammatory"
+  },
+  {
+   "start": 529.36,
+   "end": 532.64,
+   "text": "essentially when you activate these"
+  },
+  {
+   "start": 531.44,
+   "end": 535.12,
+   "text": "cascades"
+  },
+  {
+   "start": 532.64,
+   "end": 538.0,
+   "text": "you will then"
+  },
+  {
+   "start": 535.12,
+   "end": 539.84,
+   "text": "produce a structure called inflammasome"
+  },
+  {
+   "start": 538.0,
+   "end": 542.48,
+   "text": "which is responsible"
+  },
+  {
+   "start": 539.84,
+   "end": 543.92,
+   "text": "to induce the production of all"
+  },
+  {
+   "start": 542.48,
+   "end": 546.56,
+   "text": "inflammatory"
+  },
+  {
+   "start": 543.92,
+   "end": 546.56,
+   "text": "cytokines"
+  },
+  {
+   "start": 546.96,
+   "end": 551.52,
+   "text": "the immune response"
+  },
+  {
+   "start": 548.64,
+   "end": 553.28,
+   "text": "local and systemic in terms of the"
+  },
+  {
+   "start": 551.52,
+   "end": 555.6,
+   "text": "innate immune system"
+  },
+  {
+   "start": 553.28,
+   "end": 559.68,
+   "text": "we begin with the bacterium and also"
+  },
+  {
+   "start": 555.6,
+   "end": 561.6,
+   "text": "there is as you can see on point a"
+  },
+  {
+   "start": 559.68,
+   "end": 563.36,
+   "text": "we have a balance between systemic and"
+  },
+  {
+   "start": 561.6,
+   "end": 564.88,
+   "text": "local"
+  },
+  {
+   "start": 563.36,
+   "end": 567.52,
+   "text": "on point b"
+  },
+  {
+   "start": 564.88,
+   "end": 571.04,
+   "text": "local begins to increase"
+  },
+  {
+   "start": 567.52,
+   "end": 573.68,
+   "text": "its response bacteria begin to grow"
+  },
+  {
+   "start": 571.04,
+   "end": 576.56,
+   "text": "and then when we have a systemic inva"
+  },
+  {
+   "start": 573.68,
+   "end": 578.48,
+   "text": "infection is when the inflammation is"
+  },
+  {
+   "start": 576.56,
+   "end": 580.4,
+   "text": "spread out throughout the system the"
+  },
+  {
+   "start": 578.48,
+   "end": 582.48,
+   "text": "balance is broken down"
+  },
+  {
+   "start": 580.4,
+   "end": 585.28,
+   "text": "so we have a the"
+  },
+  {
+   "start": 582.48,
+   "end": 588.16,
+   "text": "initial phases of sepsis"
+  },
+  {
+   "start": 585.28,
+   "end": 591.04,
+   "text": "you can appreciate the basic response"
+  },
+  {
+   "start": 588.16,
+   "end": 593.28,
+   "text": "where you have two types of"
+  },
+  {
+   "start": 591.04,
+   "end": 596.56,
+   "text": "inflammatory responses"
+  },
+  {
+   "start": 593.28,
+   "end": 601.44,
+   "text": "we have a hyperinflammatory and then a"
+  },
+  {
+   "start": 596.56,
+   "end": 602.96,
+   "text": "an ipo inflammatory the arrow just shows"
+  },
+  {
+   "start": 601.44,
+   "end": 606.16,
+   "text": "here"
+  },
+  {
+   "start": 602.96,
+   "end": 611.04,
+   "text": "where in this inflammation processes"
+  },
+  {
+   "start": 606.16,
+   "end": 611.04,
+   "text": "the cytokine storm begins to take place"
+  },
+  {
+   "start": 612.32,
+   "end": 617.6,
+   "text": "on the on point a"
+  },
+  {
+   "start": 615.04,
+   "end": 619.84,
+   "text": "you have here in yellow"
+  },
+  {
+   "start": 617.6,
+   "end": 621.6,
+   "text": "when the system begins to"
+  },
+  {
+   "start": 619.84,
+   "end": 624.24,
+   "text": "control itself"
+  },
+  {
+   "start": 621.6,
+   "end": 628.56,
+   "text": "you have a controlled anti-inflammatory"
+  },
+  {
+   "start": 624.24,
+   "end": 630.24,
+   "text": "response and you may reach omnispaces"
+  },
+  {
+   "start": 628.56,
+   "end": 632.4,
+   "text": "on point b"
+  },
+  {
+   "start": 630.24,
+   "end": 633.84,
+   "text": "this inflammatory response"
+  },
+  {
+   "start": 632.4,
+   "end": 635.84,
+   "text": "may be"
+  },
+  {
+   "start": 633.84,
+   "end": 639.12,
+   "text": "uncontrolled"
+  },
+  {
+   "start": 635.84,
+   "end": 642.16,
+   "text": "however there are some patients that"
+  },
+  {
+   "start": 639.12,
+   "end": 644.96,
+   "text": "they reach homeostasis"
+  },
+  {
+   "start": 642.16,
+   "end": 646.72,
+   "text": "and on point c"
+  },
+  {
+   "start": 644.96,
+   "end": 649.12,
+   "text": "you have an uncontrollable and"
+  },
+  {
+   "start": 646.72,
+   "end": 651.76,
+   "text": "inflammatory response"
+  },
+  {
+   "start": 649.12,
+   "end": 653.52,
+   "text": "the patient cannot control it this type"
+  },
+  {
+   "start": 651.76,
+   "end": 655.44,
+   "text": "of a situation"
+  },
+  {
+   "start": 653.52,
+   "end": 657.28,
+   "text": "and then you have"
+  },
+  {
+   "start": 655.44,
+   "end": 661.44,
+   "text": "that most of the patients they do"
+  },
+  {
+   "start": 657.28,
+   "end": 663.76,
+   "text": "succumb to the inflammatory response"
+  },
+  {
+   "start": 661.44,
+   "end": 665.84,
+   "text": "in music we show here"
+  },
+  {
+   "start": 663.76,
+   "end": 667.44,
+   "text": "several things so the first of all on"
+  },
+  {
+   "start": 665.84,
+   "end": 669.36,
+   "text": "the x-axis"
+  },
+  {
+   "start": 667.44,
+   "end": 672.08,
+   "text": "you will see that"
+  },
+  {
+   "start": 669.36,
+   "end": 675.04,
+   "text": "uh you have a liberation of biomarkers"
+  },
+  {
+   "start": 672.08,
+   "end": 676.64,
+   "text": "which you may assess through time"
+  },
+  {
+   "start": 675.04,
+   "end": 679.92,
+   "text": "these view markers are used for"
+  },
+  {
+   "start": 676.64,
+   "end": 684.16,
+   "text": "diagnosis to modulate"
+  },
+  {
+   "start": 679.92,
+   "end": 687.92,
+   "text": "the therapy or to measure the outcome"
+  },
+  {
+   "start": 684.16,
+   "end": 691.12,
+   "text": "the yellow bars show where you have an"
+  },
+  {
+   "start": 687.92,
+   "end": 692.88,
+   "text": "immune suppression in these patients"
+  },
+  {
+   "start": 691.12,
+   "end": 694.56,
+   "text": "even you can control the primary"
+  },
+  {
+   "start": 692.88,
+   "end": 697.84,
+   "text": "infection you may have a secondary"
+  },
+  {
+   "start": 694.56,
+   "end": 701.04,
+   "text": "infection or an oso communal infection"
+  },
+  {
+   "start": 697.84,
+   "end": 701.04,
+   "text": "then the patient succumbs"
+  },
+  {
+   "start": 701.2,
+   "end": 708.96,
+   "text": "so now let's go to the neutrophils"
+  },
+  {
+   "start": 704.88,
+   "end": 711.12,
+   "text": "two fields are the first line of defense"
+  },
+  {
+   "start": 708.96,
+   "end": 713.12,
+   "text": "it is the main cell type involved in"
+  },
+  {
+   "start": 711.12,
+   "end": 716.4,
+   "text": "acute inflammation"
+  },
+  {
+   "start": 713.12,
+   "end": 718.72,
+   "text": "and some chronic inflammations as well"
+  },
+  {
+   "start": 716.4,
+   "end": 720.96,
+   "text": "the main functions include"
+  },
+  {
+   "start": 718.72,
+   "end": 724.32,
+   "text": "secretion of molecules"
+  },
+  {
+   "start": 720.96,
+   "end": 728.72,
+   "text": "migration and phagocytosis"
+  },
+  {
+   "start": 724.32,
+   "end": 731.04,
+   "text": "in fact they secrete over 400 molecules"
+  },
+  {
+   "start": 728.72,
+   "end": 732.72,
+   "text": "so dysfunctional neutrophil biology and"
+  },
+  {
+   "start": 731.04,
+   "end": 735.6,
+   "text": "sepsis"
+  },
+  {
+   "start": 732.72,
+   "end": 737.04,
+   "text": "it leads to significant changes in lab"
+  },
+  {
+   "start": 735.6,
+   "end": 739.52,
+   "text": "sepsis"
+  },
+  {
+   "start": 737.04,
+   "end": 743.04,
+   "text": "that will contribute to the development"
+  },
+  {
+   "start": 739.52,
+   "end": 746.24,
+   "text": "of all secondary complications"
+  },
+  {
+   "start": 743.04,
+   "end": 748.88,
+   "text": "so when infection begins"
+  },
+  {
+   "start": 746.24,
+   "end": 750.96,
+   "text": "there is a mobilization marginalization"
+  },
+  {
+   "start": 748.88,
+   "end": 752.16,
+   "text": "and rolling to the epithelial"
+  },
+  {
+   "start": 750.96,
+   "end": 755.2,
+   "text": "endothelium"
+  },
+  {
+   "start": 752.16,
+   "end": 757.92,
+   "text": "and a vision and trust migration"
+  },
+  {
+   "start": 755.2,
+   "end": 761.92,
+   "text": "from the wall of the blood into areas"
+  },
+  {
+   "start": 757.92,
+   "end": 764.0,
+   "text": "where the neutrophils are needed"
+  },
+  {
+   "start": 761.92,
+   "end": 766.72,
+   "text": "to illustrate that on the left you see"
+  },
+  {
+   "start": 764.0,
+   "end": 769.04,
+   "text": "that we have first mobilization"
+  },
+  {
+   "start": 766.72,
+   "end": 771.92,
+   "text": "and marginalization"
+  },
+  {
+   "start": 769.04,
+   "end": 773.28,
+   "text": "second the rolling of the cells in the"
+  },
+  {
+   "start": 771.92,
+   "end": 776.24,
+   "text": "endothelium"
+  },
+  {
+   "start": 773.28,
+   "end": 778.56,
+   "text": "and then the transmigration through the"
+  },
+  {
+   "start": 776.24,
+   "end": 783.72,
+   "text": "wall of the blood vessels"
+  },
+  {
+   "start": 778.56,
+   "end": 783.72,
+   "text": "into the areas where they are needed"
+  },
+  {
+   "start": 806.72,
+   "end": 811.44,
+   "text": "so continuing on this neutrophil"
+  },
+  {
+   "start": 809.44,
+   "end": 813.6,
+   "text": "dysfunction sepsis"
+  },
+  {
+   "start": 811.44,
+   "end": 816.96,
+   "text": "we see here on"
+  },
+  {
+   "start": 813.6,
+   "end": 819.04,
+   "text": "number a which is the normal endothelium"
+  },
+  {
+   "start": 816.96,
+   "end": 820.88,
+   "text": "interactions between"
+  },
+  {
+   "start": 819.04,
+   "end": 823.92,
+   "text": "the neutrophils"
+  },
+  {
+   "start": 820.88,
+   "end": 825.12,
+   "text": "and the receptors is normal you see that"
+  },
+  {
+   "start": 823.92,
+   "end": 826.72,
+   "text": "there aren't"
+  },
+  {
+   "start": 825.12,
+   "end": 829.12,
+   "text": "any other"
+  },
+  {
+   "start": 826.72,
+   "end": 830.24,
+   "text": "you know involving more particles more"
+  },
+  {
+   "start": 829.12,
+   "end": 832.24,
+   "text": "molecules"
+  },
+  {
+   "start": 830.24,
+   "end": 832.96,
+   "text": "however on"
+  },
+  {
+   "start": 832.24,
+   "end": 835.52,
+   "text": "b"
+  },
+  {
+   "start": 832.96,
+   "end": 837.6,
+   "text": "you could see that we have uh"
+  },
+  {
+   "start": 835.52,
+   "end": 839.84,
+   "text": "activated into fields"
+  },
+  {
+   "start": 837.6,
+   "end": 842.0,
+   "text": "these may change in color just to"
+  },
+  {
+   "start": 839.84,
+   "end": 844.56,
+   "text": "illustrate some of the changes that"
+  },
+  {
+   "start": 842.0,
+   "end": 846.64,
+   "text": "they're suffering they have"
+  },
+  {
+   "start": 844.56,
+   "end": 848.88,
+   "text": "going through so they have a couple of"
+  },
+  {
+   "start": 846.64,
+   "end": 851.36,
+   "text": "yellow dots these are molecules that"
+  },
+  {
+   "start": 848.88,
+   "end": 852.56,
+   "text": "have been released by all of these cells"
+  },
+  {
+   "start": 851.36,
+   "end": 854.88,
+   "text": "that cause"
+  },
+  {
+   "start": 852.56,
+   "end": 857.2,
+   "text": "a greater accumulation of these"
+  },
+  {
+   "start": 854.88,
+   "end": 858.96,
+   "text": "neutrophils"
+  },
+  {
+   "start": 857.2,
+   "end": 860.48,
+   "text": "so when neutral fields could begin to"
+  },
+  {
+   "start": 858.96,
+   "end": 862.4,
+   "text": "accumulate"
+  },
+  {
+   "start": 860.48,
+   "end": 865.68,
+   "text": "they are following"
+  },
+  {
+   "start": 862.4,
+   "end": 866.96,
+   "text": "certain commands which is first initiate"
+  },
+  {
+   "start": 865.68,
+   "end": 868.48,
+   "text": "activation"
+  },
+  {
+   "start": 866.96,
+   "end": 871.28,
+   "text": "dangerous signals"
+  },
+  {
+   "start": 868.48,
+   "end": 873.36,
+   "text": "and then they suffer or they go through"
+  },
+  {
+   "start": 871.28,
+   "end": 875.52,
+   "text": "important changes"
+  },
+  {
+   "start": 873.36,
+   "end": 876.8,
+   "text": "so we have three relevant questions at"
+  },
+  {
+   "start": 875.52,
+   "end": 878.4,
+   "text": "this point"
+  },
+  {
+   "start": 876.8,
+   "end": 880.64,
+   "text": "what changes are found in the"
+  },
+  {
+   "start": 878.4,
+   "end": 882.88,
+   "text": "neutrophils during the migration to the"
+  },
+  {
+   "start": 880.64,
+   "end": 886.08,
+   "text": "institutional space"
+  },
+  {
+   "start": 882.88,
+   "end": 888.48,
+   "text": "what will the neutrophils find"
+  },
+  {
+   "start": 886.08,
+   "end": 889.84,
+   "text": "in the interstitial space"
+  },
+  {
+   "start": 888.48,
+   "end": 893.52,
+   "text": "what will"
+  },
+  {
+   "start": 889.84,
+   "end": 894.4,
+   "text": "these neutrophils do in the interstitial"
+  },
+  {
+   "start": 893.52,
+   "end": 896.8,
+   "text": "space"
+  },
+  {
+   "start": 894.4,
+   "end": 898.48,
+   "text": "so let us see uh look for the answers"
+  },
+  {
+   "start": 896.8,
+   "end": 901.12,
+   "text": "for for these"
+  },
+  {
+   "start": 898.48,
+   "end": 903.76,
+   "text": "questions first of all what changes do"
+  },
+  {
+   "start": 901.12,
+   "end": 906.48,
+   "text": "we see in the neutrophils"
+  },
+  {
+   "start": 903.76,
+   "end": 909.28,
+   "text": "they change their elasticity"
+  },
+  {
+   "start": 906.48,
+   "end": 911.44,
+   "text": "pro-inflammatory mediators are released"
+  },
+  {
+   "start": 909.28,
+   "end": 913.04,
+   "text": "by bacterial products"
+  },
+  {
+   "start": 911.44,
+   "end": 917.6,
+   "text": "and they result"
+  },
+  {
+   "start": 913.04,
+   "end": 917.6,
+   "text": "in the increased leukocyte stiffness"
+  },
+  {
+   "start": 918.08,
+   "end": 924.84,
+   "text": "neutrophils become sequestered"
+  },
+  {
+   "start": 921.04,
+   "end": 927.12,
+   "text": "in the capillary beds in organs like"
+  },
+  {
+   "start": 924.84,
+   "end": 928.56,
+   "text": "liver like"
+  },
+  {
+   "start": 927.12,
+   "end": 931.04,
+   "text": "lungs"
+  },
+  {
+   "start": 928.56,
+   "end": 933.28,
+   "text": "there is a reduction in the leukocyte"
+  },
+  {
+   "start": 931.04,
+   "end": 936.16,
+   "text": "movements during sepsis"
+  },
+  {
+   "start": 933.28,
+   "end": 938.96,
+   "text": "that this may contribute even more to"
+  },
+  {
+   "start": 936.16,
+   "end": 941.6,
+   "text": "the neutrophil sequestration in vascular"
+  },
+  {
+   "start": 938.96,
+   "end": 944.32,
+   "text": "and vascular occlusion"
+  },
+  {
+   "start": 941.6,
+   "end": 948.88,
+   "text": "thus promoting tissue ischemia and"
+  },
+  {
+   "start": 944.32,
+   "end": 951.04,
+   "text": "dysfunctions of various organs"
+  },
+  {
+   "start": 948.88,
+   "end": 953.52,
+   "text": "also these alterations between the"
+  },
+  {
+   "start": 951.04,
+   "end": 954.72,
+   "text": "endothelial cells and neutrophils are"
+  },
+  {
+   "start": 953.52,
+   "end": 957.52,
+   "text": "altered"
+  },
+  {
+   "start": 954.72,
+   "end": 960.4,
+   "text": "the profiles of addition molecules"
+  },
+  {
+   "start": 957.52,
+   "end": 962.24,
+   "text": "and its expression in neutrophils"
+  },
+  {
+   "start": 960.4,
+   "end": 964.08,
+   "text": "and in material cells"
+  },
+  {
+   "start": 962.24,
+   "end": 965.2,
+   "text": "further promote"
+  },
+  {
+   "start": 964.08,
+   "end": 967.2,
+   "text": "firm"
+  },
+  {
+   "start": 965.2,
+   "end": 969.28,
+   "text": "and neutrophil addition to the"
+  },
+  {
+   "start": 967.2,
+   "end": 972.0,
+   "text": "vasculature"
+  },
+  {
+   "start": 969.28,
+   "end": 974.88,
+   "text": "moving to the sites of infection"
+  },
+  {
+   "start": 972.0,
+   "end": 975.92,
+   "text": "is controlled by cytokines"
+  },
+  {
+   "start": 974.88,
+   "end": 977.36,
+   "text": "and by"
+  },
+  {
+   "start": 975.92,
+   "end": 981.2,
+   "text": "a set of"
+  },
+  {
+   "start": 977.36,
+   "end": 983.68,
+   "text": "particles called microparticles"
+  },
+  {
+   "start": 981.2,
+   "end": 986.8,
+   "text": "also there is a determination of"
+  },
+  {
+   "start": 983.68,
+   "end": 989.2,
+   "text": "neutrophil migration in sepsis"
+  },
+  {
+   "start": 986.8,
+   "end": 991.36,
+   "text": "which means that the migration is"
+  },
+  {
+   "start": 989.2,
+   "end": 993.2,
+   "text": "compromised"
+  },
+  {
+   "start": 991.36,
+   "end": 997.76,
+   "text": "due to the excessive"
+  },
+  {
+   "start": 993.2,
+   "end": 999.12,
+   "text": "release of pro-inflammatory mediators"
+  },
+  {
+   "start": 997.76,
+   "end": 1001.36,
+   "text": "here we have"
+  },
+  {
+   "start": 999.12,
+   "end": 1002.48,
+   "text": "adjust this graphic to describe to"
+  },
+  {
+   "start": 1001.36,
+   "end": 1005.52,
+   "text": "illustrate"
+  },
+  {
+   "start": 1002.48,
+   "end": 1008.8,
+   "text": "the presence of particles"
+  },
+  {
+   "start": 1005.52,
+   "end": 1010.64,
+   "text": "in the white squares you can see that we"
+  },
+  {
+   "start": 1008.8,
+   "end": 1012.0,
+   "text": "have micro particles derived from"
+  },
+  {
+   "start": 1010.64,
+   "end": 1014.96,
+   "text": "platelets"
+  },
+  {
+   "start": 1012.0,
+   "end": 1017.12,
+   "text": "micro particles micro particles derived"
+  },
+  {
+   "start": 1014.96,
+   "end": 1019.84,
+   "text": "from epithelial cells"
+  },
+  {
+   "start": 1017.12,
+   "end": 1021.76,
+   "text": "in micro particles the right to form"
+  },
+  {
+   "start": 1019.84,
+   "end": 1024.16,
+   "text": "neutrophils as well"
+  },
+  {
+   "start": 1021.76,
+   "end": 1026.8,
+   "text": "these micro particles will be guiding"
+  },
+  {
+   "start": 1024.16,
+   "end": 1028.08,
+   "text": "the production of cytokines and also the"
+  },
+  {
+   "start": 1026.8,
+   "end": 1030.72,
+   "text": "movements"
+  },
+  {
+   "start": 1028.08,
+   "end": 1033.76,
+   "text": "of the neutrophils"
+  },
+  {
+   "start": 1030.72,
+   "end": 1036.96,
+   "text": "particles microparticles let's see"
+  },
+  {
+   "start": 1033.76,
+   "end": 1036.96,
+   "text": "what what are they"
+  },
+  {
+   "start": 1037.28,
+   "end": 1041.6,
+   "text": "these macro particles microparticles are"
+  },
+  {
+   "start": 1039.76,
+   "end": 1043.44,
+   "text": "produced by endothelial cells by"
+  },
+  {
+   "start": 1041.6,
+   "end": 1045.68,
+   "text": "leukocytes"
+  },
+  {
+   "start": 1043.44,
+   "end": 1045.68,
+   "text": "by"
+  },
+  {
+   "start": 1045.76,
+   "end": 1048.72,
+   "text": "population"
+  },
+  {
+   "start": 1047.76,
+   "end": 1050.4,
+   "text": "and"
+  },
+  {
+   "start": 1048.72,
+   "end": 1053.52,
+   "text": "they will"
+  },
+  {
+   "start": 1050.4,
+   "end": 1055.2,
+   "text": "enhance the pro-inflammatory"
+  },
+  {
+   "start": 1053.52,
+   "end": 1057.12,
+   "text": "activities of"
+  },
+  {
+   "start": 1055.2,
+   "end": 1059.04,
+   "text": "the"
+  },
+  {
+   "start": 1057.12,
+   "end": 1060.0,
+   "text": "neutrophils"
+  },
+  {
+   "start": 1059.04,
+   "end": 1061.68,
+   "text": "this"
+  },
+  {
+   "start": 1060.0,
+   "end": 1064.72,
+   "text": "slide will show"
+  },
+  {
+   "start": 1061.68,
+   "end": 1066.72,
+   "text": "a couple of the receptors present"
+  },
+  {
+   "start": 1064.72,
+   "end": 1068.48,
+   "text": "in the neutrophils"
+  },
+  {
+   "start": 1066.72,
+   "end": 1070.0,
+   "text": "and at the bottom you can see an"
+  },
+  {
+   "start": 1068.48,
+   "end": 1071.36,
+   "text": "endothelial cell"
+  },
+  {
+   "start": 1070.0,
+   "end": 1074.8,
+   "text": "secreting"
+  },
+  {
+   "start": 1071.36,
+   "end": 1078.24,
+   "text": "endothelial micro particles"
+  },
+  {
+   "start": 1074.8,
+   "end": 1082.32,
+   "text": "these particles will start"
+  },
+  {
+   "start": 1078.24,
+   "end": 1084.56,
+   "text": "to accumulate then we have activation of"
+  },
+  {
+   "start": 1082.32,
+   "end": 1087.52,
+   "text": "our resting platelets"
+  },
+  {
+   "start": 1084.56,
+   "end": 1089.68,
+   "text": "we have the trigger of pro-inflammatory"
+  },
+  {
+   "start": 1087.52,
+   "end": 1092.32,
+   "text": "mediators as well"
+  },
+  {
+   "start": 1089.68,
+   "end": 1093.12,
+   "text": "you begin to activate"
+  },
+  {
+   "start": 1092.32,
+   "end": 1095.36,
+   "text": "the"
+  },
+  {
+   "start": 1093.12,
+   "end": 1098.0,
+   "text": "classic cascade of complement"
+  },
+  {
+   "start": 1095.36,
+   "end": 1100.08,
+   "text": "and then we have a very very dangerous"
+  },
+  {
+   "start": 1098.0,
+   "end": 1102.72,
+   "text": "situation"
+  },
+  {
+   "start": 1100.08,
+   "end": 1103.84,
+   "text": "here you can see in the arrows and in"
+  },
+  {
+   "start": 1102.72,
+   "end": 1106.0,
+   "text": "the wide"
+  },
+  {
+   "start": 1103.84,
+   "end": 1109.92,
+   "text": "lines of the squares"
+  },
+  {
+   "start": 1106.0,
+   "end": 1112.4,
+   "text": "the formation of micro particles"
+  },
+  {
+   "start": 1109.92,
+   "end": 1113.68,
+   "text": "in megakaryocytes"
+  },
+  {
+   "start": 1112.4,
+   "end": 1117.76,
+   "text": "from"
+  },
+  {
+   "start": 1113.68,
+   "end": 1117.76,
+   "text": "a experimental model in mice"
+  },
+  {
+   "start": 1120.4,
+   "end": 1124.64,
+   "text": "the next step is to expand the"
+  },
+  {
+   "start": 1123.2,
+   "end": 1126.32,
+   "text": "inflammation"
+  },
+  {
+   "start": 1124.64,
+   "end": 1128.64,
+   "text": "so an acute phase"
+  },
+  {
+   "start": 1126.32,
+   "end": 1132.32,
+   "text": "neutrophils entering the circulation can"
+  },
+  {
+   "start": 1128.64,
+   "end": 1135.36,
+   "text": "spread inflammation to other organs"
+  },
+  {
+   "start": 1132.32,
+   "end": 1137.6,
+   "text": "and as a consequence you will be leading"
+  },
+  {
+   "start": 1135.36,
+   "end": 1140.48,
+   "text": "to an additional damage"
+  },
+  {
+   "start": 1137.6,
+   "end": 1142.8,
+   "text": "in the late phases there is a state of"
+  },
+  {
+   "start": 1140.48,
+   "end": 1144.76,
+   "text": "immune refractedness"
+  },
+  {
+   "start": 1142.8,
+   "end": 1147.92,
+   "text": "with reasonable amounts of"
+  },
+  {
+   "start": 1144.76,
+   "end": 1150.8,
+   "text": "anti-inflammatory cytokines and"
+  },
+  {
+   "start": 1147.92,
+   "end": 1152.48,
+   "text": "specific inhibitors of cytokines"
+  },
+  {
+   "start": 1150.8,
+   "end": 1156.64,
+   "text": "remember that there is"
+  },
+  {
+   "start": 1152.48,
+   "end": 1158.72,
+   "text": "a phase where we have immunosuppression"
+  },
+  {
+   "start": 1156.64,
+   "end": 1160.96,
+   "text": "the lack of maintenance of balance"
+  },
+  {
+   "start": 1158.72,
+   "end": 1164.24,
+   "text": "between inflammation"
+  },
+  {
+   "start": 1160.96,
+   "end": 1166.4,
+   "text": "and anti-inflammation breaks down we"
+  },
+  {
+   "start": 1164.24,
+   "end": 1167.44,
+   "text": "have complement activation"
+  },
+  {
+   "start": 1166.4,
+   "end": 1171.36,
+   "text": "and then"
+  },
+  {
+   "start": 1167.44,
+   "end": 1174.48,
+   "text": "we have an expansion of the inflammation"
+  },
+  {
+   "start": 1171.36,
+   "end": 1174.48,
+   "text": "inflammatory process"
+  },
+  {
+   "start": 1176.0,
+   "end": 1180.16,
+   "text": "additional steps are taken"
+  },
+  {
+   "start": 1178.56,
+   "end": 1182.48,
+   "text": "here on the left"
+  },
+  {
+   "start": 1180.16,
+   "end": 1184.88,
+   "text": "you will see that the neutral fields"
+  },
+  {
+   "start": 1182.48,
+   "end": 1186.56,
+   "text": "they begin to activate themselves"
+  },
+  {
+   "start": 1184.88,
+   "end": 1188.32,
+   "text": "and to liberate"
+  },
+  {
+   "start": 1186.56,
+   "end": 1190.32,
+   "text": "and structure called"
+  },
+  {
+   "start": 1188.32,
+   "end": 1192.88,
+   "text": "nets"
+  },
+  {
+   "start": 1190.32,
+   "end": 1195.28,
+   "text": "once this starts"
+  },
+  {
+   "start": 1192.88,
+   "end": 1197.68,
+   "text": "on a septic shock"
+  },
+  {
+   "start": 1195.28,
+   "end": 1199.76,
+   "text": "there is an occlusion of"
+  },
+  {
+   "start": 1197.68,
+   "end": 1203.2,
+   "text": "these spaces and"
+  },
+  {
+   "start": 1199.76,
+   "end": 1204.84,
+   "text": "you will have a damaged organ but let us"
+  },
+  {
+   "start": 1203.2,
+   "end": 1206.96,
+   "text": "see what nets"
+  },
+  {
+   "start": 1204.84,
+   "end": 1207.84,
+   "text": "are nets"
+  },
+  {
+   "start": 1206.96,
+   "end": 1210.64,
+   "text": "are"
+  },
+  {
+   "start": 1207.84,
+   "end": 1213.36,
+   "text": "extracellular traps"
+  },
+  {
+   "start": 1210.64,
+   "end": 1215.84,
+   "text": "and they are formed by the"
+  },
+  {
+   "start": 1213.36,
+   "end": 1217.68,
+   "text": "and nuclear stones"
+  },
+  {
+   "start": 1215.84,
+   "end": 1221.28,
+   "text": "and dna"
+  },
+  {
+   "start": 1217.68,
+   "end": 1222.64,
+   "text": "and the role is to trap bacteria and to"
+  },
+  {
+   "start": 1221.28,
+   "end": 1225.12,
+   "text": "kill that"
+  },
+  {
+   "start": 1222.64,
+   "end": 1227.76,
+   "text": "they also contain enzymes which are"
+  },
+  {
+   "start": 1225.12,
+   "end": 1230.4,
+   "text": "responsible for the killing of the"
+  },
+  {
+   "start": 1227.76,
+   "end": 1230.4,
+   "text": "bacteria"
+  },
+  {
+   "start": 1230.64,
+   "end": 1235.68,
+   "text": "we show a couple of"
+  },
+  {
+   "start": 1233.2,
+   "end": 1237.44,
+   "text": "microscope pictures taken from an"
+  },
+  {
+   "start": 1235.68,
+   "end": 1238.64,
+   "text": "experiment"
+  },
+  {
+   "start": 1237.44,
+   "end": 1241.28,
+   "text": "which"
+  },
+  {
+   "start": 1238.64,
+   "end": 1244.24,
+   "text": "shows the morphologic morphological"
+  },
+  {
+   "start": 1241.28,
+   "end": 1246.4,
+   "text": "changes in the ptosis"
+  },
+  {
+   "start": 1244.24,
+   "end": 1248.8,
+   "text": "from the top left you see that the"
+  },
+  {
+   "start": 1246.4,
+   "end": 1249.76,
+   "text": "chromatin loses compaction"
+  },
+  {
+   "start": 1248.8,
+   "end": 1252.48,
+   "text": "next"
+  },
+  {
+   "start": 1249.76,
+   "end": 1253.52,
+   "text": "the nuclear envelope breaks"
+  },
+  {
+   "start": 1252.48,
+   "end": 1256.48,
+   "text": "next"
+  },
+  {
+   "start": 1253.52,
+   "end": 1258.72,
+   "text": "the nucleoplasm becomes homogeneous and"
+  },
+  {
+   "start": 1256.48,
+   "end": 1261.44,
+   "text": "at that time on the lower left"
+  },
+  {
+   "start": 1258.72,
+   "end": 1262.72,
+   "text": "there is a rupture in the mem cell"
+  },
+  {
+   "start": 1261.44,
+   "end": 1265.28,
+   "text": "membrane"
+  },
+  {
+   "start": 1262.72,
+   "end": 1267.28,
+   "text": "the chromatin is expelled"
+  },
+  {
+   "start": 1265.28,
+   "end": 1269.44,
+   "text": "and the ptosis is"
+  },
+  {
+   "start": 1267.28,
+   "end": 1272.08,
+   "text": "formed"
+  },
+  {
+   "start": 1269.44,
+   "end": 1275.92,
+   "text": "so what is at this point in time"
+  },
+  {
+   "start": 1272.08,
+   "end": 1278.8,
+   "text": "in the middle you may observe the nets"
+  },
+  {
+   "start": 1275.92,
+   "end": 1282.0,
+   "text": "and the next to the right you will see"
+  },
+  {
+   "start": 1278.8,
+   "end": 1286.0,
+   "text": "that there is a clump if we call it that"
+  },
+  {
+   "start": 1282.0,
+   "end": 1289.92,
+   "text": "way which is a thrombose formation"
+  },
+  {
+   "start": 1286.0,
+   "end": 1291.04,
+   "text": "it includes rbcs it includes platelets"
+  },
+  {
+   "start": 1289.92,
+   "end": 1295.44,
+   "text": "and then"
+  },
+  {
+   "start": 1291.04,
+   "end": 1295.44,
+   "text": "we begin the process of organ failure"
+  },
+  {
+   "start": 1297.04,
+   "end": 1301.28,
+   "text": "it's a nice micrograph shows that the"
+  },
+  {
+   "start": 1299.44,
+   "end": 1305.84,
+   "text": "presence of"
+  },
+  {
+   "start": 1301.28,
+   "end": 1305.84,
+   "text": "nets in activated neutrophils"
+  },
+  {
+   "start": 1306.88,
+   "end": 1312.24,
+   "text": "the role of the nets is to trap and to"
+  },
+  {
+   "start": 1310.08,
+   "end": 1315.28,
+   "text": "kill a bacteria"
+  },
+  {
+   "start": 1312.24,
+   "end": 1317.52,
+   "text": "this nice experiment we can see"
+  },
+  {
+   "start": 1315.28,
+   "end": 1319.44,
+   "text": "first of all on the left on on the"
+  },
+  {
+   "start": 1317.52,
+   "end": 1322.32,
+   "text": "micrograph ea"
+  },
+  {
+   "start": 1319.44,
+   "end": 1326.0,
+   "text": "these are non-activated neutrophils they"
+  },
+  {
+   "start": 1322.32,
+   "end": 1328.32,
+   "text": "have very nice round shapes on b"
+  },
+  {
+   "start": 1326.0,
+   "end": 1330.96,
+   "text": "once they activate it they begin to"
+  },
+  {
+   "start": 1328.32,
+   "end": 1333.6,
+   "text": "change the morphology"
+  },
+  {
+   "start": 1330.96,
+   "end": 1335.92,
+   "text": "on d you begin to see"
+  },
+  {
+   "start": 1333.6,
+   "end": 1337.28,
+   "text": "that they make fibers"
+  },
+  {
+   "start": 1335.92,
+   "end": 1338.96,
+   "text": "on e"
+  },
+  {
+   "start": 1337.28,
+   "end": 1340.8,
+   "text": "the nets are formed and they are"
+  },
+  {
+   "start": 1338.96,
+   "end": 1343.2,
+   "text": "expelled into the surrounding"
+  },
+  {
+   "start": 1340.8,
+   "end": 1344.4,
+   "text": "environment"
+  },
+  {
+   "start": 1343.2,
+   "end": 1346.8,
+   "text": "so it"
+  },
+  {
+   "start": 1344.4,
+   "end": 1348.28,
+   "text": "will trap bacteria we have here an"
+  },
+  {
+   "start": 1346.8,
+   "end": 1350.8,
+   "text": "example of"
+  },
+  {
+   "start": 1348.28,
+   "end": 1353.52,
+   "text": "estrophilococcus ariels salmonella"
+  },
+  {
+   "start": 1350.8,
+   "end": 1353.52,
+   "text": "typical"
+  },
+  {
+   "start": 1353.68,
+   "end": 1358.4,
+   "text": "in these examples the bacteria are"
+  },
+  {
+   "start": 1356.56,
+   "end": 1360.48,
+   "text": "trapped and remember that they are"
+  },
+  {
+   "start": 1358.4,
+   "end": 1363.28,
+   "text": "enzymes"
+  },
+  {
+   "start": 1360.48,
+   "end": 1365.68,
+   "text": "trapped also in these nets and the"
+  },
+  {
+   "start": 1363.28,
+   "end": 1368.96,
+   "text": "bacteria is killed"
+  },
+  {
+   "start": 1365.68,
+   "end": 1371.04,
+   "text": "the last bacteria is shigella flexionary"
+  },
+  {
+   "start": 1368.96,
+   "end": 1372.84,
+   "text": "you can see that these bacterias are in"
+  },
+  {
+   "start": 1371.04,
+   "end": 1374.64,
+   "text": "the process of being"
+  },
+  {
+   "start": 1372.84,
+   "end": 1378.16,
+   "text": "destroyed"
+  },
+  {
+   "start": 1374.64,
+   "end": 1381.6,
+   "text": "and yes nets do exist in veterinary"
+  },
+  {
+   "start": 1378.16,
+   "end": 1384.32,
+   "text": "medicine this is a an excellent paper"
+  },
+  {
+   "start": 1381.6,
+   "end": 1386.16,
+   "text": "uh showing that"
+  },
+  {
+   "start": 1384.32,
+   "end": 1388.72,
+   "text": "the nets do exist"
+  },
+  {
+   "start": 1386.16,
+   "end": 1391.04,
+   "text": "in animals in dogs"
+  },
+  {
+   "start": 1388.72,
+   "end": 1392.08,
+   "text": "here we have experiment we have a three"
+  },
+  {
+   "start": 1391.04,
+   "end": 1393.52,
+   "text": "or four"
+  },
+  {
+   "start": 1392.08,
+   "end": 1395.28,
+   "text": "different concentrations of an"
+  },
+  {
+   "start": 1393.52,
+   "end": 1397.28,
+   "text": "activating agent"
+  },
+  {
+   "start": 1395.28,
+   "end": 1399.68,
+   "text": "the top row"
+  },
+  {
+   "start": 1397.28,
+   "end": 1400.56,
+   "text": "is the control and you can see it on the"
+  },
+  {
+   "start": 1399.68,
+   "end": 1402.48,
+   "text": "last"
+  },
+  {
+   "start": 1400.56,
+   "end": 1403.52,
+   "text": "column on the right"
+  },
+  {
+   "start": 1402.48,
+   "end": 1405.36,
+   "text": "shows"
+  },
+  {
+   "start": 1403.52,
+   "end": 1408.48,
+   "text": "normal morphology"
+  },
+  {
+   "start": 1405.36,
+   "end": 1411.84,
+   "text": "and the uh two of uh"
+  },
+  {
+   "start": 1408.48,
+   "end": 1414.08,
+   "text": "different concentrations on 6.4 and 31"
+  },
+  {
+   "start": 1411.84,
+   "end": 1416.32,
+   "text": "millimolar"
+  },
+  {
+   "start": 1414.08,
+   "end": 1419.44,
+   "text": "activated agents you can see that the"
+  },
+  {
+   "start": 1416.32,
+   "end": 1421.44,
+   "text": "morphology is changing and the nets are"
+  },
+  {
+   "start": 1419.44,
+   "end": 1422.72,
+   "text": "formed"
+  },
+  {
+   "start": 1421.44,
+   "end": 1425.84,
+   "text": "there's also a couple of other"
+  },
+  {
+   "start": 1422.72,
+   "end": 1427.92,
+   "text": "publications on on both wine"
+  },
+  {
+   "start": 1425.84,
+   "end": 1430.08,
+   "text": "and in cats as well"
+  },
+  {
+   "start": 1427.92,
+   "end": 1432.48,
+   "text": "this uh odd these are all the"
+  },
+  {
+   "start": 1430.08,
+   "end": 1434.56,
+   "text": "publications in general medicine that"
+  },
+  {
+   "start": 1432.48,
+   "end": 1436.48,
+   "text": "shows that yes"
+  },
+  {
+   "start": 1434.56,
+   "end": 1439.12,
+   "text": "nets exist and they have the same"
+  },
+  {
+   "start": 1436.48,
+   "end": 1439.8,
+   "text": "functions as we've described in mars in"
+  },
+  {
+   "start": 1439.12,
+   "end": 1443.2,
+   "text": "the"
+  },
+  {
+   "start": 1439.8,
+   "end": 1447.12,
+   "text": "endometriosis in dogs and in bovine"
+  },
+  {
+   "start": 1443.2,
+   "end": 1448.96,
+   "text": "especially in volvo mastitis"
+  },
+  {
+   "start": 1447.12,
+   "end": 1451.36,
+   "text": "pollutions"
+  },
+  {
+   "start": 1448.96,
+   "end": 1454.48,
+   "text": "two fields are the hosts the first line"
+  },
+  {
+   "start": 1451.36,
+   "end": 1457.12,
+   "text": "against invading pathogens however"
+  },
+  {
+   "start": 1454.48,
+   "end": 1459.6,
+   "text": "in sepsis and inceptive shock"
+  },
+  {
+   "start": 1457.12,
+   "end": 1463.04,
+   "text": "there is a paralysis of the response"
+  },
+  {
+   "start": 1459.6,
+   "end": 1466.48,
+   "text": "resulting in the inability of the host"
+  },
+  {
+   "start": 1463.04,
+   "end": 1467.6,
+   "text": "to contain and eliminate infection"
+  },
+  {
+   "start": 1466.48,
+   "end": 1471.28,
+   "text": "now"
+  },
+  {
+   "start": 1467.6,
+   "end": 1474.08,
+   "text": "neutrophils are important contributors"
+  },
+  {
+   "start": 1471.28,
+   "end": 1477.68,
+   "text": "to form blocks and thrombosis leading to"
+  },
+  {
+   "start": 1474.08,
+   "end": 1478.88,
+   "text": "defective diffusion and organ failure as"
+  },
+  {
+   "start": 1477.68,
+   "end": 1482.16,
+   "text": "shown here"
+  },
+  {
+   "start": 1478.88,
+   "end": 1482.16,
+   "text": "on the last slide"
+  },
+  {
+   "start": 1482.24,
+   "end": 1485.8,
+   "text": "thank you very much"
+  },
+  {
+   "start": 1496.88,
+   "end": 1502.64,
+   "text": "the agenda for today will be"
+  },
+  {
+   "start": 1500.56,
+   "end": 1504.72,
+   "text": "will state the purpose of"
+  },
+  {
+   "start": 1502.64,
+   "end": 1508.08,
+   "text": "we have we will do it"
+  },
+  {
+   "start": 1504.72,
+   "end": 1509.2,
+   "text": "the introduction about biomarkers"
+  },
+  {
+   "start": 1508.08,
+   "end": 1511.36,
+   "text": "lactate"
+  },
+  {
+   "start": 1509.2,
+   "end": 1516.32,
+   "text": "we'll discuss a few things on process"
+  },
+  {
+   "start": 1511.36,
+   "end": 1516.32,
+   "text": "calcium and then the discussions"
+  },
+  {
+   "start": 1516.96,
+   "end": 1521.12,
+   "text": "so the purpose is"
+  },
+  {
+   "start": 1519.52,
+   "end": 1523.04,
+   "text": "to address"
+  },
+  {
+   "start": 1521.12,
+   "end": 1525.6,
+   "text": "the use of biomarkers in sepsis in"
+  },
+  {
+   "start": 1523.04,
+   "end": 1529.68,
+   "text": "veterinary medicine with emphasis on"
+  },
+  {
+   "start": 1525.6,
+   "end": 1533.68,
+   "text": "lactate and calcitonin"
+  },
+  {
+   "start": 1529.68,
+   "end": 1533.68,
+   "text": "let's begin with a small introduction"
+  },
+  {
+   "start": 1533.92,
+   "end": 1538.48,
+   "text": "in chapter number 1 we discuss the"
+  },
+  {
+   "start": 1536.4,
+   "end": 1540.0,
+   "text": "immunopathology of sepsips"
+  },
+  {
+   "start": 1538.48,
+   "end": 1542.64,
+   "text": "and then you will see on the first"
+  },
+  {
+   "start": 1540.0,
+   "end": 1545.6,
+   "text": "column you have certain phases that will"
+  },
+  {
+   "start": 1542.64,
+   "end": 1548.72,
+   "text": "begin with the insult the trigger"
+  },
+  {
+   "start": 1545.6,
+   "end": 1551.28,
+   "text": "sensor and effector cells"
+  },
+  {
+   "start": 1548.72,
+   "end": 1552.8,
+   "text": "mediators and biomarkers"
+  },
+  {
+   "start": 1551.28,
+   "end": 1555.36,
+   "text": "impact"
+  },
+  {
+   "start": 1552.8,
+   "end": 1556.48,
+   "text": "on organ function of those mediators and"
+  },
+  {
+   "start": 1555.36,
+   "end": 1559.52,
+   "text": "biomarkers"
+  },
+  {
+   "start": 1556.48,
+   "end": 1559.52,
+   "text": "and an outcome"
+  },
+  {
+   "start": 1560.0,
+   "end": 1563.92,
+   "text": "so we'll be focusing on mediators and"
+  },
+  {
+   "start": 1562.32,
+   "end": 1566.96,
+   "text": "biomarkers"
+  },
+  {
+   "start": 1563.92,
+   "end": 1571.36,
+   "text": "with emphasis only on two biomarkers"
+  },
+  {
+   "start": 1566.96,
+   "end": 1575.44,
+   "text": "since they are over 175 body markers"
+  },
+  {
+   "start": 1571.36,
+   "end": 1575.44,
+   "text": "with some degrees of evidence today"
+  },
+  {
+   "start": 1575.76,
+   "end": 1579.28,
+   "text": "so as you know"
+  },
+  {
+   "start": 1577.12,
+   "end": 1581.12,
+   "text": "it is a time"
+  },
+  {
+   "start": 1579.28,
+   "end": 1584.4,
+   "text": "frame"
+  },
+  {
+   "start": 1581.12,
+   "end": 1586.16,
+   "text": "situation where biomarker assessment has"
+  },
+  {
+   "start": 1584.4,
+   "end": 1587.6,
+   "text": "to be conducted"
+  },
+  {
+   "start": 1586.16,
+   "end": 1589.44,
+   "text": "through time"
+  },
+  {
+   "start": 1587.6,
+   "end": 1591.2,
+   "text": "for diagnosis"
+  },
+  {
+   "start": 1589.44,
+   "end": 1592.4,
+   "text": "monitoring therapy"
+  },
+  {
+   "start": 1591.2,
+   "end": 1597.2,
+   "text": "outcome"
+  },
+  {
+   "start": 1592.4,
+   "end": 1597.2,
+   "text": "surrogate and estatification of patients"
+  },
+  {
+   "start": 1597.28,
+   "end": 1602.4,
+   "text": "let us begin"
+  },
+  {
+   "start": 1598.88,
+   "end": 1604.16,
+   "text": "a little bit on biomarkers"
+  },
+  {
+   "start": 1602.4,
+   "end": 1607.28,
+   "text": "marcus"
+  },
+  {
+   "start": 1604.16,
+   "end": 1608.48,
+   "text": "is a characteristic that is objectively"
+  },
+  {
+   "start": 1607.28,
+   "end": 1611.84,
+   "text": "measured"
+  },
+  {
+   "start": 1608.48,
+   "end": 1614.24,
+   "text": "and evaluated as an indicator of normal"
+  },
+  {
+   "start": 1611.84,
+   "end": 1617.84,
+   "text": "biological processes"
+  },
+  {
+   "start": 1614.24,
+   "end": 1621.36,
+   "text": "pathogenic or pharmacologic response to"
+  },
+  {
+   "start": 1617.84,
+   "end": 1623.92,
+   "text": "a therapeutic intervention"
+  },
+  {
+   "start": 1621.36,
+   "end": 1626.96,
+   "text": "useful useless wholeness"
+  },
+  {
+   "start": 1623.92,
+   "end": 1628.88,
+   "text": "is evaluated by the capacity"
+  },
+  {
+   "start": 1626.96,
+   "end": 1630.16,
+   "text": "of those biomarkers"
+  },
+  {
+   "start": 1628.88,
+   "end": 1633.28,
+   "text": "to provide"
+  },
+  {
+   "start": 1630.16,
+   "end": 1635.68,
+   "text": "timely information that is critical for"
+  },
+  {
+   "start": 1633.28,
+   "end": 1637.52,
+   "text": "each condition"
+  },
+  {
+   "start": 1635.68,
+   "end": 1641.6,
+   "text": "beyond that is really available from"
+  },
+  {
+   "start": 1637.52,
+   "end": 1643.84,
+   "text": "routine physiological and clinical data"
+  },
+  {
+   "start": 1641.6,
+   "end": 1646.56,
+   "text": "speed and accuracy"
+  },
+  {
+   "start": 1643.84,
+   "end": 1650.8,
+   "text": "then we have sensitivity and we have the"
+  },
+  {
+   "start": 1646.56,
+   "end": 1650.8,
+   "text": "specificity of these biomarkers"
+  },
+  {
+   "start": 1651.2,
+   "end": 1654.72,
+   "text": "let us review a little bit the"
+  },
+  {
+   "start": 1652.56,
+   "end": 1656.08,
+   "text": "literature to see what are we facing"
+  },
+  {
+   "start": 1654.72,
+   "end": 1659.04,
+   "text": "today"
+  },
+  {
+   "start": 1656.08,
+   "end": 1660.64,
+   "text": "so there is a publication a systematic"
+  },
+  {
+   "start": 1659.04,
+   "end": 1662.72,
+   "text": "literature review"
+  },
+  {
+   "start": 1660.64,
+   "end": 1665.28,
+   "text": "and the methods were"
+  },
+  {
+   "start": 1662.72,
+   "end": 1668.48,
+   "text": "they searched the pubmed database using"
+  },
+  {
+   "start": 1665.28,
+   "end": 1671.68,
+   "text": "the key word sepsis and biomarkers to"
+  },
+  {
+   "start": 1668.48,
+   "end": 1675.36,
+   "text": "identify clinical experimental studies"
+  },
+  {
+   "start": 1671.68,
+   "end": 1679.84,
+   "text": "which evaluated a biomarker in sepsis"
+  },
+  {
+   "start": 1675.36,
+   "end": 1679.84,
+   "text": "and the results showed that they are"
+  },
+  {
+   "start": 1680.2,
+   "end": 1683.64,
+   "text": "3370 references"
+  },
+  {
+   "start": 1682.48,
+   "end": 1686.08,
+   "text": "covering"
+  },
+  {
+   "start": 1683.64,
+   "end": 1687.84,
+   "text": "178 different"
+  },
+  {
+   "start": 1686.08,
+   "end": 1689.92,
+   "text": "biomarkers"
+  },
+  {
+   "start": 1687.84,
+   "end": 1692.4,
+   "text": "so the authors"
+  },
+  {
+   "start": 1689.92,
+   "end": 1694.84,
+   "text": "reached the conclusion that biomarkers"
+  },
+  {
+   "start": 1692.4,
+   "end": 1697.84,
+   "text": "have been evaluated for using"
+  },
+  {
+   "start": 1694.84,
+   "end": 1699.52,
+   "text": "sepsis prognostic"
+  },
+  {
+   "start": 1697.84,
+   "end": 1701.6,
+   "text": "markers and sepsis"
+  },
+  {
+   "start": 1699.52,
+   "end": 1704.72,
+   "text": "there are relatively few"
+  },
+  {
+   "start": 1701.6,
+   "end": 1707.52,
+   "text": "have been used for diagnosis"
+  },
+  {
+   "start": 1704.72,
+   "end": 1709.52,
+   "text": "known as sufficient specificity"
+  },
+  {
+   "start": 1707.52,
+   "end": 1712.48,
+   "text": "and sensitivity"
+  },
+  {
+   "start": 1709.52,
+   "end": 1714.96,
+   "text": "to routinely employ it in the clinical"
+  },
+  {
+   "start": 1712.48,
+   "end": 1716.32,
+   "text": "practice"
+  },
+  {
+   "start": 1714.96,
+   "end": 1718.88,
+   "text": "so we have"
+  },
+  {
+   "start": 1716.32,
+   "end": 1719.84,
+   "text": "a classification of sepsis markers which"
+  },
+  {
+   "start": 1718.88,
+   "end": 1721.92,
+   "text": "include"
+  },
+  {
+   "start": 1719.84,
+   "end": 1725.04,
+   "text": "cytokines and chemokines"
+  },
+  {
+   "start": 1721.92,
+   "end": 1728.4,
+   "text": "we have for example interleukin-1"
+  },
+  {
+   "start": 1725.04,
+   "end": 1731.6,
+   "text": "there is a septal antagonist and tns"
+  },
+  {
+   "start": 1728.4,
+   "end": 1735.2,
+   "text": "cell markers we have the cd40"
+  },
+  {
+   "start": 1731.6,
+   "end": 1736.84,
+   "text": "receptor dfc gamma receptor number three"
+  },
+  {
+   "start": 1735.2,
+   "end": 1740.4,
+   "text": "coagulation"
+  },
+  {
+   "start": 1736.84,
+   "end": 1742.92,
+   "text": "activated partial chromoplastin times"
+  },
+  {
+   "start": 1740.4,
+   "end": 1745.36,
+   "text": "vascular endothelial damage we have the"
+  },
+  {
+   "start": 1742.92,
+   "end": 1746.8,
+   "text": "platelet-derived growth factor"
+  },
+  {
+   "start": 1745.36,
+   "end": 1749.6,
+   "text": "vasodilation"
+  },
+  {
+   "start": 1746.8,
+   "end": 1752.8,
+   "text": "angiotensin converting enzyme"
+  },
+  {
+   "start": 1749.6,
+   "end": 1754.0,
+   "text": "we have also organ dysfunction proponent"
+  },
+  {
+   "start": 1752.8,
+   "end": 1757.28,
+   "text": "in the heart"
+  },
+  {
+   "start": 1754.0,
+   "end": 1759.76,
+   "text": "accuse phase protein crp and calcitonin"
+  },
+  {
+   "start": 1757.28,
+   "end": 1762.16,
+   "text": "and others which we include"
+  },
+  {
+   "start": 1759.76,
+   "end": 1764.56,
+   "text": "lactate and there is a category by"
+  },
+  {
+   "start": 1762.16,
+   "end": 1767.44,
+   "text": "themselves which include component in"
+  },
+  {
+   "start": 1764.56,
+   "end": 1769.92,
+   "text": "the diagnosis"
+  },
+  {
+   "start": 1767.44,
+   "end": 1771.6,
+   "text": "so what are the role markers for us"
+  },
+  {
+   "start": 1769.92,
+   "end": 1772.4,
+   "text": "in the clinic"
+  },
+  {
+   "start": 1771.6,
+   "end": 1773.68,
+   "text": "well"
+  },
+  {
+   "start": 1772.4,
+   "end": 1776.72,
+   "text": "number one"
+  },
+  {
+   "start": 1773.68,
+   "end": 1780.16,
+   "text": "it is to identify a patient with a high"
+  },
+  {
+   "start": 1776.72,
+   "end": 1781.68,
+   "text": "probability of disease"
+  },
+  {
+   "start": 1780.16,
+   "end": 1783.44,
+   "text": "diagnosis"
+  },
+  {
+   "start": 1781.68,
+   "end": 1787.12,
+   "text": "an adverse outcome"
+  },
+  {
+   "start": 1783.44,
+   "end": 1789.76,
+   "text": "or a benefit from intervention"
+  },
+  {
+   "start": 1787.12,
+   "end": 1792.56,
+   "text": "identify presence or absence of"
+  },
+  {
+   "start": 1789.76,
+   "end": 1796.24,
+   "text": "pathologic state and processes"
+  },
+  {
+   "start": 1792.56,
+   "end": 1798.48,
+   "text": "8 in risk stratification and prognosis"
+  },
+  {
+   "start": 1796.24,
+   "end": 1799.44,
+   "text": "monitor response to an interventional"
+  },
+  {
+   "start": 1798.48,
+   "end": 1802.48,
+   "text": "treatment"
+  },
+  {
+   "start": 1799.44,
+   "end": 1805.6,
+   "text": "and serve as a surrogate end point in"
+  },
+  {
+   "start": 1802.48,
+   "end": 1808.56,
+   "text": "clinical studies as well"
+  },
+  {
+   "start": 1805.6,
+   "end": 1810.48,
+   "text": "so let us begin with lactate"
+  },
+  {
+   "start": 1808.56,
+   "end": 1812.24,
+   "text": "it's a conjugate of"
+  },
+  {
+   "start": 1810.48,
+   "end": 1817.6,
+   "text": "base of lactic acid"
+  },
+  {
+   "start": 1812.24,
+   "end": 1820.72,
+   "text": "pka low 3.9 two optical isomers l and d"
+  },
+  {
+   "start": 1817.6,
+   "end": 1822.88,
+   "text": "produced endogenously as a product of"
+  },
+  {
+   "start": 1820.72,
+   "end": 1824.88,
+   "text": "anaerobic metabolism"
+  },
+  {
+   "start": 1822.88,
+   "end": 1828.8,
+   "text": "and the only stress condition on the"
+  },
+  {
+   "start": 1824.88,
+   "end": 1831.6,
+   "text": "normal conditions it's about 0.5 to 2 mm"
+  },
+  {
+   "start": 1828.8,
+   "end": 1831.6,
+   "text": "per liter"
+  },
+  {
+   "start": 1831.92,
+   "end": 1835.68,
+   "text": "so metabolism"
+  },
+  {
+   "start": 1833.44,
+   "end": 1838.72,
+   "text": "at the top we have the mitochondria"
+  },
+  {
+   "start": 1835.68,
+   "end": 1839.76,
+   "text": "oxygen that is the aerobic part of the"
+  },
+  {
+   "start": 1838.72,
+   "end": 1841.92,
+   "text": "cycle"
+  },
+  {
+   "start": 1839.76,
+   "end": 1843.68,
+   "text": "we have the glucose metabolism on the"
+  },
+  {
+   "start": 1841.92,
+   "end": 1844.72,
+   "text": "normal conditions"
+  },
+  {
+   "start": 1843.68,
+   "end": 1845.84,
+   "text": "it goes"
+  },
+  {
+   "start": 1844.72,
+   "end": 1847.6,
+   "text": "through the"
+  },
+  {
+   "start": 1845.84,
+   "end": 1849.44,
+   "text": "aerobic pathway"
+  },
+  {
+   "start": 1847.6,
+   "end": 1851.6,
+   "text": "enters the pyruvate"
+  },
+  {
+   "start": 1849.44,
+   "end": 1852.8,
+   "text": "where we have the pyruvate the"
+  },
+  {
+   "start": 1851.6,
+   "end": 1854.64,
+   "text": "genes"
+  },
+  {
+   "start": 1852.8,
+   "end": 1857.36,
+   "text": "goes to the sucric acid"
+  },
+  {
+   "start": 1854.64,
+   "end": 1859.6,
+   "text": "and pyruvate is produced"
+  },
+  {
+   "start": 1857.36,
+   "end": 1862.4,
+   "text": "at co2 h2"
+  },
+  {
+   "start": 1859.6,
+   "end": 1864.64,
+   "text": "and two lactate and 38 atps that's our"
+  },
+  {
+   "start": 1862.4,
+   "end": 1867.2,
+   "text": "normal energy production"
+  },
+  {
+   "start": 1864.64,
+   "end": 1869.28,
+   "text": "so we have the glucogenic pathway"
+  },
+  {
+   "start": 1867.2,
+   "end": 1872.56,
+   "text": "glucose metabolism"
+  },
+  {
+   "start": 1869.28,
+   "end": 1875.84,
+   "text": "in times of stress disease exercises"
+  },
+  {
+   "start": 1872.56,
+   "end": 1878.96,
+   "text": "accidents trauma infection"
+  },
+  {
+   "start": 1875.84,
+   "end": 1880.8,
+   "text": "so we have high cellular atp"
+  },
+  {
+   "start": 1878.96,
+   "end": 1883.2,
+   "text": "requirements"
+  },
+  {
+   "start": 1880.8,
+   "end": 1885.6,
+   "text": "and that coupled to a mitochondrial"
+  },
+  {
+   "start": 1883.2,
+   "end": 1889.2,
+   "text": "infection because they cannot put up"
+  },
+  {
+   "start": 1885.6,
+   "end": 1891.44,
+   "text": "with the demand so they go for the"
+  },
+  {
+   "start": 1889.2,
+   "end": 1893.6,
+   "text": "anaerobic pathway"
+  },
+  {
+   "start": 1891.44,
+   "end": 1896.08,
+   "text": "it is switched to our less efficient"
+  },
+  {
+   "start": 1893.6,
+   "end": 1897.36,
+   "text": "metabolism metabolism which is the"
+  },
+  {
+   "start": 1896.08,
+   "end": 1899.84,
+   "text": "pyruvate"
+  },
+  {
+   "start": 1897.36,
+   "end": 1902.96,
+   "text": "with the lactate decoy dragonise into"
+  },
+  {
+   "start": 1899.84,
+   "end": 1904.84,
+   "text": "the kodi cycle which actually recycles"
+  },
+  {
+   "start": 1902.96,
+   "end": 1907.68,
+   "text": "everything back again"
+  },
+  {
+   "start": 1904.84,
+   "end": 1910.32,
+   "text": "nevertheless in this point we have only"
+  },
+  {
+   "start": 1907.68,
+   "end": 1911.12,
+   "text": "two lactates and atps"
+  },
+  {
+   "start": 1910.32,
+   "end": 1913.2,
+   "text": "now"
+  },
+  {
+   "start": 1911.12,
+   "end": 1916.32,
+   "text": "there's a rise in lactate"
+  },
+  {
+   "start": 1913.2,
+   "end": 1918.64,
+   "text": "luckily the sustained tissue epoxy"
+  },
+  {
+   "start": 1916.32,
+   "end": 1921.52,
+   "text": "higher anaerobic metabolism"
+  },
+  {
+   "start": 1918.64,
+   "end": 1924.88,
+   "text": "and decrease lactate clearance all of"
+  },
+  {
+   "start": 1921.52,
+   "end": 1927.44,
+   "text": "them taking place at the same time"
+  },
+  {
+   "start": 1924.88,
+   "end": 1928.8,
+   "text": "collected"
+  },
+  {
+   "start": 1927.44,
+   "end": 1930.48,
+   "text": "concentrations"
+  },
+  {
+   "start": 1928.8,
+   "end": 1931.76,
+   "text": "is a balance between production and"
+  },
+  {
+   "start": 1930.48,
+   "end": 1933.76,
+   "text": "clearance"
+  },
+  {
+   "start": 1931.76,
+   "end": 1936.4,
+   "text": "under stress we already mentioned that"
+  },
+  {
+   "start": 1933.76,
+   "end": 1939.76,
+   "text": "is a close to 0.5 to 2"
+  },
+  {
+   "start": 1936.4,
+   "end": 1941.52,
+   "text": "and under strenuous conditions exercises"
+  },
+  {
+   "start": 1939.76,
+   "end": 1944.72,
+   "text": "and so on"
+  },
+  {
+   "start": 1941.52,
+   "end": 1947.2,
+   "text": "we can reach with patients 14 up to 20"
+  },
+  {
+   "start": 1944.72,
+   "end": 1950.96,
+   "text": "millimolar per liter"
+  },
+  {
+   "start": 1947.2,
+   "end": 1953.04,
+   "text": "now why lactate well"
+  },
+  {
+   "start": 1950.96,
+   "end": 1954.96,
+   "text": "under stress lactate is a source of"
+  },
+  {
+   "start": 1953.04,
+   "end": 1957.68,
+   "text": "energy is a package"
+  },
+  {
+   "start": 1954.96,
+   "end": 1960.0,
+   "text": "in the same cell where it is produced"
+  },
+  {
+   "start": 1957.68,
+   "end": 1963.04,
+   "text": "and also in other cells where it can be"
+  },
+  {
+   "start": 1960.0,
+   "end": 1965.84,
+   "text": "used as an important field for oxidation"
+  },
+  {
+   "start": 1963.04,
+   "end": 1968.16,
+   "text": "and glucose generation and remember that"
+  },
+  {
+   "start": 1965.84,
+   "end": 1970.56,
+   "text": "in trauma sepsis"
+  },
+  {
+   "start": 1968.16,
+   "end": 1973.2,
+   "text": "exercise"
+  },
+  {
+   "start": 1970.56,
+   "end": 1975.12,
+   "text": "surgery and so on we need high levels of"
+  },
+  {
+   "start": 1973.2,
+   "end": 1977.84,
+   "text": "glucose generation"
+  },
+  {
+   "start": 1975.12,
+   "end": 1979.12,
+   "text": "so the blood lactate is a marker of"
+  },
+  {
+   "start": 1977.84,
+   "end": 1981.44,
+   "text": "stress"
+  },
+  {
+   "start": 1979.12,
+   "end": 1984.64,
+   "text": "and also it is important for us to"
+  },
+  {
+   "start": 1981.44,
+   "end": 1986.88,
+   "text": "consider lactate clearance which is an"
+  },
+  {
+   "start": 1984.64,
+   "end": 1989.28,
+   "text": "independent predictor of mortality"
+  },
+  {
+   "start": 1986.88,
+   "end": 1992.4,
+   "text": "targeting resuscitation in sepsis to"
+  },
+  {
+   "start": 1989.28,
+   "end": 1993.84,
+   "text": "achieve lactate clearance of at least 10"
+  },
+  {
+   "start": 1992.4,
+   "end": 1996.56,
+   "text": "percent"
+  },
+  {
+   "start": 1993.84,
+   "end": 1997.84,
+   "text": "now hyperlectinia is common in patients"
+  },
+  {
+   "start": 1996.56,
+   "end": 2000.72,
+   "text": "with sepsis"
+  },
+  {
+   "start": 1997.84,
+   "end": 2003.6,
+   "text": "a marker of illness severity"
+  },
+  {
+   "start": 2000.72,
+   "end": 2006.32,
+   "text": "and a strong independent predictor of"
+  },
+  {
+   "start": 2003.6,
+   "end": 2006.32,
+   "text": "mortality"
+  },
+  {
+   "start": 2007.84,
+   "end": 2011.76,
+   "text": "the lactate levels we have two types of"
+  },
+  {
+   "start": 2010.24,
+   "end": 2013.6,
+   "text": "hyperlectemia"
+  },
+  {
+   "start": 2011.76,
+   "end": 2016.48,
+   "text": "a and b"
+  },
+  {
+   "start": 2013.6,
+   "end": 2018.4,
+   "text": "and each one of them is so divided into"
+  },
+  {
+   "start": 2016.48,
+   "end": 2019.2,
+   "text": "further subgroups"
+  },
+  {
+   "start": 2018.4,
+   "end": 2021.2,
+   "text": "a"
+  },
+  {
+   "start": 2019.2,
+   "end": 2023.44,
+   "text": "past two subgrips where we have"
+  },
+  {
+   "start": 2021.2,
+   "end": 2026.72,
+   "text": "increased oxygen demand which is"
+  },
+  {
+   "start": 2023.44,
+   "end": 2028.4,
+   "text": "exercise seizures shivering"
+  },
+  {
+   "start": 2026.72,
+   "end": 2031.04,
+   "text": "decreased oxygen"
+  },
+  {
+   "start": 2028.4,
+   "end": 2033.68,
+   "text": "delivery when the patient might be"
+  },
+  {
+   "start": 2031.04,
+   "end": 2035.36,
+   "text": "inceptive shock blood loss and severe"
+  },
+  {
+   "start": 2033.68,
+   "end": 2038.0,
+   "text": "anemia"
+  },
+  {
+   "start": 2035.36,
+   "end": 2039.68,
+   "text": "type b heart prolactinia not to do to"
+  },
+  {
+   "start": 2038.0,
+   "end": 2042.16,
+   "text": "hypoxia"
+  },
+  {
+   "start": 2039.68,
+   "end": 2045.6,
+   "text": "first it could be associated to an"
+  },
+  {
+   "start": 2042.16,
+   "end": 2048.48,
+   "text": "underlying disease such as sepsis"
+  },
+  {
+   "start": 2045.6,
+   "end": 2050.8,
+   "text": "associated with drugs or toxin"
+  },
+  {
+   "start": 2048.48,
+   "end": 2052.96,
+   "text": "acetyl medicine and cyanide that"
+  },
+  {
+   "start": 2050.8,
+   "end": 2054.36,
+   "text": "lingerie called methanol"
+  },
+  {
+   "start": 2052.96,
+   "end": 2056.72,
+   "text": "and inborn"
+  },
+  {
+   "start": 2054.36,
+   "end": 2058.96,
+   "text": "metabolism errors"
+  },
+  {
+   "start": 2056.72,
+   "end": 2062.8,
+   "text": "and we have here series of mitochondrial"
+  },
+  {
+   "start": 2058.96,
+   "end": 2066.4,
+   "text": "myopathies and enzymatic diseases"
+  },
+  {
+   "start": 2062.8,
+   "end": 2066.4,
+   "text": "in animals we have"
+  },
+  {
+   "start": 2067.2,
+   "end": 2071.04,
+   "text": "in mature dogs and cats the following"
+  },
+  {
+   "start": 2069.52,
+   "end": 2073.2,
+   "text": "levels"
+  },
+  {
+   "start": 2071.04,
+   "end": 2075.52,
+   "text": "in the first column you will see"
+  },
+  {
+   "start": 2073.2,
+   "end": 2078.48,
+   "text": "the lactate concentration"
+  },
+  {
+   "start": 2075.52,
+   "end": 2081.44,
+   "text": "and the next significance"
+  },
+  {
+   "start": 2078.48,
+   "end": 2083.2,
+   "text": "so starts with less than 2.5"
+  },
+  {
+   "start": 2081.44,
+   "end": 2085.68,
+   "text": "millimolar per liter"
+  },
+  {
+   "start": 2083.2,
+   "end": 2086.88,
+   "text": "which is a normal condition normal"
+  },
+  {
+   "start": 2085.68,
+   "end": 2088.96,
+   "text": "levels"
+  },
+  {
+   "start": 2086.88,
+   "end": 2092.36,
+   "text": "2.5 to"
+  },
+  {
+   "start": 2088.96,
+   "end": 2095.6,
+   "text": "4.9 mile elevation"
+  },
+  {
+   "start": 2092.36,
+   "end": 2098.96,
+   "text": "5.5 to 7 more or less"
+  },
+  {
+   "start": 2095.6,
+   "end": 2103.84,
+   "text": "moderate elevation and on the high end"
+  },
+  {
+   "start": 2098.96,
+   "end": 2103.84,
+   "text": "above seven that's a severe elevation"
+  },
+  {
+   "start": 2105.44,
+   "end": 2110.72,
+   "text": "so how can we quantify"
+  },
+  {
+   "start": 2108.48,
+   "end": 2113.12,
+   "text": "the lactate well"
+  },
+  {
+   "start": 2110.72,
+   "end": 2116.48,
+   "text": "there are laboratory methods for serial"
+  },
+  {
+   "start": 2113.12,
+   "end": 2117.76,
+   "text": "lactate measurements and it's important"
+  },
+  {
+   "start": 2116.48,
+   "end": 2119.04,
+   "text": "to"
+  },
+  {
+   "start": 2117.76,
+   "end": 2121.44,
+   "text": "indicate"
+  },
+  {
+   "start": 2119.04,
+   "end": 2124.0,
+   "text": "serial lactate measurements"
+  },
+  {
+   "start": 2121.44,
+   "end": 2126.24,
+   "text": "you have a central lab"
+  },
+  {
+   "start": 2124.0,
+   "end": 2129.04,
+   "text": "could be a little more or less"
+  },
+  {
+   "start": 2126.24,
+   "end": 2131.6,
+   "text": "30 minutes more or less or more it all"
+  },
+  {
+   "start": 2129.04,
+   "end": 2134.56,
+   "text": "depends on the patient load and sample"
+  },
+  {
+   "start": 2131.6,
+   "end": 2136.64,
+   "text": "management they have in simatic methods"
+  },
+  {
+   "start": 2134.56,
+   "end": 2138.96,
+   "text": "blood gas analyzer"
+  },
+  {
+   "start": 2136.64,
+   "end": 2141.92,
+   "text": "you have for example"
+  },
+  {
+   "start": 2138.96,
+   "end": 2144.16,
+   "text": "more or less 30 minutes as well"
+  },
+  {
+   "start": 2141.92,
+   "end": 2145.6,
+   "text": "depending on the pension load and sample"
+  },
+  {
+   "start": 2144.16,
+   "end": 2147.36,
+   "text": "management"
+  },
+  {
+   "start": 2145.6,
+   "end": 2150.24,
+   "text": "on the high-end"
+  },
+  {
+   "start": 2147.36,
+   "end": 2151.84,
+   "text": "academic centers you may have high"
+  },
+  {
+   "start": 2150.24,
+   "end": 2154.56,
+   "text": "patient loads"
+  },
+  {
+   "start": 2151.84,
+   "end": 2157.84,
+   "text": "and you have the pi the handheld"
+  },
+  {
+   "start": 2154.56,
+   "end": 2160.48,
+   "text": "devices plc point of care which is less"
+  },
+  {
+   "start": 2157.84,
+   "end": 2163.84,
+   "text": "than 50 seconds and they rely on"
+  },
+  {
+   "start": 2160.48,
+   "end": 2164.88,
+   "text": "enzymatic biosensors"
+  },
+  {
+   "start": 2163.84,
+   "end": 2166.88,
+   "text": "so"
+  },
+  {
+   "start": 2164.88,
+   "end": 2169.84,
+   "text": "it is critical"
+  },
+  {
+   "start": 2166.88,
+   "end": 2172.72,
+   "text": "to have early measurements"
+  },
+  {
+   "start": 2169.84,
+   "end": 2175.92,
+   "text": "of lactic acid why"
+  },
+  {
+   "start": 2172.72,
+   "end": 2177.12,
+   "text": "to allow a correct triage and address"
+  },
+  {
+   "start": 2175.92,
+   "end": 2179.6,
+   "text": "the patient"
+  },
+  {
+   "start": 2177.12,
+   "end": 2182.4,
+   "text": "to the proper hospital"
+  },
+  {
+   "start": 2179.6,
+   "end": 2184.88,
+   "text": "structure or pathway"
+  },
+  {
+   "start": 2182.4,
+   "end": 2189.12,
+   "text": "to allow the proper therapy to be"
+  },
+  {
+   "start": 2184.88,
+   "end": 2192.96,
+   "text": "administered with no delay that is"
+  },
+  {
+   "start": 2189.12,
+   "end": 2195.52,
+   "text": "time to antibiotics and dedicated"
+  },
+  {
+   "start": 2192.96,
+   "end": 2196.96,
+   "text": "therapy occurring with the sepsis"
+  },
+  {
+   "start": 2195.52,
+   "end": 2199.84,
+   "text": "protocols"
+  },
+  {
+   "start": 2196.96,
+   "end": 2202.24,
+   "text": "and to allow an efficient patient and"
+  },
+  {
+   "start": 2199.84,
+   "end": 2204.48,
+   "text": "monitoring we're at"
+  },
+  {
+   "start": 2202.24,
+   "end": 2207.92,
+   "text": "at the critical care unit"
+  },
+  {
+   "start": 2204.48,
+   "end": 2212.48,
+   "text": "so delay impacts on patients safety and"
+  },
+  {
+   "start": 2207.92,
+   "end": 2212.48,
+   "text": "costs of treatment treatment of course"
+  },
+  {
+   "start": 2212.8,
+   "end": 2218.64,
+   "text": "so it would we do a rapid diagnosis with"
+  },
+  {
+   "start": 2215.68,
+   "end": 2221.36,
+   "text": "point of care this would allow a reduced"
+  },
+  {
+   "start": 2218.64,
+   "end": 2222.88,
+   "text": "turnaround timing diagnosis maybe less"
+  },
+  {
+   "start": 2221.36,
+   "end": 2225.28,
+   "text": "than 15 seconds"
+  },
+  {
+   "start": 2222.88,
+   "end": 2227.92,
+   "text": "reduced blood sample maybe"
+  },
+  {
+   "start": 2225.28,
+   "end": 2229.92,
+   "text": "five to seven microliters leaders"
+  },
+  {
+   "start": 2227.92,
+   "end": 2233.04,
+   "text": "improve key performance indicators of"
+  },
+  {
+   "start": 2229.92,
+   "end": 2236.0,
+   "text": "the patients time to triage time to"
+  },
+  {
+   "start": 2233.04,
+   "end": 2236.0,
+   "text": "antibiotics"
+  },
+  {
+   "start": 2237.36,
+   "end": 2243.68,
+   "text": "so sepsis"
+  },
+  {
+   "start": 2239.12,
+   "end": 2245.68,
+   "text": "has a interesting cycle nowadays as well"
+  },
+  {
+   "start": 2243.68,
+   "end": 2247.44,
+   "text": "you have a management flow of patients"
+  },
+  {
+   "start": 2245.68,
+   "end": 2248.64,
+   "text": "with sepsis and people"
+  },
+  {
+   "start": 2247.44,
+   "end": 2251.36,
+   "text": "you have now"
+  },
+  {
+   "start": 2248.64,
+   "end": 2253.92,
+   "text": "many important clinical trials"
+  },
+  {
+   "start": 2251.36,
+   "end": 2257.6,
+   "text": "detecting set lactic acid in"
+  },
+  {
+   "start": 2253.92,
+   "end": 2260.32,
+   "text": "pre-hospital identification of sepsis"
+  },
+  {
+   "start": 2257.6,
+   "end": 2262.0,
+   "text": "to rapidly channel those patients into"
+  },
+  {
+   "start": 2260.32,
+   "end": 2263.6,
+   "text": "the sepsis protocol"
+  },
+  {
+   "start": 2262.0,
+   "end": 2265.12,
+   "text": "here you can do with"
+  },
+  {
+   "start": 2263.6,
+   "end": 2265.92,
+   "text": "maybe dlc"
+  },
+  {
+   "start": 2265.12,
+   "end": 2267.76,
+   "text": "and"
+  },
+  {
+   "start": 2265.92,
+   "end": 2270.72,
+   "text": "hail lactate"
+  },
+  {
+   "start": 2267.76,
+   "end": 2272.4,
+   "text": "maybe we can have that at the vet clinic"
+  },
+  {
+   "start": 2270.72,
+   "end": 2274.48,
+   "text": "smaller clinics"
+  },
+  {
+   "start": 2272.4,
+   "end": 2276.56,
+   "text": "that they're going to make"
+  },
+  {
+   "start": 2274.48,
+   "end": 2277.68,
+   "text": "a initial diagnosis and association"
+  },
+  {
+   "start": 2276.56,
+   "end": 2278.64,
+   "text": "assessment"
+  },
+  {
+   "start": 2277.68,
+   "end": 2281.68,
+   "text": "and run"
+  },
+  {
+   "start": 2278.64,
+   "end": 2282.64,
+   "text": "into a more specialized unit"
+  },
+  {
+   "start": 2281.68,
+   "end": 2285.52,
+   "text": "here"
+  },
+  {
+   "start": 2282.64,
+   "end": 2287.44,
+   "text": "at the vet clinic they can do also"
+  },
+  {
+   "start": 2285.52,
+   "end": 2289.6,
+   "text": "the uh"
+  },
+  {
+   "start": 2287.44,
+   "end": 2290.64,
+   "text": "that determine the levels of"
+  },
+  {
+   "start": 2289.6,
+   "end": 2293.12,
+   "text": "lactate"
+  },
+  {
+   "start": 2290.64,
+   "end": 2296.8,
+   "text": "and obviously in emergency rooms where"
+  },
+  {
+   "start": 2293.12,
+   "end": 2298.64,
+   "text": "you have all possible equipment"
+  },
+  {
+   "start": 2296.8,
+   "end": 2301.92,
+   "text": "in humans it's very important nowadays"
+  },
+  {
+   "start": 2298.64,
+   "end": 2303.52,
+   "text": "to have all these studies conducted in a"
+  },
+  {
+   "start": 2301.92,
+   "end": 2305.68,
+   "text": "pre-hospital"
+  },
+  {
+   "start": 2303.52,
+   "end": 2307.76,
+   "text": "care"
+  },
+  {
+   "start": 2305.68,
+   "end": 2309.04,
+   "text": "so now let's see a few"
+  },
+  {
+   "start": 2307.76,
+   "end": 2311.76,
+   "text": "studies"
+  },
+  {
+   "start": 2309.04,
+   "end": 2313.52,
+   "text": "one is early lactate guided therapy in"
+  },
+  {
+   "start": 2311.76,
+   "end": 2315.6,
+   "text": "the intensive unit"
+  },
+  {
+   "start": 2313.52,
+   "end": 2317.28,
+   "text": "patients this is a study"
+  },
+  {
+   "start": 2315.6,
+   "end": 2321.2,
+   "text": "in the netherlands"
+  },
+  {
+   "start": 2317.28,
+   "end": 2323.04,
+   "text": "it was uh conducted in 206 to 208"
+  },
+  {
+   "start": 2321.2,
+   "end": 2324.44,
+   "text": "lactic acid as the criteria for"
+  },
+  {
+   "start": 2323.04,
+   "end": 2327.68,
+   "text": "inclusion was"
+  },
+  {
+   "start": 2324.44,
+   "end": 2331.28,
+   "text": "3.0 ml equivalence per liter"
+  },
+  {
+   "start": 2327.68,
+   "end": 2334.08,
+   "text": "and they had two randomized groups one"
+  },
+  {
+   "start": 2331.28,
+   "end": 2337.6,
+   "text": "with serial lactate measurements and the"
+  },
+  {
+   "start": 2334.08,
+   "end": 2339.6,
+   "text": "other one was the control"
+  },
+  {
+   "start": 2337.6,
+   "end": 2342.4,
+   "text": "here vision flow you can see more or"
+  },
+  {
+   "start": 2339.6,
+   "end": 2344.72,
+   "text": "less that they have two groups"
+  },
+  {
+   "start": 2342.4,
+   "end": 2346.8,
+   "text": "on the left is the control on the right"
+  },
+  {
+   "start": 2344.72,
+   "end": 2349.92,
+   "text": "is the ones that have"
+  },
+  {
+   "start": 2346.8,
+   "end": 2352.32,
+   "text": "lactate directed therapy"
+  },
+  {
+   "start": 2349.92,
+   "end": 2353.6,
+   "text": "these ones were subjected to serial"
+  },
+  {
+   "start": 2352.32,
+   "end": 2356.72,
+   "text": "delusions"
+  },
+  {
+   "start": 2353.6,
+   "end": 2359.68,
+   "text": "and certain variables was measured"
+  },
+  {
+   "start": 2356.72,
+   "end": 2362.08,
+   "text": "this is the fourth of that study"
+  },
+  {
+   "start": 2359.68,
+   "end": 2363.04,
+   "text": "indicating that"
+  },
+  {
+   "start": 2362.08,
+   "end": 2364.8,
+   "text": "the"
+  },
+  {
+   "start": 2363.04,
+   "end": 2366.48,
+   "text": "lactate therapy"
+  },
+  {
+   "start": 2364.8,
+   "end": 2369.44,
+   "text": "favored"
+  },
+  {
+   "start": 2366.48,
+   "end": 2371.12,
+   "text": "early icu admission"
+  },
+  {
+   "start": 2369.44,
+   "end": 2372.96,
+   "text": "and this is critical for patient"
+  },
+  {
+   "start": 2371.12,
+   "end": 2374.0,
+   "text": "survival"
+  },
+  {
+   "start": 2372.96,
+   "end": 2375.68,
+   "text": "both"
+  },
+  {
+   "start": 2374.0,
+   "end": 2377.28,
+   "text": "life-take monitor patients have"
+  },
+  {
+   "start": 2375.68,
+   "end": 2379.36,
+   "text": "significantly"
+  },
+  {
+   "start": 2377.28,
+   "end": 2382.0,
+   "text": "less length of stay"
+  },
+  {
+   "start": 2379.36,
+   "end": 2384.08,
+   "text": "and decrease mortality"
+  },
+  {
+   "start": 2382.0,
+   "end": 2385.84,
+   "text": "early lactate detection and serial"
+  },
+  {
+   "start": 2384.08,
+   "end": 2389.84,
+   "text": "measurements provide"
+  },
+  {
+   "start": 2385.84,
+   "end": 2391.92,
+   "text": "obviously clinical benefit"
+  },
+  {
+   "start": 2389.84,
+   "end": 2394.24,
+   "text": "now we mentioned earlier"
+  },
+  {
+   "start": 2391.92,
+   "end": 2395.84,
+   "text": "unlike that clearance"
+  },
+  {
+   "start": 2394.24,
+   "end": 2398.4,
+   "text": "so like the clearance for death"
+  },
+  {
+   "start": 2395.84,
+   "end": 2400.48,
+   "text": "prediction severe sepsis shock"
+  },
+  {
+   "start": 2398.4,
+   "end": 2401.76,
+   "text": "patients during the first 24 hours in"
+  },
+  {
+   "start": 2400.48,
+   "end": 2405.2,
+   "text": "intensive"
+  },
+  {
+   "start": 2401.76,
+   "end": 2409.04,
+   "text": "care unit this is an observational study"
+  },
+  {
+   "start": 2405.2,
+   "end": 2411.76,
+   "text": "these were 94 patients that took place"
+  },
+  {
+   "start": 2409.04,
+   "end": 2413.68,
+   "text": "in the study you had"
+  },
+  {
+   "start": 2411.76,
+   "end": 2416.0,
+   "text": "for rich hospital you have the specific"
+  },
+  {
+   "start": 2413.68,
+   "end": 2418.56,
+   "text": "formulas for the lactate clearance"
+  },
+  {
+   "start": 2416.0,
+   "end": 2421.2,
+   "text": "and the results clearly show the lactic"
+  },
+  {
+   "start": 2418.56,
+   "end": 2423.04,
+   "text": "clearance was higher in survivals than"
+  },
+  {
+   "start": 2421.2,
+   "end": 2426.32,
+   "text": "non-survivors"
+  },
+  {
+   "start": 2423.04,
+   "end": 2428.24,
+   "text": "for the zero six hours and the zero and"
+  },
+  {
+   "start": 2426.32,
+   "end": 2431.84,
+   "text": "24 hours"
+  },
+  {
+   "start": 2428.24,
+   "end": 2435.92,
+   "text": "and the best predictor of death at day"
+  },
+  {
+   "start": 2431.84,
+   "end": 2439.04,
+   "text": "28 was selected clearance"
+  },
+  {
+   "start": 2435.92,
+   "end": 2442.4,
+   "text": "from zero to 24 hours we have here the"
+  },
+  {
+   "start": 2439.04,
+   "end": 2447.16,
+   "text": "area under the cuff 0.79 with intervals"
+  },
+  {
+   "start": 2442.4,
+   "end": 2447.16,
+   "text": "95 percent 2.6 to 8.85"
+  },
+  {
+   "start": 2447.76,
+   "end": 2452.72,
+   "text": "so in dots yes it has been done and the"
+  },
+  {
+   "start": 2450.8,
+   "end": 2455.12,
+   "text": "lactate concentrations and lactic"
+  },
+  {
+   "start": 2452.72,
+   "end": 2458.64,
+   "text": "clearance were good indicators of dogs"
+  },
+  {
+   "start": 2455.12,
+   "end": 2458.64,
+   "text": "with septic peritonitis"
+  },
+  {
+   "start": 2459.6,
+   "end": 2461.52,
+   "text": "now"
+  },
+  {
+   "start": 2460.8,
+   "end": 2464.72,
+   "text": "we"
+  },
+  {
+   "start": 2461.52,
+   "end": 2468.0,
+   "text": "have this study that shows the results"
+  },
+  {
+   "start": 2464.72,
+   "end": 2470.0,
+   "text": "of four point of care meters"
+  },
+  {
+   "start": 2468.0,
+   "end": 2473.28,
+   "text": "were analyzed for rapid determination of"
+  },
+  {
+   "start": 2470.0,
+   "end": 2475.52,
+   "text": "blood lactate in dogs"
+  },
+  {
+   "start": 2473.28,
+   "end": 2479.04,
+   "text": "the conclusions of the authors indicate"
+  },
+  {
+   "start": 2475.52,
+   "end": 2481.36,
+   "text": "that the poc devices were useful in the"
+  },
+  {
+   "start": 2479.04,
+   "end": 2483.84,
+   "text": "clinic because it was very fast"
+  },
+  {
+   "start": 2481.36,
+   "end": 2483.84,
+   "text": "obviously"
+  },
+  {
+   "start": 2484.24,
+   "end": 2488.4,
+   "text": "when we second example"
+  },
+  {
+   "start": 2486.4,
+   "end": 2490.88,
+   "text": "it is important to know"
+  },
+  {
+   "start": 2488.4,
+   "end": 2493.28,
+   "text": "that lactate production by red cells"
+  },
+  {
+   "start": 2490.88,
+   "end": 2495.12,
+   "text": "continues to flow in blood"
+  },
+  {
+   "start": 2493.28,
+   "end": 2496.96,
+   "text": "it means that we have to do it in less"
+  },
+  {
+   "start": 2495.12,
+   "end": 2498.96,
+   "text": "than five minutes"
+  },
+  {
+   "start": 2496.96,
+   "end": 2502.0,
+   "text": "maybe handheld"
+  },
+  {
+   "start": 2498.96,
+   "end": 2503.92,
+   "text": "analyzers are the way to go"
+  },
+  {
+   "start": 2502.0,
+   "end": 2506.72,
+   "text": "blood samples submitted to their lab"
+  },
+  {
+   "start": 2503.92,
+   "end": 2509.36,
+   "text": "analysis should be collected in tubes"
+  },
+  {
+   "start": 2506.72,
+   "end": 2512.48,
+   "text": "containing sodium fluoride"
+  },
+  {
+   "start": 2509.36,
+   "end": 2515.68,
+   "text": "solutions with five percent detros"
+  },
+  {
+   "start": 2512.48,
+   "end": 2519.28,
+   "text": "in norbathalin on vinegar selected have"
+  },
+  {
+   "start": 2515.68,
+   "end": 2521.04,
+   "text": "been shown to alter results over time"
+  },
+  {
+   "start": 2519.28,
+   "end": 2523.52,
+   "text": "and obviously patients that are under"
+  },
+  {
+   "start": 2521.04,
+   "end": 2524.56,
+   "text": "stress and struggling can increase up to"
+  },
+  {
+   "start": 2523.52,
+   "end": 2525.6,
+   "text": "10"
+  },
+  {
+   "start": 2524.56,
+   "end": 2529.44,
+   "text": "fold"
+  },
+  {
+   "start": 2525.6,
+   "end": 2529.44,
+   "text": "especially in cats struggling"
+  },
+  {
+   "start": 2530.8,
+   "end": 2536.24,
+   "text": "traffic shows"
+  },
+  {
+   "start": 2533.2,
+   "end": 2538.0,
+   "text": "that samples were placed on ice and"
+  },
+  {
+   "start": 2536.24,
+   "end": 2540.8,
+   "text": "according with time the levels are"
+  },
+  {
+   "start": 2538.0,
+   "end": 2542.96,
+   "text": "located for increasing"
+  },
+  {
+   "start": 2540.8,
+   "end": 2543.84,
+   "text": "it is important to indicate that white"
+  },
+  {
+   "start": 2542.96,
+   "end": 2545.28,
+   "text": "ice"
+  },
+  {
+   "start": 2543.84,
+   "end": 2550.0,
+   "text": "at zero degrees"
+  },
+  {
+   "start": 2545.28,
+   "end": 2552.56,
+   "text": "decrease the production of lactate"
+  },
+  {
+   "start": 2550.0,
+   "end": 2555.04,
+   "text": "well let's talk about calcitonin that"
+  },
+  {
+   "start": 2552.56,
+   "end": 2557.28,
+   "text": "it's a lot of information nowadays in"
+  },
+  {
+   "start": 2555.04,
+   "end": 2559.92,
+   "text": "human and it's getting into the fat"
+  },
+  {
+   "start": 2557.28,
+   "end": 2563.04,
+   "text": "field as well"
+  },
+  {
+   "start": 2559.92,
+   "end": 2565.76,
+   "text": "the structure is a 116 amino acid"
+  },
+  {
+   "start": 2563.04,
+   "end": 2568.64,
+   "text": "peptide and this is the precursor of the"
+  },
+  {
+   "start": 2565.76,
+   "end": 2571.28,
+   "text": "hormone calcitonin this is the structure"
+  },
+  {
+   "start": 2568.64,
+   "end": 2573.6,
+   "text": "of the cleavage sites on the left and on"
+  },
+  {
+   "start": 2571.28,
+   "end": 2574.56,
+   "text": "the right"
+  },
+  {
+   "start": 2573.6,
+   "end": 2577.44,
+   "text": "it is"
+  },
+  {
+   "start": 2574.56,
+   "end": 2580.0,
+   "text": "release of calcitonin in the context of"
+  },
+  {
+   "start": 2577.44,
+   "end": 2582.4,
+   "text": "the endocrine regulation"
+  },
+  {
+   "start": 2580.0,
+   "end": 2583.2,
+   "text": "that is the synthesis"
+  },
+  {
+   "start": 2582.4,
+   "end": 2585.6,
+   "text": "of"
+  },
+  {
+   "start": 2583.2,
+   "end": 2587.6,
+   "text": "healthy persons and animals"
+  },
+  {
+   "start": 2585.6,
+   "end": 2588.88,
+   "text": "it is taking place in the sea cells of"
+  },
+  {
+   "start": 2587.6,
+   "end": 2591.36,
+   "text": "the thyroid"
+  },
+  {
+   "start": 2588.88,
+   "end": 2592.56,
+   "text": "animals enzymatically converted to"
+  },
+  {
+   "start": 2591.36,
+   "end": 2595.92,
+   "text": "calcitonin"
+  },
+  {
+   "start": 2592.56,
+   "end": 2598.56,
+   "text": "and then stored in endocrine granules"
+  },
+  {
+   "start": 2595.92,
+   "end": 2601.28,
+   "text": "and these are releases"
+  },
+  {
+   "start": 2598.56,
+   "end": 2605.8,
+   "text": "these are released sorry"
+  },
+  {
+   "start": 2601.28,
+   "end": 2605.8,
+   "text": "under certain stress conditions"
+  },
+  {
+   "start": 2607.12,
+   "end": 2610.4,
+   "text": "in the role of senses"
+  },
+  {
+   "start": 2609.28,
+   "end": 2613.92,
+   "text": "this is"
+  },
+  {
+   "start": 2610.4,
+   "end": 2617.84,
+   "text": "a alternative cytokine-like pathway"
+  },
+  {
+   "start": 2613.92,
+   "end": 2620.64,
+   "text": "during the hormone chemokine"
+  },
+  {
+   "start": 2617.84,
+   "end": 2621.44,
+   "text": "bacterial toxins it's very important"
+  },
+  {
+   "start": 2620.64,
+   "end": 2623.6,
+   "text": "here"
+  },
+  {
+   "start": 2621.44,
+   "end": 2625.68,
+   "text": "iron positive or gram negative and"
+  },
+  {
+   "start": 2623.6,
+   "end": 2627.84,
+   "text": "cytokines is stimulated production of"
+  },
+  {
+   "start": 2625.68,
+   "end": 2630.16,
+   "text": "procalcitonin in the"
+  },
+  {
+   "start": 2627.84,
+   "end": 2631.92,
+   "text": "parenchymal tissues"
+  },
+  {
+   "start": 2630.16,
+   "end": 2634.8,
+   "text": "this process can be attenuated or"
+  },
+  {
+   "start": 2631.92,
+   "end": 2636.64,
+   "text": "blocked during viral infection by"
+  },
+  {
+   "start": 2634.8,
+   "end": 2639.28,
+   "text": "interference"
+  },
+  {
+   "start": 2636.64,
+   "end": 2640.88,
+   "text": "non-endocrine tissue for example liver"
+  },
+  {
+   "start": 2639.28,
+   "end": 2643.36,
+   "text": "and lung and brain"
+  },
+  {
+   "start": 2640.88,
+   "end": 2645.2,
+   "text": "since they don't have endocrine granules"
+  },
+  {
+   "start": 2643.36,
+   "end": 2646.48,
+   "text": "to be stored"
+  },
+  {
+   "start": 2645.2,
+   "end": 2647.92,
+   "text": "and also"
+  },
+  {
+   "start": 2646.48,
+   "end": 2649.68,
+   "text": "it's important to mention that"
+  },
+  {
+   "start": 2647.92,
+   "end": 2652.64,
+   "text": "procalcitonin"
+  },
+  {
+   "start": 2649.68,
+   "end": 2657.44,
+   "text": "is released into the bloodstream but is"
+  },
+  {
+   "start": 2652.64,
+   "end": 2657.44,
+   "text": "very short-lived maybe 12 to 14 hours"
+  },
+  {
+   "start": 2657.52,
+   "end": 2662.4,
+   "text": "na expression in septic and control"
+  },
+  {
+   "start": 2660.16,
+   "end": 2665.84,
+   "text": "animals in the first column we have the"
+  },
+  {
+   "start": 2662.4,
+   "end": 2667.44,
+   "text": "tissues that the researchers analyzed"
+  },
+  {
+   "start": 2665.84,
+   "end": 2668.72,
+   "text": "the first column you see there is"
+  },
+  {
+   "start": 2667.44,
+   "end": 2669.68,
+   "text": "calcitonin"
+  },
+  {
+   "start": 2668.72,
+   "end": 2671.68,
+   "text": "and has"
+  },
+  {
+   "start": 2669.68,
+   "end": 2673.92,
+   "text": "a red square and below it you have"
+  },
+  {
+   "start": 2671.68,
+   "end": 2676.64,
+   "text": "control and sepsis you'll see that"
+  },
+  {
+   "start": 2673.92,
+   "end": 2678.0,
+   "text": "calcitonin is expressed in almost all"
+  },
+  {
+   "start": 2676.64,
+   "end": 2679.44,
+   "text": "the tissues"
+  },
+  {
+   "start": 2678.0,
+   "end": 2681.44,
+   "text": "pnf"
+  },
+  {
+   "start": 2679.44,
+   "end": 2683.52,
+   "text": "almost very similar"
+  },
+  {
+   "start": 2681.44,
+   "end": 2684.96,
+   "text": "by interleukin-6"
+  },
+  {
+   "start": 2683.52,
+   "end": 2687.6,
+   "text": "very similar"
+  },
+  {
+   "start": 2684.96,
+   "end": 2691.2,
+   "text": "and obviously the control for the"
+  },
+  {
+   "start": 2687.6,
+   "end": 2695.52,
+   "text": "reaction data acting control and sepsis"
+  },
+  {
+   "start": 2691.2,
+   "end": 2697.04,
+   "text": "were equal in terms of rna expression"
+  },
+  {
+   "start": 2695.52,
+   "end": 2700.72,
+   "text": "so in dogs"
+  },
+  {
+   "start": 2697.04,
+   "end": 2702.64,
+   "text": "in this letter four dogs were analyzed"
+  },
+  {
+   "start": 2700.72,
+   "end": 2705.84,
+   "text": "for infection non-infections"
+  },
+  {
+   "start": 2702.64,
+   "end": 2708.64,
+   "text": "inflammation neoplasia and others and"
+  },
+  {
+   "start": 2705.84,
+   "end": 2710.24,
+   "text": "they are evaluated at the prognostic"
+  },
+  {
+   "start": 2708.64,
+   "end": 2711.2,
+   "text": "value"
+  },
+  {
+   "start": 2710.24,
+   "end": 2713.68,
+   "text": "if"
+  },
+  {
+   "start": 2711.2,
+   "end": 2715.6,
+   "text": "on the left you will see a graph"
+  },
+  {
+   "start": 2713.68,
+   "end": 2718.0,
+   "text": "indicating the sig dogs"
+  },
+  {
+   "start": 2715.6,
+   "end": 2719.36,
+   "text": "in red and held drugs there is an"
+  },
+  {
+   "start": 2718.0,
+   "end": 2723.52,
+   "text": "important difference although a little"
+  },
+  {
+   "start": 2719.36,
+   "end": 2725.6,
+   "text": "bit overlapping but important difference"
+  },
+  {
+   "start": 2723.52,
+   "end": 2728.96,
+   "text": "on the right we have"
+  },
+  {
+   "start": 2725.6,
+   "end": 2730.84,
+   "text": "four box plot you can see that"
+  },
+  {
+   "start": 2728.96,
+   "end": 2732.8,
+   "text": "at least in"
+  },
+  {
+   "start": 2730.84,
+   "end": 2736.64,
+   "text": "places and"
+  },
+  {
+   "start": 2732.8,
+   "end": 2740.48,
+   "text": "sepsis and inflammatory and diseases"
+  },
+  {
+   "start": 2736.64,
+   "end": 2740.48,
+   "text": "they look very much the same"
+  },
+  {
+   "start": 2743.28,
+   "end": 2748.64,
+   "text": "so how we detect"
+  },
+  {
+   "start": 2745.84,
+   "end": 2750.48,
+   "text": "by enzymatic immunoassays elisa"
+  },
+  {
+   "start": 2748.64,
+   "end": 2752.64,
+   "text": "chemiluminescent"
+  },
+  {
+   "start": 2750.48,
+   "end": 2755.44,
+   "text": "and immunofluorescent time resolved"
+  },
+  {
+   "start": 2752.64,
+   "end": 2757.12,
+   "text": "amplified cryptate emission trace which"
+  },
+  {
+   "start": 2755.44,
+   "end": 2760.24,
+   "text": "is a very very"
+  },
+  {
+   "start": 2757.12,
+   "end": 2762.48,
+   "text": "sexy technology if i can call that based"
+  },
+  {
+   "start": 2760.24,
+   "end": 2764.48,
+   "text": "upon non-radiating energy transfer from"
+  },
+  {
+   "start": 2762.48,
+   "end": 2768.16,
+   "text": "donor molecules"
+  },
+  {
+   "start": 2764.48,
+   "end": 2771.44,
+   "text": "this is aoronium cryptate in red below"
+  },
+  {
+   "start": 2768.16,
+   "end": 2773.6,
+   "text": "to an acceptable molecule on the right"
+  },
+  {
+   "start": 2771.44,
+   "end": 2775.44,
+   "text": "and that excites"
+  },
+  {
+   "start": 2773.6,
+   "end": 2778.16,
+   "text": "the electrons and then you can measure"
+  },
+  {
+   "start": 2775.44,
+   "end": 2778.16,
+   "text": "the reaction"
+  },
+  {
+   "start": 2779.52,
+   "end": 2783.2,
+   "text": "now the"
+  },
+  {
+   "start": 2781.28,
+   "end": 2785.92,
+   "text": "this graph shows"
+  },
+  {
+   "start": 2783.2,
+   "end": 2789.28,
+   "text": "a couple of biomarkers"
+  },
+  {
+   "start": 2785.92,
+   "end": 2793.2,
+   "text": "and we would like to focus on"
+  },
+  {
+   "start": 2789.28,
+   "end": 2795.2,
+   "text": "procalcitonin that is the orange line"
+  },
+  {
+   "start": 2793.2,
+   "end": 2796.4,
+   "text": "clinical symptoms alone"
+  },
+  {
+   "start": 2795.2,
+   "end": 2799.04,
+   "text": "are often"
+  },
+  {
+   "start": 2796.4,
+   "end": 2800.8,
+   "text": "insufficient for early and accurate"
+  },
+  {
+   "start": 2799.04,
+   "end": 2803.36,
+   "text": "diagnosis"
+  },
+  {
+   "start": 2800.8,
+   "end": 2806.32,
+   "text": "unless you have tremendous degree of"
+  },
+  {
+   "start": 2803.36,
+   "end": 2809.52,
+   "text": "experience we need lab as well"
+  },
+  {
+   "start": 2806.32,
+   "end": 2811.68,
+   "text": "the pct levels can observed then three"
+  },
+  {
+   "start": 2809.52,
+   "end": 2814.08,
+   "text": "to six hour after"
+  },
+  {
+   "start": 2811.68,
+   "end": 2816.72,
+   "text": "the infections challenge"
+  },
+  {
+   "start": 2814.08,
+   "end": 2818.48,
+   "text": "with a peak up to 1000 nanometer"
+  },
+  {
+   "start": 2816.72,
+   "end": 2822.48,
+   "text": "nanograms per ml"
+  },
+  {
+   "start": 2818.48,
+   "end": 2824.0,
+   "text": "that is after six to 12 hours and then"
+  },
+  {
+   "start": 2822.48,
+   "end": 2825.12,
+   "text": "it drops"
+  },
+  {
+   "start": 2824.0,
+   "end": 2827.68,
+   "text": "and"
+  },
+  {
+   "start": 2825.12,
+   "end": 2830.32,
+   "text": "it can be said from these results that"
+  },
+  {
+   "start": 2827.68,
+   "end": 2833.28,
+   "text": "is specific to bacterial origin of"
+  },
+  {
+   "start": 2830.32,
+   "end": 2834.48,
+   "text": "infection reflects the severity of the"
+  },
+  {
+   "start": 2833.28,
+   "end": 2838.64,
+   "text": "infection"
+  },
+  {
+   "start": 2834.48,
+   "end": 2840.08,
+   "text": "based upon the bacterial origin"
+  },
+  {
+   "start": 2838.64,
+   "end": 2842.84,
+   "text": "we have"
+  },
+  {
+   "start": 2840.08,
+   "end": 2845.92,
+   "text": "the treatment assessment on"
+  },
+  {
+   "start": 2842.84,
+   "end": 2849.6,
+   "text": "accuracy we have the first"
+  },
+  {
+   "start": 2845.92,
+   "end": 2851.52,
+   "text": "the orange points for"
+  },
+  {
+   "start": 2849.6,
+   "end": 2852.8,
+   "text": "pro consultant"
+  },
+  {
+   "start": 2851.52,
+   "end": 2855.6,
+   "text": "now"
+  },
+  {
+   "start": 2852.8,
+   "end": 2858.04,
+   "text": "the levels in this estate accurately"
+  },
+  {
+   "start": 2855.6,
+   "end": 2860.0,
+   "text": "differentiate sepsis for"
+  },
+  {
+   "start": 2858.04,
+   "end": 2862.16,
+   "text": "non-infectious"
+  },
+  {
+   "start": 2860.0,
+   "end": 2863.76,
+   "text": "inflammation"
+  },
+  {
+   "start": 2862.16,
+   "end": 2866.48,
+   "text": "and it has been demonstrated that the"
+  },
+  {
+   "start": 2863.76,
+   "end": 2869.52,
+   "text": "best marker for differentiating patients"
+  },
+  {
+   "start": 2866.48,
+   "end": 2873.12,
+   "text": "with sepsis from those with systemic"
+  },
+  {
+   "start": 2869.52,
+   "end": 2875.84,
+   "text": "inflammatory reaction not relating"
+  },
+  {
+   "start": 2873.12,
+   "end": 2877.52,
+   "text": "to infectious costs like trauma and"
+  },
+  {
+   "start": 2875.84,
+   "end": 2879.36,
+   "text": "burns"
+  },
+  {
+   "start": 2877.52,
+   "end": 2881.68,
+   "text": "poison"
+  },
+  {
+   "start": 2879.36,
+   "end": 2884.0,
+   "text": "pick a relevant levels on the first"
+  },
+  {
+   "start": 2881.68,
+   "end": 2885.2,
+   "text": "column we have the different levels for"
+  },
+  {
+   "start": 2884.0,
+   "end": 2888.96,
+   "text": "people"
+  },
+  {
+   "start": 2885.2,
+   "end": 2892.56,
+   "text": "next is the recommended management"
+  },
+  {
+   "start": 2888.96,
+   "end": 2894.88,
+   "text": "deal only with antibiotics"
+  },
+  {
+   "start": 2892.56,
+   "end": 2900.2,
+   "text": "according with the levels you suppress"
+  },
+  {
+   "start": 2894.88,
+   "end": 2900.2,
+   "text": "antibiotics or you continue the therapy"
+  },
+  {
+   "start": 2900.4,
+   "end": 2906.72,
+   "text": "and in dogs well there is a kit elisa"
+  },
+  {
+   "start": 2904.48,
+   "end": 2910.48,
+   "text": "and this ortho flores indicated that"
+  },
+  {
+   "start": 2906.72,
+   "end": 2910.48,
+   "text": "it's not very consistent"
+  },
+  {
+   "start": 2910.72,
+   "end": 2913.52,
+   "text": "in horses"
+  },
+  {
+   "start": 2912.72,
+   "end": 2915.68,
+   "text": "the"
+  },
+  {
+   "start": 2913.52,
+   "end": 2919.04,
+   "text": "procalcitonin was"
+  },
+  {
+   "start": 2915.68,
+   "end": 2920.96,
+   "text": "detected by elisa and is helpful to"
+  },
+  {
+   "start": 2919.04,
+   "end": 2925.36,
+   "text": "detecting horses"
+  },
+  {
+   "start": 2920.96,
+   "end": 2929.44,
+   "text": "systemic inflammatory response syndrome"
+  },
+  {
+   "start": 2925.36,
+   "end": 2932.96,
+   "text": "and also it is more important in equine"
+  },
+  {
+   "start": 2929.44,
+   "end": 2932.96,
+   "text": "chronic neuropathies"
+  },
+  {
+   "start": 2933.44,
+   "end": 2936.32,
+   "text": "so conclusions"
+  },
+  {
+   "start": 2937.04,
+   "end": 2940.0,
+   "text": "we have"
+  },
+  {
+   "start": 2938.08,
+   "end": 2941.28,
+   "text": "this graph"
+  },
+  {
+   "start": 2940.0,
+   "end": 2943.28,
+   "text": "which"
+  },
+  {
+   "start": 2941.28,
+   "end": 2946.8,
+   "text": "on the top we have"
+  },
+  {
+   "start": 2943.28,
+   "end": 2950.96,
+   "text": "cirrus sepsis and septic shock"
+  },
+  {
+   "start": 2946.8,
+   "end": 2954.16,
+   "text": "on the y-axis we have concentrations"
+  },
+  {
+   "start": 2950.96,
+   "end": 2956.96,
+   "text": "of pro-sultanine and lactate"
+  },
+  {
+   "start": 2954.16,
+   "end": 2958.32,
+   "text": "and the x-axis we have these two"
+  },
+  {
+   "start": 2956.96,
+   "end": 2960.72,
+   "text": "biomarkers"
+  },
+  {
+   "start": 2958.32,
+   "end": 2963.04,
+   "text": "they measured different"
+  },
+  {
+   "start": 2960.72,
+   "end": 2964.88,
+   "text": "biomarkers with different"
+  },
+  {
+   "start": 2963.04,
+   "end": 2967.36,
+   "text": "purposes"
+  },
+  {
+   "start": 2964.88,
+   "end": 2969.44,
+   "text": "there is evidence that in lactate"
+  },
+  {
+   "start": 2967.36,
+   "end": 2972.4,
+   "text": "management according to"
+  },
+  {
+   "start": 2969.44,
+   "end": 2972.4,
+   "text": "improve survival"
+  },
+  {
+   "start": 2973.12,
+   "end": 2978.24,
+   "text": "conclusions on lactate"
+  },
+  {
+   "start": 2975.44,
+   "end": 2981.04,
+   "text": "lighting levels are useful marker for"
+  },
+  {
+   "start": 2978.24,
+   "end": 2983.28,
+   "text": "organ dysfunction and serve"
+  },
+  {
+   "start": 2981.04,
+   "end": 2986.48,
+   "text": "as an end point"
+  },
+  {
+   "start": 2983.28,
+   "end": 2990.96,
+   "text": "resuscitation for patients with sepsis"
+  },
+  {
+   "start": 2986.48,
+   "end": 2992.2,
+   "text": "and sepsis struck as part of the bundles"
+  },
+  {
+   "start": 2990.96,
+   "end": 2994.96,
+   "text": "in"
+  },
+  {
+   "start": 2992.2,
+   "end": 2998.64,
+   "text": "2009-16 the sepsis"
+  },
+  {
+   "start": 2994.96,
+   "end": 2999.6,
+   "text": "levels were included in defining"
+  },
+  {
+   "start": 2998.64,
+   "end": 3002.32,
+   "text": "only"
+  },
+  {
+   "start": 2999.6,
+   "end": 3005.44,
+   "text": "patients with septic shock"
+  },
+  {
+   "start": 3002.32,
+   "end": 3006.24,
+   "text": "serial lactate measurements"
+  },
+  {
+   "start": 3005.44,
+   "end": 3008.8,
+   "text": "are"
+  },
+  {
+   "start": 3006.24,
+   "end": 3011.44,
+   "text": "useful in monitoring"
+  },
+  {
+   "start": 3008.8,
+   "end": 3013.44,
+   "text": "effectiveness to various therapeutic"
+  },
+  {
+   "start": 3011.44,
+   "end": 3015.36,
+   "text": "implications and therefore"
+  },
+  {
+   "start": 3013.44,
+   "end": 3018.48,
+   "text": "it is recommended"
+  },
+  {
+   "start": 3015.36,
+   "end": 3021.12,
+   "text": "in the sepsis bundle deceptive shock"
+  },
+  {
+   "start": 3018.48,
+   "end": 3022.72,
+   "text": "especially when the initial level is"
+  },
+  {
+   "start": 3021.12,
+   "end": 3024.24,
+   "text": "high"
+  },
+  {
+   "start": 3022.72,
+   "end": 3027.36,
+   "text": "monitoring"
+  },
+  {
+   "start": 3024.24,
+   "end": 3028.64,
+   "text": "the clearance is critical through serial"
+  },
+  {
+   "start": 3027.36,
+   "end": 3032.32,
+   "text": "delusions"
+  },
+  {
+   "start": 3028.64,
+   "end": 3034.0,
+   "text": "maybe 8 6 and 12 hours just to see how"
+  },
+  {
+   "start": 3032.32,
+   "end": 3036.16,
+   "text": "all the bundles are"
+  },
+  {
+   "start": 3034.0,
+   "end": 3038.88,
+   "text": "performing"
+  },
+  {
+   "start": 3036.16,
+   "end": 3042.48,
+   "text": "elevated levels of lactate are not"
+  },
+  {
+   "start": 3038.88,
+   "end": 3044.8,
+   "text": "considered specific for either diagnosis"
+  },
+  {
+   "start": 3042.48,
+   "end": 3047.84,
+   "text": "of sepsis"
+  },
+  {
+   "start": 3044.8,
+   "end": 3051.2,
+   "text": "or predicting mortality unless"
+  },
+  {
+   "start": 3047.84,
+   "end": 3054.24,
+   "text": "we couple to the clinical picture and"
+  },
+  {
+   "start": 3051.2,
+   "end": 3056.8,
+   "text": "other laboratory analysis"
+  },
+  {
+   "start": 3054.24,
+   "end": 3059.68,
+   "text": "plan of care determinations results in"
+  },
+  {
+   "start": 3056.8,
+   "end": 3062.56,
+   "text": "15 minutes they're very easy to perform"
+  },
+  {
+   "start": 3059.68,
+   "end": 3065.84,
+   "text": "small volume and good correlation with"
+  },
+  {
+   "start": 3062.56,
+   "end": 3069.84,
+   "text": "the central lab for critical care"
+  },
+  {
+   "start": 3065.84,
+   "end": 3072.32,
+   "text": "catholic is the only analyte approved"
+  },
+  {
+   "start": 3069.84,
+   "end": 3074.88,
+   "text": "by the fda in the assessment of risk in"
+  },
+  {
+   "start": 3072.32,
+   "end": 3076.0,
+   "text": "developing civil services in critical"
+  },
+  {
+   "start": 3074.88,
+   "end": 3079.6,
+   "text": "patients"
+  },
+  {
+   "start": 3076.0,
+   "end": 3081.28,
+   "text": "but it is on the first day of admission"
+  },
+  {
+   "start": 3079.6,
+   "end": 3082.4,
+   "text": "of intensive care"
+  },
+  {
+   "start": 3081.28,
+   "end": 3084.88,
+   "text": "now"
+  },
+  {
+   "start": 3082.4,
+   "end": 3086.96,
+   "text": "severe sepsis is no longer part of the"
+  },
+  {
+   "start": 3084.88,
+   "end": 3090.48,
+   "text": "sepsis definition"
+  },
+  {
+   "start": 3086.96,
+   "end": 3093.36,
+   "text": "lactate and c-reactive protein"
+  },
+  {
+   "start": 3090.48,
+   "end": 3095.48,
+   "text": "are both approved but not specifically"
+  },
+  {
+   "start": 3093.36,
+   "end": 3098.32,
+   "text": "to sepsis"
+  },
+  {
+   "start": 3095.48,
+   "end": 3100.08,
+   "text": "protocylin is closely associated with"
+  },
+  {
+   "start": 3098.32,
+   "end": 3102.0,
+   "text": "inflammation"
+  },
+  {
+   "start": 3100.08,
+   "end": 3104.64,
+   "text": "but not completely"
+  },
+  {
+   "start": 3102.0,
+   "end": 3107.68,
+   "text": "specific for infection"
+  },
+  {
+   "start": 3104.64,
+   "end": 3109.68,
+   "text": "evidence has shown that the elevated"
+  },
+  {
+   "start": 3107.68,
+   "end": 3110.96,
+   "text": "number of disorders in the absence of"
+  },
+  {
+   "start": 3109.68,
+   "end": 3114.32,
+   "text": "infection"
+  },
+  {
+   "start": 3110.96,
+   "end": 3117.6,
+   "text": "especially following trauma"
+  },
+  {
+   "start": 3114.32,
+   "end": 3120.08,
+   "text": "using a single concentration value"
+  },
+  {
+   "start": 3117.6,
+   "end": 3121.92,
+   "text": "may not be practical at all"
+  },
+  {
+   "start": 3120.08,
+   "end": 3124.56,
+   "text": "protestant"
+  },
+  {
+   "start": 3121.92,
+   "end": 3125.76,
+   "text": "should always be interpreted carefully"
+  },
+  {
+   "start": 3124.56,
+   "end": 3129.36,
+   "text": "because remember"
+  },
+  {
+   "start": 3125.76,
+   "end": 3131.12,
+   "text": "both biomarkers they are telling us"
+  },
+  {
+   "start": 3129.36,
+   "end": 3133.36,
+   "text": "different vocabulary"
+  },
+  {
+   "start": 3131.12,
+   "end": 3135.12,
+   "text": "and the musical assays take about 15"
+  },
+  {
+   "start": 3133.36,
+   "end": 3138.76,
+   "text": "minutes or more"
+  },
+  {
+   "start": 3135.12,
+   "end": 3138.76,
+   "text": "to produce results"
+  },
+  {
+   "start": 3139.76,
+   "end": 3144.0,
+   "text": "as the closing"
+  },
+  {
+   "start": 3142.08,
+   "end": 3147.92,
+   "text": "it's nearby"
+  },
+  {
+   "start": 3144.0,
+   "end": 3151.2,
+   "text": "sepsis management we need to include"
+  },
+  {
+   "start": 3147.92,
+   "end": 3155.36,
+   "text": "biomarkers plus"
+  },
+  {
+   "start": 3151.2,
+   "end": 3160.6,
+   "text": "cast analysis blood gas analyzer"
+  },
+  {
+   "start": 3155.36,
+   "end": 3160.6,
+   "text": "and we have to follow up that patient"
+  },
+  {
+   "start": 3177.52,
+   "end": 3181.6,
+   "text": "thank you everyone for your attention"
+  },
+  {
+   "start": 3179.6,
+   "end": 3184.64,
+   "text": "now if you have any questions"
+  },
+  {
+   "start": 3181.6,
+   "end": 3185.52,
+   "text": "be glad to answer them please go into"
+  },
+  {
+   "start": 3184.64,
+   "end": 3187.76,
+   "text": "the"
+  },
+  {
+   "start": 3185.52,
+   "end": 3189.68,
+   "text": "question and answer session there's a"
+  },
+  {
+   "start": 3187.76,
+   "end": 3192.0,
+   "text": "top box in there it says"
+  },
+  {
+   "start": 3189.68,
+   "end": 3197.88,
+   "text": "questions type in the questions and i"
+  },
+  {
+   "start": 3192.0,
+   "end": 3197.88,
+   "text": "will respond to them as much as possible"
+  },
+  {
+   "start": 3224.4,
+   "end": 3227.4,
+   "text": "yes"
+  },
+  {
+   "start": 3269.76,
+   "end": 3274.56,
+   "text": "federico you have one question"
+  },
+  {
+   "start": 3272.08,
+   "end": 3277.28,
+   "text": "is it realistic to you is it realistic"
+  },
+  {
+   "start": 3274.56,
+   "end": 3279.44,
+   "text": "to use procalcitonin in a veterinary"
+  },
+  {
+   "start": 3277.28,
+   "end": 3282.0,
+   "text": "setting given the cost and time for"
+  },
+  {
+   "start": 3279.44,
+   "end": 3282.0,
+   "text": "analysis"
+  },
+  {
+   "start": 3284.32,
+   "end": 3288.72,
+   "text": "in my clinical view"
+  },
+  {
+   "start": 3286.08,
+   "end": 3291.84,
+   "text": "may not be a good choice"
+  },
+  {
+   "start": 3288.72,
+   "end": 3294.56,
+   "text": "unless it's for equine medicine"
+  },
+  {
+   "start": 3291.84,
+   "end": 3297.12,
+   "text": "and respiratory diseases"
+  },
+  {
+   "start": 3294.56,
+   "end": 3300.12,
+   "text": "it takes about 50 minutes and is very"
+  },
+  {
+   "start": 3297.12,
+   "end": 3300.12,
+   "text": "expensive"
+  },
+  {
+   "start": 3306.24,
+   "end": 3309.68,
+   "text": "the only other question we have"
+  },
+  {
+   "start": 3307.68,
+   "end": 3313.36,
+   "text": "currently is can you please supply the"
+  },
+  {
+   "start": 3309.68,
+   "end": 3313.36,
+   "text": "reference for slide 31"
+  },
+  {
+   "start": 3314.32,
+   "end": 3317.8,
+   "text": "i sure will"
+  },
+  {
+   "start": 3330.08,
+   "end": 3333.6,
+   "text": "so we can provide the"
+  },
+  {
+   "start": 3332.08,
+   "end": 3335.12,
+   "text": "reference for you"
+  },
+  {
+   "start": 3333.6,
+   "end": 3337.12,
+   "text": "through email"
+  },
+  {
+   "start": 3335.12,
+   "end": 3341.2,
+   "text": "and that looks like all the questions so"
+  },
+  {
+   "start": 3337.12,
+   "end": 3341.2,
+   "text": "i'd like to thank everyone for joining"
+  },
+  {
+   "start": 3341.28,
+   "end": 3345.52,
+   "text": "wait a minute one more question"
+  },
+  {
+   "start": 3343.84,
+   "end": 3347.28,
+   "text": "thank you very much"
+  },
+  {
+   "start": 3345.52,
+   "end": 3349.2,
+   "text": "one more question federico where is the"
+  },
+  {
+   "start": 3347.28,
+   "end": 3351.12,
+   "text": "point of no return when you can"
+  },
+  {
+   "start": 3349.2,
+   "end": 3354.4,
+   "text": "confidently tell an owner that there are"
+  },
+  {
+   "start": 3351.12,
+   "end": 3354.4,
+   "text": "no good outcomes"
+  },
+  {
+   "start": 3356.32,
+   "end": 3361.76,
+   "text": "well it has to be a limit you have to"
+  },
+  {
+   "start": 3358.72,
+   "end": 3364.56,
+   "text": "establish a limit with the owner"
+  },
+  {
+   "start": 3361.76,
+   "end": 3364.56,
+   "text": "expenses"
+  },
+  {
+   "start": 3364.72,
+   "end": 3368.56,
+   "text": "parameters"
+  },
+  {
+   "start": 3366.88,
+   "end": 3371.28,
+   "text": "and be realistic on the patient's"
+  },
+  {
+   "start": 3368.56,
+   "end": 3371.28,
+   "text": "survival"
+  },
+  {
+   "start": 3371.44,
+   "end": 3375.68,
+   "text": "usually it's a very difficult decision"
+  },
+  {
+   "start": 3373.6,
+   "end": 3376.96,
+   "text": "because it has a lot of emotional"
+  },
+  {
+   "start": 3375.68,
+   "end": 3378.56,
+   "text": "variables"
+  },
+  {
+   "start": 3376.96,
+   "end": 3381.04,
+   "text": "nevertheless"
+  },
+  {
+   "start": 3378.56,
+   "end": 3383.2,
+   "text": "in my opinion you should have a frank"
+  },
+  {
+   "start": 3381.04,
+   "end": 3385.44,
+   "text": "discussion with the owner"
+  },
+  {
+   "start": 3383.2,
+   "end": 3386.64,
+   "text": "tell them the options and have this"
+  },
+  {
+   "start": 3385.44,
+   "end": 3390.36,
+   "text": "person"
+  },
+  {
+   "start": 3386.64,
+   "end": 3390.36,
+   "text": "just make the decision"
+  },
+  {
+   "start": 3396.4,
+   "end": 3401.84,
+   "text": "there's one more question what is the"
+  },
+  {
+   "start": 3397.84,
+   "end": 3401.84,
+   "text": "average cost for calcitonin testing"
+  },
+  {
+   "start": 3403.28,
+   "end": 3407.68,
+   "text": "it would depend on the lab normally i"
+  },
+  {
+   "start": 3406.32,
+   "end": 3410.56,
+   "text": "would say"
+  },
+  {
+   "start": 3407.68,
+   "end": 3413.76,
+   "text": "between 300 and so"
+  },
+  {
+   "start": 3410.56,
+   "end": 3419.0,
+   "text": "but i am not sure some prices vary a lot"
+  },
+  {
+   "start": 3413.76,
+   "end": 3419.0,
+   "text": "all i know it is a very expensive test"
+  },
+  {
+   "start": 3428.96,
+   "end": 3435.04,
+   "text": "that looks like all the questions"
+  },
+  {
+   "start": 3431.12,
+   "end": 3435.04,
+   "text": "so thank you everybody for joining"
+  },
+  {
+   "start": 3436.24,
+   "end": 3439.8,
+   "text": "thank you very much"
+  },
+  {
+   "start": 3486.16,
+   "end": 3488.24,
+   "text": "you"
+  }
+ ]
+}

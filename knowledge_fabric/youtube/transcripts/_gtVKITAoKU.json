@@ -1,0 +1,163 @@
+{
+ "video_id": "_gtVKITAoKU",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 31,
+ "cues": [
+  {
+   "start": 0.32,
+   "end": 3.36,
+   "text": "Thank you for joining me for this short"
+  },
+  {
+   "start": 2.0,
+   "end": 6.08,
+   "text": "video that will walk you through"
+  },
+  {
+   "start": 3.36,
+   "end": 8.16,
+   "text": "activating an MVS calibrator plate."
+  },
+  {
+   "start": 6.08,
+   "end": 10.88,
+   "text": "Let's go ahead and get started. When you"
+  },
+  {
+   "start": 8.16,
+   "end": 12.88,
+   "text": "first receive your new MVS system and"
+  },
+  {
+   "start": 10.88,
+   "end": 15.12,
+   "text": "you want to use your MVS calibrator"
+  },
+  {
+   "start": 12.88,
+   "end": 17.6,
+   "text": "plate or if your calibrator plate has"
+  },
+  {
+   "start": 15.12,
+   "end": 19.92,
+   "text": "been reertified and has been returned to"
+  },
+  {
+   "start": 17.6,
+   "end": 22.4,
+   "text": "you or if you have a new installation of"
+  },
+  {
+   "start": 19.92,
+   "end": 25.04,
+   "text": "our Telware on a new computer with a new"
+  },
+  {
+   "start": 22.4,
+   "end": 27.04,
+   "text": "database, your MVS calibrator plate will"
+  },
+  {
+   "start": 25.04,
+   "end": 29.6,
+   "text": "need to be activated. Within the silver"
+  },
+  {
+   "start": 27.04,
+   "end": 31.36,
+   "text": "carry case of your NVS calibrator plate,"
+  },
+  {
+   "start": 29.6,
+   "end": 33.6,
+   "text": "there should be located an activation"
+  },
+  {
+   "start": 31.36,
+   "end": 35.44,
+   "text": "code card. To activate your calibrator"
+  },
+  {
+   "start": 33.6,
+   "end": 37.2,
+   "text": "plate, click on the scan barcode"
+  },
+  {
+   "start": 35.44,
+   "end": 40.08,
+   "text": "shortcut that's located on the home"
+  },
+  {
+   "start": 37.2,
+   "end": 42.64,
+   "text": "screen and scan the barcode of your"
+  },
+  {
+   "start": 40.08,
+   "end": 45.68,
+   "text": "calibrator plate. Next, click on the"
+  },
+  {
+   "start": 42.64,
+   "end": 47.84,
+   "text": "activate MVS calibrator plate box and"
+  },
+  {
+   "start": 45.68,
+   "end": 49.68,
+   "text": "scan the activation code card that came"
+  },
+  {
+   "start": 47.84,
+   "end": 51.36,
+   "text": "with your plate. You'll then see a"
+  },
+  {
+   "start": 49.68,
+   "end": 53.76,
+   "text": "message indicating that your calibrator"
+  },
+  {
+   "start": 51.36,
+   "end": 56.16,
+   "text": "plate has been successfully activated."
+  },
+  {
+   "start": 53.76,
+   "end": 59.44,
+   "text": "Congratulations."
+  },
+  {
+   "start": 56.16,
+   "end": 62.4,
+   "text": "Okay, that concludes our brief tutorial."
+  },
+  {
+   "start": 59.44,
+   "end": 66.44,
+   "text": "Do you have additional questions? Please"
+  },
+  {
+   "start": 62.4,
+   "end": 66.44,
+   "text": "contact us at 1800225434"
+  },
+  {
+   "start": 66.96,
+   "end": 72.56,
+   "text": "option3 or at supportic"
+  },
+  {
+   "start": 70.64,
+   "end": 75.36,
+   "text": "companies.com."
+  },
+  {
+   "start": 72.56,
+   "end": 75.36,
+   "text": "Thank you."
+  }
+ ]
+}

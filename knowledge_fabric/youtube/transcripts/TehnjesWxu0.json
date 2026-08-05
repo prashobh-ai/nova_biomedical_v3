@@ -1,0 +1,6793 @@
+{
+ "video_id": "TehnjesWxu0",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 1357,
+ "cues": [
+  {
+   "start": 7.2,
+   "end": 11.92,
+   "text": "hello my name is martha lyon i'm a"
+  },
+  {
+   "start": 9.84,
+   "end": 13.84,
+   "text": "clinical biochemist and i oversee"
+  },
+  {
+   "start": 11.92,
+   "end": 15.68,
+   "text": "point-to-care testing as well as"
+  },
+  {
+   "start": 13.84,
+   "end": 17.52,
+   "text": "pediatric and neonatal clinical"
+  },
+  {
+   "start": 15.68,
+   "end": 19.68,
+   "text": "biochemistry"
+  },
+  {
+   "start": 17.52,
+   "end": 21.6,
+   "text": "issues in our hospital"
+  },
+  {
+   "start": 19.68,
+   "end": 24.56,
+   "text": "today i'm going to talk to you about the"
+  },
+  {
+   "start": 21.6,
+   "end": 27.36,
+   "text": "importance of accurate glucose meter"
+  },
+  {
+   "start": 24.56,
+   "end": 31.32,
+   "text": "measurements in particular in the"
+  },
+  {
+   "start": 27.36,
+   "end": 31.32,
+   "text": "critically ill patients"
+  },
+  {
+   "start": 31.6,
+   "end": 38.72,
+   "text": "before i begin however i would like to"
+  },
+  {
+   "start": 35.92,
+   "end": 41.52,
+   "text": "provide the following disclosures"
+  },
+  {
+   "start": 38.72,
+   "end": 44.4,
+   "text": "i have received speaking honoraria from"
+  },
+  {
+   "start": 41.52,
+   "end": 46.8,
+   "text": "a variety of different companies as i"
+  },
+  {
+   "start": 44.4,
+   "end": 49.84,
+   "text": "have listed on this slide"
+  },
+  {
+   "start": 46.8,
+   "end": 52.64,
+   "text": "i have also received research support"
+  },
+  {
+   "start": 49.84,
+   "end": 54.64,
+   "text": "from a variety of different companies"
+  },
+  {
+   "start": 52.64,
+   "end": 57.76,
+   "text": "and when i'm referring to research"
+  },
+  {
+   "start": 54.64,
+   "end": 59.52,
+   "text": "support i specifically mean"
+  },
+  {
+   "start": 57.76,
+   "end": 62.24,
+   "text": "the provision of reagents"
+  },
+  {
+   "start": 59.52,
+   "end": 64.24,
+   "text": "instrumentation as well as travel"
+  },
+  {
+   "start": 62.24,
+   "end": 66.72,
+   "text": "and then finally i would like to"
+  },
+  {
+   "start": 64.24,
+   "end": 68.48,
+   "text": "acknowledge that i am the vice president"
+  },
+  {
+   "start": 66.72,
+   "end": 71.92,
+   "text": "of a very small"
+  },
+  {
+   "start": 68.48,
+   "end": 75.68,
+   "text": "clinical laboratory consulting company"
+  },
+  {
+   "start": 71.92,
+   "end": 75.68,
+   "text": "called allol biomedical"
+  },
+  {
+   "start": 79.44,
+   "end": 85.8,
+   "text": "i would like to start today's talk with"
+  },
+  {
+   "start": 81.92,
+   "end": 85.8,
+   "text": "a clinical case"
+  },
+  {
+   "start": 86.64,
+   "end": 91.76,
+   "text": "this case involves a 54 year old female"
+  },
+  {
+   "start": 93.04,
+   "end": 98.08,
+   "text": "at presentation"
+  },
+  {
+   "start": 94.96,
+   "end": 102.16,
+   "text": "this patient was not thinking clearly"
+  },
+  {
+   "start": 98.08,
+   "end": 105.84,
+   "text": "she was confused drowsy which ultimately"
+  },
+  {
+   "start": 102.16,
+   "end": 105.84,
+   "text": "led to unconsciousness"
+  },
+  {
+   "start": 108.32,
+   "end": 112.8,
+   "text": "the patient's glucose had been checked"
+  },
+  {
+   "start": 110.8,
+   "end": 115.08,
+   "text": "with a glucose meter"
+  },
+  {
+   "start": 112.8,
+   "end": 119.12,
+   "text": "and the result was"
+  },
+  {
+   "start": 115.08,
+   "end": 121.12,
+   "text": "187 milligram per deciliter for folks in"
+  },
+  {
+   "start": 119.12,
+   "end": 124.32,
+   "text": "canada that translates into"
+  },
+  {
+   "start": 121.12,
+   "end": 127.56,
+   "text": "approximately a little over 10 millimole"
+  },
+  {
+   "start": 124.32,
+   "end": 127.56,
+   "text": "per liter"
+  },
+  {
+   "start": 128.64,
+   "end": 134.16,
+   "text": "the patient's past history was that she"
+  },
+  {
+   "start": 131.44,
+   "end": 137.2,
+   "text": "was diabetic and she had a chronic"
+  },
+  {
+   "start": 134.16,
+   "end": 137.2,
+   "text": "kidney disease"
+  },
+  {
+   "start": 138.72,
+   "end": 145.28,
+   "text": "the patient was taken to an emergency"
+  },
+  {
+   "start": 141.84,
+   "end": 147.44,
+   "text": "department at a nearby hospital"
+  },
+  {
+   "start": 145.28,
+   "end": 149.2,
+   "text": "and"
+  },
+  {
+   "start": 147.44,
+   "end": 152.4,
+   "text": "when she was"
+  },
+  {
+   "start": 149.2,
+   "end": 153.76,
+   "text": "admitted to the hospital the patient was"
+  },
+  {
+   "start": 152.4,
+   "end": 156.8,
+   "text": "unconscious"
+  },
+  {
+   "start": 153.76,
+   "end": 159.36,
+   "text": "there was no response to deep pain"
+  },
+  {
+   "start": 156.8,
+   "end": 160.8,
+   "text": "uh there was apparent plastic flaccid"
+  },
+  {
+   "start": 159.36,
+   "end": 163.44,
+   "text": "paralysis"
+  },
+  {
+   "start": 160.8,
+   "end": 167.12,
+   "text": "uh in all four limbs"
+  },
+  {
+   "start": 163.44,
+   "end": 169.84,
+   "text": "um her vital signs however were were"
+  },
+  {
+   "start": 167.12,
+   "end": 172.0,
+   "text": "reasonably normal normal heart rate"
+  },
+  {
+   "start": 169.84,
+   "end": 174.24,
+   "text": "blood pressure as well as respiratory"
+  },
+  {
+   "start": 172.0,
+   "end": 174.24,
+   "text": "rate"
+  },
+  {
+   "start": 176.16,
+   "end": 181.76,
+   "text": "at this time the patient's glucose was"
+  },
+  {
+   "start": 178.96,
+   "end": 184.32,
+   "text": "also assessed with a glucose meter"
+  },
+  {
+   "start": 181.76,
+   "end": 186.16,
+   "text": "and the result was reasonably consistent"
+  },
+  {
+   "start": 184.32,
+   "end": 190.0,
+   "text": "with the previous glucose meter"
+  },
+  {
+   "start": 186.16,
+   "end": 192.72,
+   "text": "measurement and was found to be 167"
+  },
+  {
+   "start": 190.0,
+   "end": 195.28,
+   "text": "milligram per deciliter"
+  },
+  {
+   "start": 192.72,
+   "end": 198.88,
+   "text": "the differential diagnosis for this"
+  },
+  {
+   "start": 195.28,
+   "end": 201.64,
+   "text": "patient had been brain stem cba"
+  },
+  {
+   "start": 198.88,
+   "end": 205.12,
+   "text": "metabolic encephalopathy uremic"
+  },
+  {
+   "start": 201.64,
+   "end": 208.2,
+   "text": "encephalopathy and a brain mri had been"
+  },
+  {
+   "start": 205.12,
+   "end": 212.44,
+   "text": "ordered and it was suggestive of a"
+  },
+  {
+   "start": 208.2,
+   "end": 212.44,
+   "text": "hypoglycemic encephalopathy"
+  },
+  {
+   "start": 214.24,
+   "end": 218.72,
+   "text": "when the patient arrived at the"
+  },
+  {
+   "start": 216.0,
+   "end": 220.72,
+   "text": "emergency department at the hospital the"
+  },
+  {
+   "start": 218.72,
+   "end": 223.52,
+   "text": "doctors had ordered laboratory"
+  },
+  {
+   "start": 220.72,
+   "end": 226.48,
+   "text": "investigations for which the results"
+  },
+  {
+   "start": 223.52,
+   "end": 229.12,
+   "text": "were received within an hour about an"
+  },
+  {
+   "start": 226.48,
+   "end": 231.28,
+   "text": "hour later and of note the hematocrit"
+  },
+  {
+   "start": 229.12,
+   "end": 235.52,
+   "text": "and hemoglobin levels were low and the"
+  },
+  {
+   "start": 231.28,
+   "end": 235.52,
+   "text": "uric acid level was high"
+  },
+  {
+   "start": 236.16,
+   "end": 241.92,
+   "text": "the lab result for plasma glucose was of"
+  },
+  {
+   "start": 239.44,
+   "end": 243.84,
+   "text": "most interest with this patient in that"
+  },
+  {
+   "start": 241.92,
+   "end": 246.0,
+   "text": "the result was 24 milligram per"
+  },
+  {
+   "start": 243.84,
+   "end": 248.0,
+   "text": "deciliter which is dramatically"
+  },
+  {
+   "start": 246.0,
+   "end": 252.4,
+   "text": "different from the glucose results"
+  },
+  {
+   "start": 248.0,
+   "end": 252.4,
+   "text": "obtained from the glucose meters"
+  },
+  {
+   "start": 253.52,
+   "end": 259.2,
+   "text": "the physicians responded to this very"
+  },
+  {
+   "start": 256.56,
+   "end": 261.44,
+   "text": "low plasma glucose result by"
+  },
+  {
+   "start": 259.2,
+   "end": 263.2,
+   "text": "administering 25"
+  },
+  {
+   "start": 261.44,
+   "end": 266.48,
+   "text": "dextrose"
+  },
+  {
+   "start": 263.2,
+   "end": 268.64,
+   "text": "as well as a 10 glucose infusion"
+  },
+  {
+   "start": 266.48,
+   "end": 270.8,
+   "text": "and within minutes the patient regained"
+  },
+  {
+   "start": 268.64,
+   "end": 274.8,
+   "text": "consciousness and completely recovered"
+  },
+  {
+   "start": 270.8,
+   "end": 274.8,
+   "text": "from all of the neurologic deficits"
+  },
+  {
+   "start": 276.56,
+   "end": 282.08,
+   "text": "this case concluded with the patient"
+  },
+  {
+   "start": 278.96,
+   "end": 284.16,
+   "text": "being discharged within 24 hours with"
+  },
+  {
+   "start": 282.08,
+   "end": 286.48,
+   "text": "the diagnosis of a hypoglycemic"
+  },
+  {
+   "start": 284.16,
+   "end": 288.72,
+   "text": "encephalopathy"
+  },
+  {
+   "start": 286.48,
+   "end": 290.4,
+   "text": "the dramatic differences that we saw"
+  },
+  {
+   "start": 288.72,
+   "end": 292.72,
+   "text": "between the laboratory measurement of"
+  },
+  {
+   "start": 290.4,
+   "end": 294.88,
+   "text": "glucose and those achieved with the"
+  },
+  {
+   "start": 292.72,
+   "end": 297.92,
+   "text": "glucose meters could only be attributed"
+  },
+  {
+   "start": 294.88,
+   "end": 299.12,
+   "text": "to interferences with the glucose meters"
+  },
+  {
+   "start": 297.92,
+   "end": 302.08,
+   "text": "potential"
+  },
+  {
+   "start": 299.12,
+   "end": 303.84,
+   "text": "interference will include hematocrit"
+  },
+  {
+   "start": 302.08,
+   "end": 305.36,
+   "text": "hemoglobin"
+  },
+  {
+   "start": 303.84,
+   "end": 310.04,
+   "text": "as well as"
+  },
+  {
+   "start": 305.36,
+   "end": 310.04,
+   "text": "uric acid levels in the patient"
+  },
+  {
+   "start": 313.2,
+   "end": 318.08,
+   "text": "having warmed herself up to this topic"
+  },
+  {
+   "start": 315.68,
+   "end": 320.4,
+   "text": "with the clinical case i would now like"
+  },
+  {
+   "start": 318.08,
+   "end": 322.48,
+   "text": "to present the objectives for my talk"
+  },
+  {
+   "start": 320.4,
+   "end": 324.48,
+   "text": "the first objective will be to discuss"
+  },
+  {
+   "start": 322.48,
+   "end": 327.44,
+   "text": "the significance of point-to-care"
+  },
+  {
+   "start": 324.48,
+   "end": 330.0,
+   "text": "glucose testing in hospitalized patients"
+  },
+  {
+   "start": 327.44,
+   "end": 332.96,
+   "text": "secondly i'd like to define the problems"
+  },
+  {
+   "start": 330.0,
+   "end": 335.12,
+   "text": "caused by glucose meter and accuracy and"
+  },
+  {
+   "start": 332.96,
+   "end": 337.76,
+   "text": "then finally i"
+  },
+  {
+   "start": 335.12,
+   "end": 339.68,
+   "text": "would like to present clinical evidence"
+  },
+  {
+   "start": 337.76,
+   "end": 342.88,
+   "text": "to support the role of accurate"
+  },
+  {
+   "start": 339.68,
+   "end": 346.48,
+   "text": "point-to-care glucose testing in proper"
+  },
+  {
+   "start": 342.88,
+   "end": 346.48,
+   "text": "glycemic management"
+  },
+  {
+   "start": 348.4,
+   "end": 353.12,
+   "text": "so how are glucose meters used in the"
+  },
+  {
+   "start": 351.52,
+   "end": 355.2,
+   "text": "hospital"
+  },
+  {
+   "start": 353.12,
+   "end": 357.76,
+   "text": "well we know that glucose meters are"
+  },
+  {
+   "start": 355.2,
+   "end": 360.08,
+   "text": "primarily being used for the management"
+  },
+  {
+   "start": 357.76,
+   "end": 363.28,
+   "text": "of dysglycemia and we talk about"
+  },
+  {
+   "start": 360.08,
+   "end": 366.24,
+   "text": "dysglycemia what we're meaning is we"
+  },
+  {
+   "start": 363.28,
+   "end": 368.32,
+   "text": "want to be able to detect hypoglycemia"
+  },
+  {
+   "start": 366.24,
+   "end": 370.08,
+   "text": "and we want to be able to detect"
+  },
+  {
+   "start": 368.32,
+   "end": 374.16,
+   "text": "hyperglycemia"
+  },
+  {
+   "start": 370.08,
+   "end": 374.16,
+   "text": "when it's occurring in our hospitals"
+  },
+  {
+   "start": 376.8,
+   "end": 381.84,
+   "text": "when we look more closely where glucose"
+  },
+  {
+   "start": 379.36,
+   "end": 384.08,
+   "text": "meters are being used in the hospitals"
+  },
+  {
+   "start": 381.84,
+   "end": 386.32,
+   "text": "we know that they're being used in the"
+  },
+  {
+   "start": 384.08,
+   "end": 389.04,
+   "text": "emergency department on general medical"
+  },
+  {
+   "start": 386.32,
+   "end": 390.48,
+   "text": "floors intensive care units as well as"
+  },
+  {
+   "start": 389.04,
+   "end": 392.0,
+   "text": "in the nurseries"
+  },
+  {
+   "start": 390.48,
+   "end": 394.08,
+   "text": "when we think about the emergency"
+  },
+  {
+   "start": 392.0,
+   "end": 395.64,
+   "text": "department yes they're going to be used"
+  },
+  {
+   "start": 394.08,
+   "end": 397.84,
+   "text": "for the assessment of diabetic"
+  },
+  {
+   "start": 395.64,
+   "end": 400.64,
+   "text": "ketoacidosis patients"
+  },
+  {
+   "start": 397.84,
+   "end": 402.32,
+   "text": "for evaluation of uncautious patients as"
+  },
+  {
+   "start": 400.64,
+   "end": 405.36,
+   "text": "well as"
+  },
+  {
+   "start": 402.32,
+   "end": 409.44,
+   "text": "assessment for hyper or hypoglycemia"
+  },
+  {
+   "start": 405.36,
+   "end": 411.12,
+   "text": "intensive care units will uh depending"
+  },
+  {
+   "start": 409.44,
+   "end": 413.68,
+   "text": "upon if they're following"
+  },
+  {
+   "start": 411.12,
+   "end": 415.36,
+   "text": "tight or moderate glycemic protocols in"
+  },
+  {
+   "start": 413.68,
+   "end": 418.32,
+   "text": "that institution"
+  },
+  {
+   "start": 415.36,
+   "end": 420.24,
+   "text": "we'll definitely be using glucose meters"
+  },
+  {
+   "start": 418.32,
+   "end": 422.0,
+   "text": "in the nursery"
+  },
+  {
+   "start": 420.24,
+   "end": 424.48,
+   "text": "well they're using glucose meters"
+  },
+  {
+   "start": 422.0,
+   "end": 428.32,
+   "text": "primarily to be able to identify as a if"
+  },
+  {
+   "start": 424.48,
+   "end": 430.48,
+   "text": "a baby is at risk or is hypoglycemic"
+  },
+  {
+   "start": 428.32,
+   "end": 433.28,
+   "text": "and when we think about the general"
+  },
+  {
+   "start": 430.48,
+   "end": 438.72,
+   "text": "medical floor of course it's going to be"
+  },
+  {
+   "start": 433.28,
+   "end": 438.72,
+   "text": "for the management of diabetic patients"
+  },
+  {
+   "start": 441.52,
+   "end": 447.28,
+   "text": "realizing that glucose meters are used"
+  },
+  {
+   "start": 444.72,
+   "end": 450.32,
+   "text": "widely throughout the hospital"
+  },
+  {
+   "start": 447.28,
+   "end": 453.2,
+   "text": "and each setting where glucose meter is"
+  },
+  {
+   "start": 450.32,
+   "end": 456.72,
+   "text": "being used will have its in its own"
+  },
+  {
+   "start": 453.2,
+   "end": 458.0,
+   "text": "justification for using glucose meters"
+  },
+  {
+   "start": 456.72,
+   "end": 460.8,
+   "text": "ultimately"
+  },
+  {
+   "start": 458.0,
+   "end": 463.6,
+   "text": "the end goal with glucose meter use"
+  },
+  {
+   "start": 460.8,
+   "end": 468.24,
+   "text": "wherever it's being used in the hospital"
+  },
+  {
+   "start": 463.6,
+   "end": 468.24,
+   "text": "is to enable glycemic control"
+  },
+  {
+   "start": 471.04,
+   "end": 476.24,
+   "text": "so why are glucose meters so widely"
+  },
+  {
+   "start": 473.84,
+   "end": 478.88,
+   "text": "deployed throughout a hospital well"
+  },
+  {
+   "start": 476.24,
+   "end": 481.04,
+   "text": "that's an easy question to answer uh"
+  },
+  {
+   "start": 478.88,
+   "end": 482.56,
+   "text": "because you can use multiple specimens"
+  },
+  {
+   "start": 481.04,
+   "end": 485.12,
+   "text": "with a glucose meter you can have"
+  },
+  {
+   "start": 482.56,
+   "end": 487.92,
+   "text": "capillary venous or arterial specimens"
+  },
+  {
+   "start": 485.12,
+   "end": 490.56,
+   "text": "and a glucose meter can handle those"
+  },
+  {
+   "start": 487.92,
+   "end": 493.12,
+   "text": "uh it doesn't require a lot of blood"
+  },
+  {
+   "start": 490.56,
+   "end": 495.28,
+   "text": "also it has a rapid"
+  },
+  {
+   "start": 493.12,
+   "end": 499.44,
+   "text": "analysis time you can get your result"
+  },
+  {
+   "start": 495.28,
+   "end": 499.44,
+   "text": "with the glucose meter very quickly"
+  },
+  {
+   "start": 502.72,
+   "end": 507.28,
+   "text": "before i continue my talk i would like"
+  },
+  {
+   "start": 505.36,
+   "end": 508.4,
+   "text": "to make a comment about a common"
+  },
+  {
+   "start": 507.28,
+   "end": 510.8,
+   "text": "practice"
+  },
+  {
+   "start": 508.4,
+   "end": 513.6,
+   "text": "of comparing capillary glucose and"
+  },
+  {
+   "start": 510.8,
+   "end": 514.8,
+   "text": "venous glucose results within the same"
+  },
+  {
+   "start": 513.6,
+   "end": 517.04,
+   "text": "patient"
+  },
+  {
+   "start": 514.8,
+   "end": 519.76,
+   "text": "literature exists"
+  },
+  {
+   "start": 517.04,
+   "end": 523.12,
+   "text": "that indicates capillary glucose can be"
+  },
+  {
+   "start": 519.76,
+   "end": 526.64,
+   "text": "up to 20 to 25 percent higher than"
+  },
+  {
+   "start": 523.12,
+   "end": 526.64,
+   "text": "venous glucose results"
+  },
+  {
+   "start": 527.92,
+   "end": 533.12,
+   "text": "however the literature does indicate"
+  },
+  {
+   "start": 530.64,
+   "end": 536.16,
+   "text": "that capillary glucose results and"
+  },
+  {
+   "start": 533.12,
+   "end": 539.2,
+   "text": "venous glucose results can be very close"
+  },
+  {
+   "start": 536.16,
+   "end": 542.96,
+   "text": "to one another but only if a fasting"
+  },
+  {
+   "start": 539.2,
+   "end": 542.96,
+   "text": "specimen has been collected"
+  },
+  {
+   "start": 544.72,
+   "end": 548.32,
+   "text": "as i've already mentioned there are"
+  },
+  {
+   "start": 546.64,
+   "end": 550.4,
+   "text": "numerous advantages to using"
+  },
+  {
+   "start": 548.32,
+   "end": 552.88,
+   "text": "point-to-care devices for the management"
+  },
+  {
+   "start": 550.4,
+   "end": 555.76,
+   "text": "of glycemia and all of these are"
+  },
+  {
+   "start": 552.88,
+   "end": 559.72,
+   "text": "beneficial when serial monitoring of a"
+  },
+  {
+   "start": 555.76,
+   "end": 559.72,
+   "text": "patient is required"
+  },
+  {
+   "start": 562.56,
+   "end": 567.76,
+   "text": "when we think of any laboratory testing"
+  },
+  {
+   "start": 565.36,
+   "end": 571.52,
+   "text": "we know that error can occur"
+  },
+  {
+   "start": 567.76,
+   "end": 574.24,
+   "text": "at any stage including pre-analytical"
+  },
+  {
+   "start": 571.52,
+   "end": 577.12,
+   "text": "analytical and post-analytical"
+  },
+  {
+   "start": 574.24,
+   "end": 579.6,
+   "text": "however the pre-analytical phase tends"
+  },
+  {
+   "start": 577.12,
+   "end": 582.32,
+   "text": "to be where most of the error is"
+  },
+  {
+   "start": 579.6,
+   "end": 584.24,
+   "text": "associated and the evidence indicates"
+  },
+  {
+   "start": 582.32,
+   "end": 587.2,
+   "text": "that up to 68"
+  },
+  {
+   "start": 584.24,
+   "end": 591.48,
+   "text": "of laboratory-associated errors occur in"
+  },
+  {
+   "start": 587.2,
+   "end": 591.48,
+   "text": "the pre-analytical phase"
+  },
+  {
+   "start": 594.08,
+   "end": 600.24,
+   "text": "glucose meters are not different"
+  },
+  {
+   "start": 596.8,
+   "end": 603.2,
+   "text": "the slide shows the various broad"
+  },
+  {
+   "start": 600.24,
+   "end": 605.76,
+   "text": "groupings of sources of errors and"
+  },
+  {
+   "start": 603.2,
+   "end": 606.8,
+   "text": "interferences associated with glucose"
+  },
+  {
+   "start": 605.76,
+   "end": 610.48,
+   "text": "meters"
+  },
+  {
+   "start": 606.8,
+   "end": 613.12,
+   "text": "and these errors range from user errors"
+  },
+  {
+   "start": 610.48,
+   "end": 616.72,
+   "text": "resulting from inappropriate sampling"
+  },
+  {
+   "start": 613.12,
+   "end": 618.72,
+   "text": "technique to exogenous factors like"
+  },
+  {
+   "start": 616.72,
+   "end": 621.68,
+   "text": "acetaminophen"
+  },
+  {
+   "start": 618.72,
+   "end": 624.24,
+   "text": "interfering with the performance of a"
+  },
+  {
+   "start": 621.68,
+   "end": 626.56,
+   "text": "glucose meter"
+  },
+  {
+   "start": 624.24,
+   "end": 630.16,
+   "text": "the reason i've included this slide is"
+  },
+  {
+   "start": 626.56,
+   "end": 632.4,
+   "text": "because i really want to emphasize that"
+  },
+  {
+   "start": 630.16,
+   "end": 634.64,
+   "text": "analytical interference"
+  },
+  {
+   "start": 632.4,
+   "end": 635.92,
+   "text": "can lead to error"
+  },
+  {
+   "start": 634.64,
+   "end": 639.52,
+   "text": "errors"
+  },
+  {
+   "start": 635.92,
+   "end": 642.32,
+   "text": "in glucose results which in turn"
+  },
+  {
+   "start": 639.52,
+   "end": 645.6,
+   "text": "could lead to inappropriate and or"
+  },
+  {
+   "start": 642.32,
+   "end": 647.2,
+   "text": "potentially harmful clinical treatment"
+  },
+  {
+   "start": 645.6,
+   "end": 648.0,
+   "text": "to the patient"
+  },
+  {
+   "start": 647.2,
+   "end": 651.44,
+   "text": "and"
+  },
+  {
+   "start": 648.0,
+   "end": 654.32,
+   "text": "i think the intriguing question is"
+  },
+  {
+   "start": 651.44,
+   "end": 655.6,
+   "text": "that associated with all of this"
+  },
+  {
+   "start": 654.32,
+   "end": 658.64,
+   "text": "is uh"
+  },
+  {
+   "start": 655.6,
+   "end": 660.96,
+   "text": "what error is acceptable"
+  },
+  {
+   "start": 658.64,
+   "end": 665.76,
+   "text": "between a glucose meter"
+  },
+  {
+   "start": 660.96,
+   "end": 665.76,
+   "text": "and the laboratory glucose method"
+  },
+  {
+   "start": 668.4,
+   "end": 674.64,
+   "text": "this slide illustrates two case studies"
+  },
+  {
+   "start": 671.52,
+   "end": 676.88,
+   "text": "that report the effect of galactose"
+  },
+  {
+   "start": 674.64,
+   "end": 678.24,
+   "text": "to interfere with glucose meter"
+  },
+  {
+   "start": 676.88,
+   "end": 679.92,
+   "text": "performance"
+  },
+  {
+   "start": 678.24,
+   "end": 682.4,
+   "text": "in the first case the neonate had"
+  },
+  {
+   "start": 679.92,
+   "end": 684.72,
+   "text": "prolonged on this liver dysfunction and"
+  },
+  {
+   "start": 682.4,
+   "end": 687.2,
+   "text": "renal tubular disease"
+  },
+  {
+   "start": 684.72,
+   "end": 689.6,
+   "text": "the glucose meter reported glucose of"
+  },
+  {
+   "start": 687.2,
+   "end": 692.08,
+   "text": "greater than 15 millimole per liter"
+  },
+  {
+   "start": 689.6,
+   "end": 693.28,
+   "text": "which is greater than 270 milligram per"
+  },
+  {
+   "start": 692.08,
+   "end": 695.68,
+   "text": "deciliter"
+  },
+  {
+   "start": 693.28,
+   "end": 697.84,
+   "text": "the baby had been treated with insulin"
+  },
+  {
+   "start": 695.68,
+   "end": 699.36,
+   "text": "but the baby's condition continued to"
+  },
+  {
+   "start": 697.84,
+   "end": 701.68,
+   "text": "deteriorate"
+  },
+  {
+   "start": 699.36,
+   "end": 704.56,
+   "text": "throughout this case the laboratory"
+  },
+  {
+   "start": 701.68,
+   "end": 707.36,
+   "text": "plasma glucoses were reported to"
+  },
+  {
+   "start": 704.56,
+   "end": 710.24,
+   "text": "they were consistently low"
+  },
+  {
+   "start": 707.36,
+   "end": 713.6,
+   "text": "and the baby was ultimately diagnosed"
+  },
+  {
+   "start": 710.24,
+   "end": 715.36,
+   "text": "with uh galactosemia"
+  },
+  {
+   "start": 713.6,
+   "end": 718.92,
+   "text": "the second case"
+  },
+  {
+   "start": 715.36,
+   "end": 721.76,
+   "text": "uh that i have on this slide really just"
+  },
+  {
+   "start": 718.92,
+   "end": 724.8,
+   "text": "re-emphasizes the first case"
+  },
+  {
+   "start": 721.76,
+   "end": 727.6,
+   "text": "in that it also does show"
+  },
+  {
+   "start": 724.8,
+   "end": 730.8,
+   "text": "the effect of galactose and how"
+  },
+  {
+   "start": 727.6,
+   "end": 734.16,
+   "text": "galactose can interfere with certain"
+  },
+  {
+   "start": 730.8,
+   "end": 736.16,
+   "text": "glucose meters and it's important to be"
+  },
+  {
+   "start": 734.16,
+   "end": 739.44,
+   "text": "able to distinguish glucose from a"
+  },
+  {
+   "start": 736.16,
+   "end": 742.24,
+   "text": "galactose in particular in the neonatal"
+  },
+  {
+   "start": 739.44,
+   "end": 742.24,
+   "text": "population"
+  },
+  {
+   "start": 743.36,
+   "end": 748.16,
+   "text": "when we look at the structure of glucose"
+  },
+  {
+   "start": 745.52,
+   "end": 750.96,
+   "text": "and galactose you can see that they are"
+  },
+  {
+   "start": 748.16,
+   "end": 754.0,
+   "text": "remarkably similar except for the"
+  },
+  {
+   "start": 750.96,
+   "end": 759.24,
+   "text": "position of the hydroxyl group that i"
+  },
+  {
+   "start": 754.0,
+   "end": 759.24,
+   "text": "have outlined in red on this slide"
+  },
+  {
+   "start": 761.12,
+   "end": 766.72,
+   "text": "i would like to emphasize the importance"
+  },
+  {
+   "start": 764.16,
+   "end": 769.52,
+   "text": "of being able to distinguish a glucose"
+  },
+  {
+   "start": 766.72,
+   "end": 772.96,
+   "text": "from a galactose in context with"
+  },
+  {
+   "start": 769.52,
+   "end": 775.6,
+   "text": "identifying neonatal hypoglycemia"
+  },
+  {
+   "start": 772.96,
+   "end": 777.84,
+   "text": "as we know there are numerous glucose"
+  },
+  {
+   "start": 775.6,
+   "end": 781.52,
+   "text": "concentrations that have been reported"
+  },
+  {
+   "start": 777.84,
+   "end": 784.84,
+   "text": "in the literature as to alert or action"
+  },
+  {
+   "start": 781.52,
+   "end": 788.24,
+   "text": "values that require clinical"
+  },
+  {
+   "start": 784.84,
+   "end": 789.92,
+   "text": "intervention these range from 1.6"
+  },
+  {
+   "start": 788.24,
+   "end": 792.48,
+   "text": "millimole per liter"
+  },
+  {
+   "start": 789.92,
+   "end": 793.92,
+   "text": "uh to which is 29 milligram per"
+  },
+  {
+   "start": 792.48,
+   "end": 797.04,
+   "text": "deciliter"
+  },
+  {
+   "start": 793.92,
+   "end": 798.56,
+   "text": "uh 2 millimole or 36 milligram per"
+  },
+  {
+   "start": 797.04,
+   "end": 801.68,
+   "text": "deciliter"
+  },
+  {
+   "start": 798.56,
+   "end": 804.72,
+   "text": "40 milligram per deciliter"
+  },
+  {
+   "start": 801.68,
+   "end": 806.96,
+   "text": "47 milligram per deciliter or 49"
+  },
+  {
+   "start": 804.72,
+   "end": 810.08,
+   "text": "milligrams per deciliter"
+  },
+  {
+   "start": 806.96,
+   "end": 813.04,
+   "text": "all of these uh concentrations"
+  },
+  {
+   "start": 810.08,
+   "end": 814.64,
+   "text": "have been listed in various clinical"
+  },
+  {
+   "start": 813.04,
+   "end": 818.32,
+   "text": "practice guidelines"
+  },
+  {
+   "start": 814.64,
+   "end": 821.84,
+   "text": "as potential action or alert values in"
+  },
+  {
+   "start": 818.32,
+   "end": 821.84,
+   "text": "the neonatal population"
+  },
+  {
+   "start": 824.56,
+   "end": 829.6,
+   "text": "several years ago we investigated the"
+  },
+  {
+   "start": 826.96,
+   "end": 831.36,
+   "text": "potential effect of lower concentrations"
+  },
+  {
+   "start": 829.6,
+   "end": 834.08,
+   "text": "of glucose"
+  },
+  {
+   "start": 831.36,
+   "end": 836.64,
+   "text": "that are consistent with the alert or"
+  },
+  {
+   "start": 834.08,
+   "end": 839.84,
+   "text": "action values that i've just mentioned"
+  },
+  {
+   "start": 836.64,
+   "end": 841.92,
+   "text": "and lower concentrations of galactose"
+  },
+  {
+   "start": 839.84,
+   "end": 844.56,
+   "text": "we deliberately looked at low"
+  },
+  {
+   "start": 841.92,
+   "end": 848.08,
+   "text": "concentrations of galactose and not the"
+  },
+  {
+   "start": 844.56,
+   "end": 849.68,
+   "text": "high concentrations that are associated"
+  },
+  {
+   "start": 848.08,
+   "end": 852.64,
+   "text": "with patients"
+  },
+  {
+   "start": 849.68,
+   "end": 856.88,
+   "text": "diagnosed with galactosemia"
+  },
+  {
+   "start": 852.64,
+   "end": 859.36,
+   "text": "now this figure and table show that with"
+  },
+  {
+   "start": 856.88,
+   "end": 860.8,
+   "text": "the particular glucose meter that we"
+  },
+  {
+   "start": 859.36,
+   "end": 863.04,
+   "text": "were using"
+  },
+  {
+   "start": 860.8,
+   "end": 866.16,
+   "text": "that even low concentrations of"
+  },
+  {
+   "start": 863.04,
+   "end": 869.12,
+   "text": "galactose could interfere with the"
+  },
+  {
+   "start": 866.16,
+   "end": 872.4,
+   "text": "meter's ability to measure glucose and"
+  },
+  {
+   "start": 869.12,
+   "end": 873.52,
+   "text": "it was resulting in a positive"
+  },
+  {
+   "start": 872.4,
+   "end": 876.48,
+   "text": "bias"
+  },
+  {
+   "start": 873.52,
+   "end": 878.16,
+   "text": "so the results were artificially"
+  },
+  {
+   "start": 876.48,
+   "end": 880.4,
+   "text": "elevated"
+  },
+  {
+   "start": 878.16,
+   "end": 881.52,
+   "text": "uh the results that i'm showing in this"
+  },
+  {
+   "start": 880.4,
+   "end": 882.32,
+   "text": "slide"
+  },
+  {
+   "start": 881.52,
+   "end": 887.44,
+   "text": "are"
+  },
+  {
+   "start": 882.32,
+   "end": 887.44,
+   "text": "glucose in units of millimole per liter"
+  },
+  {
+   "start": 890.8,
+   "end": 896.4,
+   "text": "this slide shows the same data with the"
+  },
+  {
+   "start": 894.08,
+   "end": 899.52,
+   "text": "same glucose meter"
+  },
+  {
+   "start": 896.4,
+   "end": 902.32,
+   "text": "but the glucose data are represented in"
+  },
+  {
+   "start": 899.52,
+   "end": 904.8,
+   "text": "milligram per deciliter"
+  },
+  {
+   "start": 902.32,
+   "end": 907.28,
+   "text": "the concern i have with the performance"
+  },
+  {
+   "start": 904.8,
+   "end": 909.84,
+   "text": "of this glucose meter"
+  },
+  {
+   "start": 907.28,
+   "end": 913.12,
+   "text": "is that it would inappropriately"
+  },
+  {
+   "start": 909.84,
+   "end": 915.28,
+   "text": "indicate higher glucose values than the"
+  },
+  {
+   "start": 913.12,
+   "end": 917.6,
+   "text": "baby actually has"
+  },
+  {
+   "start": 915.28,
+   "end": 920.4,
+   "text": "and this could result in the potential"
+  },
+  {
+   "start": 917.6,
+   "end": 925.8,
+   "text": "failure to identify"
+  },
+  {
+   "start": 920.4,
+   "end": 925.8,
+   "text": "an actual hypoglycemic event"
+  },
+  {
+   "start": 927.68,
+   "end": 932.96,
+   "text": "this slide shows the results of"
+  },
+  {
+   "start": 931.12,
+   "end": 935.2,
+   "text": "the same study design but with a"
+  },
+  {
+   "start": 932.96,
+   "end": 937.44,
+   "text": "different glucose meter"
+  },
+  {
+   "start": 935.2,
+   "end": 940.8,
+   "text": "and as you can see in this case the"
+  },
+  {
+   "start": 937.44,
+   "end": 943.6,
+   "text": "glucose meter was absolutely unaffected"
+  },
+  {
+   "start": 940.8,
+   "end": 946.32,
+   "text": "with combinations of low glucose and"
+  },
+  {
+   "start": 943.6,
+   "end": 946.32,
+   "text": "galactose"
+  },
+  {
+   "start": 949.44,
+   "end": 953.52,
+   "text": "and these are the same results but the"
+  },
+  {
+   "start": 952.24,
+   "end": 955.92,
+   "text": "glucose"
+  },
+  {
+   "start": 953.52,
+   "end": 958.64,
+   "text": "values are expressed in milligram per"
+  },
+  {
+   "start": 955.92,
+   "end": 961.6,
+   "text": "deciliter and not millimole per"
+  },
+  {
+   "start": 958.64,
+   "end": 963.04,
+   "text": "millimole per liter uh for the second"
+  },
+  {
+   "start": 961.6,
+   "end": 965.28,
+   "text": "glucose meter"
+  },
+  {
+   "start": 963.04,
+   "end": 967.92,
+   "text": "and you can see that the second glucose"
+  },
+  {
+   "start": 965.28,
+   "end": 971.68,
+   "text": "meter was absolutely unaffected"
+  },
+  {
+   "start": 967.92,
+   "end": 971.68,
+   "text": "by galactose interference"
+  },
+  {
+   "start": 973.84,
+   "end": 979.76,
+   "text": "this slide shows the structure of"
+  },
+  {
+   "start": 976.4,
+   "end": 982.72,
+   "text": "several non-glucose sugars including"
+  },
+  {
+   "start": 979.76,
+   "end": 985.12,
+   "text": "galactose and lactose that have also"
+  },
+  {
+   "start": 982.72,
+   "end": 988.72,
+   "text": "been reported to cause analytical"
+  },
+  {
+   "start": 985.12,
+   "end": 990.64,
+   "text": "interference with glucose meters"
+  },
+  {
+   "start": 988.72,
+   "end": 993.6,
+   "text": "i would now like to present the case"
+  },
+  {
+   "start": 990.64,
+   "end": 997.84,
+   "text": "report of an oncodextran"
+  },
+  {
+   "start": 993.6,
+   "end": 997.84,
+   "text": "interference with a glucose meter"
+  },
+  {
+   "start": 1000.0,
+   "end": 1009.48,
+   "text": "this case was published in 2013"
+  },
+  {
+   "start": 1004.08,
+   "end": 1009.48,
+   "text": "in the journal a and a practice"
+  },
+  {
+   "start": 1011.36,
+   "end": 1018.64,
+   "text": "it involves a 65 year old female"
+  },
+  {
+   "start": 1015.04,
+   "end": 1021.76,
+   "text": "her history is in stage renal disease"
+  },
+  {
+   "start": 1018.64,
+   "end": 1023.8,
+   "text": "secondary to hypertensive neuropathy and"
+  },
+  {
+   "start": 1021.76,
+   "end": 1025.52,
+   "text": "she was admitted for renal"
+  },
+  {
+   "start": 1023.8,
+   "end": 1028.08,
+   "text": "transplantation"
+  },
+  {
+   "start": 1025.52,
+   "end": 1030.4,
+   "text": "past history coronary artery disease"
+  },
+  {
+   "start": 1028.08,
+   "end": 1031.84,
+   "text": "chronic anemia secondary to renal"
+  },
+  {
+   "start": 1030.4,
+   "end": 1035.2,
+   "text": "disease"
+  },
+  {
+   "start": 1031.84,
+   "end": 1039.12,
+   "text": "uh she was on continuous ambulatory"
+  },
+  {
+   "start": 1035.2,
+   "end": 1042.8,
+   "text": "peritoneal dialysis and had no history"
+  },
+  {
+   "start": 1039.12,
+   "end": 1042.8,
+   "text": "of diabetes mellitus"
+  },
+  {
+   "start": 1046.88,
+   "end": 1052.72,
+   "text": "on the day of surgery the patient was"
+  },
+  {
+   "start": 1049.76,
+   "end": 1054.64,
+   "text": "awake alert neurologically intact"
+  },
+  {
+   "start": 1052.72,
+   "end": 1058.56,
+   "text": "and after the surgery the patient"
+  },
+  {
+   "start": 1054.64,
+   "end": 1061.36,
+   "text": "arrived in the uh the care unit the post"
+  },
+  {
+   "start": 1058.56,
+   "end": 1064.4,
+   "text": "anesthesia care unit she was receiving"
+  },
+  {
+   "start": 1061.36,
+   "end": 1067.04,
+   "text": "pain management and a finger stick"
+  },
+  {
+   "start": 1064.4,
+   "end": 1070.64,
+   "text": "poke was done and the glucose came back"
+  },
+  {
+   "start": 1067.04,
+   "end": 1073.36,
+   "text": "at 340 milligram per deciliter"
+  },
+  {
+   "start": 1070.64,
+   "end": 1076.8,
+   "text": "as a consequence of this uh the patient"
+  },
+  {
+   "start": 1073.36,
+   "end": 1079.92,
+   "text": "received continuous iv insulin infusions"
+  },
+  {
+   "start": 1076.8,
+   "end": 1083.84,
+   "text": "and was discharged uh to the floor and"
+  },
+  {
+   "start": 1079.92,
+   "end": 1083.84,
+   "text": "considered in stable condition"
+  },
+  {
+   "start": 1086.08,
+   "end": 1091.28,
+   "text": "on her first post-operative day"
+  },
+  {
+   "start": 1088.72,
+   "end": 1094.4,
+   "text": "the patient in the morning was awake and"
+  },
+  {
+   "start": 1091.28,
+   "end": 1097.36,
+   "text": "alert however in the afternoon the"
+  },
+  {
+   "start": 1094.4,
+   "end": 1099.52,
+   "text": "patient became increasingly sleepy"
+  },
+  {
+   "start": 1097.36,
+   "end": 1103.92,
+   "text": "and it was decided to transfer the"
+  },
+  {
+   "start": 1099.52,
+   "end": 1105.68,
+   "text": "patient back to icu and hemodialysis"
+  },
+  {
+   "start": 1103.92,
+   "end": 1107.76,
+   "text": "was initiated"
+  },
+  {
+   "start": 1105.68,
+   "end": 1110.32,
+   "text": "by 1900"
+  },
+  {
+   "start": 1107.76,
+   "end": 1111.84,
+   "text": "hours that night the patient was"
+  },
+  {
+   "start": 1110.32,
+   "end": 1114.56,
+   "text": "unresponsive"
+  },
+  {
+   "start": 1111.84,
+   "end": 1115.44,
+   "text": "unresponsive to painful stimuli"
+  },
+  {
+   "start": 1114.56,
+   "end": 1117.04,
+   "text": "and"
+  },
+  {
+   "start": 1115.44,
+   "end": 1120.04,
+   "text": "the patient was"
+  },
+  {
+   "start": 1117.04,
+   "end": 1120.04,
+   "text": "intubated"
+  },
+  {
+   "start": 1122.48,
+   "end": 1128.88,
+   "text": "on the second postoperative day"
+  },
+  {
+   "start": 1124.88,
+   "end": 1132.0,
+   "text": "uh an mri and ecg had been ordered and"
+  },
+  {
+   "start": 1128.88,
+   "end": 1134.84,
+   "text": "the results were consistent with a toxic"
+  },
+  {
+   "start": 1132.0,
+   "end": 1138.32,
+   "text": "metabolite encephalopathy"
+  },
+  {
+   "start": 1134.84,
+   "end": 1141.6,
+   "text": "interestingly during that day as well"
+  },
+  {
+   "start": 1138.32,
+   "end": 1143.68,
+   "text": "the laboratory glucose result came in"
+  },
+  {
+   "start": 1141.6,
+   "end": 1146.56,
+   "text": "at um"
+  },
+  {
+   "start": 1143.68,
+   "end": 1149.28,
+   "text": "43 milligram per deciliter and this was"
+  },
+  {
+   "start": 1146.56,
+   "end": 1150.48,
+   "text": "dramatically different from the previous"
+  },
+  {
+   "start": 1149.28,
+   "end": 1152.72,
+   "text": "results"
+  },
+  {
+   "start": 1150.48,
+   "end": 1154.96,
+   "text": "obtained with glucose meters which were"
+  },
+  {
+   "start": 1152.72,
+   "end": 1158.32,
+   "text": "in the very high"
+  },
+  {
+   "start": 1154.96,
+   "end": 1159.2,
+   "text": "300 milligram per deciliter range"
+  },
+  {
+   "start": 1158.32,
+   "end": 1160.48,
+   "text": "uh"
+  },
+  {
+   "start": 1159.2,
+   "end": 1163.92,
+   "text": "the"
+  },
+  {
+   "start": 1160.48,
+   "end": 1166.96,
+   "text": "physicians responded to this low glucose"
+  },
+  {
+   "start": 1163.92,
+   "end": 1171.12,
+   "text": "from the laboratory uh the insulin"
+  },
+  {
+   "start": 1166.96,
+   "end": 1177.0,
+   "text": "infusion was discontinued and a dextrose"
+  },
+  {
+   "start": 1171.12,
+   "end": 1177.0,
+   "text": "solution was immediately administered iv"
+  },
+  {
+   "start": 1178.32,
+   "end": 1181.76,
+   "text": "this table outlines the discrepant"
+  },
+  {
+   "start": 1180.56,
+   "end": 1183.92,
+   "text": "results"
+  },
+  {
+   "start": 1181.76,
+   "end": 1186.56,
+   "text": "for glucose measurement between the"
+  },
+  {
+   "start": 1183.92,
+   "end": 1189.36,
+   "text": "point of care glucose meter and those"
+  },
+  {
+   "start": 1186.56,
+   "end": 1191.6,
+   "text": "obtained with the laboratory"
+  },
+  {
+   "start": 1189.36,
+   "end": 1194.24,
+   "text": "the glucose results obtained with the"
+  },
+  {
+   "start": 1191.6,
+   "end": 1196.96,
+   "text": "glucose meter um"
+  },
+  {
+   "start": 1194.24,
+   "end": 1199.28,
+   "text": "in this particular case were used to"
+  },
+  {
+   "start": 1196.96,
+   "end": 1200.4,
+   "text": "titrate the insulin infusion for the"
+  },
+  {
+   "start": 1199.28,
+   "end": 1201.44,
+   "text": "patients"
+  },
+  {
+   "start": 1200.4,
+   "end": 1204.96,
+   "text": "and"
+  },
+  {
+   "start": 1201.44,
+   "end": 1208.04,
+   "text": "it was calculated that the patient had"
+  },
+  {
+   "start": 1204.96,
+   "end": 1211.68,
+   "text": "received up to very close to"
+  },
+  {
+   "start": 1208.04,
+   "end": 1214.64,
+   "text": "116 units of insulin before the"
+  },
+  {
+   "start": 1211.68,
+   "end": 1219.08,
+   "text": "discrepancy had been identified between"
+  },
+  {
+   "start": 1214.64,
+   "end": 1219.08,
+   "text": "the glucose meter and the laboratory"
+  },
+  {
+   "start": 1220.4,
+   "end": 1225.04,
+   "text": "the outcome of this case was that the"
+  },
+  {
+   "start": 1222.96,
+   "end": 1226.32,
+   "text": "patient never recovered neurologic"
+  },
+  {
+   "start": 1225.04,
+   "end": 1228.64,
+   "text": "function"
+  },
+  {
+   "start": 1226.32,
+   "end": 1231.6,
+   "text": "uh there had been prolonged hospital"
+  },
+  {
+   "start": 1228.64,
+   "end": 1233.28,
+   "text": "stay because of the discrepant results"
+  },
+  {
+   "start": 1231.6,
+   "end": 1234.4,
+   "text": "and the treatment that the patient had"
+  },
+  {
+   "start": 1233.28,
+   "end": 1236.24,
+   "text": "received"
+  },
+  {
+   "start": 1234.4,
+   "end": 1238.56,
+   "text": "and the patient"
+  },
+  {
+   "start": 1236.24,
+   "end": 1241.68,
+   "text": "was never able to be discharged back"
+  },
+  {
+   "start": 1238.56,
+   "end": 1244.68,
+   "text": "home and had to be discharged to a care"
+  },
+  {
+   "start": 1241.68,
+   "end": 1244.68,
+   "text": "facility"
+  },
+  {
+   "start": 1248.32,
+   "end": 1254.32,
+   "text": "by presenting these case reports i"
+  },
+  {
+   "start": 1251.36,
+   "end": 1256.32,
+   "text": "wanted to demonstrate that interferences"
+  },
+  {
+   "start": 1254.32,
+   "end": 1259.68,
+   "text": "in glucose measurements"
+  },
+  {
+   "start": 1256.32,
+   "end": 1260.8,
+   "text": "can lead to inaccurate results which in"
+  },
+  {
+   "start": 1259.68,
+   "end": 1262.72,
+   "text": "turn"
+  },
+  {
+   "start": 1260.8,
+   "end": 1265.28,
+   "text": "have the possibility"
+  },
+  {
+   "start": 1262.72,
+   "end": 1266.48,
+   "text": "of causing inappropriate treatment for"
+  },
+  {
+   "start": 1265.28,
+   "end": 1269.44,
+   "text": "the patient"
+  },
+  {
+   "start": 1266.48,
+   "end": 1271.84,
+   "text": "and in some cases these errors can"
+  },
+  {
+   "start": 1269.44,
+   "end": 1274.84,
+   "text": "actually represent a hazard to the"
+  },
+  {
+   "start": 1271.84,
+   "end": 1274.84,
+   "text": "patient"
+  },
+  {
+   "start": 1276.48,
+   "end": 1280.56,
+   "text": "this figure was taken from a paper"
+  },
+  {
+   "start": 1279.04,
+   "end": 1281.68,
+   "text": "published by"
+  },
+  {
+   "start": 1280.56,
+   "end": 1285.04,
+   "text": "thorpe"
+  },
+  {
+   "start": 1281.68,
+   "end": 1288.88,
+   "text": "um in a diabetes uh technology and"
+  },
+  {
+   "start": 1285.04,
+   "end": 1291.2,
+   "text": "therapeutics in 2013."
+  },
+  {
+   "start": 1288.88,
+   "end": 1294.4,
+   "text": "and what it indicates are the number of"
+  },
+  {
+   "start": 1291.2,
+   "end": 1296.56,
+   "text": "publications uh that were assessing the"
+  },
+  {
+   "start": 1294.4,
+   "end": 1300.16,
+   "text": "performance of glucose meters between"
+  },
+  {
+   "start": 1296.56,
+   "end": 1300.96,
+   "text": "2004 and 2011."
+  },
+  {
+   "start": 1300.16,
+   "end": 1303.68,
+   "text": "and"
+  },
+  {
+   "start": 1300.96,
+   "end": 1306.16,
+   "text": "what can be seen is that in the early"
+  },
+  {
+   "start": 1303.68,
+   "end": 1308.64,
+   "text": "2000s and prior to that"
+  },
+  {
+   "start": 1306.16,
+   "end": 1312.4,
+   "text": "there were not a lot of publications uh"
+  },
+  {
+   "start": 1308.64,
+   "end": 1313.28,
+   "text": "regarding um glucose meter performance"
+  },
+  {
+   "start": 1312.4,
+   "end": 1318.56,
+   "text": "but"
+  },
+  {
+   "start": 1313.28,
+   "end": 1319.84,
+   "text": "since 2009 since 2010 and onward as a"
+  },
+  {
+   "start": 1318.56,
+   "end": 1323.36,
+   "text": "community"
+  },
+  {
+   "start": 1319.84,
+   "end": 1326.32,
+   "text": "we are becoming more aware"
+  },
+  {
+   "start": 1323.36,
+   "end": 1330.92,
+   "text": "of the performance or issues with the"
+  },
+  {
+   "start": 1326.32,
+   "end": 1330.92,
+   "text": "performance of glucose meters"
+  },
+  {
+   "start": 1333.44,
+   "end": 1337.76,
+   "text": "for the remainder of my talk i will be"
+  },
+  {
+   "start": 1335.6,
+   "end": 1340.16,
+   "text": "focusing on the use of glucose meters"
+  },
+  {
+   "start": 1337.76,
+   "end": 1342.96,
+   "text": "with critically ill patients"
+  },
+  {
+   "start": 1340.16,
+   "end": 1346.84,
+   "text": "i would like to focus on how did we get"
+  },
+  {
+   "start": 1342.96,
+   "end": 1346.84,
+   "text": "to where we are today"
+  },
+  {
+   "start": 1348.72,
+   "end": 1354.4,
+   "text": "critically ill patients can be found in"
+  },
+  {
+   "start": 1350.88,
+   "end": 1357.92,
+   "text": "many different locations from the ors to"
+  },
+  {
+   "start": 1354.4,
+   "end": 1361.28,
+   "text": "nicu's nurseries emergency departments"
+  },
+  {
+   "start": 1357.92,
+   "end": 1364.08,
+   "text": "and oncology and dialysis units within"
+  },
+  {
+   "start": 1361.28,
+   "end": 1364.08,
+   "text": "our hospitals"
+  },
+  {
+   "start": 1366.88,
+   "end": 1372.56,
+   "text": "as i've previously mentioned it was in"
+  },
+  {
+   "start": 1369.2,
+   "end": 1374.72,
+   "text": "the late 1990s and early 2000s that"
+  },
+  {
+   "start": 1372.56,
+   "end": 1376.72,
+   "text": "healthcare professionals started to"
+  },
+  {
+   "start": 1374.72,
+   "end": 1379.68,
+   "text": "become much more aware of the"
+  },
+  {
+   "start": 1376.72,
+   "end": 1382.24,
+   "text": "performance of glucose meters and how"
+  },
+  {
+   "start": 1379.68,
+   "end": 1384.32,
+   "text": "this performance could influence the"
+  },
+  {
+   "start": 1382.24,
+   "end": 1385.44,
+   "text": "quality of care for intensive care"
+  },
+  {
+   "start": 1384.32,
+   "end": 1387.76,
+   "text": "patients"
+  },
+  {
+   "start": 1385.44,
+   "end": 1390.32,
+   "text": "for example in 2001"
+  },
+  {
+   "start": 1387.76,
+   "end": 1392.8,
+   "text": "vandenberg reported that tight glycemic"
+  },
+  {
+   "start": 1390.32,
+   "end": 1395.92,
+   "text": "control could reduce morbidity and"
+  },
+  {
+   "start": 1392.8,
+   "end": 1399.64,
+   "text": "mortality in critically ill patients"
+  },
+  {
+   "start": 1395.92,
+   "end": 1401.28,
+   "text": "tang and louis in 1999 and dungan in"
+  },
+  {
+   "start": 1399.64,
+   "end": 1403.76,
+   "text": "2007"
+  },
+  {
+   "start": 1401.28,
+   "end": 1404.96,
+   "text": "reported interferences with glucose"
+  },
+  {
+   "start": 1403.76,
+   "end": 1409.12,
+   "text": "meters"
+  },
+  {
+   "start": 1404.96,
+   "end": 1412.4,
+   "text": "in 2009 the outcome of the nice sugar"
+  },
+  {
+   "start": 1409.12,
+   "end": 1415.28,
+   "text": "trial resulted in many questions about"
+  },
+  {
+   "start": 1412.4,
+   "end": 1418.32,
+   "text": "glucose meter inaccuracy and the"
+  },
+  {
+   "start": 1415.28,
+   "end": 1421.12,
+   "text": "clinical risks that could be or might be"
+  },
+  {
+   "start": 1418.32,
+   "end": 1423.52,
+   "text": "associated with using these inaccurate"
+  },
+  {
+   "start": 1421.12,
+   "end": 1423.52,
+   "text": "meters"
+  },
+  {
+   "start": 1427.04,
+   "end": 1435.12,
+   "text": "to present this in a timeline"
+  },
+  {
+   "start": 1431.2,
+   "end": 1438.72,
+   "text": "there there were controversies uh and"
+  },
+  {
+   "start": 1435.12,
+   "end": 1442.24,
+   "text": "regarding the analytical accuracy"
+  },
+  {
+   "start": 1438.72,
+   "end": 1445.44,
+   "text": "associated with glucose meters uh and"
+  },
+  {
+   "start": 1442.24,
+   "end": 1448.72,
+   "text": "the use of tight glycemic protocols for"
+  },
+  {
+   "start": 1445.44,
+   "end": 1448.72,
+   "text": "critically ill patients"
+  },
+  {
+   "start": 1449.44,
+   "end": 1457.6,
+   "text": "the fda responded to these concerns and"
+  },
+  {
+   "start": 1453.28,
+   "end": 1461.12,
+   "text": "held a public forum in march 2010"
+  },
+  {
+   "start": 1457.6,
+   "end": 1463.76,
+   "text": "where uh the use of glucose meters in"
+  },
+  {
+   "start": 1461.12,
+   "end": 1466.8,
+   "text": "critically care critical care settings"
+  },
+  {
+   "start": 1463.76,
+   "end": 1466.8,
+   "text": "had been discussed"
+  },
+  {
+   "start": 1468.88,
+   "end": 1474.48,
+   "text": "later in"
+  },
+  {
+   "start": 1470.2,
+   "end": 1478.4,
+   "text": "2010 after this fda public forum"
+  },
+  {
+   "start": 1474.48,
+   "end": 1481.68,
+   "text": "the fda required manufacturers of newly"
+  },
+  {
+   "start": 1478.4,
+   "end": 1484.32,
+   "text": "cleared meters to add limitation and"
+  },
+  {
+   "start": 1481.68,
+   "end": 1488.16,
+   "text": "that limitation was that the meters were"
+  },
+  {
+   "start": 1484.32,
+   "end": 1491.2,
+   "text": "not for use in critically ill patients"
+  },
+  {
+   "start": 1488.16,
+   "end": 1492.16,
+   "text": "and so the manufacturers had to have"
+  },
+  {
+   "start": 1491.2,
+   "end": 1496.08,
+   "text": "this"
+  },
+  {
+   "start": 1492.16,
+   "end": 1496.08,
+   "text": "included in their product label"
+  },
+  {
+   "start": 1498.16,
+   "end": 1505.44,
+   "text": "however a little bit later in 2010 in"
+  },
+  {
+   "start": 1501.92,
+   "end": 1508.16,
+   "text": "november of 2010 the fda actually"
+  },
+  {
+   "start": 1505.44,
+   "end": 1510.4,
+   "text": "modified that limitation statement"
+  },
+  {
+   "start": 1508.16,
+   "end": 1512.88,
+   "text": "to uh to say"
+  },
+  {
+   "start": 1510.4,
+   "end": 1516.64,
+   "text": "that um that the product label should"
+  },
+  {
+   "start": 1512.88,
+   "end": 1519.2,
+   "text": "say not evaluated in critically ill"
+  },
+  {
+   "start": 1516.64,
+   "end": 1519.2,
+   "text": "patients"
+  },
+  {
+   "start": 1520.96,
+   "end": 1527.92,
+   "text": "it was shortly after this fda meeting"
+  },
+  {
+   "start": 1524.16,
+   "end": 1529.92,
+   "text": "that other organizations like iso clsi"
+  },
+  {
+   "start": 1527.92,
+   "end": 1530.96,
+   "text": "as well as nacb"
+  },
+  {
+   "start": 1529.92,
+   "end": 1533.84,
+   "text": "they"
+  },
+  {
+   "start": 1530.96,
+   "end": 1537.2,
+   "text": "modified their performance expectations"
+  },
+  {
+   "start": 1533.84,
+   "end": 1537.2,
+   "text": "for glucose meters"
+  },
+  {
+   "start": 1539.76,
+   "end": 1546.88,
+   "text": "in september 2014"
+  },
+  {
+   "start": 1542.72,
+   "end": 1548.48,
+   "text": "the fda approved the first glucose meter"
+  },
+  {
+   "start": 1546.88,
+   "end": 1551.28,
+   "text": "for use"
+  },
+  {
+   "start": 1548.48,
+   "end": 1556.44,
+   "text": "in critically ill patients and that was"
+  },
+  {
+   "start": 1551.28,
+   "end": 1556.44,
+   "text": "the nova StatStrip glucose meter"
+  },
+  {
+   "start": 1558.08,
+   "end": 1564.24,
+   "text": "at this time the fda approved the"
+  },
+  {
+   "start": 1561.52,
+   "end": 1566.88,
+   "text": "following specimen types for use with"
+  },
+  {
+   "start": 1564.24,
+   "end": 1569.68,
+   "text": "the nova StatStrip glucose meter and"
+  },
+  {
+   "start": 1566.88,
+   "end": 1572.32,
+   "text": "those specimen types were venus arterial"
+  },
+  {
+   "start": 1569.68,
+   "end": 1574.88,
+   "text": "neonatal arterial and neonatal heel"
+  },
+  {
+   "start": 1572.32,
+   "end": 1577.6,
+   "text": "stick whole blood samples"
+  },
+  {
+   "start": 1574.88,
+   "end": 1582.64,
+   "text": "capillary use and the collection of"
+  },
+  {
+   "start": 1577.6,
+   "end": 1582.64,
+   "text": "capillary samples has not been approved"
+  },
+  {
+   "start": 1583.52,
+   "end": 1591.04,
+   "text": "in october of uh 2016"
+  },
+  {
+   "start": 1587.84,
+   "end": 1593.44,
+   "text": "the fda published new guidelines uh for"
+  },
+  {
+   "start": 1591.04,
+   "end": 1596.08,
+   "text": "the verification and validation"
+  },
+  {
+   "start": 1593.44,
+   "end": 1599.12,
+   "text": "of the performance of"
+  },
+  {
+   "start": 1596.08,
+   "end": 1601.04,
+   "text": "glucose meters and what was interesting"
+  },
+  {
+   "start": 1599.12,
+   "end": 1604.08,
+   "text": "was that they had different"
+  },
+  {
+   "start": 1601.04,
+   "end": 1607.04,
+   "text": "and distinctive performance expectations"
+  },
+  {
+   "start": 1604.08,
+   "end": 1609.68,
+   "text": "for hospital-based glucose meters as"
+  },
+  {
+   "start": 1607.04,
+   "end": 1613.84,
+   "text": "well as the glucose meters for home use"
+  },
+  {
+   "start": 1609.68,
+   "end": 1613.84,
+   "text": "the self-monitoring glucose meters"
+  },
+  {
+   "start": 1614.56,
+   "end": 1617.2,
+   "text": "this slide"
+  },
+  {
+   "start": 1616.16,
+   "end": 1620.4,
+   "text": "shows"
+  },
+  {
+   "start": 1617.2,
+   "end": 1621.76,
+   "text": "the performance expectations proposed by"
+  },
+  {
+   "start": 1620.4,
+   "end": 1624.56,
+   "text": "the fda"
+  },
+  {
+   "start": 1621.76,
+   "end": 1627.2,
+   "text": "for the home use glucose meters as well"
+  },
+  {
+   "start": 1624.56,
+   "end": 1629.44,
+   "text": "as the hospital glucose meters and you"
+  },
+  {
+   "start": 1627.2,
+   "end": 1631.2,
+   "text": "can see the differences in the"
+  },
+  {
+   "start": 1629.44,
+   "end": 1635.92,
+   "text": "performance expectations that are"
+  },
+  {
+   "start": 1631.2,
+   "end": 1640.12,
+   "text": "proposed by the fda for each of these"
+  },
+  {
+   "start": 1635.92,
+   "end": 1640.12,
+   "text": "groups of glucose meters"
+  },
+  {
+   "start": 1641.84,
+   "end": 1646.24,
+   "text": "with the next series of slides i will be"
+  },
+  {
+   "start": 1644.32,
+   "end": 1648.32,
+   "text": "describing the international"
+  },
+  {
+   "start": 1646.24,
+   "end": 1650.08,
+   "text": "multi-center clinical trial that was"
+  },
+  {
+   "start": 1648.32,
+   "end": 1653.52,
+   "text": "conducted by nova"
+  },
+  {
+   "start": 1650.08,
+   "end": 1655.04,
+   "text": "that enabled a clearance of the fda"
+  },
+  {
+   "start": 1653.52,
+   "end": 1658.88,
+   "text": "clearance for"
+  },
+  {
+   "start": 1655.04,
+   "end": 1658.88,
+   "text": "use in critically ill patients"
+  },
+  {
+   "start": 1660.88,
+   "end": 1665.6,
+   "text": "the results of this multi-center trial"
+  },
+  {
+   "start": 1663.36,
+   "end": 1669.52,
+   "text": "have been published in critical care"
+  },
+  {
+   "start": 1665.6,
+   "end": 1671.28,
+   "text": "medicine actually this past year and i i"
+  },
+  {
+   "start": 1669.52,
+   "end": 1673.12,
+   "text": "will now"
+  },
+  {
+   "start": 1671.28,
+   "end": 1676.88,
+   "text": "like to describe in a little more depth"
+  },
+  {
+   "start": 1673.12,
+   "end": 1676.88,
+   "text": "to various aspects of the study"
+  },
+  {
+   "start": 1678.32,
+   "end": 1683.36,
+   "text": "this trial was conducted at five"
+  },
+  {
+   "start": 1680.72,
+   "end": 1686.0,
+   "text": "university hospital medical centers for"
+  },
+  {
+   "start": 1683.36,
+   "end": 1687.68,
+   "text": "which three were in the united states in"
+  },
+  {
+   "start": 1686.0,
+   "end": 1689.36,
+   "text": "two in europe"
+  },
+  {
+   "start": 1687.68,
+   "end": 1691.12,
+   "text": "one thousand six hundred and ninety"
+  },
+  {
+   "start": 1689.36,
+   "end": 1693.8,
+   "text": "eight critically ill patients were"
+  },
+  {
+   "start": 1691.12,
+   "end": 1696.92,
+   "text": "enrolled and this resulted in"
+  },
+  {
+   "start": 1693.8,
+   "end": 1699.84,
+   "text": "1815 glucose measurements"
+  },
+  {
+   "start": 1696.92,
+   "end": 1702.16,
+   "text": "257 different specific critical care"
+  },
+  {
+   "start": 1699.84,
+   "end": 1704.0,
+   "text": "conditions including the severity of"
+  },
+  {
+   "start": 1702.16,
+   "end": 1707.32,
+   "text": "illness scores were noted with these"
+  },
+  {
+   "start": 1704.0,
+   "end": 1710.4,
+   "text": "patients as well as"
+  },
+  {
+   "start": 1707.32,
+   "end": 1711.52,
+   "text": "134 different drug subclasses"
+  },
+  {
+   "start": 1710.4,
+   "end": 1715.28,
+   "text": "were also"
+  },
+  {
+   "start": 1711.52,
+   "end": 1715.28,
+   "text": "noted within these patients"
+  },
+  {
+   "start": 1718.48,
+   "end": 1723.04,
+   "text": "in this study the analytical performance"
+  },
+  {
+   "start": 1721.12,
+   "end": 1726.32,
+   "text": "of the glucose meter"
+  },
+  {
+   "start": 1723.04,
+   "end": 1730.08,
+   "text": "was compared with the ideamaster line"
+  },
+  {
+   "start": 1726.32,
+   "end": 1733.44,
+   "text": "central laboratory glucose methods"
+  },
+  {
+   "start": 1730.08,
+   "end": 1735.68,
+   "text": "in addition to this the clinical risk"
+  },
+  {
+   "start": 1733.44,
+   "end": 1738.56,
+   "text": "associated with use of this glucose"
+  },
+  {
+   "start": 1735.68,
+   "end": 1741.52,
+   "text": "meter in the critically ill population"
+  },
+  {
+   "start": 1738.56,
+   "end": 1744.32,
+   "text": "was assessed using the park's error grid"
+  },
+  {
+   "start": 1741.52,
+   "end": 1746.8,
+   "text": "as well as the monte carlo simulation"
+  },
+  {
+   "start": 1744.32,
+   "end": 1746.8,
+   "text": "studies"
+  },
+  {
+   "start": 1749.28,
+   "end": 1754.56,
+   "text": "glucose meter performance expectations"
+  },
+  {
+   "start": 1752.0,
+   "end": 1758.96,
+   "text": "outlined by clsi"
+  },
+  {
+   "start": 1754.56,
+   "end": 1760.24,
+   "text": "poct 12a3 were also assessed in this"
+  },
+  {
+   "start": 1758.96,
+   "end": 1762.24,
+   "text": "trial"
+  },
+  {
+   "start": 1760.24,
+   "end": 1765.68,
+   "text": "stratified"
+  },
+  {
+   "start": 1762.24,
+   "end": 1766.56,
+   "text": "sensitivity and specificity analysis"
+  },
+  {
+   "start": 1765.68,
+   "end": 1769.28,
+   "text": "was"
+  },
+  {
+   "start": 1766.56,
+   "end": 1771.68,
+   "text": "conducted also conducted as well as the"
+  },
+  {
+   "start": 1769.28,
+   "end": 1774.48,
+   "text": "performance of these of the glucose"
+  },
+  {
+   "start": 1771.68,
+   "end": 1778.04,
+   "text": "meter in the hypoglycemic range"
+  },
+  {
+   "start": 1774.48,
+   "end": 1778.04,
+   "text": "was also assessed"
+  },
+  {
+   "start": 1780.4,
+   "end": 1785.92,
+   "text": "in this figure the icu patient"
+  },
+  {
+   "start": 1783.28,
+   "end": 1788.0,
+   "text": "correlations between the glucose meter"
+  },
+  {
+   "start": 1785.92,
+   "end": 1789.2,
+   "text": "and the central laboratory methods is"
+  },
+  {
+   "start": 1788.0,
+   "end": 1792.08,
+   "text": "depicted"
+  },
+  {
+   "start": 1789.2,
+   "end": 1792.96,
+   "text": "on the park's error grid"
+  },
+  {
+   "start": 1792.08,
+   "end": 1795.84,
+   "text": "uh"
+  },
+  {
+   "start": 1792.96,
+   "end": 1797.84,
+   "text": "the park's error grid was developed in"
+  },
+  {
+   "start": 1795.84,
+   "end": 1800.88,
+   "text": "1994"
+  },
+  {
+   "start": 1797.84,
+   "end": 1803.92,
+   "text": "based on a survey of 100"
+  },
+  {
+   "start": 1800.88,
+   "end": 1805.76,
+   "text": "expert physicians who treated uh"
+  },
+  {
+   "start": 1803.92,
+   "end": 1807.52,
+   "text": "diabetic patients"
+  },
+  {
+   "start": 1805.76,
+   "end": 1808.48,
+   "text": "the parks era grid"
+  },
+  {
+   "start": 1807.52,
+   "end": 1812.88,
+   "text": "is"
+  },
+  {
+   "start": 1808.48,
+   "end": 1815.92,
+   "text": "it identifies five zones a through e"
+  },
+  {
+   "start": 1812.88,
+   "end": 1818.72,
+   "text": "based on the extent of analytical"
+  },
+  {
+   "start": 1815.92,
+   "end": 1820.96,
+   "text": "differences between the two glucose"
+  },
+  {
+   "start": 1818.72,
+   "end": 1822.8,
+   "text": "methods being tested"
+  },
+  {
+   "start": 1820.96,
+   "end": 1824.88,
+   "text": "glucose results"
+  },
+  {
+   "start": 1822.8,
+   "end": 1827.36,
+   "text": "in the a and b zones"
+  },
+  {
+   "start": 1824.88,
+   "end": 1828.8,
+   "text": "are associated with uh the least"
+  },
+  {
+   "start": 1827.36,
+   "end": 1831.12,
+   "text": "clinical risk"
+  },
+  {
+   "start": 1828.8,
+   "end": 1833.6,
+   "text": "whereas results in"
+  },
+  {
+   "start": 1831.12,
+   "end": 1835.6,
+   "text": "zone c d and e"
+  },
+  {
+   "start": 1833.6,
+   "end": 1838.04,
+   "text": "represent increasing clinical"
+  },
+  {
+   "start": 1835.6,
+   "end": 1841.6,
+   "text": "consequences"
+  },
+  {
+   "start": 1838.04,
+   "end": 1843.04,
+   "text": "99.3 percent of the ico patient results"
+  },
+  {
+   "start": 1841.6,
+   "end": 1845.52,
+   "text": "in the trial"
+  },
+  {
+   "start": 1843.04,
+   "end": 1846.64,
+   "text": "uh were located in zone a of the parks"
+  },
+  {
+   "start": 1845.52,
+   "end": 1850.56,
+   "text": "era grid"
+  },
+  {
+   "start": 1846.64,
+   "end": 1853.44,
+   "text": "and uh 0.7 of the results were located"
+  },
+  {
+   "start": 1850.56,
+   "end": 1853.44,
+   "text": "in zone b"
+  },
+  {
+   "start": 1856.24,
+   "end": 1862.24,
+   "text": "when the performance of the glucose"
+  },
+  {
+   "start": 1858.32,
+   "end": 1863.72,
+   "text": "meter was assessed according to the clsi"
+  },
+  {
+   "start": 1862.24,
+   "end": 1868.16,
+   "text": "uh pc"
+  },
+  {
+   "start": 1863.72,
+   "end": 1870.32,
+   "text": "poct 12 a3 criteria it was found that"
+  },
+  {
+   "start": 1868.16,
+   "end": 1872.56,
+   "text": "95.4"
+  },
+  {
+   "start": 1870.32,
+   "end": 1875.36,
+   "text": "of the results that were less than 100"
+  },
+  {
+   "start": 1872.56,
+   "end": 1876.48,
+   "text": "milligram per deciliter which translates"
+  },
+  {
+   "start": 1875.36,
+   "end": 1880.88,
+   "text": "into"
+  },
+  {
+   "start": 1876.48,
+   "end": 1882.64,
+   "text": "less than 5.5 millimole per liter that"
+  },
+  {
+   "start": 1880.88,
+   "end": 1884.56,
+   "text": "95.4"
+  },
+  {
+   "start": 1882.64,
+   "end": 1886.8,
+   "text": "of those results fell within the"
+  },
+  {
+   "start": 1884.56,
+   "end": 1890.72,
+   "text": "required plus or minus"
+  },
+  {
+   "start": 1886.8,
+   "end": 1893.6,
+   "text": "12 milligram uh per deciliter criteria"
+  },
+  {
+   "start": 1890.72,
+   "end": 1896.76,
+   "text": "uh for results that were greater than"
+  },
+  {
+   "start": 1893.6,
+   "end": 1898.56,
+   "text": "100 milligram per deciliter"
+  },
+  {
+   "start": 1896.76,
+   "end": 1901.36,
+   "text": "96.5"
+  },
+  {
+   "start": 1898.56,
+   "end": 1905.12,
+   "text": "of the results fell within the required"
+  },
+  {
+   "start": 1901.36,
+   "end": 1908.16,
+   "text": "12 and a half percent of the laboratory"
+  },
+  {
+   "start": 1905.12,
+   "end": 1908.16,
+   "text": "glucose results"
+  },
+  {
+   "start": 1910.88,
+   "end": 1915.68,
+   "text": "sensitivity and specificity was"
+  },
+  {
+   "start": 1913.6,
+   "end": 1918.24,
+   "text": "determined at the various glucose"
+  },
+  {
+   "start": 1915.68,
+   "end": 1919.6,
+   "text": "concentration intervals outlined on this"
+  },
+  {
+   "start": 1918.24,
+   "end": 1922.48,
+   "text": "slide"
+  },
+  {
+   "start": 1919.6,
+   "end": 1925.0,
+   "text": "the overall sensitivity of the glucose"
+  },
+  {
+   "start": 1922.48,
+   "end": 1928.48,
+   "text": "meter was calculated to be"
+  },
+  {
+   "start": 1925.0,
+   "end": 1931.4,
+   "text": "95.2 percent and the specificity was"
+  },
+  {
+   "start": 1928.48,
+   "end": 1935.4,
+   "text": "determined to be"
+  },
+  {
+   "start": 1931.4,
+   "end": 1935.4,
+   "text": "95.8 percent"
+  },
+  {
+   "start": 1938.08,
+   "end": 1943.36,
+   "text": "in order to assess the clinical risk of"
+  },
+  {
+   "start": 1940.64,
+   "end": 1945.28,
+   "text": "using this glucose meter in a critically"
+  },
+  {
+   "start": 1943.36,
+   "end": 1947.44,
+   "text": "ill population"
+  },
+  {
+   "start": 1945.28,
+   "end": 1949.36,
+   "text": "monte carlo simulation modeling was"
+  },
+  {
+   "start": 1947.44,
+   "end": 1952.16,
+   "text": "performed"
+  },
+  {
+   "start": 1949.36,
+   "end": 1955.12,
+   "text": "and the next series of slides will be"
+  },
+  {
+   "start": 1952.16,
+   "end": 1958.16,
+   "text": "used to describe what the simulation"
+  },
+  {
+   "start": 1955.12,
+   "end": 1958.16,
+   "text": "model tested"
+  },
+  {
+   "start": 1961.04,
+   "end": 1966.4,
+   "text": "monte carlo simulation is a mathematical"
+  },
+  {
+   "start": 1964.0,
+   "end": 1969.12,
+   "text": "technique that we use to assess the"
+  },
+  {
+   "start": 1966.4,
+   "end": 1971.44,
+   "text": "clinical accuracy of the nova glucose"
+  },
+  {
+   "start": 1969.12,
+   "end": 1971.44,
+   "text": "meter"
+  },
+  {
+   "start": 1974.56,
+   "end": 1980.88,
+   "text": "in 2001 boyden bruns demonstrated the"
+  },
+  {
+   "start": 1978.16,
+   "end": 1982.72,
+   "text": "theoretical utility of using this"
+  },
+  {
+   "start": 1980.88,
+   "end": 1985.36,
+   "text": "simulation model"
+  },
+  {
+   "start": 1982.72,
+   "end": 1988.8,
+   "text": "to estimate the effect of glucose meter"
+  },
+  {
+   "start": 1985.36,
+   "end": 1991.6,
+   "text": "bias and imprecision with the clinical"
+  },
+  {
+   "start": 1988.8,
+   "end": 1994.08,
+   "text": "risk of inappropriately administering"
+  },
+  {
+   "start": 1991.6,
+   "end": 1994.08,
+   "text": "insulin"
+  },
+  {
+   "start": 1997.04,
+   "end": 2002.0,
+   "text": "in 2010"
+  },
+  {
+   "start": 1999.12,
+   "end": 2004.72,
+   "text": "brad karen and his colleagues used"
+  },
+  {
+   "start": 2002.0,
+   "end": 2007.84,
+   "text": "simulation modeling to understand"
+  },
+  {
+   "start": 2004.72,
+   "end": 2010.24,
+   "text": "glucose meter performance with potential"
+  },
+  {
+   "start": 2007.84,
+   "end": 2013.28,
+   "text": "insulin dosing errors"
+  },
+  {
+   "start": 2010.24,
+   "end": 2017.04,
+   "text": "during a tight glycemic control"
+  },
+  {
+   "start": 2013.28,
+   "end": 2019.84,
+   "text": "and this study was published in 2010 in"
+  },
+  {
+   "start": 2017.04,
+   "end": 2019.84,
+   "text": "clinical chemistry"
+  },
+  {
+   "start": 2023.44,
+   "end": 2029.76,
+   "text": "this figure is a frequency distribution"
+  },
+  {
+   "start": 2027.2,
+   "end": 2031.44,
+   "text": "graph from the karen"
+  },
+  {
+   "start": 2029.76,
+   "end": 2034.0,
+   "text": "publication"
+  },
+  {
+   "start": 2031.44,
+   "end": 2036.72,
+   "text": "and uh it demonstrates or shows the"
+  },
+  {
+   "start": 2034.0,
+   "end": 2038.96,
+   "text": "glucose results obtained"
+  },
+  {
+   "start": 2036.72,
+   "end": 2042.32,
+   "text": "for six months"
+  },
+  {
+   "start": 2038.96,
+   "end": 2043.52,
+   "text": "the corresponding insulin dose in units"
+  },
+  {
+   "start": 2042.32,
+   "end": 2047.12,
+   "text": "per hour"
+  },
+  {
+   "start": 2043.52,
+   "end": 2050.24,
+   "text": "for each glucose target zone is also"
+  },
+  {
+   "start": 2047.12,
+   "end": 2050.24,
+   "text": "shown on this graph"
+  },
+  {
+   "start": 2054.56,
+   "end": 2060.08,
+   "text": "in the karen study they wanted to assess"
+  },
+  {
+   "start": 2057.44,
+   "end": 2063.76,
+   "text": "the relationship between glucose meter"
+  },
+  {
+   "start": 2060.08,
+   "end": 2067.6,
+   "text": "accuracy and insulin dosing error"
+  },
+  {
+   "start": 2063.76,
+   "end": 2068.48,
+   "text": "specifically the effective combinations"
+  },
+  {
+   "start": 2067.6,
+   "end": 2071.76,
+   "text": "of"
+  },
+  {
+   "start": 2068.48,
+   "end": 2074.76,
+   "text": "glucose meter bias and imprecision were"
+  },
+  {
+   "start": 2071.76,
+   "end": 2074.76,
+   "text": "examined"
+  },
+  {
+   "start": 2076.64,
+   "end": 2082.88,
+   "text": "how this works is that"
+  },
+  {
+   "start": 2080.24,
+   "end": 2085.12,
+   "text": "essentially the first step uh that's"
+  },
+  {
+   "start": 2082.88,
+   "end": 2087.44,
+   "text": "being done by the computer"
+  },
+  {
+   "start": 2085.12,
+   "end": 2091.12,
+   "text": "is the computer randomly"
+  },
+  {
+   "start": 2087.44,
+   "end": 2093.92,
+   "text": "accesses a glucose result from the 29"
+  },
+  {
+   "start": 2091.12,
+   "end": 2097.52,
+   "text": "000 plus glucose results"
+  },
+  {
+   "start": 2093.92,
+   "end": 2098.48,
+   "text": "uh in from the frequency distribution uh"
+  },
+  {
+   "start": 2097.52,
+   "end": 2102.0,
+   "text": "data"
+  },
+  {
+   "start": 2098.48,
+   "end": 2107.76,
+   "text": "and in this case uh let's say it was a"
+  },
+  {
+   "start": 2102.0,
+   "end": 2107.76,
+   "text": "result of 182 milligram per deciliter"
+  },
+  {
+   "start": 2110.96,
+   "end": 2116.48,
+   "text": "the computer program will then add one"
+  },
+  {
+   "start": 2113.92,
+   "end": 2119.84,
+   "text": "percent imprecision and all of the"
+  },
+  {
+   "start": 2116.48,
+   "end": 2123.36,
+   "text": "combinations of one percent imprecision"
+  },
+  {
+   "start": 2119.84,
+   "end": 2124.64,
+   "text": "with biases from one percent to twenty"
+  },
+  {
+   "start": 2123.36,
+   "end": 2126.88,
+   "text": "percent"
+  },
+  {
+   "start": 2124.64,
+   "end": 2129.84,
+   "text": "after the calculations are completed for"
+  },
+  {
+   "start": 2126.88,
+   "end": 2131.76,
+   "text": "the one percent imprecision the program"
+  },
+  {
+   "start": 2129.84,
+   "end": 2135.36,
+   "text": "will continue to calculate all the"
+  },
+  {
+   "start": 2131.76,
+   "end": 2136.88,
+   "text": "combinations of imprecision and bias up"
+  },
+  {
+   "start": 2135.36,
+   "end": 2139.92,
+   "text": "to 20"
+  },
+  {
+   "start": 2136.88,
+   "end": 2144.0,
+   "text": "uh for each bias in imprecision"
+  },
+  {
+   "start": 2139.92,
+   "end": 2147.68,
+   "text": "uh this subsequently will result in 400"
+  },
+  {
+   "start": 2144.0,
+   "end": 2150.72,
+   "text": "error estimates for each initial glucose"
+  },
+  {
+   "start": 2147.68,
+   "end": 2150.72,
+   "text": "value assessed"
+  },
+  {
+   "start": 2155.36,
+   "end": 2161.36,
+   "text": "since bias can be both positive and"
+  },
+  {
+   "start": 2158.08,
+   "end": 2162.8,
+   "text": "negative this will result in two new"
+  },
+  {
+   "start": 2161.36,
+   "end": 2166.08,
+   "text": "results"
+  },
+  {
+   "start": 2162.8,
+   "end": 2167.12,
+   "text": "uh glucose results for each"
+  },
+  {
+   "start": 2166.08,
+   "end": 2169.52,
+   "text": "bias"
+  },
+  {
+   "start": 2167.12,
+   "end": 2172.52,
+   "text": "and imprecision combination being"
+  },
+  {
+   "start": 2169.52,
+   "end": 2172.52,
+   "text": "evaluated"
+  },
+  {
+   "start": 2175.68,
+   "end": 2182.48,
+   "text": "the insulin dosing categories for each"
+  },
+  {
+   "start": 2179.2,
+   "end": 2184.72,
+   "text": "of these newly calculated results"
+  },
+  {
+   "start": 2182.48,
+   "end": 2186.64,
+   "text": "was then determined and it was"
+  },
+  {
+   "start": 2184.72,
+   "end": 2188.24,
+   "text": "represented"
+  },
+  {
+   "start": 2186.64,
+   "end": 2191.12,
+   "text": "with the following"
+  },
+  {
+   "start": 2188.24,
+   "end": 2191.12,
+   "text": "contour plots"
+  },
+  {
+   "start": 2194.24,
+   "end": 2199.2,
+   "text": "this slide shows the contour plots"
+  },
+  {
+   "start": 2197.12,
+   "end": 2200.4,
+   "text": "indicating the probability of greater"
+  },
+  {
+   "start": 2199.2,
+   "end": 2202.56,
+   "text": "than one"
+  },
+  {
+   "start": 2200.4,
+   "end": 2205.6,
+   "text": "greater than two and greater than three"
+  },
+  {
+   "start": 2202.56,
+   "end": 2207.76,
+   "text": "dose errors in insulin dosage"
+  },
+  {
+   "start": 2205.6,
+   "end": 2209.44,
+   "text": "in relation to meter bias and"
+  },
+  {
+   "start": 2207.76,
+   "end": 2212.4,
+   "text": "imprecision"
+  },
+  {
+   "start": 2209.44,
+   "end": 2213.68,
+   "text": "meter imprecision is plotted on the"
+  },
+  {
+   "start": 2212.4,
+   "end": 2218.32,
+   "text": "x-axis"
+  },
+  {
+   "start": 2213.68,
+   "end": 2220.64,
+   "text": "and meter bias is plotted on the y-axis"
+  },
+  {
+   "start": 2218.32,
+   "end": 2222.56,
+   "text": "the karen study concluded that the"
+  },
+  {
+   "start": 2220.64,
+   "end": 2227.44,
+   "text": "current glucose meter performance"
+  },
+  {
+   "start": 2222.56,
+   "end": 2229.28,
+   "text": "expectations at that time in 2010"
+  },
+  {
+   "start": 2227.44,
+   "end": 2230.56,
+   "text": "uh they were"
+  },
+  {
+   "start": 2229.28,
+   "end": 2233.68,
+   "text": "20"
+  },
+  {
+   "start": 2230.56,
+   "end": 2236.8,
+   "text": "total allowable error and brad's study"
+  },
+  {
+   "start": 2233.68,
+   "end": 2238.88,
+   "text": "concluded that this may not be optimal"
+  },
+  {
+   "start": 2236.8,
+   "end": 2240.96,
+   "text": "for patient management during type"
+  },
+  {
+   "start": 2238.88,
+   "end": 2244.72,
+   "text": "glycemic control"
+  },
+  {
+   "start": 2240.96,
+   "end": 2247.6,
+   "text": "and uh brett's study also concluded that"
+  },
+  {
+   "start": 2244.72,
+   "end": 2251.04,
+   "text": "one and two dose insulin errors were"
+  },
+  {
+   "start": 2247.6,
+   "end": 2251.04,
+   "text": "actually very common"
+  },
+  {
+   "start": 2254.64,
+   "end": 2260.0,
+   "text": "in our trial with the nova glucose meter"
+  },
+  {
+   "start": 2257.92,
+   "end": 2261.76,
+   "text": "we found a very low probability of"
+  },
+  {
+   "start": 2260.0,
+   "end": 2263.28,
+   "text": "administering greater than two or"
+  },
+  {
+   "start": 2261.76,
+   "end": 2265.2,
+   "text": "greater than three"
+  },
+  {
+   "start": 2263.28,
+   "end": 2267.92,
+   "text": "doses of insulin"
+  },
+  {
+   "start": 2265.2,
+   "end": 2271.76,
+   "text": "the probability was determined to be"
+  },
+  {
+   "start": 2267.92,
+   "end": 2274.8,
+   "text": "2.3 percent and one point eight percent"
+  },
+  {
+   "start": 2271.76,
+   "end": 2277.6,
+   "text": "for two and three category errors"
+  },
+  {
+   "start": 2274.8,
+   "end": 2277.6,
+   "text": "respectively"
+  },
+  {
+   "start": 2281.28,
+   "end": 2286.48,
+   "text": "with respect to the performance of the"
+  },
+  {
+   "start": 2283.2,
+   "end": 2289.76,
+   "text": "glucose leader in the hypoglycemic range"
+  },
+  {
+   "start": 2286.48,
+   "end": 2292.64,
+   "text": "a 99.1 percent concordance"
+  },
+  {
+   "start": 2289.76,
+   "end": 2295.28,
+   "text": "with the central uh laboratory methods"
+  },
+  {
+   "start": 2292.64,
+   "end": 2295.28,
+   "text": "was noted"
+  },
+  {
+   "start": 2296.84,
+   "end": 2303.68,
+   "text": "overall the clinical accuracy assessment"
+  },
+  {
+   "start": 2300.08,
+   "end": 2306.32,
+   "text": "algorithm that i've just described"
+  },
+  {
+   "start": 2303.68,
+   "end": 2307.6,
+   "text": "is an effective tool to comprehensively"
+  },
+  {
+   "start": 2306.32,
+   "end": 2310.16,
+   "text": "assess"
+  },
+  {
+   "start": 2307.6,
+   "end": 2314.0,
+   "text": "the analytic performance and clinical"
+  },
+  {
+   "start": 2310.16,
+   "end": 2317.52,
+   "text": "risk of using a glucose meter in the"
+  },
+  {
+   "start": 2314.0,
+   "end": 2317.52,
+   "text": "critically ill population"
+  },
+  {
+   "start": 2319.36,
+   "end": 2324.08,
+   "text": "to conclude my talk i would like to"
+  },
+  {
+   "start": 2321.52,
+   "end": 2326.64,
+   "text": "briefly address the question"
+  },
+  {
+   "start": 2324.08,
+   "end": 2331.04,
+   "text": "what are the clinical benefits of an"
+  },
+  {
+   "start": 2326.64,
+   "end": 2331.04,
+   "text": "accurate point of care glucose result"
+  },
+  {
+   "start": 2333.44,
+   "end": 2339.28,
+   "text": "i like answering this question"
+  },
+  {
+   "start": 2336.32,
+   "end": 2341.12,
+   "text": "in context and putting it in context uh"
+  },
+  {
+   "start": 2339.28,
+   "end": 2342.8,
+   "text": "with a pyramid"
+  },
+  {
+   "start": 2341.12,
+   "end": 2346.48,
+   "text": "if we have a meter"
+  },
+  {
+   "start": 2342.8,
+   "end": 2348.96,
+   "text": "that is as accurate as possible"
+  },
+  {
+   "start": 2346.48,
+   "end": 2350.56,
+   "text": "then it will assist with the appropriate"
+  },
+  {
+   "start": 2348.96,
+   "end": 2354.16,
+   "text": "identification"
+  },
+  {
+   "start": 2350.56,
+   "end": 2356.08,
+   "text": "of hypo and hyperglycemic events in our"
+  },
+  {
+   "start": 2354.16,
+   "end": 2357.6,
+   "text": "patient populations"
+  },
+  {
+   "start": 2356.08,
+   "end": 2361.36,
+   "text": "which in turn"
+  },
+  {
+   "start": 2357.6,
+   "end": 2364.32,
+   "text": "should improve clinical outcomes because"
+  },
+  {
+   "start": 2361.36,
+   "end": 2367.6,
+   "text": "the potential of treating results"
+  },
+  {
+   "start": 2364.32,
+   "end": 2369.36,
+   "text": "obtained due to interferences with the"
+  },
+  {
+   "start": 2367.6,
+   "end": 2372.72,
+   "text": "glucose meter"
+  },
+  {
+   "start": 2369.36,
+   "end": 2372.72,
+   "text": "will definitely be less"
+  },
+  {
+   "start": 2375.2,
+   "end": 2382.4,
+   "text": "these are examples of what i mean when i"
+  },
+  {
+   "start": 2378.8,
+   "end": 2384.56,
+   "text": "say improved clinical outcomes and and"
+  },
+  {
+   "start": 2382.4,
+   "end": 2386.48,
+   "text": "there are numerous improved clinical"
+  },
+  {
+   "start": 2384.56,
+   "end": 2388.8,
+   "text": "outcomes"
+  },
+  {
+   "start": 2386.48,
+   "end": 2392.2,
+   "text": "literature has been published"
+  },
+  {
+   "start": 2388.8,
+   "end": 2395.12,
+   "text": "that indicates a reduction in"
+  },
+  {
+   "start": 2392.2,
+   "end": 2396.64,
+   "text": "hypoglycemic events and glycemic"
+  },
+  {
+   "start": 2395.12,
+   "end": 2400.24,
+   "text": "variability"
+  },
+  {
+   "start": 2396.64,
+   "end": 2401.28,
+   "text": "to a reduction in insulin dosing errors"
+  },
+  {
+   "start": 2400.24,
+   "end": 2404.88,
+   "text": "and the"
+  },
+  {
+   "start": 2401.28,
+   "end": 2410.04,
+   "text": "quantity of insulin administered as i've"
+  },
+  {
+   "start": 2404.88,
+   "end": 2410.04,
+   "text": "already presented earlier in this talk"
+  },
+  {
+   "start": 2412.0,
+   "end": 2417.12,
+   "text": "in a"
+  },
+  {
+   "start": 2413.08,
+   "end": 2419.84,
+   "text": "2014 presentation uh from dr sherida"
+  },
+  {
+   "start": 2417.12,
+   "end": 2421.92,
+   "text": "golden from johns hopkins"
+  },
+  {
+   "start": 2419.84,
+   "end": 2423.6,
+   "text": "uh she"
+  },
+  {
+   "start": 2421.92,
+   "end": 2426.88,
+   "text": "presented results"
+  },
+  {
+   "start": 2423.6,
+   "end": 2430.08,
+   "text": "of a before and after implementation of"
+  },
+  {
+   "start": 2426.88,
+   "end": 2435.28,
+   "text": "a hospital glycemic management program"
+  },
+  {
+   "start": 2430.08,
+   "end": 2437.44,
+   "text": "and she reported a 36 reduction in"
+  },
+  {
+   "start": 2435.28,
+   "end": 2440.88,
+   "text": "in-hospital mortality"
+  },
+  {
+   "start": 2437.44,
+   "end": 2445.36,
+   "text": "a 2.7 day lower length of stay per"
+  },
+  {
+   "start": 2440.88,
+   "end": 2450.68,
+   "text": "admission and a 3 900"
+  },
+  {
+   "start": 2445.36,
+   "end": 2450.68,
+   "text": "decrease in hospital costs for admission"
+  },
+  {
+   "start": 2454.48,
+   "end": 2461.68,
+   "text": "in 2016 a team from the divisions of"
+  },
+  {
+   "start": 2458.4,
+   "end": 2464.08,
+   "text": "clinical biochemistry and neonatology"
+  },
+  {
+   "start": 2461.68,
+   "end": 2468.24,
+   "text": "evaluated the novus dot strip glucose"
+  },
+  {
+   "start": 2464.08,
+   "end": 2470.4,
+   "text": "meter for use in the nicu at toronto"
+  },
+  {
+   "start": 2468.24,
+   "end": 2471.76,
+   "text": "sickkids hospital"
+  },
+  {
+   "start": 2470.4,
+   "end": 2474.08,
+   "text": "specifically"
+  },
+  {
+   "start": 2471.76,
+   "end": 2476.96,
+   "text": "they wanted to assess the impact of"
+  },
+  {
+   "start": 2474.08,
+   "end": 2481.8,
+   "text": "implementing this meter on clinical"
+  },
+  {
+   "start": 2476.96,
+   "end": 2481.8,
+   "text": "outcomes in their nicu"
+  },
+  {
+   "start": 2484.96,
+   "end": 2490.8,
+   "text": "and what they observed was"
+  },
+  {
+   "start": 2488.4,
+   "end": 2493.2,
+   "text": "an increased sensitivity for the"
+  },
+  {
+   "start": 2490.8,
+   "end": 2496.88,
+   "text": "detection of hypoglycemia"
+  },
+  {
+   "start": 2493.2,
+   "end": 2499.68,
+   "text": "a much lower false negative rate and"
+  },
+  {
+   "start": 2496.88,
+   "end": 2503.04,
+   "text": "an improved ability ability"
+  },
+  {
+   "start": 2499.68,
+   "end": 2506.16,
+   "text": "to be able to rule out neonates who are"
+  },
+  {
+   "start": 2503.04,
+   "end": 2507.76,
+   "text": "not at risk for hypoglycemia"
+  },
+  {
+   "start": 2506.16,
+   "end": 2509.6,
+   "text": "they had a three they observed a"
+  },
+  {
+   "start": 2507.76,
+   "end": 2512.96,
+   "text": "threefold reduction"
+  },
+  {
+   "start": 2509.6,
+   "end": 2515.44,
+   "text": "in false positive glucose measurements"
+  },
+  {
+   "start": 2512.96,
+   "end": 2518.4,
+   "text": "they were uh they observed an"
+  },
+  {
+   "start": 2515.44,
+   "end": 2521.36,
+   "text": "improvement in identifying neonates who"
+  },
+  {
+   "start": 2518.4,
+   "end": 2524.88,
+   "text": "were at risk for hyperglycemia"
+  },
+  {
+   "start": 2521.36,
+   "end": 2527.52,
+   "text": "they observed lower mortality rates and"
+  },
+  {
+   "start": 2524.88,
+   "end": 2530.24,
+   "text": "they also observed less endocrine"
+  },
+  {
+   "start": 2527.52,
+   "end": 2530.24,
+   "text": "consults"
+  },
+  {
+   "start": 2532.96,
+   "end": 2538.64,
+   "text": "the last study i would like to present"
+  },
+  {
+   "start": 2535.44,
+   "end": 2541.6,
+   "text": "is work done by dr nam tran and his"
+  },
+  {
+   "start": 2538.64,
+   "end": 2543.28,
+   "text": "colleagues at uc davis"
+  },
+  {
+   "start": 2541.6,
+   "end": 2545.76,
+   "text": "in this study"
+  },
+  {
+   "start": 2543.28,
+   "end": 2548.88,
+   "text": "nam and his colleagues assess the"
+  },
+  {
+   "start": 2545.76,
+   "end": 2552.32,
+   "text": "clinical impact of implementing an"
+  },
+  {
+   "start": 2548.88,
+   "end": 2555.28,
+   "text": "accurate glucose meter for monitoring a"
+  },
+  {
+   "start": 2552.32,
+   "end": 2558.32,
+   "text": "tight glycemic control in severely"
+  },
+  {
+   "start": 2555.28,
+   "end": 2558.32,
+   "text": "burned children"
+  },
+  {
+   "start": 2560.8,
+   "end": 2565.84,
+   "text": "the outcomes that they reported from"
+  },
+  {
+   "start": 2563.84,
+   "end": 2568.24,
+   "text": "their investigation were"
+  },
+  {
+   "start": 2565.84,
+   "end": 2571.04,
+   "text": "fewer hypoglycemic events"
+  },
+  {
+   "start": 2568.24,
+   "end": 2572.56,
+   "text": "significantly lower median glucose"
+  },
+  {
+   "start": 2571.04,
+   "end": 2575.52,
+   "text": "concentrations"
+  },
+  {
+   "start": 2572.56,
+   "end": 2577.12,
+   "text": "and significant lower glycemic"
+  },
+  {
+   "start": 2575.52,
+   "end": 2579.36,
+   "text": "variability"
+  },
+  {
+   "start": 2577.12,
+   "end": 2582.24,
+   "text": "but they also identified that there was"
+  },
+  {
+   "start": 2579.36,
+   "end": 2584.0,
+   "text": "an increased percentage of patients"
+  },
+  {
+   "start": 2582.24,
+   "end": 2587.12,
+   "text": "values that were"
+  },
+  {
+   "start": 2584.0,
+   "end": 2591.8,
+   "text": "being maintained in the target range for"
+  },
+  {
+   "start": 2587.12,
+   "end": 2591.8,
+   "text": "their tight glycemic control protocols"
+  },
+  {
+   "start": 2594.24,
+   "end": 2599.52,
+   "text": "to conclude my talk"
+  },
+  {
+   "start": 2596.48,
+   "end": 2602.24,
+   "text": "uh i'd just like to say that"
+  },
+  {
+   "start": 2599.52,
+   "end": 2603.44,
+   "text": "glucose results are definitely a key"
+  },
+  {
+   "start": 2602.24,
+   "end": 2605.04,
+   "text": "component"
+  },
+  {
+   "start": 2603.44,
+   "end": 2606.8,
+   "text": "in the management of a patient's"
+  },
+  {
+   "start": 2605.04,
+   "end": 2608.64,
+   "text": "glycemic state"
+  },
+  {
+   "start": 2606.8,
+   "end": 2612.08,
+   "text": "we know that glucose meters are"
+  },
+  {
+   "start": 2608.64,
+   "end": 2612.88,
+   "text": "frequently used in high acuity settings"
+  },
+  {
+   "start": 2612.08,
+   "end": 2615.92,
+   "text": "that"
+  },
+  {
+   "start": 2612.88,
+   "end": 2618.48,
+   "text": "patient specific interferences are"
+  },
+  {
+   "start": 2615.92,
+   "end": 2619.52,
+   "text": "actually more common in high acuity"
+  },
+  {
+   "start": 2618.48,
+   "end": 2621.44,
+   "text": "settings"
+  },
+  {
+   "start": 2619.52,
+   "end": 2624.08,
+   "text": "and that these interferences can"
+  },
+  {
+   "start": 2621.44,
+   "end": 2627.04,
+   "text": "definitely affect the accuracy of"
+  },
+  {
+   "start": 2624.08,
+   "end": 2627.04,
+   "text": "glucose meters"
+  },
+  {
+   "start": 2627.12,
+   "end": 2632.24,
+   "text": "accurate glucose results are definitely"
+  },
+  {
+   "start": 2631.12,
+   "end": 2635.12,
+   "text": "essential"
+  },
+  {
+   "start": 2632.24,
+   "end": 2639.76,
+   "text": "for proper proper management"
+  },
+  {
+   "start": 2635.12,
+   "end": 2639.76,
+   "text": "of a patient's dysglycemia"
+  },
+  {
+   "start": 2642.8,
+   "end": 2648.44,
+   "text": "thank you very much for your time and"
+  },
+  {
+   "start": 2645.44,
+   "end": 2648.44,
+   "text": "attention"
+  },
+  {
+   "start": 2654.64,
+   "end": 2660.96,
+   "text": "um good afternoon uh it's martha lyon um"
+  },
+  {
+   "start": 2658.48,
+   "end": 2662.72,
+   "text": "i'd like to thank everyone for sticking"
+  },
+  {
+   "start": 2660.96,
+   "end": 2664.48,
+   "text": "to the bitter end of my talk and"
+  },
+  {
+   "start": 2662.72,
+   "end": 2666.56,
+   "text": "listening to it and i'm i'm actually"
+  },
+  {
+   "start": 2664.48,
+   "end": 2667.76,
+   "text": "calling it on the phone so i'll try to"
+  },
+  {
+   "start": 2666.56,
+   "end": 2670.8,
+   "text": "see if i can"
+  },
+  {
+   "start": 2667.76,
+   "end": 2671.84,
+   "text": "uh answer any questions uh that you may"
+  },
+  {
+   "start": 2670.8,
+   "end": 2673.68,
+   "text": "have"
+  },
+  {
+   "start": 2671.84,
+   "end": 2675.92,
+   "text": "the um"
+  },
+  {
+   "start": 2673.68,
+   "end": 2677.44,
+   "text": "i believe at the beginning of the"
+  },
+  {
+   "start": 2675.92,
+   "end": 2679.12,
+   "text": "presentation not at least i hope you"
+  },
+  {
+   "start": 2677.44,
+   "end": 2681.76,
+   "text": "were informed of this"
+  },
+  {
+   "start": 2679.12,
+   "end": 2683.84,
+   "text": "uh that there's the question and answer"
+  },
+  {
+   "start": 2681.76,
+   "end": 2686.0,
+   "text": "box and if you have any questions please"
+  },
+  {
+   "start": 2683.84,
+   "end": 2688.72,
+   "text": "type them in and what i'll do is i'm"
+  },
+  {
+   "start": 2686.0,
+   "end": 2690.48,
+   "text": "going to click on them and then i will"
+  },
+  {
+   "start": 2688.72,
+   "end": 2692.72,
+   "text": "try to uh"
+  },
+  {
+   "start": 2690.48,
+   "end": 2695.68,
+   "text": "give an answer to it so i'll start with"
+  },
+  {
+   "start": 2692.72,
+   "end": 2695.68,
+   "text": "the first question"
+  },
+  {
+   "start": 2696.08,
+   "end": 2700.96,
+   "text": "and uh the the first question"
+  },
+  {
+   "start": 2699.52,
+   "end": 2704.64,
+   "text": "uh is"
+  },
+  {
+   "start": 2700.96,
+   "end": 2707.28,
+   "text": "uh is there a glucose meter fda approved"
+  },
+  {
+   "start": 2704.64,
+   "end": 2709.92,
+   "text": "for testing the critically ill"
+  },
+  {
+   "start": 2707.28,
+   "end": 2710.72,
+   "text": "using a capillary sample"
+  },
+  {
+   "start": 2709.92,
+   "end": 2713.28,
+   "text": "and"
+  },
+  {
+   "start": 2710.72,
+   "end": 2716.4,
+   "text": "the answer to that is"
+  },
+  {
+   "start": 2713.28,
+   "end": 2720.0,
+   "text": "to my knowledge no"
+  },
+  {
+   "start": 2716.4,
+   "end": 2721.52,
+   "text": "no glucose meter has been approved yet"
+  },
+  {
+   "start": 2720.0,
+   "end": 2724.56,
+   "text": "and uh"
+  },
+  {
+   "start": 2721.52,
+   "end": 2727.92,
+   "text": "actually tomorrow and the next day the"
+  },
+  {
+   "start": 2724.56,
+   "end": 2732.16,
+   "text": "fda uh so thursday and friday of this"
+  },
+  {
+   "start": 2727.92,
+   "end": 2736.32,
+   "text": "week the fda are going to be hosting um"
+  },
+  {
+   "start": 2732.16,
+   "end": 2738.88,
+   "text": "uh uh meetings in uh washington to be"
+  },
+  {
+   "start": 2736.32,
+   "end": 2740.88,
+   "text": "able to discuss um"
+  },
+  {
+   "start": 2738.88,
+   "end": 2742.64,
+   "text": "what criteria"
+  },
+  {
+   "start": 2740.88,
+   "end": 2745.2,
+   "text": "and what what what do we have what"
+  },
+  {
+   "start": 2742.64,
+   "end": 2747.44,
+   "text": "should we be thinking about uh what"
+  },
+  {
+   "start": 2745.2,
+   "end": 2751.52,
+   "text": "amount of error is can we consider"
+  },
+  {
+   "start": 2747.44,
+   "end": 2754.16,
+   "text": "acceptable with a capillary sample and"
+  },
+  {
+   "start": 2751.52,
+   "end": 2756.64,
+   "text": "glucose meter measurements i hope that's"
+  },
+  {
+   "start": 2754.16,
+   "end": 2757.52,
+   "text": "answered that first question"
+  },
+  {
+   "start": 2756.64,
+   "end": 2759.44,
+   "text": "uh"
+  },
+  {
+   "start": 2757.52,
+   "end": 2760.56,
+   "text": "next question"
+  },
+  {
+   "start": 2759.44,
+   "end": 2764.48,
+   "text": "is"
+  },
+  {
+   "start": 2760.56,
+   "end": 2768.24,
+   "text": "what defines a critically ill patient"
+  },
+  {
+   "start": 2764.48,
+   "end": 2771.92,
+   "text": "uh that is an excellent question"
+  },
+  {
+   "start": 2768.24,
+   "end": 2773.52,
+   "text": "and um i have to say i haven't found a"
+  },
+  {
+   "start": 2771.92,
+   "end": 2777.68,
+   "text": "definition"
+  },
+  {
+   "start": 2773.52,
+   "end": 2781.92,
+   "text": "of a critically ill patient and and i'm"
+  },
+  {
+   "start": 2777.68,
+   "end": 2784.48,
+   "text": "i believe that i'm um"
+  },
+  {
+   "start": 2781.92,
+   "end": 2786.32,
+   "text": "in in many uh"
+  },
+  {
+   "start": 2784.48,
+   "end": 2788.88,
+   "text": "uh documents"
+  },
+  {
+   "start": 2786.32,
+   "end": 2790.96,
+   "text": "they say that uh we have to be careful"
+  },
+  {
+   "start": 2788.88,
+   "end": 2792.96,
+   "text": "obviously about the application of"
+  },
+  {
+   "start": 2790.96,
+   "end": 2794.0,
+   "text": "glucose leaders with critically ill"
+  },
+  {
+   "start": 2792.96,
+   "end": 2796.16,
+   "text": "patients"
+  },
+  {
+   "start": 2794.0,
+   "end": 2799.28,
+   "text": "and they leave it up to the discretion"
+  },
+  {
+   "start": 2796.16,
+   "end": 2800.48,
+   "text": "of the medical director to describe or"
+  },
+  {
+   "start": 2799.28,
+   "end": 2802.88,
+   "text": "define"
+  },
+  {
+   "start": 2800.48,
+   "end": 2805.76,
+   "text": "a critically ill patient"
+  },
+  {
+   "start": 2802.88,
+   "end": 2809.28,
+   "text": "and i'm not sure that anyone has come"
+  },
+  {
+   "start": 2805.76,
+   "end": 2810.64,
+   "text": "out and and provided a definitive uh"
+  },
+  {
+   "start": 2809.28,
+   "end": 2813.84,
+   "text": "definition"
+  },
+  {
+   "start": 2810.64,
+   "end": 2816.4,
+   "text": "of a critically ill patient now is if"
+  },
+  {
+   "start": 2813.84,
+   "end": 2817.84,
+   "text": "anybody does know a definitive"
+  },
+  {
+   "start": 2816.4,
+   "end": 2821.04,
+   "text": "definition"
+  },
+  {
+   "start": 2817.84,
+   "end": 2823.44,
+   "text": "uh then i would say uh please"
+  },
+  {
+   "start": 2821.04,
+   "end": 2825.84,
+   "text": "with this question and answer please uh"
+  },
+  {
+   "start": 2823.44,
+   "end": 2828.32,
+   "text": "comment and then i will read your"
+  },
+  {
+   "start": 2825.84,
+   "end": 2831.6,
+   "text": "definition but to my knowledge there"
+  },
+  {
+   "start": 2828.32,
+   "end": 2834.24,
+   "text": "isn't a universally accepted definition"
+  },
+  {
+   "start": 2831.6,
+   "end": 2836.32,
+   "text": "of critically ill patients so sorry i"
+  },
+  {
+   "start": 2834.24,
+   "end": 2839.04,
+   "text": "can't answer that one"
+  },
+  {
+   "start": 2836.32,
+   "end": 2840.08,
+   "text": "uh next question"
+  },
+  {
+   "start": 2839.04,
+   "end": 2843.12,
+   "text": "is"
+  },
+  {
+   "start": 2840.08,
+   "end": 2846.56,
+   "text": "oh i like this question too is a"
+  },
+  {
+   "start": 2843.12,
+   "end": 2849.2,
+   "text": "neonatal heel stick whole blood sample"
+  },
+  {
+   "start": 2846.56,
+   "end": 2852.64,
+   "text": "different than a capillary sample"
+  },
+  {
+   "start": 2849.2,
+   "end": 2853.52,
+   "text": "and a fantastic question i have to tell"
+  },
+  {
+   "start": 2852.64,
+   "end": 2857.12,
+   "text": "you"
+  },
+  {
+   "start": 2853.52,
+   "end": 2859.36,
+   "text": "that um when i've given this talk live"
+  },
+  {
+   "start": 2857.12,
+   "end": 2861.28,
+   "text": "um i i've always"
+  },
+  {
+   "start": 2859.36,
+   "end": 2863.76,
+   "text": "commented on that"
+  },
+  {
+   "start": 2861.28,
+   "end": 2866.4,
+   "text": "because to me it's the same thing"
+  },
+  {
+   "start": 2863.76,
+   "end": 2868.08,
+   "text": "uh and so i do not understand the"
+  },
+  {
+   "start": 2866.4,
+   "end": 2869.28,
+   "text": "language uh"
+  },
+  {
+   "start": 2868.08,
+   "end": 2872.32,
+   "text": "behind"
+  },
+  {
+   "start": 2869.28,
+   "end": 2874.96,
+   "text": "using defining it as a neonatal heel"
+  },
+  {
+   "start": 2872.32,
+   "end": 2876.56,
+   "text": "stick whole blood sample because to me i"
+  },
+  {
+   "start": 2874.96,
+   "end": 2880.8,
+   "text": "agree with you"
+  },
+  {
+   "start": 2876.56,
+   "end": 2883.76,
+   "text": "that is definitely a capillary sample"
+  },
+  {
+   "start": 2880.8,
+   "end": 2886.8,
+   "text": "next question"
+  },
+  {
+   "start": 2883.76,
+   "end": 2889.44,
+   "text": "how can staff easily determine if a"
+  },
+  {
+   "start": 2886.8,
+   "end": 2892.16,
+   "text": "patient is critically ill"
+  },
+  {
+   "start": 2889.44,
+   "end": 2893.28,
+   "text": "uh i'm going to have to defer that"
+  },
+  {
+   "start": 2892.16,
+   "end": 2896.16,
+   "text": "question"
+  },
+  {
+   "start": 2893.28,
+   "end": 2898.84,
+   "text": "in that um"
+  },
+  {
+   "start": 2896.16,
+   "end": 2901.76,
+   "text": "it goes back to the definition"
+  },
+  {
+   "start": 2898.84,
+   "end": 2904.08,
+   "text": "of critically ill patients and i know"
+  },
+  {
+   "start": 2901.76,
+   "end": 2906.48,
+   "text": "we've got different units that we have"
+  },
+  {
+   "start": 2904.08,
+   "end": 2909.52,
+   "text": "in our hospitals where we will have"
+  },
+  {
+   "start": 2906.48,
+   "end": 2912.24,
+   "text": "patients uh admitted to those units who"
+  },
+  {
+   "start": 2909.52,
+   "end": 2916.32,
+   "text": "are higher acuity patients"
+  },
+  {
+   "start": 2912.24,
+   "end": 2918.32,
+   "text": "and so uh those patients uh would"
+  },
+  {
+   "start": 2916.32,
+   "end": 2920.08,
+   "text": "uh"
+  },
+  {
+   "start": 2918.32,
+   "end": 2922.72,
+   "text": "i think it goes to say that those"
+  },
+  {
+   "start": 2920.08,
+   "end": 2924.8,
+   "text": "patients will require uh more medical"
+  },
+  {
+   "start": 2922.72,
+   "end": 2926.24,
+   "text": "attention and more medical intervention"
+  },
+  {
+   "start": 2924.8,
+   "end": 2928.8,
+   "text": "potentially"
+  },
+  {
+   "start": 2926.24,
+   "end": 2929.92,
+   "text": "uh but to be able to say how do we know"
+  },
+  {
+   "start": 2928.8,
+   "end": 2932.8,
+   "text": "for sure"
+  },
+  {
+   "start": 2929.92,
+   "end": 2934.88,
+   "text": "uh how can we easily determine or define"
+  },
+  {
+   "start": 2932.8,
+   "end": 2935.76,
+   "text": "a critically ill patient i'm so sorry i"
+  },
+  {
+   "start": 2934.88,
+   "end": 2939.36,
+   "text": "can't"
+  },
+  {
+   "start": 2935.76,
+   "end": 2939.36,
+   "text": "uh uh define it"
+  },
+  {
+   "start": 2939.52,
+   "end": 2942.88,
+   "text": "uh"
+  },
+  {
+   "start": 2940.4,
+   "end": 2946.08,
+   "text": "next question"
+  },
+  {
+   "start": 2942.88,
+   "end": 2949.6,
+   "text": "what specimen type is suggested for use"
+  },
+  {
+   "start": 2946.08,
+   "end": 2951.2,
+   "text": "and testing in critically ill patients"
+  },
+  {
+   "start": 2949.6,
+   "end": 2953.04,
+   "text": "uh that"
+  },
+  {
+   "start": 2951.2,
+   "end": 2955.6,
+   "text": "is uh"
+  },
+  {
+   "start": 2953.04,
+   "end": 2957.04,
+   "text": "again that's a source of a delicious"
+  },
+  {
+   "start": 2955.6,
+   "end": 2960.24,
+   "text": "controversy"
+  },
+  {
+   "start": 2957.04,
+   "end": 2960.24,
+   "text": "in that um"
+  },
+  {
+   "start": 2960.32,
+   "end": 2965.68,
+   "text": "there are people are and and groups uh"
+  },
+  {
+   "start": 2963.84,
+   "end": 2969.04,
+   "text": "uh hospital systems"
+  },
+  {
+   "start": 2965.68,
+   "end": 2971.12,
+   "text": "uh that do not want to use uh open up"
+  },
+  {
+   "start": 2969.04,
+   "end": 2973.92,
+   "text": "lines if there are indwelling lines in"
+  },
+  {
+   "start": 2971.12,
+   "end": 2976.56,
+   "text": "the uh for the patients because by"
+  },
+  {
+   "start": 2973.92,
+   "end": 2979.84,
+   "text": "accessing those lines uh people are"
+  },
+  {
+   "start": 2976.56,
+   "end": 2984.4,
+   "text": "concerned that that could increase uh"
+  },
+  {
+   "start": 2979.84,
+   "end": 2985.76,
+   "text": "risk of infection contamination etc and"
+  },
+  {
+   "start": 2984.4,
+   "end": 2988.64,
+   "text": "uh other"
+  },
+  {
+   "start": 2985.76,
+   "end": 2989.84,
+   "text": "the other group of folks have mentioned"
+  },
+  {
+   "start": 2988.64,
+   "end": 2992.32,
+   "text": "um"
+  },
+  {
+   "start": 2989.84,
+   "end": 2996.48,
+   "text": "that it should be fine using a capillary"
+  },
+  {
+   "start": 2992.32,
+   "end": 2999.04,
+   "text": "specimen uh in a critically ill patient"
+  },
+  {
+   "start": 2996.48,
+   "end": 3000.24,
+   "text": "both of these uh"
+  },
+  {
+   "start": 2999.04,
+   "end": 3002.32,
+   "text": "when we have a"
+  },
+  {
+   "start": 3000.24,
+   "end": 3005.92,
+   "text": "critically ill patient"
+  },
+  {
+   "start": 3002.32,
+   "end": 3008.48,
+   "text": "commonly these are the patients who uh"
+  },
+  {
+   "start": 3005.92,
+   "end": 3011.84,
+   "text": "have uh hypoperfusion"
+  },
+  {
+   "start": 3008.48,
+   "end": 3013.12,
+   "text": "uh and when you think about uh"
+  },
+  {
+   "start": 3011.84,
+   "end": 3015.92,
+   "text": "of"
+  },
+  {
+   "start": 3013.12,
+   "end": 3017.68,
+   "text": "the use of a capillary specimen uh you"
+  },
+  {
+   "start": 3015.92,
+   "end": 3019.36,
+   "text": "definitely want to be able to know that"
+  },
+  {
+   "start": 3017.68,
+   "end": 3021.12,
+   "text": "the discussion you're collecting is"
+  },
+  {
+   "start": 3019.36,
+   "end": 3025.28,
+   "text": "going to be optimal"
+  },
+  {
+   "start": 3021.12,
+   "end": 3029.04,
+   "text": "and so uh it really is i again i can't"
+  },
+  {
+   "start": 3025.28,
+   "end": 3031.52,
+   "text": "say that one specimen type is uh"
+  },
+  {
+   "start": 3029.04,
+   "end": 3033.68,
+   "text": "preferred over another you you're"
+  },
+  {
+   "start": 3031.52,
+   "end": 3035.04,
+   "text": "definitely going to find papers that"
+  },
+  {
+   "start": 3033.68,
+   "end": 3037.92,
+   "text": "will say"
+  },
+  {
+   "start": 3035.04,
+   "end": 3040.32,
+   "text": "a venous specimen or arterial specimen"
+  },
+  {
+   "start": 3037.92,
+   "end": 3041.76,
+   "text": "is better than a capillary specimen and"
+  },
+  {
+   "start": 3040.32,
+   "end": 3044.08,
+   "text": "right now"
+  },
+  {
+   "start": 3041.76,
+   "end": 3047.52,
+   "text": "uh at least in the u.s"
+  },
+  {
+   "start": 3044.08,
+   "end": 3050.4,
+   "text": "uh no glucose meter has been approved"
+  },
+  {
+   "start": 3047.52,
+   "end": 3052.96,
+   "text": "for capillary use yet so i think you you"
+  },
+  {
+   "start": 3050.4,
+   "end": 3056.48,
+   "text": "do only have the choice of an arterial"
+  },
+  {
+   "start": 3052.96,
+   "end": 3060.4,
+   "text": "or venus with um"
+  },
+  {
+   "start": 3056.48,
+   "end": 3062.24,
+   "text": "in the intensive care areas"
+  },
+  {
+   "start": 3060.4,
+   "end": 3067.2,
+   "text": "uh next question"
+  },
+  {
+   "start": 3062.24,
+   "end": 3069.36,
+   "text": "oh excellent uh and this is from a"
+  },
+  {
+   "start": 3067.2,
+   "end": 3074.32,
+   "text": "baptist hospitals"
+  },
+  {
+   "start": 3069.36,
+   "end": 3075.84,
+   "text": "i i can't see a doctor's hospital"
+  },
+  {
+   "start": 3074.32,
+   "end": 3078.24,
+   "text": "where um"
+  },
+  {
+   "start": 3075.84,
+   "end": 3081.2,
+   "text": "if they said our facility has defined"
+  },
+  {
+   "start": 3078.24,
+   "end": 3083.04,
+   "text": "critically ill as a patient who is"
+  },
+  {
+   "start": 3081.2,
+   "end": 3086.64,
+   "text": "actively coding"
+  },
+  {
+   "start": 3083.04,
+   "end": 3089.84,
+   "text": "30 minutes tactically or has a low blood"
+  },
+  {
+   "start": 3086.64,
+   "end": 3091.12,
+   "text": "volume with a hematocrit of 10"
+  },
+  {
+   "start": 3089.84,
+   "end": 3093.92,
+   "text": "or less"
+  },
+  {
+   "start": 3091.12,
+   "end": 3095.44,
+   "text": "thank you very much if any other folks"
+  },
+  {
+   "start": 3093.92,
+   "end": 3097.84,
+   "text": "have uh"
+  },
+  {
+   "start": 3095.44,
+   "end": 3097.84,
+   "text": "um"
+  },
+  {
+   "start": 3097.92,
+   "end": 3102.8,
+   "text": "definitions of critically ill please"
+  },
+  {
+   "start": 3100.88,
+   "end": 3105.04,
+   "text": "feel free to type in and i'll read them"
+  },
+  {
+   "start": 3102.8,
+   "end": 3107.84,
+   "text": "for people"
+  },
+  {
+   "start": 3105.04,
+   "end": 3108.88,
+   "text": "uh next question"
+  },
+  {
+   "start": 3107.84,
+   "end": 3112.24,
+   "text": "is"
+  },
+  {
+   "start": 3108.88,
+   "end": 3115.84,
+   "text": "is it best practice to correlate"
+  },
+  {
+   "start": 3112.24,
+   "end": 3120.44,
+   "text": "a a point of care capillary sample with"
+  },
+  {
+   "start": 3115.84,
+   "end": 3125.6,
+   "text": "a lab blood sugar value to treat hypo or"
+  },
+  {
+   "start": 3120.44,
+   "end": 3126.72,
+   "text": "hyperglycemia in a critical care setting"
+  },
+  {
+   "start": 3125.6,
+   "end": 3129.12,
+   "text": "uh"
+  },
+  {
+   "start": 3126.72,
+   "end": 3131.04,
+   "text": "i know uh and that's it's interesting"
+  },
+  {
+   "start": 3129.12,
+   "end": 3132.08,
+   "text": "because um"
+  },
+  {
+   "start": 3131.04,
+   "end": 3134.16,
+   "text": "what"
+  },
+  {
+   "start": 3132.08,
+   "end": 3136.88,
+   "text": "uh i wanted to include a couple of"
+  },
+  {
+   "start": 3134.16,
+   "end": 3139.12,
+   "text": "slides uh in this talk to be able to"
+  },
+  {
+   "start": 3136.88,
+   "end": 3142.96,
+   "text": "talk about correlations or"
+  },
+  {
+   "start": 3139.12,
+   "end": 3147.12,
+   "text": "comparisons between capillary glucoses"
+  },
+  {
+   "start": 3142.96,
+   "end": 3149.6,
+   "text": "and venous glucoses uh i'm a pediatric"
+  },
+  {
+   "start": 3147.12,
+   "end": 3151.84,
+   "text": "and neonatal clinical biochemist"
+  },
+  {
+   "start": 3149.6,
+   "end": 3153.84,
+   "text": "and so i i know in the various hospitals"
+  },
+  {
+   "start": 3151.84,
+   "end": 3155.68,
+   "text": "that i've worked in"
+  },
+  {
+   "start": 3153.84,
+   "end": 3158.72,
+   "text": "the um"
+  },
+  {
+   "start": 3155.68,
+   "end": 3160.4,
+   "text": "uh it's been common practice in in our"
+  },
+  {
+   "start": 3158.72,
+   "end": 3164.16,
+   "text": "nic news"
+  },
+  {
+   "start": 3160.4,
+   "end": 3166.48,
+   "text": "where uh the baby would have the huge"
+  },
+  {
+   "start": 3164.16,
+   "end": 3168.48,
+   "text": "heel poke being done which"
+  },
+  {
+   "start": 3166.48,
+   "end": 3171.52,
+   "text": "uh in my opinion that is a capillary"
+  },
+  {
+   "start": 3168.48,
+   "end": 3174.08,
+   "text": "specimen uh that is being collected and"
+  },
+  {
+   "start": 3171.52,
+   "end": 3177.84,
+   "text": "then short-term capillary result that"
+  },
+  {
+   "start": 3174.08,
+   "end": 3180.96,
+   "text": "glucose results get to a critical low"
+  },
+  {
+   "start": 3177.84,
+   "end": 3184.64,
+   "text": "action level then it's common practice"
+  },
+  {
+   "start": 3180.96,
+   "end": 3187.28,
+   "text": "that uh that specimen uh that baby's uh"
+  },
+  {
+   "start": 3184.64,
+   "end": 3189.84,
+   "text": "venus blood would be collected and then"
+  },
+  {
+   "start": 3187.28,
+   "end": 3191.68,
+   "text": "sent to the laboratory for confirmation"
+  },
+  {
+   "start": 3189.84,
+   "end": 3193.44,
+   "text": "but it's it's actually really"
+  },
+  {
+   "start": 3191.68,
+   "end": 3195.92,
+   "text": "interesting because"
+  },
+  {
+   "start": 3193.44,
+   "end": 3198.24,
+   "text": "i and i i went back to look and there"
+  },
+  {
+   "start": 3195.92,
+   "end": 3201.28,
+   "text": "were three references the first"
+  },
+  {
+   "start": 3198.24,
+   "end": 3203.68,
+   "text": "reference was in 1976"
+  },
+  {
+   "start": 3201.28,
+   "end": 3205.6,
+   "text": "another reference in 1983 and another"
+  },
+  {
+   "start": 3203.68,
+   "end": 3209.44,
+   "text": "one in 2001"
+  },
+  {
+   "start": 3205.6,
+   "end": 3212.08,
+   "text": "and what they've indicated that"
+  },
+  {
+   "start": 3209.44,
+   "end": 3215.2,
+   "text": "you will not see any differences in"
+  },
+  {
+   "start": 3212.08,
+   "end": 3217.92,
+   "text": "capillary and venous glucose if the"
+  },
+  {
+   "start": 3215.2,
+   "end": 3218.88,
+   "text": "patient has been fasting"
+  },
+  {
+   "start": 3217.92,
+   "end": 3222.32,
+   "text": "so"
+  },
+  {
+   "start": 3218.88,
+   "end": 3225.12,
+   "text": "but after a glucose load the levels are"
+  },
+  {
+   "start": 3222.32,
+   "end": 3226.72,
+   "text": "going to be consistently higher in a"
+  },
+  {
+   "start": 3225.12,
+   "end": 3229.12,
+   "text": "capillary"
+  },
+  {
+   "start": 3226.72,
+   "end": 3230.48,
+   "text": "specimen rather than that venous"
+  },
+  {
+   "start": 3229.12,
+   "end": 3231.2,
+   "text": "specimen"
+  },
+  {
+   "start": 3230.48,
+   "end": 3233.76,
+   "text": "so"
+  },
+  {
+   "start": 3231.2,
+   "end": 3237.2,
+   "text": "it's uh and the question that was asked"
+  },
+  {
+   "start": 3233.76,
+   "end": 3238.56,
+   "text": "was is it best practice to correlate a"
+  },
+  {
+   "start": 3237.2,
+   "end": 3242.4,
+   "text": "capillary"
+  },
+  {
+   "start": 3238.56,
+   "end": 3243.52,
+   "text": "uh with that with a lab sugar and the"
+  },
+  {
+   "start": 3242.4,
+   "end": 3245.36,
+   "text": "answer is"
+  },
+  {
+   "start": 3243.52,
+   "end": 3247.6,
+   "text": "yes you can do it but what i would"
+  },
+  {
+   "start": 3245.36,
+   "end": 3250.56,
+   "text": "recommend is that you have to compare"
+  },
+  {
+   "start": 3247.6,
+   "end": 3253.84,
+   "text": "apples to apples so please if you're"
+  },
+  {
+   "start": 3250.56,
+   "end": 3255.76,
+   "text": "you're collecting a capillary specimen"
+  },
+  {
+   "start": 3253.84,
+   "end": 3258.24,
+   "text": "send a capillary specimen to your"
+  },
+  {
+   "start": 3255.76,
+   "end": 3260.64,
+   "text": "laboratory if they are able to conduct"
+  },
+  {
+   "start": 3258.24,
+   "end": 3263.04,
+   "text": "that analysis there or collect the"
+  },
+  {
+   "start": 3260.64,
+   "end": 3265.84,
+   "text": "capillary and and"
+  },
+  {
+   "start": 3263.04,
+   "end": 3268.64,
+   "text": "run it on your blood gas analyzer so"
+  },
+  {
+   "start": 3265.84,
+   "end": 3271.04,
+   "text": "please try not to mix and match unless"
+  },
+  {
+   "start": 3268.64,
+   "end": 3272.48,
+   "text": "you know exactly the fasting situation"
+  },
+  {
+   "start": 3271.04,
+   "end": 3275.04,
+   "text": "with the patient"
+  },
+  {
+   "start": 3272.48,
+   "end": 3276.48,
+   "text": "i hope that's answered that question"
+  },
+  {
+   "start": 3275.04,
+   "end": 3278.88,
+   "text": "um"
+  },
+  {
+   "start": 3276.48,
+   "end": 3280.16,
+   "text": "next one uh"
+  },
+  {
+   "start": 3278.88,
+   "end": 3283.04,
+   "text": "can you"
+  },
+  {
+   "start": 3280.16,
+   "end": 3286.4,
+   "text": "repeat the definition please yes i"
+  },
+  {
+   "start": 3283.04,
+   "end": 3290.4,
+   "text": "definitely can do that um"
+  },
+  {
+   "start": 3286.4,
+   "end": 3292.88,
+   "text": "and this is from the baptist"
+  },
+  {
+   "start": 3290.4,
+   "end": 3295.2,
+   "text": "baptist health in paducah"
+  },
+  {
+   "start": 3292.88,
+   "end": 3297.76,
+   "text": "and uh"
+  },
+  {
+   "start": 3295.2,
+   "end": 3301.52,
+   "text": "their definition is"
+  },
+  {
+   "start": 3297.76,
+   "end": 3302.48,
+   "text": "uh our facility has defined critically"
+  },
+  {
+   "start": 3301.52,
+   "end": 3306.64,
+   "text": "ill"
+  },
+  {
+   "start": 3302.48,
+   "end": 3309.04,
+   "text": "as a patient who is actively coding 30"
+  },
+  {
+   "start": 3306.64,
+   "end": 3310.0,
+   "text": "minutes past the cold"
+  },
+  {
+   "start": 3309.04,
+   "end": 3312.64,
+   "text": "or"
+  },
+  {
+   "start": 3310.0,
+   "end": 3315.52,
+   "text": "has a low blood volume"
+  },
+  {
+   "start": 3312.64,
+   "end": 3317.6,
+   "text": "with a hematocrit of 10"
+  },
+  {
+   "start": 3315.52,
+   "end": 3320.48,
+   "text": "or less"
+  },
+  {
+   "start": 3317.6,
+   "end": 3324.64,
+   "text": "so that is the definition that uh was"
+  },
+  {
+   "start": 3320.48,
+   "end": 3329.36,
+   "text": "provided by fastest health paducah"
+  },
+  {
+   "start": 3324.64,
+   "end": 3331.28,
+   "text": "uh next moving on uh"
+  },
+  {
+   "start": 3329.36,
+   "end": 3335.52,
+   "text": "we have"
+  },
+  {
+   "start": 3331.28,
+   "end": 3339.6,
+   "text": "okay here's another uh uh individual"
+  },
+  {
+   "start": 3335.52,
+   "end": 3342.56,
+   "text": "uh the adventist uh health uh and i'm"
+  },
+  {
+   "start": 3339.6,
+   "end": 3344.96,
+   "text": "sorry i i've only seen a portion of this"
+  },
+  {
+   "start": 3342.56,
+   "end": 3348.56,
+   "text": "uh they say we have to find critically"
+  },
+  {
+   "start": 3344.96,
+   "end": 3351.2,
+   "text": "ill as a patient that has a capillary"
+  },
+  {
+   "start": 3348.56,
+   "end": 3355.12,
+   "text": "refill time of greater than three"
+  },
+  {
+   "start": 3351.2,
+   "end": 3356.24,
+   "text": "seconds so that's another uh definition"
+  },
+  {
+   "start": 3355.12,
+   "end": 3358.16,
+   "text": "and"
+  },
+  {
+   "start": 3356.24,
+   "end": 3360.0,
+   "text": "another question"
+  },
+  {
+   "start": 3358.16,
+   "end": 3362.64,
+   "text": "uh is will your presentation be"
+  },
+  {
+   "start": 3360.0,
+   "end": 3366.0,
+   "text": "available for us to review later i'd"
+  },
+  {
+   "start": 3362.64,
+   "end": 3366.88,
+   "text": "like to share it with others on my team"
+  },
+  {
+   "start": 3366.0,
+   "end": 3367.76,
+   "text": "uh"
+  },
+  {
+   "start": 3366.88,
+   "end": 3371.2,
+   "text": "i"
+  },
+  {
+   "start": 3367.76,
+   "end": 3373.84,
+   "text": "i'm not sure i believe uh if you contact"
+  },
+  {
+   "start": 3371.2,
+   "end": 3377.44,
+   "text": "nova they would be able to uh discuss"
+  },
+  {
+   "start": 3373.84,
+   "end": 3378.64,
+   "text": "that i'm i'm sorry i can't answer that"
+  },
+  {
+   "start": 3377.44,
+   "end": 3380.8,
+   "text": "um"
+  },
+  {
+   "start": 3378.64,
+   "end": 3384.0,
+   "text": "next one here"
+  },
+  {
+   "start": 3380.8,
+   "end": 3385.76,
+   "text": "is uh another definition fantastic i"
+  },
+  {
+   "start": 3384.0,
+   "end": 3388.96,
+   "text": "love these definitions"
+  },
+  {
+   "start": 3385.76,
+   "end": 3392.88,
+   "text": "uh medical center defines critically ill"
+  },
+  {
+   "start": 3388.96,
+   "end": 3394.8,
+   "text": "patients as those who are located"
+  },
+  {
+   "start": 3392.88,
+   "end": 3398.8,
+   "text": "in the ed"
+  },
+  {
+   "start": 3394.8,
+   "end": 3399.6,
+   "text": "tap whoopsies i went up there cath lab o"
+  },
+  {
+   "start": 3398.8,
+   "end": 3403.68,
+   "text": "r"
+  },
+  {
+   "start": 3399.6,
+   "end": 3407.52,
+   "text": "e a c u i c u n i c u"
+  },
+  {
+   "start": 3403.68,
+   "end": 3408.96,
+   "text": "or picu and meet one or more of the"
+  },
+  {
+   "start": 3407.52,
+   "end": 3413.12,
+   "text": "following"
+  },
+  {
+   "start": 3408.96,
+   "end": 3416.08,
+   "text": "uh mechanically ventilated fio2"
+  },
+  {
+   "start": 3413.12,
+   "end": 3419.6,
+   "text": "and gt 60 percent"
+  },
+  {
+   "start": 3416.08,
+   "end": 3423.84,
+   "text": "invasive uh hemodynamic monitoring"
+  },
+  {
+   "start": 3419.6,
+   "end": 3425.2,
+   "text": "arterial pa catheter cvc monitoring"
+  },
+  {
+   "start": 3423.84,
+   "end": 3428.24,
+   "text": "uh"
+  },
+  {
+   "start": 3425.2,
+   "end": 3430.72,
+   "text": "andon pressers active titration of iv"
+  },
+  {
+   "start": 3428.24,
+   "end": 3432.88,
+   "text": "vasoactive medication above minimal"
+  },
+  {
+   "start": 3430.72,
+   "end": 3435.28,
+   "text": "amounts this is a very detailed"
+  },
+  {
+   "start": 3432.88,
+   "end": 3438.4,
+   "text": "definition which is great"
+  },
+  {
+   "start": 3435.28,
+   "end": 3440.72,
+   "text": "cardiac assist device such as"
+  },
+  {
+   "start": 3438.4,
+   "end": 3441.64,
+   "text": "iabd impella"
+  },
+  {
+   "start": 3440.72,
+   "end": 3445.52,
+   "text": "and"
+  },
+  {
+   "start": 3441.64,
+   "end": 3449.2,
+   "text": "ultrafiltration or crrt in progress so"
+  },
+  {
+   "start": 3445.52,
+   "end": 3452.64,
+   "text": "that is a fantastic uh definition and"
+  },
+  {
+   "start": 3449.2,
+   "end": 3455.44,
+   "text": "thanks very much folks for for uh"
+  },
+  {
+   "start": 3452.64,
+   "end": 3458.84,
+   "text": "uh providing definitions"
+  },
+  {
+   "start": 3455.44,
+   "end": 3462.16,
+   "text": "a suggestion this one is"
+  },
+  {
+   "start": 3458.84,
+   "end": 3462.16,
+   "text": "uh i"
+  },
+  {
+   "start": 3464.48,
+   "end": 3469.28,
+   "text": "okay"
+  },
+  {
+   "start": 3466.0,
+   "end": 3469.28,
+   "text": "okay uh"
+  },
+  {
+   "start": 3472.32,
+   "end": 3478.48,
+   "text": "okay so this was a suggestion by uh an"
+  },
+  {
+   "start": 3476.24,
+   "end": 3480.8,
+   "text": "individual saying that while i've been"
+  },
+  {
+   "start": 3478.48,
+   "end": 3484.4,
+   "text": "reading for a definition i've been"
+  },
+  {
+   "start": 3480.8,
+   "end": 3486.72,
+   "text": "training end users using the language"
+  },
+  {
+   "start": 3484.4,
+   "end": 3488.72,
+   "text": "that if you have a patient with poor"
+  },
+  {
+   "start": 3486.72,
+   "end": 3491.52,
+   "text": "peripheral perfusion"
+  },
+  {
+   "start": 3488.72,
+   "end": 3492.88,
+   "text": "a capillary specimen is not your best"
+  },
+  {
+   "start": 3491.52,
+   "end": 3495.52,
+   "text": "choice"
+  },
+  {
+   "start": 3492.88,
+   "end": 3496.96,
+   "text": "example"
+  },
+  {
+   "start": 3495.52,
+   "end": 3498.96,
+   "text": "of"
+  },
+  {
+   "start": 3496.96,
+   "end": 3502.48,
+   "text": "just trying to get this here example of"
+  },
+  {
+   "start": 3498.96,
+   "end": 3505.52,
+   "text": "the patient in chakra on visa presses"
+  },
+  {
+   "start": 3502.48,
+   "end": 3508.56,
+   "text": "the definition of critically ill our"
+  },
+  {
+   "start": 3505.52,
+   "end": 3512.4,
+   "text": "organization is leaning towards is a"
+  },
+  {
+   "start": 3508.56,
+   "end": 3514.8,
+   "text": "patient on vasopressor or in shock so i"
+  },
+  {
+   "start": 3512.4,
+   "end": 3517.92,
+   "text": "have been proactively getting my end"
+  },
+  {
+   "start": 3514.8,
+   "end": 3521.92,
+   "text": "users to start thinking that way"
+  },
+  {
+   "start": 3517.92,
+   "end": 3524.4,
+   "text": "another uh individual uh"
+  },
+  {
+   "start": 3521.92,
+   "end": 3527.36,
+   "text": "nope didn't get that one uh we'll move"
+  },
+  {
+   "start": 3524.4,
+   "end": 3530.96,
+   "text": "on definition for"
+  },
+  {
+   "start": 3527.36,
+   "end": 3531.92,
+   "text": "arf is defined as see if i can find that"
+  },
+  {
+   "start": 3530.96,
+   "end": 3534.88,
+   "text": "nope"
+  },
+  {
+   "start": 3531.92,
+   "end": 3537.36,
+   "text": "uh just moving on to the next one"
+  },
+  {
+   "start": 3534.88,
+   "end": 3539.28,
+   "text": "um another definition so i've had"
+  },
+  {
+   "start": 3537.36,
+   "end": 3540.8,
+   "text": "several definitions"
+  },
+  {
+   "start": 3539.28,
+   "end": 3544.0,
+   "text": "uh for people"
+  },
+  {
+   "start": 3540.8,
+   "end": 3547.2,
+   "text": "uh with uh how to define critically ill"
+  },
+  {
+   "start": 3544.0,
+   "end": 3549.2,
+   "text": "and so what i'm thinking we might do is"
+  },
+  {
+   "start": 3547.2,
+   "end": 3552.96,
+   "text": "um with the nova"
+  },
+  {
+   "start": 3549.2,
+   "end": 3555.68,
+   "text": "represent representation and help"
+  },
+  {
+   "start": 3552.96,
+   "end": 3557.6,
+   "text": "how about what we'll do is we will take"
+  },
+  {
+   "start": 3555.68,
+   "end": 3559.52,
+   "text": "people's different definitions and"
+  },
+  {
+   "start": 3557.6,
+   "end": 3561.76,
+   "text": "summarize them for you"
+  },
+  {
+   "start": 3559.52,
+   "end": 3563.04,
+   "text": "and then make that available to you so"
+  },
+  {
+   "start": 3561.76,
+   "end": 3566.24,
+   "text": "you can see"
+  },
+  {
+   "start": 3563.04,
+   "end": 3568.88,
+   "text": "uh where the various the different"
+  },
+  {
+   "start": 3566.24,
+   "end": 3570.64,
+   "text": "companies and organizations as well as"
+  },
+  {
+   "start": 3568.88,
+   "end": 3572.72,
+   "text": "the various definitions that they are"
+  },
+  {
+   "start": 3570.64,
+   "end": 3574.88,
+   "text": "using"
+  },
+  {
+   "start": 3572.72,
+   "end": 3577.12,
+   "text": "and someone just asked if i would post"
+  },
+  {
+   "start": 3574.88,
+   "end": 3577.84,
+   "text": "all the definitions in yes i think that"
+  },
+  {
+   "start": 3577.12,
+   "end": 3580.4,
+   "text": "is"
+  },
+  {
+   "start": 3577.84,
+   "end": 3582.72,
+   "text": "makes a lot of sense"
+  },
+  {
+   "start": 3580.4,
+   "end": 3583.92,
+   "text": "um"
+  },
+  {
+   "start": 3582.72,
+   "end": 3586.32,
+   "text": "next"
+  },
+  {
+   "start": 3583.92,
+   "end": 3589.76,
+   "text": "question is since the hematocrit of a"
+  },
+  {
+   "start": 3586.32,
+   "end": 3593.04,
+   "text": "neonate is high and typically"
+  },
+  {
+   "start": 3589.76,
+   "end": 3595.6,
+   "text": "blood gas analyzers have hematocrit"
+  },
+  {
+   "start": 3593.04,
+   "end": 3599.12,
+   "text": "interference at high levels do you"
+  },
+  {
+   "start": 3595.6,
+   "end": 3601.36,
+   "text": "recommend using a blood gas analyzer in"
+  },
+  {
+   "start": 3599.12,
+   "end": 3604.72,
+   "text": "a neonate population"
+  },
+  {
+   "start": 3601.36,
+   "end": 3609.52,
+   "text": "i have seen a high bias in a blood gas"
+  },
+  {
+   "start": 3604.72,
+   "end": 3613.76,
+   "text": "analyzer as compared to the nova glucose"
+  },
+  {
+   "start": 3609.52,
+   "end": 3614.88,
+   "text": "in a neonate population"
+  },
+  {
+   "start": 3613.76,
+   "end": 3617.28,
+   "text": "um"
+  },
+  {
+   "start": 3614.88,
+   "end": 3618.64,
+   "text": "so do i recommend it yes and and"
+  },
+  {
+   "start": 3617.28,
+   "end": 3620.4,
+   "text": "actually that's the source of a"
+  },
+  {
+   "start": 3618.64,
+   "end": 3621.92,
+   "text": "different conversation or another"
+  },
+  {
+   "start": 3620.4,
+   "end": 3625.28,
+   "text": "conversation"
+  },
+  {
+   "start": 3621.92,
+   "end": 3627.28,
+   "text": "uh because with a blood gas analyzer"
+  },
+  {
+   "start": 3625.28,
+   "end": 3629.68,
+   "text": "um"
+  },
+  {
+   "start": 3627.28,
+   "end": 3633.04,
+   "text": "uh it it's you're you're looking and"
+  },
+  {
+   "start": 3629.68,
+   "end": 3635.52,
+   "text": "measuring sort of a pseudo molality"
+  },
+  {
+   "start": 3633.04,
+   "end": 3637.52,
+   "text": "uh measurement as opposed to the"
+  },
+  {
+   "start": 3635.52,
+   "end": 3641.6,
+   "text": "molarity measurement"
+  },
+  {
+   "start": 3637.52,
+   "end": 3644.32,
+   "text": "and uh that is is commonly detected with"
+  },
+  {
+   "start": 3641.6,
+   "end": 3648.4,
+   "text": "many glucose meters"
+  },
+  {
+   "start": 3644.32,
+   "end": 3649.44,
+   "text": "so the hematocrit uh interference that"
+  },
+  {
+   "start": 3648.4,
+   "end": 3650.72,
+   "text": "you have"
+  },
+  {
+   "start": 3649.44,
+   "end": 3652.24,
+   "text": "experienced"
+  },
+  {
+   "start": 3650.72,
+   "end": 3654.56,
+   "text": "with um"
+  },
+  {
+   "start": 3652.24,
+   "end": 3657.28,
+   "text": "that blood gas analyzer using that"
+  },
+  {
+   "start": 3654.56,
+   "end": 3662.8,
+   "text": "neonatal specimen that"
+  },
+  {
+   "start": 3657.28,
+   "end": 3666.08,
+   "text": "may have been specific for a particular"
+  },
+  {
+   "start": 3662.8,
+   "end": 3668.72,
+   "text": "blood gas analyzer i know i've assessed"
+  },
+  {
+   "start": 3666.08,
+   "end": 3671.28,
+   "text": "several different"
+  },
+  {
+   "start": 3668.72,
+   "end": 3673.44,
+   "text": "blood gas analyzers and i can say that"
+  },
+  {
+   "start": 3671.28,
+   "end": 3675.36,
+   "text": "not all blood gas analyzers are created"
+  },
+  {
+   "start": 3673.44,
+   "end": 3677.68,
+   "text": "equally"
+  },
+  {
+   "start": 3675.36,
+   "end": 3677.68,
+   "text": "um"
+  },
+  {
+   "start": 3678.24,
+   "end": 3683.04,
+   "text": "and i think the last question i have uh"
+  },
+  {
+   "start": 3681.84,
+   "end": 3684.56,
+   "text": "is"
+  },
+  {
+   "start": 3683.04,
+   "end": 3687.36,
+   "text": "uh i'm sorry"
+  },
+  {
+   "start": 3684.56,
+   "end": 3689.44,
+   "text": "that wasn't a good question so"
+  },
+  {
+   "start": 3687.36,
+   "end": 3691.52,
+   "text": "oh is there are there any other"
+  },
+  {
+   "start": 3689.44,
+   "end": 3695.32,
+   "text": "questions um"
+  },
+  {
+   "start": 3691.52,
+   "end": 3695.32,
+   "text": "oh another question"
+  },
+  {
+   "start": 3698.96,
+   "end": 3702.48,
+   "text": "okay so i've just received another"
+  },
+  {
+   "start": 3701.28,
+   "end": 3704.4,
+   "text": "example"
+  },
+  {
+   "start": 3702.48,
+   "end": 3706.24,
+   "text": "of uh"
+  },
+  {
+   "start": 3704.4,
+   "end": 3709.76,
+   "text": "i've just received another example of a"
+  },
+  {
+   "start": 3706.24,
+   "end": 3712.16,
+   "text": "definition so we'll definitely summarize"
+  },
+  {
+   "start": 3709.76,
+   "end": 3714.96,
+   "text": "the uh definitions and try to get those"
+  },
+  {
+   "start": 3712.16,
+   "end": 3714.96,
+   "text": "out to people"
+  },
+  {
+   "start": 3720.32,
+   "end": 3726.32,
+   "text": "okay the question that just came in is"
+  },
+  {
+   "start": 3723.2,
+   "end": 3727.92,
+   "text": "to my knowledge is recommended to repeat"
+  },
+  {
+   "start": 3726.32,
+   "end": 3731.12,
+   "text": "repeat the critical plane to tear"
+  },
+  {
+   "start": 3727.92,
+   "end": 3733.12,
+   "text": "glucose produced from a glucose meter"
+  },
+  {
+   "start": 3731.12,
+   "end": 3735.28,
+   "text": "first again with a glucose meter and"
+  },
+  {
+   "start": 3733.12,
+   "end": 3736.96,
+   "text": "then confirmed with a lab drop what is"
+  },
+  {
+   "start": 3735.28,
+   "end": 3740.0,
+   "text": "your recommendation"
+  },
+  {
+   "start": 3736.96,
+   "end": 3743.2,
+   "text": "and i agree with that recommendation my"
+  },
+  {
+   "start": 3740.0,
+   "end": 3745.44,
+   "text": "only proviso with that is"
+  },
+  {
+   "start": 3743.2,
+   "end": 3748.56,
+   "text": "though be careful that you are not"
+  },
+  {
+   "start": 3745.44,
+   "end": 3752.16,
+   "text": "mixing and matching a capillary specimen"
+  },
+  {
+   "start": 3748.56,
+   "end": 3755.04,
+   "text": "with a venous specimen because uh and in"
+  },
+  {
+   "start": 3752.16,
+   "end": 3757.28,
+   "text": "particular with neonates"
+  },
+  {
+   "start": 3755.04,
+   "end": 3760.16,
+   "text": "not knowing or"
+  },
+  {
+   "start": 3757.28,
+   "end": 3762.4,
+   "text": "because of how frequently the babies are"
+  },
+  {
+   "start": 3760.16,
+   "end": 3765.92,
+   "text": "feeding and knowing the effect of that"
+  },
+  {
+   "start": 3762.4,
+   "end": 3769.84,
+   "text": "glucose load on causing differences"
+  },
+  {
+   "start": 3765.92,
+   "end": 3769.84,
+   "text": "between the capillary and venus results"
+  },
+  {
+   "start": 3770.4,
+   "end": 3774.08,
+   "text": "next one if you click on that"
+  },
+  {
+   "start": 3776.56,
+   "end": 3779.84,
+   "text": "oh"
+  },
+  {
+   "start": 3777.6,
+   "end": 3783.44,
+   "text": "someone has just said"
+  },
+  {
+   "start": 3779.84,
+   "end": 3786.24,
+   "text": "that if you click on the green resources"
+  },
+  {
+   "start": 3783.44,
+   "end": 3789.2,
+   "text": "at the top of the screen you can click"
+  },
+  {
+   "start": 3786.24,
+   "end": 3791.6,
+   "text": "on the slides and save to your computer"
+  },
+  {
+   "start": 3789.2,
+   "end": 3795.2,
+   "text": "so uh if you'd like to do that do feel"
+  },
+  {
+   "start": 3791.6,
+   "end": 3798.16,
+   "text": "free um that was just a comment so to"
+  },
+  {
+   "start": 3795.2,
+   "end": 3800.96,
+   "text": "say if you click on the green resources"
+  },
+  {
+   "start": 3798.16,
+   "end": 3805.2,
+   "text": "at the top of your screen you can click"
+  },
+  {
+   "start": 3800.96,
+   "end": 3805.2,
+   "text": "on the slides and save to your computer"
+  },
+  {
+   "start": 3805.6,
+   "end": 3809.36,
+   "text": "uh so i"
+  },
+  {
+   "start": 3807.52,
+   "end": 3810.96,
+   "text": "i would like to thank if there are no"
+  },
+  {
+   "start": 3809.36,
+   "end": 3813.36,
+   "text": "other questions i'd like to thank"
+  },
+  {
+   "start": 3810.96,
+   "end": 3815.28,
+   "text": "everyone for um"
+  },
+  {
+   "start": 3813.36,
+   "end": 3816.4,
+   "text": "for your questions those were wonderful"
+  },
+  {
+   "start": 3815.28,
+   "end": 3819.84,
+   "text": "questions"
+  },
+  {
+   "start": 3816.4,
+   "end": 3821.6,
+   "text": "we will um summarize i'll ask nova if"
+  },
+  {
+   "start": 3819.84,
+   "end": 3824.24,
+   "text": "they could summarize the definitions and"
+  },
+  {
+   "start": 3821.6,
+   "end": 3826.64,
+   "text": "send those out i think that was great"
+  },
+  {
+   "start": 3824.24,
+   "end": 3828.16,
+   "text": "and thank you so much for your time and"
+  },
+  {
+   "start": 3826.64,
+   "end": 3832.08,
+   "text": "attention"
+  },
+  {
+   "start": 3828.16,
+   "end": 3832.08,
+   "text": "and enjoy the rest of your day"
+  },
+  {
+   "start": 3833.36,
+   "end": 3836.36,
+   "text": "bye"
+  },
+  {
+   "start": 3886.96,
+   "end": 3889.04,
+   "text": "you"
+  }
+ ]
+}

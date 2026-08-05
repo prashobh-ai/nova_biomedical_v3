@@ -1,0 +1,733 @@
+{
+ "video_id": "MStyReu0Cak",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 145,
+ "cues": [
+  {
+   "start": 0.8,
+   "end": 4.48,
+   "text": "Thank you for joining me for this brief"
+  },
+  {
+   "start": 2.56,
+   "end": 6.96,
+   "text": "video that will walk you through"
+  },
+  {
+   "start": 4.48,
+   "end": 9.68,
+   "text": "importing a plate layout from MVS data"
+  },
+  {
+   "start": 6.96,
+   "end": 11.36,
+   "text": "manager into the ArtelWare application."
+  },
+  {
+   "start": 9.68,
+   "end": 15.36,
+   "text": "I've got some information to share with"
+  },
+  {
+   "start": 11.36,
+   "end": 17.52,
+   "text": "you. So, let's go ahead and get started."
+  },
+  {
+   "start": 15.36,
+   "end": 21.52,
+   "text": "Before we begin, it should be noted that"
+  },
+  {
+   "start": 17.52,
+   "end": 24.96,
+   "text": "only MVS Data Manager versions 3.6 6 and"
+  },
+  {
+   "start": 21.52,
+   "end": 28.32,
+   "text": "3.7 have the ability to export plate"
+  },
+  {
+   "start": 24.96,
+   "end": 31.2,
+   "text": "layouts into an XML file type that then"
+  },
+  {
+   "start": 28.32,
+   "end": 32.56,
+   "text": "can be imported into our Telware. Let's"
+  },
+  {
+   "start": 31.2,
+   "end": 36.24,
+   "text": "go ahead and take a look at how we"
+  },
+  {
+   "start": 32.56,
+   "end": 39.2,
+   "text": "accomplish this. Navigate to file plate"
+  },
+  {
+   "start": 36.24,
+   "end": 41.76,
+   "text": "layout setup. In this particular list,"
+  },
+  {
+   "start": 39.2,
+   "end": 44.32,
+   "text": "I'm going to be exporting the ArtelWare"
+  },
+  {
+   "start": 41.76,
+   "end": 47.68,
+   "text": "plate layout export one and the"
+  },
+  {
+   "start": 44.32,
+   "end": 49.36,
+   "text": "ArtelWare plate layout export 5. Click"
+  },
+  {
+   "start": 47.68,
+   "end": 51.36,
+   "text": "to highlight the plate layout that you"
+  },
+  {
+   "start": 49.36,
+   "end": 54.16,
+   "text": "wish to export."
+  },
+  {
+   "start": 51.36,
+   "end": 55.92,
+   "text": "Then click on the export box."
+  },
+  {
+   "start": 54.16,
+   "end": 58.56,
+   "text": "From there, navigate to the file"
+  },
+  {
+   "start": 55.92,
+   "end": 60.72,
+   "text": "location where you want this XML file to"
+  },
+  {
+   "start": 58.56,
+   "end": 63.84,
+   "text": "be exported. And then go ahead and name"
+  },
+  {
+   "start": 60.72,
+   "end": 65.6,
+   "text": "your file name and click save. You'll"
+  },
+  {
+   "start": 63.84,
+   "end": 68.08,
+   "text": "then see a message indicating the plate"
+  },
+  {
+   "start": 65.6,
+   "end": 70.24,
+   "text": "layout export was saved to that file"
+  },
+  {
+   "start": 68.08,
+   "end": 72.64,
+   "text": "location that you selected earlier."
+  },
+  {
+   "start": 70.24,
+   "end": 74.4,
+   "text": "Let's go ahead and click okay. And then"
+  },
+  {
+   "start": 72.64,
+   "end": 76.64,
+   "text": "let's go back into the plate layout"
+  },
+  {
+   "start": 74.4,
+   "end": 79.6,
+   "text": "setup screen again. And this time I'll"
+  },
+  {
+   "start": 76.64,
+   "end": 81.84,
+   "text": "select ArtelWare plate layout export 5."
+  },
+  {
+   "start": 79.6,
+   "end": 84.32,
+   "text": "I'll click on the export button. You can"
+  },
+  {
+   "start": 81.84,
+   "end": 86.24,
+   "text": "see that my computer is defaulting to"
+  },
+  {
+   "start": 84.32,
+   "end": 90.08,
+   "text": "the file location that I selected for"
+  },
+  {
+   "start": 86.24,
+   "end": 92.4,
+   "text": "the ArtelWare export one XML file."
+  },
+  {
+   "start": 90.08,
+   "end": 95.68,
+   "text": "I've gone ahead and named my file name"
+  },
+  {
+   "start": 92.4,
+   "end": 97.44,
+   "text": "appropriately. ArtelWare export 5. And"
+  },
+  {
+   "start": 95.68,
+   "end": 98.96,
+   "text": "I'll go ahead and click save again. And"
+  },
+  {
+   "start": 97.44,
+   "end": 101.04,
+   "text": "then there's that reassuring message"
+  },
+  {
+   "start": 98.96,
+   "end": 103.92,
+   "text": "indicating the plate layout export file"
+  },
+  {
+   "start": 101.04,
+   "end": 106.72,
+   "text": "was saved. I'll go ahead and click okay."
+  },
+  {
+   "start": 103.92,
+   "end": 108.48,
+   "text": "and I'll close out of MBS Data Manager."
+  },
+  {
+   "start": 106.72,
+   "end": 110.24,
+   "text": "Now that I'm logged into ArtelWare,"
+  },
+  {
+   "start": 108.48,
+   "end": 112.24,
+   "text": "let's go ahead and explore how I can"
+  },
+  {
+   "start": 110.24,
+   "end": 115.6,
+   "text": "import those two plate layouts that I"
+  },
+  {
+   "start": 112.24,
+   "end": 117.68,
+   "text": "just exported from data manager. If we"
+  },
+  {
+   "start": 115.6,
+   "end": 120.16,
+   "text": "go to the configuration icon on the far"
+  },
+  {
+   "start": 117.68,
+   "end": 122.64,
+   "text": "left navigation panel, we can choose to"
+  },
+  {
+   "start": 120.16,
+   "end": 125.52,
+   "text": "import a data manager plate layout as a"
+  },
+  {
+   "start": 122.64,
+   "end": 128.48,
+   "text": "pipette calibration plan or a liquid"
+  },
+  {
+   "start": 125.52,
+   "end": 130.8,
+   "text": "handler verification plan. Today, I'm"
+  },
+  {
+   "start": 128.48,
+   "end": 133.36,
+   "text": "going to import two data manager plate"
+  },
+  {
+   "start": 130.8,
+   "end": 135.36,
+   "text": "layouts as verification plans. You can"
+  },
+  {
+   "start": 133.36,
+   "end": 138.08,
+   "text": "see that verification plans is already"
+  },
+  {
+   "start": 135.36,
+   "end": 141.04,
+   "text": "highlighted. If it wasn't, I'd click on"
+  },
+  {
+   "start": 138.08,
+   "end": 143.28,
+   "text": "the verification plans section and then"
+  },
+  {
+   "start": 141.04,
+   "end": 147.04,
+   "text": "I'd click on the icon that says import"
+  },
+  {
+   "start": 143.28,
+   "end": 149.36,
+   "text": "Artell MVS data manager plate layout."
+  },
+  {
+   "start": 147.04,
+   "end": 151.44,
+   "text": "From there, I'll navigate to the file"
+  },
+  {
+   "start": 149.36,
+   "end": 154.32,
+   "text": "location where my plate layout exports"
+  },
+  {
+   "start": 151.44,
+   "end": 156.96,
+   "text": "reside. And I'll select my first plate"
+  },
+  {
+   "start": 154.32,
+   "end": 159.6,
+   "text": "layout, ArtelWare export number one,"
+  },
+  {
+   "start": 156.96,
+   "end": 162.0,
+   "text": "and I'll select open. Here you can see"
+  },
+  {
+   "start": 159.6,
+   "end": 164.72,
+   "text": "the verification plan name is the same"
+  },
+  {
+   "start": 162.0,
+   "end": 167.36,
+   "text": "name that I had assigned to it in its"
+  },
+  {
+   "start": 164.72,
+   "end": 169.28,
+   "text": "MVS data manager plate layout. Next,"
+  },
+  {
+   "start": 167.36,
+   "end": 171.84,
+   "text": "we'll confirm the plate type is 96"
+  },
+  {
+   "start": 169.28,
+   "end": 174.64,
+   "text": "wells. And then we'll confirm the head"
+  },
+  {
+   "start": 171.84,
+   "end": 176.56,
+   "text": "configuration details. The number of"
+  },
+  {
+   "start": 174.64,
+   "end": 179.36,
+   "text": "channels for this head for this plate"
+  },
+  {
+   "start": 176.56,
+   "end": 181.36,
+   "text": "layout is 96. The orientation is"
+  },
+  {
+   "start": 179.36,
+   "end": 184.16,
+   "text": "horizontal because it's a 96 channel"
+  },
+  {
+   "start": 181.36,
+   "end": 186.64,
+   "text": "head. And the tip spacing is contiguous"
+  },
+  {
+   "start": 184.16,
+   "end": 188.64,
+   "text": "because again it's a 96 channel head. So"
+  },
+  {
+   "start": 186.64,
+   "end": 189.84,
+   "text": "we can't skip wells."
+  },
+  {
+   "start": 188.64,
+   "end": 192.4,
+   "text": "Next, we'll take a look at the"
+  },
+  {
+   "start": 189.84,
+   "end": 195.36,
+   "text": "evaluation criteria. I'm measuring"
+  },
+  {
+   "start": 192.4,
+   "end": 197.68,
+   "text": "inaccuracy and imprecision, but then I"
+  },
+  {
+   "start": 195.36,
+   "end": 199.36,
+   "text": "need to make a decision. Do I want my"
+  },
+  {
+   "start": 197.68,
+   "end": 201.36,
+   "text": "channel statistics included in the"
+  },
+  {
+   "start": 199.36,
+   "end": 203.52,
+   "text": "evaluation criteria as well as the"
+  },
+  {
+   "start": 201.36,
+   "end": 205.68,
+   "text": "dispense order statistics?"
+  },
+  {
+   "start": 203.52,
+   "end": 207.36,
+   "text": "I'll go ahead and leave those as is."
+  },
+  {
+   "start": 205.68,
+   "end": 210.0,
+   "text": "Before I click approve though, there's"
+  },
+  {
+   "start": 207.36,
+   "end": 212.56,
+   "text": "one more step that I need to do. I need"
+  },
+  {
+   "start": 210.0,
+   "end": 214.48,
+   "text": "to click on the dispense step tab. Now"
+  },
+  {
+   "start": 212.56,
+   "end": 216.8,
+   "text": "that I'm on the dispense step tab, you"
+  },
+  {
+   "start": 214.48,
+   "end": 220.24,
+   "text": "can see that this is a 96 channel head"
+  },
+  {
+   "start": 216.8,
+   "end": 222.16,
+   "text": "being tested at 200 microL with three"
+  },
+  {
+   "start": 220.24,
+   "end": 223.6,
+   "text": "replicates. You can see over on the"
+  },
+  {
+   "start": 222.16,
+   "end": 226.56,
+   "text": "right hand side that it says showing"
+  },
+  {
+   "start": 223.6,
+   "end": 229.36,
+   "text": "plate one of three. I can click on this"
+  },
+  {
+   "start": 226.56,
+   "end": 231.6,
+   "text": "arrow to show the next plate"
+  },
+  {
+   "start": 229.36,
+   "end": 233.76,
+   "text": "and the next plate."
+  },
+  {
+   "start": 231.6,
+   "end": 235.92,
+   "text": "And I can click on the left side arrow"
+  },
+  {
+   "start": 233.76,
+   "end": 237.68,
+   "text": "and go back."
+  },
+  {
+   "start": 235.92,
+   "end": 240.0,
+   "text": "This particular plate layout is pretty"
+  },
+  {
+   "start": 237.68,
+   "end": 242.96,
+   "text": "straightforward though. It's testing a"
+  },
+  {
+   "start": 240.0,
+   "end": 245.68,
+   "text": "96 channel head at 200 microL with three"
+  },
+  {
+   "start": 242.96,
+   "end": 248.0,
+   "text": "replicates. So, this particular plate"
+  },
+  {
+   "start": 245.68,
+   "end": 250.4,
+   "text": "layout matches my MVS data manager"
+  },
+  {
+   "start": 248.0,
+   "end": 252.0,
+   "text": "layout. I'm going to go ahead and select"
+  },
+  {
+   "start": 250.4,
+   "end": 253.6,
+   "text": "approve."
+  },
+  {
+   "start": 252.0,
+   "end": 255.2,
+   "text": "Because I have the compliance suite"
+  },
+  {
+   "start": 253.6,
+   "end": 257.04,
+   "text": "add-on module for the ArtelWare"
+  },
+  {
+   "start": 255.2,
+   "end": 259.44,
+   "text": "application, I need to enter in my"
+  },
+  {
+   "start": 257.04,
+   "end": 262.0,
+   "text": "electronic signature information. I'll"
+  },
+  {
+   "start": 259.44,
+   "end": 264.08,
+   "text": "go ahead and click sign. And then we'll"
+  },
+  {
+   "start": 262.0,
+   "end": 266.48,
+   "text": "see the ArtelWare plate layout export"
+  },
+  {
+   "start": 264.08,
+   "end": 269.36,
+   "text": "one is now shown in the Arttowellware"
+  },
+  {
+   "start": 266.48,
+   "end": 273.12,
+   "text": "verification plans list. Let's go ahead"
+  },
+  {
+   "start": 269.36,
+   "end": 274.8,
+   "text": "and import that second plate layout."
+  },
+  {
+   "start": 273.12,
+   "end": 276.8,
+   "text": "Once again, I'll navigate to the file"
+  },
+  {
+   "start": 274.8,
+   "end": 280.64,
+   "text": "location where my plate layout exports"
+  },
+  {
+   "start": 276.8,
+   "end": 283.44,
+   "text": "reside. I'll select our Telware export 5"
+  },
+  {
+   "start": 280.64,
+   "end": 285.28,
+   "text": "and I'll select open. Once again, I'm"
+  },
+  {
+   "start": 283.44,
+   "end": 287.84,
+   "text": "confirming the name, ArtelWare plate"
+  },
+  {
+   "start": 285.28,
+   "end": 289.68,
+   "text": "layout export 5, and the description."
+  },
+  {
+   "start": 287.84,
+   "end": 292.56,
+   "text": "Those are the same pieces of information"
+  },
+  {
+   "start": 289.68,
+   "end": 294.56,
+   "text": "that were shown in MBS data manager. The"
+  },
+  {
+   "start": 292.56,
+   "end": 296.96,
+   "text": "plate type is still a 96 well plate"
+  },
+  {
+   "start": 294.56,
+   "end": 299.2,
+   "text": "type, but this time I have an 8 channel"
+  },
+  {
+   "start": 296.96,
+   "end": 302.56,
+   "text": "head that this plate layout was made"
+  },
+  {
+   "start": 299.2,
+   "end": 305.28,
+   "text": "for. The orientation has to be vertical"
+  },
+  {
+   "start": 302.56,
+   "end": 307.36,
+   "text": "because it's an 8 channel device. And"
+  },
+  {
+   "start": 305.28,
+   "end": 309.6,
+   "text": "the tip spacing has to be contigious"
+  },
+  {
+   "start": 307.36,
+   "end": 311.52,
+   "text": "because again it's an 8 channel device."
+  },
+  {
+   "start": 309.6,
+   "end": 314.64,
+   "text": "I'll take a quick look at my evaluation"
+  },
+  {
+   "start": 311.52,
+   "end": 316.64,
+   "text": "criteria. And yet again before I select"
+  },
+  {
+   "start": 314.64,
+   "end": 319.28,
+   "text": "approve, I'm going to click on the"
+  },
+  {
+   "start": 316.64,
+   "end": 322.56,
+   "text": "dispense step tab. Here you can see I"
+  },
+  {
+   "start": 319.28,
+   "end": 326.0,
+   "text": "have 10 microL at four replicates. I"
+  },
+  {
+   "start": 322.56,
+   "end": 328.48,
+   "text": "have 50 microL at four replicates and I"
+  },
+  {
+   "start": 326.0,
+   "end": 330.64,
+   "text": "have a 100 microL test at four"
+  },
+  {
+   "start": 328.48,
+   "end": 332.0,
+   "text": "replicates as well. I'm pretty content"
+  },
+  {
+   "start": 330.64,
+   "end": 333.92,
+   "text": "with this one. So I'll go ahead and"
+  },
+  {
+   "start": 332.0,
+   "end": 336.32,
+   "text": "select approve. I'll enter my"
+  },
+  {
+   "start": 333.92,
+   "end": 339.52,
+   "text": "credentials for the electronic signature"
+  },
+  {
+   "start": 336.32,
+   "end": 342.32,
+   "text": "and I'll select sign. That concludes my"
+  },
+  {
+   "start": 339.52,
+   "end": 344.24,
+   "text": "brief video. Do you have any questions?"
+  },
+  {
+   "start": 342.32,
+   "end": 348.44,
+   "text": "You can contact our technical support"
+  },
+  {
+   "start": 344.24,
+   "end": 348.44,
+   "text": "team at 1 800-225434"
+  },
+  {
+   "start": 348.64,
+   "end": 354.24,
+   "text": "option 3 or at support at aic"
+  },
+  {
+   "start": 352.56,
+   "end": 356.8,
+   "text": "companies.com."
+  },
+  {
+   "start": 354.24,
+   "end": 356.8,
+   "text": "Thank you."
+  }
+ ]
+}

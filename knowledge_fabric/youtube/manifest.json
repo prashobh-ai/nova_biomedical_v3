@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T04:53:18+00:00",
-  "video_count": 80,
+  "generated_at": "2026-08-04T00:53:50+00:00",
+  "video_count": 79,
   "withdrawn_count": 0,
   "videos": {
     "-LO_XRsVwkw": {
@@ -19,7 +19,7 @@
       "content_hash": "933bd4ef39c2f0f0",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -98,7 +98,7 @@
       "content_hash": "41c297cb4c9222a1",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -137,7 +137,7 @@
       "content_hash": "a966b78378b73600",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "fetch_failed",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -157,7 +157,7 @@
       "content_hash": "21ab4b554ba4b473",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -196,7 +196,7 @@
       "content_hash": "6803b141316fa0f5",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "fetch_failed",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -237,7 +237,7 @@
       "content_hash": "8d93a7984f7a67cd",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -256,7 +256,7 @@
       "content_hash": "a86d5ddfd29d9539",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -296,7 +296,7 @@
       "content_hash": "d9c86c562486f9a6",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -474,7 +474,7 @@
       "content_hash": "8bc7a48a20a599a2",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -496,7 +496,7 @@
       "content_hash": "c25b3513e5f616ea",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -516,7 +516,7 @@
       "content_hash": "9cb4b55be5999d44",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -579,7 +579,7 @@
       "content_hash": "ca4dced30a20cc02",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -659,7 +659,7 @@
       "content_hash": "0f2d52487a8d680e",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -721,7 +721,7 @@
       "content_hash": "6b22c6b760fef07c",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -760,7 +760,7 @@
       "content_hash": "f5aa3d8b47e632ed",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -800,7 +800,7 @@
       "content_hash": "5e4668d95b520068",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -840,7 +840,7 @@
       "content_hash": "410fb7738c129749",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "fetch_failed",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -901,7 +901,7 @@
       "content_hash": "51d439ba3f16ecea",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -920,7 +920,7 @@
       "content_hash": "2cc3e6ec7045933f",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "fetch_failed",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -1001,7 +1001,7 @@
       "content_hash": "e508e281559da529",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -1041,7 +1041,7 @@
       "content_hash": "a87d81dd3708b408",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -1083,7 +1083,7 @@
       "content_hash": "afa3a703b107cf51",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -1125,7 +1125,7 @@
       "content_hash": "9faef54abd05a373",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -1144,7 +1144,7 @@
       "content_hash": "8b93a42e28a304f5",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "fetch_failed",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -1187,7 +1187,7 @@
       "content_hash": "e88a32bfe6aeb42c",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -1206,7 +1206,7 @@
       "content_hash": "840cfec9db0ab8b4",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "fetch_failed",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -1247,7 +1247,7 @@
       "content_hash": "3a917e93072152b4",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -1287,7 +1287,7 @@
       "content_hash": "70f0f8906795cf68",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -1306,7 +1306,7 @@
       "content_hash": "9f65f7a46896c0ac",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -1344,7 +1344,7 @@
       "content_hash": "9314ffdeface63b8",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "fetch_failed",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -1384,29 +1384,9 @@
       "content_hash": "67ea7791ab8e4217",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
-    },
-    "nOGtFubWta8": {
-      "video_id": "nOGtFubWta8",
-      "title": "Maximize Productivity and Patient Care with Clinical Services",
-      "description": "Your osmometer is a critical part of your laboratory workflow. Is your service strategy helping you get the most from it?\n\nIn this video, discover how Nova Biomedical Clinical Services help laboratories maximize osmometer performance, maintain compliance, and minimize downtime throughout the life of their instrument.\n\nFrom installation and validation to preventive maintenance and ongoing technical support, our manufacturer-trained and certified service experts provide:\n• Installation and instrument validation\n• Certification documentation to support laboratory inspections\n• Preventive maintenance to maximize performa\nnce and reliability\n• Expert training and ongoing technical support\n\nLearn how the right service partner can help your laboratory improve productivity, maintain compliance, and get the most from your Nova Biomedical osmometer.",
-      "duration_sec": 146,
-      "published_at": "2026-08-04",
-      "channel": "Nova Biomedical",
-      "playlists": [
-        "Product Demonstrations (Virtual & In-Person)",
-        "Advanced Instruments®",
-        "English (US)",
-        "Hospital"
-      ],
-      "date_method": "channel_publication_date",
-      "date_confidence": 0.9,
-      "content_hash": "ba3cb24e8a2eedab",
-      "first_seen": "2026-08-05",
-      "withdrawn": false,
-      "transcript_status": "pending"
     },
     "nRr999Llito": {
       "video_id": "nRr999Llito",
@@ -1442,7 +1422,7 @@
       "content_hash": "a3c387804cc8d50e",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "fetch_failed",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     },
@@ -1606,7 +1586,7 @@
       "content_hash": "a7fac4c9aac36679",
       "first_seen": "2026-08-04",
       "withdrawn": false,
-      "transcript_status": "pending",
+      "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
     }

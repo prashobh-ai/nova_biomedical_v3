@@ -1,0 +1,578 @@
+{
+ "video_id": "OcPDxwr39bg",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 114,
+ "cues": [
+  {
+   "start": 5.03,
+   "end": 12.3,
+   "text": "automated online sampling with flex to"
+  },
+  {
+   "start": 8.04,
+   "end": 14.81,
+   "text": "an Amber 15 cell culture system bio"
+  },
+  {
+   "start": 12.3,
+   "end": 18.47,
+   "text": "profile flex 2 is a comprehensive"
+  },
+  {
+   "start": 14.81,
+   "end": 22.68,
+   "text": "automated 16 test cell culture analyser"
+  },
+  {
+   "start": 18.47,
+   "end": 25.88,
+   "text": "flex 2 analyzes chemistry's pH and gases"
+  },
+  {
+   "start": 22.68,
+   "end": 30.48,
+   "text": "cell density and cell viability and"
+  },
+  {
+   "start": 25.88,
+   "end": 33.21,
+   "text": "osmolality in a modular platform flex"
+  },
+  {
+   "start": 30.48,
+   "end": 35.61,
+   "text": "2's low maintenance design fast analysis"
+  },
+  {
+   "start": 33.21,
+   "end": 38.85,
+   "text": "time and low sample volume provide"
+  },
+  {
+   "start": 35.61,
+   "end": 41.13,
+   "text": "maximum workflow efficiency flex 2"
+  },
+  {
+   "start": 38.85,
+   "end": 44.28,
+   "text": "offers 4 unique sampling options"
+  },
+  {
+   "start": 41.13,
+   "end": 47.52,
+   "text": "including single sampling external load"
+  },
+  {
+   "start": 44.28,
+   "end": 49.68,
+   "text": "and go tray sampling 96-well microtiter"
+  },
+  {
+   "start": 47.52,
+   "end": 54.87,
+   "text": "tray sampling and automated online"
+  },
+  {
+   "start": 49.68,
+   "end": 57.0,
+   "text": "sampling flex 2 is the only cell culture"
+  },
+  {
+   "start": 54.87,
+   "end": 59.43,
+   "text": "analyzer designed for automated online"
+  },
+  {
+   "start": 57.0,
+   "end": 62.49,
+   "text": "sampling of large-scale production"
+  },
+  {
+   "start": 59.43,
+   "end": 66.12,
+   "text": "bioreactors to micro scale bioreactors"
+  },
+  {
+   "start": 62.49,
+   "end": 70.2,
+   "text": "including the amber 15 and amber 250"
+  },
+  {
+   "start": 66.12,
+   "end": 71.88,
+   "text": "cell culture platforms automated"
+  },
+  {
+   "start": 70.2,
+   "end": 75.5,
+   "text": "sampling is made possible with the"
+  },
+  {
+   "start": 71.88,
+   "end": 78.27,
+   "text": "optional external sampling module or ESM"
+  },
+  {
+   "start": 75.5,
+   "end": 80.46,
+   "text": "this small liquid handling device"
+  },
+  {
+   "start": 78.27,
+   "end": 83.43,
+   "text": "automatically delivers cell culture"
+  },
+  {
+   "start": 80.46,
+   "end": 88.11,
+   "text": "samples from amber 15 micro bio reactor"
+  },
+  {
+   "start": 83.43,
+   "end": 91.14,
+   "text": "systems to flex to for analysis at just"
+  },
+  {
+   "start": 88.11,
+   "end": 94.38,
+   "text": "8 inches wide the ESM requires very"
+  },
+  {
+   "start": 91.14,
+   "end": 97.62,
+   "text": "little additional bench space the ESM"
+  },
+  {
+   "start": 94.38,
+   "end": 102.14,
+   "text": "snap-in reagent packs support up to 240"
+  },
+  {
+   "start": 97.62,
+   "end": 105.0,
+   "text": "samples and are replaceable in seconds"
+  },
+  {
+   "start": 102.14,
+   "end": 107.52,
+   "text": "sample scheduling and test configuration"
+  },
+  {
+   "start": 105.0,
+   "end": 110.64,
+   "text": "are performed via the amber 15 user"
+  },
+  {
+   "start": 107.52,
+   "end": 112.89,
+   "text": "interface new process steps can be"
+  },
+  {
+   "start": 110.64,
+   "end": 115.32,
+   "text": "created or existing process steps"
+  },
+  {
+   "start": 112.89,
+   "end": 118.2,
+   "text": "modified to schedule sampling of each"
+  },
+  {
+   "start": 115.32,
+   "end": 121.17,
+   "text": "micro bioreactor followed by analysis by"
+  },
+  {
+   "start": 118.2,
+   "end": 123.9,
+   "text": "the Flex to process step configuration"
+  },
+  {
+   "start": 121.17,
+   "end": 125.79,
+   "text": "includes sample scheduling selection of"
+  },
+  {
+   "start": 123.9,
+   "end": 129.48,
+   "text": "the sample type which defines the test"
+  },
+  {
+   "start": 125.79,
+   "end": 132.42,
+   "text": "venue cell inspection settings onboard"
+  },
+  {
+   "start": 129.48,
+   "end": 132.93,
+   "text": "delusions key parameters and parameter"
+  },
+  {
+   "start": 132.42,
+   "end": 136.08,
+   "text": "offs"
+  },
+  {
+   "start": 132.93,
+   "end": 138.99,
+   "text": "as well as pH trigger points and offset"
+  },
+  {
+   "start": 136.08,
+   "end": 144.18,
+   "text": "limits and deprotonation steps following"
+  },
+  {
+   "start": 138.99,
+   "end": 146.91,
+   "text": "analysis amber software allows users to"
+  },
+  {
+   "start": 144.18,
+   "end": 148.98,
+   "text": "check for sufficient flex to reagents to"
+  },
+  {
+   "start": 146.91,
+   "end": 150.87,
+   "text": "ensure all scheduled testing can be"
+  },
+  {
+   "start": 148.98,
+   "end": 153.78,
+   "text": "completed for up to four days of"
+  },
+  {
+   "start": 150.87,
+   "end": 156.0,
+   "text": "scheduled samples if reagents will be"
+  },
+  {
+   "start": 153.78,
+   "end": 158.46,
+   "text": "depleted or expired within the desired"
+  },
+  {
+   "start": 156.0,
+   "end": 161.25,
+   "text": "period amber software will provide a"
+  },
+  {
+   "start": 158.46,
+   "end": 163.65,
+   "text": "warning reminding users that replacement"
+  },
+  {
+   "start": 161.25,
+   "end": 166.34,
+   "text": "of reagents will be necessary in order"
+  },
+  {
+   "start": 163.65,
+   "end": 169.17,
+   "text": "to complete all scheduled analysis steps"
+  },
+  {
+   "start": 166.34,
+   "end": 171.69,
+   "text": "key parameters can be defined in the"
+  },
+  {
+   "start": 169.17,
+   "end": 174.0,
+   "text": "Flex - user interface and testing"
+  },
+  {
+   "start": 171.69,
+   "end": 178.52,
+   "text": "proceeds only when all key parameters"
+  },
+  {
+   "start": 174.0,
+   "end": 178.52,
+   "text": "are available preserving sample volume"
+  },
+  {
+   "start": 180.08,
+   "end": 186.02,
+   "text": "when scheduled a sample is aspirated"
+  },
+  {
+   "start": 183.3,
+   "end": 189.0,
+   "text": "from an Amber Micro bioreactor and"
+  },
+  {
+   "start": 186.02,
+   "end": 198.87,
+   "text": "dispensed into the custom acrylic cup on"
+  },
+  {
+   "start": 189.0,
+   "end": 202.2,
+   "text": "the amber deck flex 2 retrieves the"
+  },
+  {
+   "start": 198.87,
+   "end": 204.48,
+   "text": "sample from the cup for analysis the"
+  },
+  {
+   "start": 202.2,
+   "end": 206.55,
+   "text": "Flex 2 system probe distributes the"
+  },
+  {
+   "start": 204.48,
+   "end": 210.03,
+   "text": "sample to the appropriate modules for"
+  },
+  {
+   "start": 206.55,
+   "end": 211.77,
+   "text": "analysis following analysis the"
+  },
+  {
+   "start": 210.03,
+   "end": 214.2,
+   "text": "remaining sample is dispensed into"
+  },
+  {
+   "start": 211.77,
+   "end": 218.31,
+   "text": "sealed waste bags within the ESM's"
+  },
+  {
+   "start": 214.2,
+   "end": 220.47,
+   "text": "reagent pack cleaning and deprotonating"
+  },
+  {
+   "start": 218.31,
+   "end": 222.96,
+   "text": "solutions contained within the reagent"
+  },
+  {
+   "start": 220.47,
+   "end": 225.36,
+   "text": "pack also ensure that fluid lines are"
+  },
+  {
+   "start": 222.96,
+   "end": 227.64,
+   "text": "cleaned between samples preventing"
+  },
+  {
+   "start": 225.36,
+   "end": 231.54,
+   "text": "biological build-up and eliminating"
+  },
+  {
+   "start": 227.64,
+   "end": 233.88,
+   "text": "sample to sample carryover when the"
+  },
+  {
+   "start": 231.54,
+   "end": 236.28,
+   "text": "analysis is completed flex to"
+  },
+  {
+   "start": 233.88,
+   "end": 239.7,
+   "text": "immediately transmits all data to the"
+  },
+  {
+   "start": 236.28,
+   "end": 243.08,
+   "text": "amber 15 software flex 2 data is"
+  },
+  {
+   "start": 239.7,
+   "end": 245.52,
+   "text": "displayed on all relevant amber graphs"
+  },
+  {
+   "start": 243.08,
+   "end": 248.34,
+   "text": "algorithms utilizing one or any"
+  },
+  {
+   "start": 245.52,
+   "end": 251.46,
+   "text": "combination of up to 16 tests measured"
+  },
+  {
+   "start": 248.34,
+   "end": 255.27,
+   "text": "on flex 2 can be defined on the amber 15"
+  },
+  {
+   "start": 251.46,
+   "end": 257.58,
+   "text": "software for feedback control the cycle"
+  },
+  {
+   "start": 255.27,
+   "end": 260.07,
+   "text": "time of the integrated system including"
+  },
+  {
+   "start": 257.58,
+   "end": 262.56,
+   "text": "sampling and testing is 6 to 7 minutes"
+  },
+  {
+   "start": 260.07,
+   "end": 265.77,
+   "text": "depending on the configuration of tests"
+  },
+  {
+   "start": 262.56,
+   "end": 266.55,
+   "text": "selected volume preservation is critical"
+  },
+  {
+   "start": 265.77,
+   "end": 269.07,
+   "text": "for small"
+  },
+  {
+   "start": 266.55,
+   "end": 271.62,
+   "text": "volume culture systems the maximum"
+  },
+  {
+   "start": 269.07,
+   "end": 276.0,
+   "text": "volume taken from each micro bioreactor"
+  },
+  {
+   "start": 271.62,
+   "end": 278.46,
+   "text": "is 400 to 500 microliters in most cases"
+  },
+  {
+   "start": 276.0,
+   "end": 281.19,
+   "text": "this enables daily sampling of each"
+  },
+  {
+   "start": 278.46,
+   "end": 283.79,
+   "text": "micro bioreactor while providing results"
+  },
+  {
+   "start": 281.19,
+   "end": 287.49,
+   "text": "for all measured tests including pH"
+  },
+  {
+   "start": 283.79,
+   "end": 292.35,
+   "text": "gases chemistry's cell density and"
+  },
+  {
+   "start": 287.49,
+   "end": 295.05,
+   "text": "viability and osmolality flex twos"
+  },
+  {
+   "start": 292.35,
+   "end": 298.8,
+   "text": "integration with Amber 15 allows for"
+  },
+  {
+   "start": 295.05,
+   "end": 301.2,
+   "text": "unprecedented automation however flex 2"
+  },
+  {
+   "start": 298.8,
+   "end": 303.75,
+   "text": "can also be used for single sampling and"
+  },
+  {
+   "start": 301.2,
+   "end": 307.58,
+   "text": "tray sampling when not processing amber"
+  },
+  {
+   "start": 303.75,
+   "end": 310.62,
+   "text": "samples flex 2 is the industry's only"
+  },
+  {
+   "start": 307.58,
+   "end": 313.14,
+   "text": "comprehensive 16 test cell culture"
+  },
+  {
+   "start": 310.62,
+   "end": 317.13,
+   "text": "analyzer with automated sampling from"
+  },
+  {
+   "start": 313.14,
+   "end": 319.59,
+   "text": "amber cell culture systems flex 2's high"
+  },
+  {
+   "start": 317.13,
+   "end": 322.14,
+   "text": "capacity reagents provide walkaway"
+  },
+  {
+   "start": 319.59,
+   "end": 326.22,
+   "text": "automated analysis for more than one"
+  },
+  {
+   "start": 322.14,
+   "end": 329.01,
+   "text": "week flex 2's low sample volumes enable"
+  },
+  {
+   "start": 326.22,
+   "end": 331.17,
+   "text": "daily sampling of amber 15 cell culture"
+  },
+  {
+   "start": 329.01,
+   "end": 333.02,
+   "text": "systems while providing an instrument"
+  },
+  {
+   "start": 331.17,
+   "end": 337.2,
+   "text": "that is very easy to maintain an"
+  },
+  {
+   "start": 333.02,
+   "end": 339.45,
+   "text": "extremely robust flex 2 enables"
+  },
+  {
+   "start": 337.2,
+   "end": 341.37,
+   "text": "customized feedback control for all"
+  },
+  {
+   "start": 339.45,
+   "end": 343.56,
+   "text": "measured tests with infinite"
+  },
+  {
+   "start": 341.37,
+   "end": 347.18,
+   "text": "possibilities for the most advanced"
+  },
+  {
+   "start": 343.56,
+   "end": 347.18,
+   "text": "process control strategies"
+  }
+ ]
+}

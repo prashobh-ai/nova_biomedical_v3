@@ -1,0 +1,1538 @@
+{
+ "video_id": "HCbwCH8verM",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 306,
+ "cues": [
+  {
+   "start": 1.36,
+   "end": 5.84,
+   "text": "Thank you for joining me for this brief"
+  },
+  {
+   "start": 3.28,
+   "end": 7.44,
+   "text": "tutorial focused on managing pipette"
+  },
+  {
+   "start": 5.84,
+   "end": 9.36,
+   "text": "devices within the ArtelWare"
+  },
+  {
+   "start": 7.44,
+   "end": 11.6,
+   "text": "application. I have a lot of great"
+  },
+  {
+   "start": 9.36,
+   "end": 14.08,
+   "text": "information to share with you. So, let's"
+  },
+  {
+   "start": 11.6,
+   "end": 16.24,
+   "text": "go ahead and get started. Prior to"
+  },
+  {
+   "start": 14.08,
+   "end": 19.92,
+   "text": "creating my pipette entry, I have already"
+  },
+  {
+   "start": 16.24,
+   "end": 22.72,
+   "text": "created the pipette's owner and location."
+  },
+  {
+   "start": 19.92,
+   "end": 24.4,
+   "text": "Now, let's explore how we add a pipette."
+  },
+  {
+   "start": 22.72,
+   "end": 26.72,
+   "text": "There are a few different ways on how to"
+  },
+  {
+   "start": 24.4,
+   "end": 29.12,
+   "text": "add a pipette into the ArtelWare software"
+  },
+  {
+   "start": 26.72,
+   "end": 30.96,
+   "text": "application. But before I get started,"
+  },
+  {
+   "start": 29.12,
+   "end": 34.08,
+   "text": "let me just make a note that we've made"
+  },
+  {
+   "start": 30.96,
+   "end": 36.32,
+   "text": "the work easy for you. We have preloaded"
+  },
+  {
+   "start": 34.08,
+   "end": 39.04,
+   "text": "a pipette catalog that has a majority of"
+  },
+  {
+   "start": 36.32,
+   "end": 42.64,
+   "text": "the pipette brands, manufacturers, and"
+  },
+  {
+   "start": 39.04,
+   "end": 44.4,
+   "text": "models already preloaded into it. Now,"
+  },
+  {
+   "start": 42.64,
+   "end": 46.4,
+   "text": "if you don't see the pipette that you're"
+  },
+  {
+   "start": 44.4,
+   "end": 48.56,
+   "text": "working with in our catalog, there's a"
+  },
+  {
+   "start": 46.4,
+   "end": 50.72,
+   "text": "really easy way to add that, but I'll go"
+  },
+  {
+   "start": 48.56,
+   "end": 52.64,
+   "text": "ahead and cover that in a little bit."
+  },
+  {
+   "start": 50.72,
+   "end": 54.56,
+   "text": "Now, as I mentioned, there's a couple of"
+  },
+  {
+   "start": 52.64,
+   "end": 57.44,
+   "text": "different ways to add a pipette into the"
+  },
+  {
+   "start": 54.56,
+   "end": 59.76,
+   "text": "ArtelWare application. The first is to"
+  },
+  {
+   "start": 57.44,
+   "end": 62.16,
+   "text": "click on the add device shortcut that's"
+  },
+  {
+   "start": 59.76,
+   "end": 64.72,
+   "text": "on the get started bar. Another way is"
+  },
+  {
+   "start": 62.16,
+   "end": 67.12,
+   "text": "to navigate to the configuration screen"
+  },
+  {
+   "start": 64.72,
+   "end": 69.2,
+   "text": "of the software and click on the pipette"
+  },
+  {
+   "start": 67.12,
+   "end": 71.52,
+   "text": "section. But for today, I'm going to go"
+  },
+  {
+   "start": 69.2,
+   "end": 73.76,
+   "text": "ahead and select the add device shortcut"
+  },
+  {
+   "start": 71.52,
+   "end": 76.0,
+   "text": "on the get started bar. Once I select"
+  },
+  {
+   "start": 73.76,
+   "end": 77.92,
+   "text": "add device, I'll make sure that pipette is"
+  },
+  {
+   "start": 76.0,
+   "end": 79.68,
+   "text": "highlighted and then I'll click okay."
+  },
+  {
+   "start": 77.92,
+   "end": 81.44,
+   "text": "Now in this new pipette screen, it's"
+  },
+  {
+   "start": 79.68,
+   "end": 83.44,
+   "text": "important to note that any field that"
+  },
+  {
+   "start": 81.44,
+   "end": 85.36,
+   "text": "has the red asterisk is a required"
+  },
+  {
+   "start": 83.44,
+   "end": 87.44,
+   "text": "field. So the first field that we have"
+  },
+  {
+   "start": 85.36,
+   "end": 89.68,
+   "text": "to complete is the selection of the"
+  },
+  {
+   "start": 87.44,
+   "end": 91.2,
+   "text": "manufacturer and the model. Let's go"
+  },
+  {
+   "start": 89.68,
+   "end": 93.44,
+   "text": "ahead and click on the ellipsus to see"
+  },
+  {
+   "start": 91.2,
+   "end": 95.52,
+   "text": "what we have. Now the way that you"
+  },
+  {
+   "start": 93.44,
+   "end": 97.36,
+   "text": "select your pipette manufacturer is by"
+  },
+  {
+   "start": 95.52,
+   "end": 100.08,
+   "text": "clicking on the dropdown that you see at"
+  },
+  {
+   "start": 97.36,
+   "end": 101.84,
+   "text": "the top left side corner of the screen."
+  },
+  {
+   "start": 100.08,
+   "end": 103.44,
+   "text": "You can navigate through this dropdown"
+  },
+  {
+   "start": 101.84,
+   "end": 105.68,
+   "text": "and you can see that there's a lot of"
+  },
+  {
+   "start": 103.44,
+   "end": 107.84,
+   "text": "pipette manufacturers again that are"
+  },
+  {
+   "start": 105.68,
+   "end": 109.52,
+   "text": "already listed for you. We're going to"
+  },
+  {
+   "start": 107.84,
+   "end": 111.28,
+   "text": "select Apendorf today because I'm"
+  },
+  {
+   "start": 109.52,
+   "end": 114.48,
+   "text": "working with an Appondorf reference"
+  },
+  {
+   "start": 111.28,
+   "end": 116.48,
+   "text": "pipette. Now once you select the"
+  },
+  {
+   "start": 114.48,
+   "end": 119.04,
+   "text": "manufacturer, all the models that are"
+  },
+  {
+   "start": 116.48,
+   "end": 121.44,
+   "text": "shown are distinct to that manufacturer"
+  },
+  {
+   "start": 119.04,
+   "end": 123.76,
+   "text": "that you've selected. Sometimes it can"
+  },
+  {
+   "start": 121.44,
+   "end": 125.52,
+   "text": "be hard to navigate through that list."
+  },
+  {
+   "start": 123.76,
+   "end": 128.24,
+   "text": "So what I like to do is I like to click"
+  },
+  {
+   "start": 125.52,
+   "end": 130.88,
+   "text": "on the max volume column header so that"
+  },
+  {
+   "start": 128.24,
+   "end": 133.84,
+   "text": "it sorts everything in order for me. So"
+  },
+  {
+   "start": 130.88,
+   "end": 136.4,
+   "text": "today I'm using a 2 to 20 microL"
+  },
+  {
+   "start": 133.84,
+   "end": 138.32,
+   "text": "research ependorf pipette. So I'll go"
+  },
+  {
+   "start": 136.4,
+   "end": 140.96,
+   "text": "ahead and select research. It's a"
+  },
+  {
+   "start": 138.32,
+   "end": 143.76,
+   "text": "variable pipette as I mentioned 2 to 20"
+  },
+  {
+   "start": 140.96,
+   "end": 145.76,
+   "text": "microL. The catalog ID that you see"
+  },
+  {
+   "start": 143.76,
+   "end": 148.32,
+   "text": "there, that's the catalog ID for"
+  },
+  {
+   "start": 145.76,
+   "end": 150.4,
+   "text": "Appendorf. We'll go ahead and select"
+  },
+  {
+   "start": 148.32,
+   "end": 151.92,
+   "text": "okay. And then once you select okay,"
+  },
+  {
+   "start": 150.4,
+   "end": 154.56,
+   "text": "these next three fields will"
+  },
+  {
+   "start": 151.92,
+   "end": 156.48,
+   "text": "automatically populate. The ISO device"
+  },
+  {
+   "start": 154.56,
+   "end": 158.8,
+   "text": "type, the number of channels, and the"
+  },
+  {
+   "start": 156.48,
+   "end": 160.4,
+   "text": "volume range. Let's go ahead and scroll"
+  },
+  {
+   "start": 158.8,
+   "end": 162.8,
+   "text": "down and see what other fields we have"
+  },
+  {
+   "start": 160.4,
+   "end": 164.64,
+   "text": "to complete. The pipette ID field is the"
+  },
+  {
+   "start": 162.8,
+   "end": 166.08,
+   "text": "next field that we need to complete. So"
+  },
+  {
+   "start": 164.64,
+   "end": 168.72,
+   "text": "there are a couple of things that you"
+  },
+  {
+   "start": 166.08,
+   "end": 170.4,
+   "text": "have to note about the pipette ID field."
+  },
+  {
+   "start": 168.72,
+   "end": 173.04,
+   "text": "Number one, special characters and"
+  },
+  {
+   "start": 170.4,
+   "end": 174.88,
+   "text": "spaces are not accepted, but it's okay"
+  },
+  {
+   "start": 173.04,
+   "end": 176.72,
+   "text": "if you forget because the software will"
+  },
+  {
+   "start": 174.88,
+   "end": 178.48,
+   "text": "remind you."
+  },
+  {
+   "start": 176.72,
+   "end": 180.4,
+   "text": "The second thing about the pipette ID"
+  },
+  {
+   "start": 178.48,
+   "end": 182.24,
+   "text": "field is that once you've entered it and"
+  },
+  {
+   "start": 180.4,
+   "end": 184.96,
+   "text": "you click save at the bottom of the"
+  },
+  {
+   "start": 182.24,
+   "end": 187.2,
+   "text": "screen, you cannot edit nor change the"
+  },
+  {
+   "start": 184.96,
+   "end": 188.96,
+   "text": "pipette ID. So you'll want to make sure"
+  },
+  {
+   "start": 187.2,
+   "end": 191.28,
+   "text": "that you're very deliberate about the"
+  },
+  {
+   "start": 188.96,
+   "end": 193.44,
+   "text": "pipette ID that you've entered in. Now,"
+  },
+  {
+   "start": 191.28,
+   "end": 196.56,
+   "text": "your pipette ID can be the serial number"
+  },
+  {
+   "start": 193.44,
+   "end": 199.92,
+   "text": "that's etched on the pipette itself, or it"
+  },
+  {
+   "start": 196.56,
+   "end": 202.32,
+   "text": "can be an internal asset ID. The pipette"
+  },
+  {
+   "start": 199.92,
+   "end": 204.88,
+   "text": "ID that I'm using today is an internal"
+  },
+  {
+   "start": 202.32,
+   "end": 208.64,
+   "text": "asset ID number. And I'm going to go"
+  },
+  {
+   "start": 204.88,
+   "end": 210.56,
+   "text": "ahead and add an underscoreb to its ID."
+  },
+  {
+   "start": 208.64,
+   "end": 212.24,
+   "text": "The description field is an optional"
+  },
+  {
+   "start": 210.56,
+   "end": 215.04,
+   "text": "field, so we'll go ahead and leave that"
+  },
+  {
+   "start": 212.24,
+   "end": 217.12,
+   "text": "alone. Now, the serial number field is"
+  },
+  {
+   "start": 215.04,
+   "end": 219.6,
+   "text": "also optional, but the serial number is"
+  },
+  {
+   "start": 217.12,
+   "end": 221.36,
+   "text": "different than the pipeet ID itself. The"
+  },
+  {
+   "start": 219.6,
+   "end": 224.24,
+   "text": "serial number is a unique identifier"
+  },
+  {
+   "start": 221.36,
+   "end": 226.0,
+   "text": "that's etched on the pipette itself. So,"
+  },
+  {
+   "start": 224.24,
+   "end": 228.24,
+   "text": "let me go ahead and populate that"
+  },
+  {
+   "start": 226.0,
+   "end": 231.04,
+   "text": "information in. Next, we have to select"
+  },
+  {
+   "start": 228.24,
+   "end": 232.88,
+   "text": "the location for this pipette. Now, what"
+  },
+  {
+   "start": 231.04,
+   "end": 236.32,
+   "text": "our tailware will do is automatically"
+  },
+  {
+   "start": 232.88,
+   "end": 239.2,
+   "text": "assign the location that's listed first"
+  },
+  {
+   "start": 236.32,
+   "end": 240.96,
+   "text": "alphabetically in your location list,"
+  },
+  {
+   "start": 239.2,
+   "end": 243.04,
+   "text": "but I'm going to go ahead and select a"
+  },
+  {
+   "start": 240.96,
+   "end": 246.88,
+   "text": "different location. And then I'm also"
+  },
+  {
+   "start": 243.04,
+   "end": 249.04,
+   "text": "going to select an owner for this pipette."
+  },
+  {
+   "start": 246.88,
+   "end": 250.72,
+   "text": "Now again before I click save really"
+  },
+  {
+   "start": 249.04,
+   "end": 253.04,
+   "text": "really important thing to note is I want"
+  },
+  {
+   "start": 250.72,
+   "end": 255.44,
+   "text": "to confirm that that pipette ID is exactly"
+  },
+  {
+   "start": 253.04,
+   "end": 257.36,
+   "text": "what I'd like for it to be. And in this"
+  },
+  {
+   "start": 255.44,
+   "end": 259.84,
+   "text": "particular case I'm just going to make"
+  },
+  {
+   "start": 257.36,
+   "end": 262.4,
+   "text": "one quick change and I'll verify"
+  },
+  {
+   "start": 259.84,
+   "end": 265.44,
+   "text": "everything that I' I've entered in yet"
+  },
+  {
+   "start": 262.4,
+   "end": 267.36,
+   "text": "one more time and then I'll click save."
+  },
+  {
+   "start": 265.44,
+   "end": 269.84,
+   "text": "Now our TWware has the ability to"
+  },
+  {
+   "start": 267.36,
+   "end": 271.28,
+   "text": "generate barcode ID labels and they're"
+  },
+  {
+   "start": 269.84,
+   "end": 273.28,
+   "text": "really wonderful. They help make the"
+  },
+  {
+   "start": 271.28,
+   "end": 274.8,
+   "text": "calibration process really efficient"
+  },
+  {
+   "start": 273.28,
+   "end": 276.72,
+   "text": "especially if you've got a lot of pipe"
+  },
+  {
+   "start": 274.8,
+   "end": 278.72,
+   "text": "at your facility. Usually what I do is"
+  },
+  {
+   "start": 276.72,
+   "end": 280.8,
+   "text": "once I've created a pipette, I'll go ahead"
+  },
+  {
+   "start": 278.72,
+   "end": 282.88,
+   "text": "and create a barcode ID label by"
+  },
+  {
+   "start": 280.8,
+   "end": 285.6,
+   "text": "clicking on the printer icon and"
+  },
+  {
+   "start": 282.88,
+   "end": 288.24,
+   "text": "selecting pipette label."
+  },
+  {
+   "start": 285.6,
+   "end": 290.88,
+   "text": "And now I've got a beautiful barcode ID"
+  },
+  {
+   "start": 288.24,
+   "end": 293.2,
+   "text": "label that I can attach to my pipette. Now"
+  },
+  {
+   "start": 290.88,
+   "end": 296.56,
+   "text": "remember earlier I talked about what"
+  },
+  {
+   "start": 293.2,
+   "end": 298.88,
+   "text": "happens if you have a pipette model that's"
+  },
+  {
+   "start": 296.56,
+   "end": 300.56,
+   "text": "not in the catalog. So let's say that"
+  },
+  {
+   "start": 298.88,
+   "end": 302.88,
+   "text": "you go and you look at the the"
+  },
+  {
+   "start": 300.56,
+   "end": 305.12,
+   "text": "manufacturer list. The pipette that I'm"
+  },
+  {
+   "start": 302.88,
+   "end": 308.08,
+   "text": "working with today is a Niro pipette, a"
+  },
+  {
+   "start": 305.12,
+   "end": 311.44,
+   "text": "nichi pet. But I don't see Niro listed"
+  },
+  {
+   "start": 308.08,
+   "end": 314.24,
+   "text": "as a manufacturer in this catalog."
+  },
+  {
+   "start": 311.44,
+   "end": 317.2,
+   "text": "So from here I can easily add a new"
+  },
+  {
+   "start": 314.24,
+   "end": 320.16,
+   "text": "pipette model by clicking on the plus sign"
+  },
+  {
+   "start": 317.2,
+   "end": 323.04,
+   "text": "to add a new pipette model to the catalog."
+  },
+  {
+   "start": 320.16,
+   "end": 325.92,
+   "text": "And from here I can go ahead and add the"
+  },
+  {
+   "start": 323.04,
+   "end": 329.92,
+   "text": "pipette manufacturer and the model of the"
+  },
+  {
+   "start": 325.92,
+   "end": 332.72,
+   "text": "pipette. The pipette catalog ID. Now that's"
+  },
+  {
+   "start": 329.92,
+   "end": 335.52,
+   "text": "a field that is required and that's"
+  },
+  {
+   "start": 332.72,
+   "end": 337.92,
+   "text": "Niro's pipette catalog ID. If you don't"
+  },
+  {
+   "start": 335.52,
+   "end": 340.16,
+   "text": "happen to have that ID, it's okay. You"
+  },
+  {
+   "start": 337.92,
+   "end": 342.0,
+   "text": "can just populate that with any type of"
+  },
+  {
+   "start": 340.16,
+   "end": 344.72,
+   "text": "field that you'd like. It's not"
+  },
+  {
+   "start": 342.0,
+   "end": 347.84,
+   "text": "important for how our Telware will"
+  },
+  {
+   "start": 344.72,
+   "end": 351.52,
+   "text": "calibrate your pipettes. The ISO device"
+  },
+  {
+   "start": 347.84,
+   "end": 353.6,
+   "text": "type is important. Most pipettes are ISO"
+  },
+  {
+   "start": 351.52,
+   "end": 356.24,
+   "text": "device type A. They're air displacement"
+  },
+  {
+   "start": 353.6,
+   "end": 358.64,
+   "text": "pipettes. The number of channels is"
+  },
+  {
+   "start": 356.24,
+   "end": 362.0,
+   "text": "important as well as whether or not this"
+  },
+  {
+   "start": 358.64,
+   "end": 364.08,
+   "text": "is a fixed or variable pipette. In this"
+  },
+  {
+   "start": 362.0,
+   "end": 366.56,
+   "text": "particular case, this is a variable"
+  },
+  {
+   "start": 364.08,
+   "end": 368.48,
+   "text": "volume pipette. And with a variable"
+  },
+  {
+   "start": 366.56,
+   "end": 371.2,
+   "text": "volume pipette, you have to enter in the"
+  },
+  {
+   "start": 368.48,
+   "end": 373.68,
+   "text": "lowest volume and the highest volume"
+  },
+  {
+   "start": 371.2,
+   "end": 377.84,
+   "text": "that it can run. So this is a 10 to 100"
+  },
+  {
+   "start": 373.68,
+   "end": 379.68,
+   "text": "microL variable pipette."
+  },
+  {
+   "start": 377.84,
+   "end": 381.44,
+   "text": "Now, we're not quite finished. So you"
+  },
+  {
+   "start": 379.68,
+   "end": 384.48,
+   "text": "might be really tempted to click that"
+  },
+  {
+   "start": 381.44,
+   "end": 386.64,
+   "text": "add pipette to catalog button. However,"
+  },
+  {
+   "start": 384.48,
+   "end": 388.4,
+   "text": "you need to enter some manufacturer"
+  },
+  {
+   "start": 386.64,
+   "end": 390.32,
+   "text": "specifications."
+  },
+  {
+   "start": 388.4,
+   "end": 392.8,
+   "text": "So, before I click on this enter"
+  },
+  {
+   "start": 390.32,
+   "end": 394.56,
+   "text": "manufacturer specifications, you might"
+  },
+  {
+   "start": 392.8,
+   "end": 396.08,
+   "text": "be wondering where do I get those from?"
+  },
+  {
+   "start": 394.56,
+   "end": 399.04,
+   "text": "Well, usually you get those from the"
+  },
+  {
+   "start": 396.08,
+   "end": 400.96,
+   "text": "pipette manufacturer website. Oftentimes,"
+  },
+  {
+   "start": 399.04,
+   "end": 403.76,
+   "text": "pipette manufacturers will list their"
+  },
+  {
+   "start": 400.96,
+   "end": 406.64,
+   "text": "pipette specifications on their websites"
+  },
+  {
+   "start": 403.76,
+   "end": 409.2,
+   "text": "or in their operator manuals. When you"
+  },
+  {
+   "start": 406.64,
+   "end": 411.52,
+   "text": "have a variable volume pipette, you have"
+  },
+  {
+   "start": 409.2,
+   "end": 413.68,
+   "text": "to enter the manufacturer specifications"
+  },
+  {
+   "start": 411.52,
+   "end": 415.76,
+   "text": "for the lowest range and the highest"
+  },
+  {
+   "start": 413.68,
+   "end": 418.24,
+   "text": "range at minimum. If you have the"
+  },
+  {
+   "start": 415.76,
+   "end": 419.84,
+   "text": "mid-range manufacturer specification,"
+  },
+  {
+   "start": 418.24,
+   "end": 421.52,
+   "text": "you can certainly enter that as well."
+  },
+  {
+   "start": 419.84,
+   "end": 424.0,
+   "text": "So, let's go ahead and click on enter"
+  },
+  {
+   "start": 421.52,
+   "end": 426.32,
+   "text": "manufacturer specifications. The lowest"
+  },
+  {
+   "start": 424.0,
+   "end": 429.12,
+   "text": "range volume for this pipette is 10. The"
+  },
+  {
+   "start": 426.32,
+   "end": 433.44,
+   "text": "pipette manufacturer list in accuracy spec"
+  },
+  {
+   "start": 429.12,
+   "end": 435.44,
+   "text": "as 7 and then precision spec is 045. So,"
+  },
+  {
+   "start": 433.44,
+   "end": 437.36,
+   "text": "I'll go ahead and select add for that."
+  },
+  {
+   "start": 435.44,
+   "end": 439.52,
+   "text": "Now remember this is a variable volume"
+  },
+  {
+   "start": 437.36,
+   "end": 442.0,
+   "text": "pipette. So I need to add the lowest"
+  },
+  {
+   "start": 439.52,
+   "end": 444.32,
+   "text": "volume manufacturer spec as well as the"
+  },
+  {
+   "start": 442.0,
+   "end": 446.64,
+   "text": "highest volume manufacturer spec. So"
+  },
+  {
+   "start": 444.32,
+   "end": 451.04,
+   "text": "I'll go ahead and enter 100 and enter"
+  },
+  {
+   "start": 446.64,
+   "end": 453.04,
+   "text": "the manufacturer spec for that as well."
+  },
+  {
+   "start": 451.04,
+   "end": 455.28,
+   "text": "And then once I've entered in all of my"
+  },
+  {
+   "start": 453.04,
+   "end": 457.6,
+   "text": "manufacturer specifications, I'll go"
+  },
+  {
+   "start": 455.28,
+   "end": 460.32,
+   "text": "ahead and select okay. And I'll select"
+  },
+  {
+   "start": 457.6,
+   "end": 462.64,
+   "text": "add pipette to catalog. And by default,"
+  },
+  {
+   "start": 460.32,
+   "end": 464.8,
+   "text": "you'll see that now our Telware shows"
+  },
+  {
+   "start": 462.64,
+   "end": 467.2,
+   "text": "the manufacturer that I just added. And"
+  },
+  {
+   "start": 464.8,
+   "end": 469.44,
+   "text": "if I click on the manufacturer dropdown,"
+  },
+  {
+   "start": 467.2,
+   "end": 471.84,
+   "text": "you'll see that Nuriro is now added"
+  },
+  {
+   "start": 469.44,
+   "end": 474.48,
+   "text": "there as well. Now, when you're adding"
+  },
+  {
+   "start": 471.84,
+   "end": 476.32,
+   "text": "pipettes to our Telword, we've built in a"
+  },
+  {
+   "start": 474.48,
+   "end": 479.12,
+   "text": "couple of things to help make your job a"
+  },
+  {
+   "start": 476.32,
+   "end": 481.36,
+   "text": "bit easier. Let's say that you have a"
+  },
+  {
+   "start": 479.12,
+   "end": 484.24,
+   "text": "lot of pipettes that are all the same type"
+  },
+  {
+   "start": 481.36,
+   "end": 487.12,
+   "text": "of pipettes. So, for example, if I go to"
+  },
+  {
+   "start": 484.24,
+   "end": 491.28,
+   "text": "the configuration screen and I go to my"
+  },
+  {
+   "start": 487.12,
+   "end": 493.84,
+   "text": "pipettes list, perhaps I've got nine more"
+  },
+  {
+   "start": 491.28,
+   "end": 495.44,
+   "text": "pipettes that are just like this appendorf"
+  },
+  {
+   "start": 493.84,
+   "end": 497.84,
+   "text": "research pipette that I entered in"
+  },
+  {
+   "start": 495.44,
+   "end": 499.68,
+   "text": "earlier. You have this wonderful clone"
+  },
+  {
+   "start": 497.84,
+   "end": 501.84,
+   "text": "icon. And what it will do is it will"
+  },
+  {
+   "start": 499.68,
+   "end": 503.76,
+   "text": "bring over all of the pipette information"
+  },
+  {
+   "start": 501.84,
+   "end": 505.68,
+   "text": "for you. And all that you'll need to do"
+  },
+  {
+   "start": 503.76,
+   "end": 507.52,
+   "text": "is make sure that the pipette ID is"
+  },
+  {
+   "start": 505.68,
+   "end": 509.52,
+   "text": "properly assigned and anything else"
+  },
+  {
+   "start": 507.52,
+   "end": 511.6,
+   "text": "that's on this bottom half of the screen"
+  },
+  {
+   "start": 509.52,
+   "end": 513.6,
+   "text": "is properly assigned. Now you can change"
+  },
+  {
+   "start": 511.6,
+   "end": 516.0,
+   "text": "things on the top half as well, but"
+  },
+  {
+   "start": 513.6,
+   "end": 518.32,
+   "text": "again that clone icon really saves you a"
+  },
+  {
+   "start": 516.0,
+   "end": 520.8,
+   "text": "lot of time. Also within the same screen"
+  },
+  {
+   "start": 518.32,
+   "end": 522.88,
+   "text": "you have the option to export your pipette"
+  },
+  {
+   "start": 520.8,
+   "end": 525.28,
+   "text": "lists. So if you wanted a list of your"
+  },
+  {
+   "start": 522.88,
+   "end": 527.12,
+   "text": "pipettes, which would also include when"
+  },
+  {
+   "start": 525.28,
+   "end": 529.52,
+   "text": "they're last calibrated and when their"
+  },
+  {
+   "start": 527.12,
+   "end": 532.08,
+   "text": "next calibration date is due, you can"
+  },
+  {
+   "start": 529.52,
+   "end": 535.52,
+   "text": "certainly do that. You can also choose"
+  },
+  {
+   "start": 532.08,
+   "end": 538.4,
+   "text": "to print a full-size printout um or a"
+  },
+  {
+   "start": 535.52,
+   "end": 540.24,
+   "text": "PDF of your pipe head inventory from the"
+  },
+  {
+   "start": 538.4,
+   "end": 541.92,
+   "text": "screen as well. You've got a couple of"
+  },
+  {
+   "start": 540.24,
+   "end": 545.2,
+   "text": "different icons that are here. You have"
+  },
+  {
+   "start": 541.92,
+   "end": 547.76,
+   "text": "a filter icon, a refresh icon. You've"
+  },
+  {
+   "start": 545.2,
+   "end": 550.0,
+   "text": "also got an add icon, and you've got an"
+  },
+  {
+   "start": 547.76,
+   "end": 552.08,
+   "text": "edit icon as well. So, let's go ahead"
+  },
+  {
+   "start": 550.0,
+   "end": 553.28,
+   "text": "and talk about these other icons over on"
+  },
+  {
+   "start": 552.08,
+   "end": 555.6,
+   "text": "the right hand side because you'll"
+  },
+  {
+   "start": 553.28,
+   "end": 557.76,
+   "text": "notice there's a deactivate pipette icon"
+  },
+  {
+   "start": 555.6,
+   "end": 559.68,
+   "text": "there. If you have a pipe pet that's"
+  },
+  {
+   "start": 557.76,
+   "end": 562.72,
+   "text": "that you need to deactivate because"
+  },
+  {
+   "start": 559.68,
+   "end": 564.64,
+   "text": "you've sent it off to a service center"
+  },
+  {
+   "start": 562.72,
+   "end": 566.72,
+   "text": "because it needs some repair that you're"
+  },
+  {
+   "start": 564.64,
+   "end": 569.04,
+   "text": "not able to do in house, you can"
+  },
+  {
+   "start": 566.72,
+   "end": 572.16,
+   "text": "certainly take that pipette and deactivate"
+  },
+  {
+   "start": 569.04,
+   "end": 574.8,
+   "text": "it. Once that pipette's returned to you,"
+  },
+  {
+   "start": 572.16,
+   "end": 577.28,
+   "text": "you can come back to this configuration"
+  },
+  {
+   "start": 574.8,
+   "end": 579.84,
+   "text": "pipettes screen. You can click on the"
+  },
+  {
+   "start": 577.28,
+   "end": 583.28,
+   "text": "filter icon and click on show inactive"
+  },
+  {
+   "start": 579.84,
+   "end": 585.04,
+   "text": "items. Select your inactive device and"
+  },
+  {
+   "start": 583.28,
+   "end": 587.04,
+   "text": "reactivate it. Now, the reason why"
+  },
+  {
+   "start": 585.04,
+   "end": 588.72,
+   "text": "deactivation is important is because you"
+  },
+  {
+   "start": 587.04,
+   "end": 590.88,
+   "text": "don't want that pipe pet to show up as"
+  },
+  {
+   "start": 588.72,
+   "end": 592.72,
+   "text": "being due because it's out at the"
+  },
+  {
+   "start": 590.88,
+   "end": 594.72,
+   "text": "service center. When it comes back, of"
+  },
+  {
+   "start": 592.72,
+   "end": 596.4,
+   "text": "course, it will be due again. But while"
+  },
+  {
+   "start": 594.72,
+   "end": 598.48,
+   "text": "it's at the service center, maybe you"
+  },
+  {
+   "start": 596.4,
+   "end": 600.08,
+   "text": "don't want to have it show as due. But"
+  },
+  {
+   "start": 598.48,
+   "end": 602.8,
+   "text": "let's say the service center returned"
+  },
+  {
+   "start": 600.08,
+   "end": 605.36,
+   "text": "that pipette to you and they said it's too"
+  },
+  {
+   "start": 602.8,
+   "end": 607.84,
+   "text": "old to repair. You need to purchase a"
+  },
+  {
+   "start": 605.36,
+   "end": 610.08,
+   "text": "new one. In that particular case, you"
+  },
+  {
+   "start": 607.84,
+   "end": 612.8,
+   "text": "can deactivate and then subsequently"
+  },
+  {
+   "start": 610.08,
+   "end": 615.36,
+   "text": "retire a pipeet. So let me show you how"
+  },
+  {
+   "start": 612.8,
+   "end": 618.64,
+   "text": "to do that. Again, in the configuration"
+  },
+  {
+   "start": 615.36,
+   "end": 620.56,
+   "text": "screen in the pipettes section, if you"
+  },
+  {
+   "start": 618.64,
+   "end": 622.24,
+   "text": "select the pipette that you wish to"
+  },
+  {
+   "start": 620.56,
+   "end": 625.12,
+   "text": "retire,"
+  },
+  {
+   "start": 622.24,
+   "end": 629.36,
+   "text": "you can click on the deactivate selected"
+  },
+  {
+   "start": 625.12,
+   "end": 631.28,
+   "text": "pipette icon and say yes. And you'll"
+  },
+  {
+   "start": 629.36,
+   "end": 634.24,
+   "text": "notice that this pipette is showing as"
+  },
+  {
+   "start": 631.28,
+   "end": 637.12,
+   "text": "inactive because I selected the filter"
+  },
+  {
+   "start": 634.24,
+   "end": 639.04,
+   "text": "to show inactive items."
+  },
+  {
+   "start": 637.12,
+   "end": 641.28,
+   "text": "If you don't see that pipette showing as"
+  },
+  {
+   "start": 639.04,
+   "end": 643.76,
+   "text": "inactive, just go ahead and click on"
+  },
+  {
+   "start": 641.28,
+   "end": 645.6,
+   "text": "that filter and go ahead and select show"
+  },
+  {
+   "start": 643.76,
+   "end": 647.76,
+   "text": "inactive items. Now, once you've"
+  },
+  {
+   "start": 645.6,
+   "end": 650.08,
+   "text": "deactivated the pipette, there's one more"
+  },
+  {
+   "start": 647.76,
+   "end": 653.36,
+   "text": "step to retiring it. You have to select"
+  },
+  {
+   "start": 650.08,
+   "end": 655.92,
+   "text": "the pipette and then click on the retire"
+  },
+  {
+   "start": 653.36,
+   "end": 657.92,
+   "text": "selected pipette icon. Now, the moment you"
+  },
+  {
+   "start": 655.92,
+   "end": 659.76,
+   "text": "click on that retire pipette, it's very,"
+  },
+  {
+   "start": 657.92,
+   "end": 662.24,
+   "text": "very important. The software is going to"
+  },
+  {
+   "start": 659.76,
+   "end": 664.24,
+   "text": "ask you, are you sure that retiring is"
+  },
+  {
+   "start": 662.24,
+   "end": 666.88,
+   "text": "what you want to do? The moment you"
+  },
+  {
+   "start": 664.24,
+   "end": 669.68,
+   "text": "retire anything within the Arttowelware"
+  },
+  {
+   "start": 666.88,
+   "end": 672.32,
+   "text": "application, you cannot unretire it. And"
+  },
+  {
+   "start": 669.68,
+   "end": 674.08,
+   "text": "that includes the retiring of pipettes. So"
+  },
+  {
+   "start": 672.32,
+   "end": 676.32,
+   "text": "the good news is is you can still see"
+  },
+  {
+   "start": 674.08,
+   "end": 678.56,
+   "text": "all of your historical calibration data"
+  },
+  {
+   "start": 676.32,
+   "end": 680.64,
+   "text": "for that pipette, but that pipette will"
+  },
+  {
+   "start": 678.56,
+   "end": 682.8,
+   "text": "never show up as due and it's"
+  },
+  {
+   "start": 680.64,
+   "end": 685.44,
+   "text": "essentially being removed from your"
+  },
+  {
+   "start": 682.8,
+   "end": 688.56,
+   "text": "inventory list, if you will, as being an"
+  },
+  {
+   "start": 685.44,
+   "end": 690.32,
+   "text": "active device. So, the software is just"
+  },
+  {
+   "start": 688.56,
+   "end": 692.48,
+   "text": "asking you a very, very important"
+  },
+  {
+   "start": 690.32,
+   "end": 694.88,
+   "text": "question, and it's letting you know that"
+  },
+  {
+   "start": 692.48,
+   "end": 697.12,
+   "text": "retiring a pipette permanently disables it"
+  },
+  {
+   "start": 694.88,
+   "end": 699.2,
+   "text": "in the software. Again, you can still"
+  },
+  {
+   "start": 697.12,
+   "end": 701.52,
+   "text": "access those results, though. So, we're"
+  },
+  {
+   "start": 699.2,
+   "end": 703.44,
+   "text": "going to go ahead and select okay. And"
+  },
+  {
+   "start": 701.52,
+   "end": 706.48,
+   "text": "now you can see the status of the pipead"
+  },
+  {
+   "start": 703.44,
+   "end": 709.68,
+   "text": "has changed from inactive to retired."
+  },
+  {
+   "start": 706.48,
+   "end": 712.64,
+   "text": "Okay, that concludes our brief tutorial."
+  },
+  {
+   "start": 709.68,
+   "end": 716.76,
+   "text": "Do you have additional questions? Please"
+  },
+  {
+   "start": 712.64,
+   "end": 716.76,
+   "text": "contact us at 1 800-225-434"
+  },
+  {
+   "start": 717.2,
+   "end": 722.8,
+   "text": "option 3 or at support at aic"
+  },
+  {
+   "start": 720.88,
+   "end": 725.6,
+   "text": "companies.com."
+  },
+  {
+   "start": 722.8,
+   "end": 725.6,
+   "text": "Thank you."
+  }
+ ]
+}

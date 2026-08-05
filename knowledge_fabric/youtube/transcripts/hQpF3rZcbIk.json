@@ -1,0 +1,258 @@
+{
+ "video_id": "hQpF3rZcbIk",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 50,
+ "cues": [
+  {
+   "start": 4.4,
+   "end": 8.88,
+   "text": "hello and welcome to the nova biomedical"
+  },
+  {
+   "start": 6.8,
+   "end": 11.28,
+   "text": "education webinar series"
+  },
+  {
+   "start": 8.88,
+   "end": 13.68,
+   "text": "today's presentation will be presented"
+  },
+  {
+   "start": 11.28,
+   "end": 15.6,
+   "text": "by melissa thompson-bastin who is a"
+  },
+  {
+   "start": 13.68,
+   "end": 17.28,
+   "text": "critical care pharmacist"
+  },
+  {
+   "start": 15.6,
+   "end": 19.44,
+   "text": "in the medical intensive care unit and"
+  },
+  {
+   "start": 17.28,
+   "end": 21.44,
+   "text": "pulmonary units at the university of"
+  },
+  {
+   "start": 19.44,
+   "end": 23.04,
+   "text": "kentucky medical center"
+  },
+  {
+   "start": 21.44,
+   "end": 25.2,
+   "text": "she is also the assistant adjunct"
+  },
+  {
+   "start": 23.04,
+   "end": 26.96,
+   "text": "professor in the department of pharmacy"
+  },
+  {
+   "start": 25.2,
+   "end": 31.4,
+   "text": "practice and science at the university"
+  },
+  {
+   "start": 26.96,
+   "end": 31.4,
+   "text": "of kentucky college of pharmacy"
+  },
+  {
+   "start": 33.04,
+   "end": 37.04,
+   "text": "at the end of the program you will"
+  },
+  {
+   "start": 34.8,
+   "end": 38.56,
+   "text": "receive an email providing you with"
+  },
+  {
+   "start": 37.04,
+   "end": 41.12,
+   "text": "directions on how to apply for your"
+  },
+  {
+   "start": 38.56,
+   "end": 42.8,
+   "text": "continuing education credits"
+  },
+  {
+   "start": 41.12,
+   "end": 43.68,
+   "text": "additionally we would like to invite you"
+  },
+  {
+   "start": 42.8,
+   "end": 46.72,
+   "text": "to the"
+  },
+  {
+   "start": 43.68,
+   "end": 49.2,
+   "text": "novabiometica website to view previous"
+  },
+  {
+   "start": 46.72,
+   "end": 51.76,
+   "text": "educational webinars and also to"
+  },
+  {
+   "start": 49.2,
+   "end": 54.0,
+   "text": "subscribe to receive notifications of"
+  },
+  {
+   "start": 51.76,
+   "end": 55.68,
+   "text": "future programs"
+  },
+  {
+   "start": 54.0,
+   "end": 59.72,
+   "text": "at this time i would like to introduce"
+  },
+  {
+   "start": 55.68,
+   "end": 59.72,
+   "text": "melissa thompson bastin"
+  },
+  {
+   "start": 60.88,
+   "end": 65.52,
+   "text": "thank you ron for that introduction"
+  },
+  {
+   "start": 63.52,
+   "end": 67.68,
+   "text": "i'm excited to be discussing with"
+  },
+  {
+   "start": 65.52,
+   "end": 69.84,
+   "text": "everyone today on the role of ionized"
+  },
+  {
+   "start": 67.68,
+   "end": 73.56,
+   "text": "magnesium and how this can improve care"
+  },
+  {
+   "start": 69.84,
+   "end": 73.56,
+   "text": "for our patients in the icu"
+  },
+  {
+   "start": 74.88,
+   "end": 78.96,
+   "text": "our learning objectives for this"
+  },
+  {
+   "start": 76.24,
+   "end": 81.6,
+   "text": "afternoon are to number one identify the"
+  },
+  {
+   "start": 78.96,
+   "end": 84.16,
+   "text": "physiologic mechanisms and consequence"
+  },
+  {
+   "start": 81.6,
+   "end": 85.36,
+   "text": "of hypomagnesium magnesemia and critical"
+  },
+  {
+   "start": 84.16,
+   "end": 87.44,
+   "text": "illness"
+  },
+  {
+   "start": 85.36,
+   "end": 89.6,
+   "text": "and secondly determine the various"
+  },
+  {
+   "start": 87.44,
+   "end": 91.6,
+   "text": "methods of measuring magnesium levels"
+  },
+  {
+   "start": 89.6,
+   "end": 93.92,
+   "text": "this includes the potential differences"
+  },
+  {
+   "start": 91.6,
+   "end": 95.76,
+   "text": "between plasma"
+  },
+  {
+   "start": 93.92,
+   "end": 97.28,
+   "text": "magnesium levels and intracellular"
+  },
+  {
+   "start": 95.76,
+   "end": 99.6,
+   "text": "levels as well"
+  },
+  {
+   "start": 97.28,
+   "end": 101.36,
+   "text": "and our third objective is to evaluate"
+  },
+  {
+   "start": 99.6,
+   "end": 103.44,
+   "text": "the literature surrounding ionized"
+  },
+  {
+   "start": 101.36,
+   "end": 106.0,
+   "text": "magnesium monitoring in the intensive"
+  },
+  {
+   "start": 103.44,
+   "end": 106.0,
+   "text": "care unit"
+  },
+  {
+   "start": 108.8,
+   "end": 112.96,
+   "text": "magnesium is the second most abundant"
+  },
+  {
+   "start": 110.72,
+   "end": 115.28,
+   "text": "cation in the human body second only to"
+  },
+  {
+   "start": 112.96,
+   "end": 117.2,
+   "text": "potassium it has a wide range of"
+  },
+  {
+   "start": 115.28,
+   "end": 119.04,
+   "text": "physiologic functioning we're not going"
+  },
+  {
+   "start": 117.2,
+   "end": 121.92,
+   "text": "to talk about all of it within the scope"
+  },
+  {
+   "start": 119.04,
+   "end": 121.92,
+   "text": "of this presentation"
+  }
+ ]
+}

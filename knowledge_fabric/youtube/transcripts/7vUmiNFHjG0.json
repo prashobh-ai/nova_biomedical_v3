@@ -1,0 +1,853 @@
+{
+ "video_id": "7vUmiNFHjG0",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 169,
+ "cues": [
+  {
+   "start": 1.12,
+   "end": 5.44,
+   "text": "Thank you for joining me for this brief"
+  },
+  {
+   "start": 3.04,
+   "end": 7.44,
+   "text": "tutorial focused on managing pipette"
+  },
+  {
+   "start": 5.44,
+   "end": 10.08,
+   "text": "calibration schedules to be used with"
+  },
+  {
+   "start": 7.44,
+   "end": 12.08,
+   "text": "the PCS in the ArtelWare application."
+  },
+  {
+   "start": 10.08,
+   "end": 14.16,
+   "text": "I've got some details to share with you."
+  },
+  {
+   "start": 12.08,
+   "end": 16.08,
+   "text": "So, let's go ahead and get started."
+  },
+  {
+   "start": 14.16,
+   "end": 18.4,
+   "text": "Prior to adding a pipette schedule in"
+  },
+  {
+   "start": 16.08,
+   "end": 21.6,
+   "text": "ArtelWare, several other tasks should"
+  },
+  {
+   "start": 18.4,
+   "end": 24.24,
+   "text": "have been completed before now. Adding a"
+  },
+  {
+   "start": 21.6,
+   "end": 27.6,
+   "text": "user, adding a location, adding a"
+  },
+  {
+   "start": 24.24,
+   "end": 30.16,
+   "text": "device, namely a pipette, and creating a"
+  },
+  {
+   "start": 27.6,
+   "end": 33.04,
+   "text": "calibration plan. If you haven't"
+  },
+  {
+   "start": 30.16,
+   "end": 35.6,
+   "text": "performed these steps, go ahead and go"
+  },
+  {
+   "start": 33.04,
+   "end": 37.44,
+   "text": "back and do them now. But if you have"
+  },
+  {
+   "start": 35.6,
+   "end": 39.36,
+   "text": "performed these steps, let's go ahead"
+  },
+  {
+   "start": 37.44,
+   "end": 41.44,
+   "text": "and talk about how you create a pipette"
+  },
+  {
+   "start": 39.36,
+   "end": 44.08,
+   "text": "calibration schedule within the Art"
+  },
+  {
+   "start": 41.44,
+   "end": 46.24,
+   "text": "Telware application. Now, there's a"
+  },
+  {
+   "start": 44.08,
+   "end": 49.6,
+   "text": "couple of different steps to adding a"
+  },
+  {
+   "start": 46.24,
+   "end": 52.4,
+   "text": "schedule for a pipette in ArtelWare. The"
+  },
+  {
+   "start": 49.6,
+   "end": 54.16,
+   "text": "first is creating a schedule using the"
+  },
+  {
+   "start": 52.4,
+   "end": 56.4,
+   "text": "create schedule shortcut on the get"
+  },
+  {
+   "start": 54.16,
+   "end": 58.56,
+   "text": "started bar."
+  },
+  {
+   "start": 56.4,
+   "end": 61.68,
+   "text": "The second is by navigating to the"
+  },
+  {
+   "start": 58.56,
+   "end": 64.48,
+   "text": "configuration icon on the far left panel"
+  },
+  {
+   "start": 61.68,
+   "end": 66.64,
+   "text": "and going to the schedule section. But"
+  },
+  {
+   "start": 64.48,
+   "end": 68.72,
+   "text": "for today, let's go ahead and use the"
+  },
+  {
+   "start": 66.64,
+   "end": 70.96,
+   "text": "create schedule icon in the get started"
+  },
+  {
+   "start": 68.72,
+   "end": 73.36,
+   "text": "bar. The moment I select create"
+  },
+  {
+   "start": 70.96,
+   "end": 75.68,
+   "text": "schedule, I'll then be asked to indicate"
+  },
+  {
+   "start": 73.36,
+   "end": 77.84,
+   "text": "what type of schedule I'm creating. So"
+  },
+  {
+   "start": 75.68,
+   "end": 79.68,
+   "text": "today I'm creating a pipette calibration"
+  },
+  {
+   "start": 77.84,
+   "end": 82.08,
+   "text": "schedule. So I'll go ahead and click"
+  },
+  {
+   "start": 79.68,
+   "end": 84.24,
+   "text": "okay. Now the schedule name can be"
+  },
+  {
+   "start": 82.08,
+   "end": 86.8,
+   "text": "anything that you desire. It's important"
+  },
+  {
+   "start": 84.24,
+   "end": 89.2,
+   "text": "to note that typically there's one or"
+  },
+  {
+   "start": 86.8,
+   "end": 92.24,
+   "text": "maybe two master schedules that contain"
+  },
+  {
+   "start": 89.2,
+   "end": 94.8,
+   "text": "all of the pipettes in any one particular"
+  },
+  {
+   "start": 92.24,
+   "end": 97.2,
+   "text": "facility. There usually isn't a need to"
+  },
+  {
+   "start": 94.8,
+   "end": 99.68,
+   "text": "have multiple schedules that all have to"
+  },
+  {
+   "start": 97.2,
+   "end": 102.16,
+   "text": "deal with pipette calibrations unless"
+  },
+  {
+   "start": 99.68,
+   "end": 104.88,
+   "text": "you're performing interim verification"
+  },
+  {
+   "start": 102.16,
+   "end": 107.36,
+   "text": "checks or routine checks as well as a"
+  },
+  {
+   "start": 104.88,
+   "end": 109.28,
+   "text": "full pipette calibration. In this case,"
+  },
+  {
+   "start": 107.36,
+   "end": 111.68,
+   "text": "I'm going to add a semiannual"
+  },
+  {
+   "start": 109.28,
+   "end": 114.32,
+   "text": "calibration because I calibrate my pipe"
+  },
+  {
+   "start": 111.68,
+   "end": 116.8,
+   "text": "heads every six months. Now, the name is"
+  },
+  {
+   "start": 114.32,
+   "end": 119.36,
+   "text": "the only required field in this case."
+  },
+  {
+   "start": 116.8,
+   "end": 121.28,
+   "text": "The description is optional. The type"
+  },
+  {
+   "start": 119.36,
+   "end": 123.2,
+   "text": "will automatically default to pipe hit"
+  },
+  {
+   "start": 121.28,
+   "end": 125.12,
+   "text": "calibration because that's what I had"
+  },
+  {
+   "start": 123.2,
+   "end": 127.2,
+   "text": "selected on one of those first screens"
+  },
+  {
+   "start": 125.12,
+   "end": 129.36,
+   "text": "from the get started shortcut. The next"
+  },
+  {
+   "start": 127.2,
+   "end": 131.36,
+   "text": "thing I need to consider is how often do"
+  },
+  {
+   "start": 129.36,
+   "end": 135.04,
+   "text": "I want this particular interval to"
+  },
+  {
+   "start": 131.36,
+   "end": 137.52,
+   "text": "repeat. Now, since this is a semiannual"
+  },
+  {
+   "start": 135.04,
+   "end": 140.48,
+   "text": "pipette calibration, I'm going to have it"
+  },
+  {
+   "start": 137.52,
+   "end": 142.56,
+   "text": "repeat intervals every 6 months. Next, I"
+  },
+  {
+   "start": 140.48,
+   "end": 144.72,
+   "text": "have a choice of do I want that interval"
+  },
+  {
+   "start": 142.56,
+   "end": 146.16,
+   "text": "to repeat from its completion date,"
+  },
+  {
+   "start": 144.72,
+   "end": 148.4,
+   "text": "which is the date of the actual"
+  },
+  {
+   "start": 146.16,
+   "end": 150.48,
+   "text": "calibration, or do I want it to repeat"
+  },
+  {
+   "start": 148.4,
+   "end": 152.96,
+   "text": "from a due date. So, a very specific"
+  },
+  {
+   "start": 150.48,
+   "end": 156.0,
+   "text": "thing to note in this particular case,"
+  },
+  {
+   "start": 152.96,
+   "end": 158.0,
+   "text": "if I select from due date, you'll notice"
+  },
+  {
+   "start": 156.0,
+   "end": 161.52,
+   "text": "that the date on the bottom of the"
+  },
+  {
+   "start": 158.0,
+   "end": 163.76,
+   "text": "artell application says July 8th. If I"
+  },
+  {
+   "start": 161.52,
+   "end": 166.72,
+   "text": "select from due date, that means this"
+  },
+  {
+   "start": 163.76,
+   "end": 169.28,
+   "text": "pipette will always be due every July 8th"
+  },
+  {
+   "start": 166.72,
+   "end": 171.52,
+   "text": "and every February 8th, regardless of"
+  },
+  {
+   "start": 169.28,
+   "end": 173.52,
+   "text": "when the actual calibrations occurred."
+  },
+  {
+   "start": 171.52,
+   "end": 175.92,
+   "text": "So again, selecting the due date radio"
+  },
+  {
+   "start": 173.52,
+   "end": 178.0,
+   "text": "button means that your pipette will always"
+  },
+  {
+   "start": 175.92,
+   "end": 180.48,
+   "text": "be due on that date, regardless of when"
+  },
+  {
+   "start": 178.0,
+   "end": 182.8,
+   "text": "it was last calibrated. So I'm going to"
+  },
+  {
+   "start": 180.48,
+   "end": 185.12,
+   "text": "select from completion date because I"
+  },
+  {
+   "start": 182.8,
+   "end": 188.56,
+   "text": "want this schedule to repeat from the"
+  },
+  {
+   "start": 185.12,
+   "end": 190.88,
+   "text": "actual calibration date of the pipette."
+  },
+  {
+   "start": 188.56,
+   "end": 193.44,
+   "text": "So next we need to add some information."
+  },
+  {
+   "start": 190.88,
+   "end": 195.2,
+   "text": "We need to add the pipettes and their"
+  },
+  {
+   "start": 193.44,
+   "end": 198.32,
+   "text": "calibration plan. So I'll click on the"
+  },
+  {
+   "start": 195.2,
+   "end": 200.72,
+   "text": "plus sign. From here I'm shown a few"
+  },
+  {
+   "start": 198.32,
+   "end": 202.4,
+   "text": "different options. Now typically you're"
+  },
+  {
+   "start": 200.72,
+   "end": 205.04,
+   "text": "probably going to have a much larger"
+  },
+  {
+   "start": 202.4,
+   "end": 207.44,
+   "text": "list than I do. And if that's the case,"
+  },
+  {
+   "start": 205.04,
+   "end": 210.32,
+   "text": "you have these very helpful filter icons"
+  },
+  {
+   "start": 207.44,
+   "end": 212.64,
+   "text": "that help you quickly filter on various"
+  },
+  {
+   "start": 210.32,
+   "end": 214.56,
+   "text": "fields that relate to the pipe head"
+  },
+  {
+   "start": 212.64,
+   "end": 216.64,
+   "text": "itself. and then a filter icon for"
+  },
+  {
+   "start": 214.56,
+   "end": 218.48,
+   "text": "calibration plans that help you filter"
+  },
+  {
+   "start": 216.64,
+   "end": 222.08,
+   "text": "on various fields in the calibration"
+  },
+  {
+   "start": 218.48,
+   "end": 225.2,
+   "text": "plan itself. But because my list is very"
+  },
+  {
+   "start": 222.08,
+   "end": 227.12,
+   "text": "small, I can easily navigate around."
+  },
+  {
+   "start": 225.2,
+   "end": 229.28,
+   "text": "It's important to note that the"
+  },
+  {
+   "start": 227.12,
+   "end": 231.36,
+   "text": "calibration plans that are listed will"
+  },
+  {
+   "start": 229.28,
+   "end": 234.0,
+   "text": "only be applicable for the volume of the"
+  },
+  {
+   "start": 231.36,
+   "end": 236.32,
+   "text": "pipette that's in selection. So, let's go"
+  },
+  {
+   "start": 234.0,
+   "end": 239.28,
+   "text": "ahead and select this pipette. And I have"
+  },
+  {
+   "start": 236.32,
+   "end": 241.76,
+   "text": "a couple of options. I have an ISO"
+  },
+  {
+   "start": 239.28,
+   "end": 244.72,
+   "text": "calibration plan that utilizes ISO"
+  },
+  {
+   "start": 241.76,
+   "end": 246.24,
+   "text": "86552022"
+  },
+  {
+   "start": 244.72,
+   "end": 248.08,
+   "text": "specifications"
+  },
+  {
+   "start": 246.24,
+   "end": 250.72,
+   "text": "or I have an option to use this"
+  },
+  {
+   "start": 248.08,
+   "end": 252.72,
+   "text": "userdefined calibration plan where I've"
+  },
+  {
+   "start": 250.72,
+   "end": 254.8,
+   "text": "specifically defined the pass or fail"
+  },
+  {
+   "start": 252.72,
+   "end": 257.6,
+   "text": "tolerances for this pipette. I'm going"
+  },
+  {
+   "start": 254.8,
+   "end": 259.84,
+   "text": "to go ahead and use the ISO tolerances"
+  },
+  {
+   "start": 257.6,
+   "end": 262.32,
+   "text": "from 2022."
+  },
+  {
+   "start": 259.84,
+   "end": 265.28,
+   "text": "So I've selected my pipette. I've selected"
+  },
+  {
+   "start": 262.32,
+   "end": 267.68,
+   "text": "the corresponding calibration plan. I've"
+  },
+  {
+   "start": 265.28,
+   "end": 270.16,
+   "text": "confirmed all of the details of the"
+  },
+  {
+   "start": 267.68,
+   "end": 272.24,
+   "text": "calibration plan. And then last but not"
+  },
+  {
+   "start": 270.16,
+   "end": 275.2,
+   "text": "least, I need to select the first due"
+  },
+  {
+   "start": 272.24,
+   "end": 277.52,
+   "text": "date. This pipette is going to be due"
+  },
+  {
+   "start": 275.2,
+   "end": 279.6,
+   "text": "today. So I'll go ahead and select okay."
+  },
+  {
+   "start": 277.52,
+   "end": 282.16,
+   "text": "Next, I'll go ahead and select a second"
+  },
+  {
+   "start": 279.6,
+   "end": 284.96,
+   "text": "pipette. So this is where that master"
+  },
+  {
+   "start": 282.16,
+   "end": 287.12,
+   "text": "calibration plan comes into play. I have"
+  },
+  {
+   "start": 284.96,
+   "end": 290.48,
+   "text": "the second pipette that I'm actually going"
+  },
+  {
+   "start": 287.12,
+   "end": 293.76,
+   "text": "to use the userdefined tolerances for."
+  },
+  {
+   "start": 290.48,
+   "end": 296.24,
+   "text": "So again, I se have my pipette selected. I"
+  },
+  {
+   "start": 293.76,
+   "end": 299.04,
+   "text": "have my calibration plan selected. I'm"
+  },
+  {
+   "start": 296.24,
+   "end": 300.88,
+   "text": "confirming the calibration plan details,"
+  },
+  {
+   "start": 299.04,
+   "end": 303.92,
+   "text": "but this pipe head is not due until"
+  },
+  {
+   "start": 300.88,
+   "end": 306.56,
+   "text": "September. So, I'm going to go ahead and"
+  },
+  {
+   "start": 303.92,
+   "end": 308.88,
+   "text": "select the first due date for this pipette"
+  },
+  {
+   "start": 306.56,
+   "end": 310.96,
+   "text": "and click okay."
+  },
+  {
+   "start": 308.88,
+   "end": 313.2,
+   "text": "So, again, as I mentioned, you can have"
+  },
+  {
+   "start": 310.96,
+   "end": 315.12,
+   "text": "one master schedule that has all kinds"
+  },
+  {
+   "start": 313.2,
+   "end": 317.68,
+   "text": "of different pipettes and calibration"
+  },
+  {
+   "start": 315.12,
+   "end": 319.84,
+   "text": "plans within it, and they all have"
+  },
+  {
+   "start": 317.68,
+   "end": 321.76,
+   "text": "different due dates. You can see that"
+  },
+  {
+   "start": 319.84,
+   "end": 325.12,
+   "text": "I've got this pipette that has a due"
+  },
+  {
+   "start": 321.76,
+   "end": 327.2,
+   "text": "date of 78, 2024"
+  },
+  {
+   "start": 325.12,
+   "end": 330.72,
+   "text": "and this pipette that has a due date of"
+  },
+  {
+   "start": 327.2,
+   "end": 335.04,
+   "text": "September 6th, 2024."
+  },
+  {
+   "start": 330.72,
+   "end": 337.6,
+   "text": "So once you've added or taken away"
+  },
+  {
+   "start": 335.04,
+   "end": 339.6,
+   "text": "pipettes from this schedule,"
+  },
+  {
+   "start": 337.6,
+   "end": 343.28,
+   "text": "you can go ahead and select the save"
+  },
+  {
+   "start": 339.6,
+   "end": 345.12,
+   "text": "icon and now your schedule's in place."
+  },
+  {
+   "start": 343.28,
+   "end": 348.24,
+   "text": "So now if I head back to the home"
+  },
+  {
+   "start": 345.12,
+   "end": 350.96,
+   "text": "screen, I'll see that I have one pipette"
+  },
+  {
+   "start": 348.24,
+   "end": 353.44,
+   "text": "that's due and that's the pipette that I"
+  },
+  {
+   "start": 350.96,
+   "end": 355.52,
+   "text": "selected that's due for today. Another"
+  },
+  {
+   "start": 353.44,
+   "end": 357.92,
+   "text": "important thing to note is that if you"
+  },
+  {
+   "start": 355.52,
+   "end": 360.32,
+   "text": "want to utilize the calibration label"
+  },
+  {
+   "start": 357.92,
+   "end": 362.32,
+   "text": "function of our Telware and you want"
+  },
+  {
+   "start": 360.32,
+   "end": 364.56,
+   "text": "those calibration labels to have the"
+  },
+  {
+   "start": 362.32,
+   "end": 367.04,
+   "text": "next due date, it's very very important"
+  },
+  {
+   "start": 364.56,
+   "end": 369.36,
+   "text": "that you create schedules within our"
+  },
+  {
+   "start": 367.04,
+   "end": 371.52,
+   "text": "Telware. There are a lot of customers"
+  },
+  {
+   "start": 369.36,
+   "end": 373.92,
+   "text": "that will not utilize the schedule"
+  },
+  {
+   "start": 371.52,
+   "end": 376.32,
+   "text": "feature within our Telware because maybe"
+  },
+  {
+   "start": 373.92,
+   "end": 378.48,
+   "text": "they have a master scheduling software"
+  },
+  {
+   "start": 376.32,
+   "end": 380.72,
+   "text": "that controls the scheduling for all of"
+  },
+  {
+   "start": 378.48,
+   "end": 383.6,
+   "text": "the items in their laboratory, not just"
+  },
+  {
+   "start": 380.72,
+   "end": 385.92,
+   "text": "pipettes, but also instruments, etc."
+  },
+  {
+   "start": 383.6,
+   "end": 388.08,
+   "text": "However, again, if you want to use the"
+  },
+  {
+   "start": 385.92,
+   "end": 389.92,
+   "text": "pipette calibration label within our"
+  },
+  {
+   "start": 388.08,
+   "end": 392.0,
+   "text": "Telware and you want the next due date"
+  },
+  {
+   "start": 389.92,
+   "end": 393.84,
+   "text": "to be listed on the label, you'll want"
+  },
+  {
+   "start": 392.0,
+   "end": 396.16,
+   "text": "to create a schedule within the"
+  },
+  {
+   "start": 393.84,
+   "end": 399.6,
+   "text": "application itself for all of those"
+  },
+  {
+   "start": 396.16,
+   "end": 401.92,
+   "text": "pipettes. Okay, that concludes our brief"
+  },
+  {
+   "start": 399.6,
+   "end": 404.8,
+   "text": "tutorial. Do you have additional"
+  },
+  {
+   "start": 401.92,
+   "end": 407.8,
+   "text": "questions? Please contact us at 1"
+  },
+  {
+   "start": 404.8,
+   "end": 407.8,
+   "text": "800225434"
+  },
+  {
+   "start": 408.24,
+   "end": 413.4,
+   "text": "option3 or at supporticmp.com."
+  },
+  {
+   "start": 413.84,
+   "end": 416.64,
+   "text": "Thank you."
+  }
+ ]
+}

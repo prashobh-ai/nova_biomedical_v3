@@ -1,0 +1,583 @@
+{
+ "video_id": "jzP4MnQkn7k",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 115,
+ "cues": [
+  {
+   "start": 0.24,
+   "end": 4.4,
+   "text": "Thank you for joining me for this brief"
+  },
+  {
+   "start": 2.0,
+   "end": 7.2,
+   "text": "tutorial focused on managing automated"
+  },
+  {
+   "start": 4.4,
+   "end": 9.28,
+   "text": "liquid handler devices in the Arttowware"
+  },
+  {
+   "start": 7.2,
+   "end": 11.44,
+   "text": "application. I have some great"
+  },
+  {
+   "start": 9.28,
+   "end": 13.76,
+   "text": "information to share with you. So, let's"
+  },
+  {
+   "start": 11.44,
+   "end": 15.52,
+   "text": "go ahead and get started."
+  },
+  {
+   "start": 13.76,
+   "end": 17.68,
+   "text": "There are a couple of different ways to"
+  },
+  {
+   "start": 15.52,
+   "end": 20.96,
+   "text": "add an automated liquid handler device"
+  },
+  {
+   "start": 17.68,
+   "end": 22.72,
+   "text": "within the ArtelWare application."
+  },
+  {
+   "start": 20.96,
+   "end": 24.8,
+   "text": "The first way is to click on the add"
+  },
+  {
+   "start": 22.72,
+   "end": 27.8,
+   "text": "device shortcut from the get started"
+  },
+  {
+   "start": 24.8,
+   "end": 27.8,
+   "text": "bar."
+  },
+  {
+   "start": 28.16,
+   "end": 32.0,
+   "text": "The second way is to click on the"
+  },
+  {
+   "start": 29.6,
+   "end": 35.28,
+   "text": "configuration icon located to the far"
+  },
+  {
+   "start": 32.0,
+   "end": 38.16,
+   "text": "left navigation panel and then select"
+  },
+  {
+   "start": 35.28,
+   "end": 41.2,
+   "text": "the liquid handlers section. Let's"
+  },
+  {
+   "start": 38.16,
+   "end": 43.36,
+   "text": "return to the home screen and use the"
+  },
+  {
+   "start": 41.2,
+   "end": 44.96,
+   "text": "add device shortcut on the get started"
+  },
+  {
+   "start": 43.36,
+   "end": 47.04,
+   "text": "bar."
+  },
+  {
+   "start": 44.96,
+   "end": 48.88,
+   "text": "Once I click on add device, I'm then"
+  },
+  {
+   "start": 47.04,
+   "end": 51.6,
+   "text": "being prompted to determine what kind of"
+  },
+  {
+   "start": 48.88,
+   "end": 54.0,
+   "text": "device I'm going to add. Today I'll be"
+  },
+  {
+   "start": 51.6,
+   "end": 55.6,
+   "text": "adding a liquid handler and I'll click"
+  },
+  {
+   "start": 54.0,
+   "end": 57.68,
+   "text": "okay."
+  },
+  {
+   "start": 55.6,
+   "end": 59.68,
+   "text": "Every time you see a field with a red"
+  },
+  {
+   "start": 57.68,
+   "end": 62.08,
+   "text": "asterisk within our Telware, that means"
+  },
+  {
+   "start": 59.68,
+   "end": 64.16,
+   "text": "that that field's required. The first"
+  },
+  {
+   "start": 62.08,
+   "end": 66.64,
+   "text": "two fields that are required to add a"
+  },
+  {
+   "start": 64.16,
+   "end": 68.96,
+   "text": "liquid handler are the manufacturer and"
+  },
+  {
+   "start": 66.64,
+   "end": 70.56,
+   "text": "model. Let's go ahead and click on the"
+  },
+  {
+   "start": 68.96,
+   "end": 72.72,
+   "text": "ellipsus."
+  },
+  {
+   "start": 70.56,
+   "end": 75.28,
+   "text": "Our Telware already has preloaded"
+  },
+  {
+   "start": 72.72,
+   "end": 78.8,
+   "text": "several liquid handler manufacturers as"
+  },
+  {
+   "start": 75.28,
+   "end": 80.64,
+   "text": "well as their most popular models."
+  },
+  {
+   "start": 78.8,
+   "end": 83.52,
+   "text": "If you don't see your liquid handler"
+  },
+  {
+   "start": 80.64,
+   "end": 85.84,
+   "text": "manufacturer listed, it's okay. We can"
+  },
+  {
+   "start": 83.52,
+   "end": 90.0,
+   "text": "easily add it by clicking on the plus"
+  },
+  {
+   "start": 85.84,
+   "end": 93.92,
+   "text": "sign for add new ALH model to catalog."
+  },
+  {
+   "start": 90.0,
+   "end": 96.24,
+   "text": "I'm going to add a matrix wellmate and"
+  },
+  {
+   "start": 93.92,
+   "end": 98.64,
+   "text": "I'll select add. And now you'll see the"
+  },
+  {
+   "start": 96.24,
+   "end": 100.24,
+   "text": "matrix wellmate is listed as an"
+  },
+  {
+   "start": 98.64,
+   "end": 102.4,
+   "text": "available option. I'll go ahead and"
+  },
+  {
+   "start": 100.24,
+   "end": 104.16,
+   "text": "select okay."
+  },
+  {
+   "start": 102.4,
+   "end": 106.8,
+   "text": "And then I'll complete the rest of my"
+  },
+  {
+   "start": 104.16,
+   "end": 109.12,
+   "text": "ALH information as well as the dispense"
+  },
+  {
+   "start": 106.8,
+   "end": 113.76,
+   "text": "head. Today I'm going to be using a"
+  },
+  {
+   "start": 109.12,
+   "end": 116.56,
+   "text": "Beckman Coulter FXP."
+  },
+  {
+   "start": 113.76,
+   "end": 118.24,
+   "text": "I'll go ahead and select okay."
+  },
+  {
+   "start": 116.56,
+   "end": 121.2,
+   "text": "And then from there I need to assign a"
+  },
+  {
+   "start": 118.24,
+   "end": 122.88,
+   "text": "liquid handler ID."
+  },
+  {
+   "start": 121.2,
+   "end": 125.84,
+   "text": "Now some very important information"
+  },
+  {
+   "start": 122.88,
+   "end": 128.64,
+   "text": "about this liquid handler ID field. The"
+  },
+  {
+   "start": 125.84,
+   "end": 130.96,
+   "text": "ID itself cannot contain any spaces or"
+  },
+  {
+   "start": 128.64,
+   "end": 132.8,
+   "text": "special characters. If you forget,"
+  },
+  {
+   "start": 130.96,
+   "end": 135.84,
+   "text": "that's okay. The software will remind"
+  },
+  {
+   "start": 132.8,
+   "end": 137.44,
+   "text": "you. In addition, the ID could be a"
+  },
+  {
+   "start": 135.84,
+   "end": 140.16,
+   "text": "serial number that's attached to the"
+  },
+  {
+   "start": 137.44,
+   "end": 142.16,
+   "text": "liquid handler itself,"
+  },
+  {
+   "start": 140.16,
+   "end": 144.56,
+   "text": "or it could be an internal asset ID"
+  },
+  {
+   "start": 142.16,
+   "end": 147.52,
+   "text": "number. Let's go ahead and enter our"
+  },
+  {
+   "start": 144.56,
+   "end": 149.36,
+   "text": "internal asset ID number."
+  },
+  {
+   "start": 147.52,
+   "end": 150.64,
+   "text": "The description field is optional, so"
+  },
+  {
+   "start": 149.36,
+   "end": 153.2,
+   "text": "we're going to go ahead and leave that"
+  },
+  {
+   "start": 150.64,
+   "end": 155.44,
+   "text": "alone. And the serial number field is an"
+  },
+  {
+   "start": 153.2,
+   "end": 158.48,
+   "text": "optional field as well. However, if your"
+  },
+  {
+   "start": 155.44,
+   "end": 161.04,
+   "text": "liquid handler ID field doesn't contain"
+  },
+  {
+   "start": 158.48,
+   "end": 162.64,
+   "text": "the robot's serial number within it, you"
+  },
+  {
+   "start": 161.04,
+   "end": 164.96,
+   "text": "may very well want to add it in this"
+  },
+  {
+   "start": 162.64,
+   "end": 167.84,
+   "text": "field. Let's go ahead and add the liquid"
+  },
+  {
+   "start": 164.96,
+   "end": 170.32,
+   "text": "handler serial number itself. Next, we"
+  },
+  {
+   "start": 167.84,
+   "end": 172.16,
+   "text": "need to add a location and an owner. The"
+  },
+  {
+   "start": 170.32,
+   "end": 174.0,
+   "text": "ArtelWare software application will"
+  },
+  {
+   "start": 172.16,
+   "end": 176.64,
+   "text": "default to the first location that's"
+  },
+  {
+   "start": 174.0,
+   "end": 177.76,
+   "text": "listed in the location field. We're"
+  },
+  {
+   "start": 176.64,
+   "end": 181.2,
+   "text": "going to go ahead and click on the"
+  },
+  {
+   "start": 177.76,
+   "end": 182.8,
+   "text": "ellipsus and select Hawaii. Next, we'll"
+  },
+  {
+   "start": 181.2,
+   "end": 185.28,
+   "text": "go ahead and click on the ellipsus for"
+  },
+  {
+   "start": 182.8,
+   "end": 187.84,
+   "text": "the owner, and we'll select an owner for"
+  },
+  {
+   "start": 185.28,
+   "end": 189.36,
+   "text": "this automated liquid handler. Now, you"
+  },
+  {
+   "start": 187.84,
+   "end": 190.96,
+   "text": "might be tempted to select save from"
+  },
+  {
+   "start": 189.36,
+   "end": 192.64,
+   "text": "here, but all that you've done is added"
+  },
+  {
+   "start": 190.96,
+   "end": 194.72,
+   "text": "your robot."
+  },
+  {
+   "start": 192.64,
+   "end": 197.04,
+   "text": "Now, we need to add a dispense head for"
+  },
+  {
+   "start": 194.72,
+   "end": 200.24,
+   "text": "that robot. We're going to click on the"
+  },
+  {
+   "start": 197.04,
+   "end": 202.24,
+   "text": "dispense heads tab, and we'll click on"
+  },
+  {
+   "start": 200.24,
+   "end": 203.76,
+   "text": "the plus sign."
+  },
+  {
+   "start": 202.24,
+   "end": 205.28,
+   "text": "You'll notice that I don't have any"
+  },
+  {
+   "start": 203.76,
+   "end": 207.36,
+   "text": "dispense heads that are already"
+  },
+  {
+   "start": 205.28,
+   "end": 210.08,
+   "text": "preloaded for the Beckman Coulter"
+  },
+  {
+   "start": 207.36,
+   "end": 211.92,
+   "text": "device. To add a dispense head, simply"
+  },
+  {
+   "start": 210.08,
+   "end": 214.72,
+   "text": "click on the plus sign to add new"
+  },
+  {
+   "start": 211.92,
+   "end": 217.44,
+   "text": "dispense head. Now, the dispense head ID"
+  },
+  {
+   "start": 214.72,
+   "end": 219.92,
+   "text": "could be an internal ID number or it"
+  },
+  {
+   "start": 217.44,
+   "end": 222.96,
+   "text": "could be a serial number."
+  },
+  {
+   "start": 219.92,
+   "end": 224.72,
+   "text": "Enter your dispense head ID. The"
+  },
+  {
+   "start": 222.96,
+   "end": 228.88,
+   "text": "manufacturer will remain as Beckman"
+  },
+  {
+   "start": 224.72,
+   "end": 230.8,
+   "text": "Quilter. Select your number of channels"
+  },
+  {
+   "start": 228.88,
+   "end": 233.92,
+   "text": "and enter the serial number for that"
+  },
+  {
+   "start": 230.8,
+   "end": 235.28,
+   "text": "dispense head. And then if you want to"
+  },
+  {
+   "start": 233.92,
+   "end": 237.68,
+   "text": "go ahead and enter an optional"
+  },
+  {
+   "start": 235.28,
+   "end": 240.4,
+   "text": "description. So we'll go ahead and"
+  },
+  {
+   "start": 237.68,
+   "end": 242.32,
+   "text": "select okay."
+  },
+  {
+   "start": 240.4,
+   "end": 245.12,
+   "text": "Now that I've added all of my dispense"
+  },
+  {
+   "start": 242.32,
+   "end": 247.28,
+   "text": "heads, I'll go ahead and select save and"
+  },
+  {
+   "start": 245.12,
+   "end": 249.36,
+   "text": "I'll save the entry."
+  },
+  {
+   "start": 247.28,
+   "end": 252.64,
+   "text": "So now you can see that I have one"
+  },
+  {
+   "start": 249.36,
+   "end": 255.52,
+   "text": "Beckman Quilter FXP robot and two"
+  },
+  {
+   "start": 252.64,
+   "end": 257.2,
+   "text": "dispense heads that are 96 channels each"
+  },
+  {
+   "start": 255.52,
+   "end": 258.88,
+   "text": "that are available to test with that"
+  },
+  {
+   "start": 257.2,
+   "end": 262.08,
+   "text": "robot."
+  },
+  {
+   "start": 258.88,
+   "end": 265.04,
+   "text": "Okay, that concludes our brief tutorial."
+  },
+  {
+   "start": 262.08,
+   "end": 269.16,
+   "text": "Do you have additional questions? Please"
+  },
+  {
+   "start": 265.04,
+   "end": 269.16,
+   "text": "contact us at 1 800225434"
+  },
+  {
+   "start": 269.6,
+   "end": 274.76,
+   "text": "option3 or at supporticmp.com."
+  },
+  {
+   "start": 275.28,
+   "end": 278.0,
+   "text": "Thank you."
+  }
+ ]
+}

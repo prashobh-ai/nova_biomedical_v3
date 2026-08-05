@@ -1,0 +1,388 @@
+{
+ "video_id": "S1Xlvaou8SQ",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 76,
+ "cues": [
+  {
+   "start": 6.16,
+   "end": 11.6,
+   "text": "hello and welcome"
+  },
+  {
+   "start": 8.0,
+   "end": 13.04,
+   "text": "and thank you for joining us today today"
+  },
+  {
+   "start": 11.6,
+   "end": 14.96,
+   "text": "is the fourth edition of nova"
+  },
+  {
+   "start": 13.04,
+   "end": 17.12,
+   "text": "biomedical's webinar series for"
+  },
+  {
+   "start": 14.96,
+   "end": 18.96,
+   "text": "innovation and cell culture analysis my"
+  },
+  {
+   "start": 17.12,
+   "end": 20.4,
+   "text": "name is matthew mccray"
+  },
+  {
+   "start": 18.96,
+   "end": 22.16,
+   "text": "i'm the product line manager for"
+  },
+  {
+   "start": 20.4,
+   "end": 22.96,
+   "text": "biotechnology products at nova by"
+  },
+  {
+   "start": 22.16,
+   "end": 24.64,
+   "text": "medical"
+  },
+  {
+   "start": 22.96,
+   "end": 26.72,
+   "text": "and i will be your host and co-presenter"
+  },
+  {
+   "start": 24.64,
+   "end": 28.32,
+   "text": "today alongside me"
+  },
+  {
+   "start": 26.72,
+   "end": 30.56,
+   "text": "later during the presentation you will"
+  },
+  {
+   "start": 28.32,
+   "end": 32.4,
+   "text": "hear from fred schneider who is the"
+  },
+  {
+   "start": 30.56,
+   "end": 35.28,
+   "text": "director of sales and marketing for"
+  },
+  {
+   "start": 32.4,
+   "end": 37.2,
+   "text": "flownamex uh today's webinar is entitled"
+  },
+  {
+   "start": 35.28,
+   "end": 39.76,
+   "text": "advanced cell culture automation with"
+  },
+  {
+   "start": 37.2,
+   "end": 42.96,
+   "text": "nova biomedical bar profile flex 2"
+  },
+  {
+   "start": 39.76,
+   "end": 44.24,
+   "text": "and flow dynamics segflow as i mentioned"
+  },
+  {
+   "start": 42.96,
+   "end": 44.96,
+   "text": "this is the fourth in our series of"
+  },
+  {
+   "start": 44.24,
+   "end": 47.28,
+   "text": "webinars"
+  },
+  {
+   "start": 44.96,
+   "end": 48.8,
+   "text": "this year our previous webinar presented"
+  },
+  {
+   "start": 47.28,
+   "end": 50.32,
+   "text": "back in october we discussed the"
+  },
+  {
+   "start": 48.8,
+   "end": 53.2,
+   "text": "integration of the flex 2"
+  },
+  {
+   "start": 50.32,
+   "end": 55.12,
+   "text": "into the amber platforms which enables"
+  },
+  {
+   "start": 53.2,
+   "end": 58.08,
+   "text": "full automation of amber 15 and number"
+  },
+  {
+   "start": 55.12,
+   "end": 59.44,
+   "text": "250 micro bioreactor systems"
+  },
+  {
+   "start": 58.08,
+   "end": 61.36,
+   "text": "today's webinar will complete the"
+  },
+  {
+   "start": 59.44,
+   "end": 64.8,
+   "text": "picture of how flex 2"
+  },
+  {
+   "start": 61.36,
+   "end": 65.68,
+   "text": "enables automation of all cell culture"
+  },
+  {
+   "start": 64.8,
+   "end": 66.96,
+   "text": "scales"
+  },
+  {
+   "start": 65.68,
+   "end": 68.88,
+   "text": "for integration with the flow name"
+  },
+  {
+   "start": 66.96,
+   "end": 71.2,
+   "text": "extent flow really enabling true walk"
+  },
+  {
+   "start": 68.88,
+   "end": 73.68,
+   "text": "away automation and feedback control"
+  },
+  {
+   "start": 71.2,
+   "end": 75.04,
+   "text": "for cultures as low as 500 milliliters"
+  },
+  {
+   "start": 73.68,
+   "end": 80.0,
+   "text": "all the way through the largest"
+  },
+  {
+   "start": 75.04,
+   "end": 80.0,
+   "text": "sap cip commercial scale bioreactors"
+  },
+  {
+   "start": 80.72,
+   "end": 84.32,
+   "text": "so first i'd like to give a brief"
+  },
+  {
+   "start": 82.8,
+   "end": 86.08,
+   "text": "overview of the topics"
+  },
+  {
+   "start": 84.32,
+   "end": 87.36,
+   "text": "in the format that we'll be covering"
+  },
+  {
+   "start": 86.08,
+   "end": 89.68,
+   "text": "today"
+  },
+  {
+   "start": 87.36,
+   "end": 91.6,
+   "text": "first i'll give a brief overview of nova"
+  },
+  {
+   "start": 89.68,
+   "end": 93.84,
+   "text": "biomedical"
+  },
+  {
+   "start": 91.6,
+   "end": 94.96,
+   "text": "then i will give a overview of the flex"
+  },
+  {
+   "start": 93.84,
+   "end": 98.0,
+   "text": "2"
+  },
+  {
+   "start": 94.96,
+   "end": 101.12,
+   "text": "key design elements key features"
+  },
+  {
+   "start": 98.0,
+   "end": 103.04,
+   "text": "a technical product overview again"
+  },
+  {
+   "start": 101.12,
+   "end": 104.72,
+   "text": "we covered this in more detail earlier"
+  },
+  {
+   "start": 103.04,
+   "end": 106.4,
+   "text": "this year in a webinar and that webinar"
+  },
+  {
+   "start": 104.72,
+   "end": 107.12,
+   "text": "is available for downloading view at any"
+  },
+  {
+   "start": 106.4,
+   "end": 110.2,
+   "text": "time"
+  },
+  {
+   "start": 107.12,
+   "end": 112.08,
+   "text": "if you go to our website at"
+  },
+  {
+   "start": 110.2,
+   "end": 113.28,
+   "text": "www.novabiomedical.com"
+  },
+  {
+   "start": 112.08,
+   "end": 115.04,
+   "text": "the next thing we'll cover is why"
+  },
+  {
+   "start": 113.28,
+   "end": 116.64,
+   "text": "automation is important in cell culture"
+  },
+  {
+   "start": 115.04,
+   "end": 118.16,
+   "text": "i think most of you may"
+  },
+  {
+   "start": 116.64,
+   "end": 119.92,
+   "text": "already know the importance of"
+  },
+  {
+   "start": 118.16,
+   "end": 121.76,
+   "text": "automation and subculture but"
+  },
+  {
+   "start": 119.92,
+   "end": 124.16,
+   "text": "from talking to a lot of our customers"
+  },
+  {
+   "start": 121.76,
+   "end": 125.68,
+   "text": "we'll just go into the summary of of why"
+  },
+  {
+   "start": 124.16,
+   "end": 128.48,
+   "text": "it has become so important and so"
+  },
+  {
+   "start": 125.68,
+   "end": 129.76,
+   "text": "critical in almost all areas of cell"
+  },
+  {
+   "start": 128.48,
+   "end": 131.52,
+   "text": "culture"
+  },
+  {
+   "start": 129.76,
+   "end": 133.52,
+   "text": "then we'll be bringing fred schneider"
+  },
+  {
+   "start": 131.52,
+   "end": 135.12,
+   "text": "into the the presentation"
+  },
+  {
+   "start": 133.52,
+   "end": 136.56,
+   "text": "uh he'll give a flown amex corporate"
+  },
+  {
+   "start": 135.12,
+   "end": 138.48,
+   "text": "overview"
+  },
+  {
+   "start": 136.56,
+   "end": 140.08,
+   "text": "then he'll follow that with the details"
+  },
+  {
+   "start": 138.48,
+   "end": 143.12,
+   "text": "of the flex 2 integration"
+  },
+  {
+   "start": 140.08,
+   "end": 144.96,
+   "text": "into the seg club followed by how"
+  },
+  {
+   "start": 143.12,
+   "end": 146.56,
+   "text": "automated sampling is done and advanced"
+  },
+  {
+   "start": 144.96,
+   "end": 147.84,
+   "text": "feedback control"
+  },
+  {
+   "start": 146.56,
+   "end": 149.68,
+   "text": "and there should be about 20 minutes"
+  },
+  {
+   "start": 147.84,
+   "end": 151.52,
+   "text": "left over at the end of the presentation"
+  },
+  {
+   "start": 149.68,
+   "end": 157.2,
+   "text": "we will try to cover as many questions"
+  },
+  {
+   "start": 151.52,
+   "end": 159.28,
+   "text": "as we possibly can"
+  },
+  {
+   "start": 157.2,
+   "end": 159.28,
+   "text": "you"
+  }
+ ]
+}

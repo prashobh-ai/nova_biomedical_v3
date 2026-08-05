@@ -1,0 +1,448 @@
+{
+ "video_id": "ae1rtnjn2jA",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 88,
+ "cues": [
+  {
+   "start": 0.48,
+   "end": 4.24,
+   "text": "Thank you for joining me for this brief"
+  },
+  {
+   "start": 2.24,
+   "end": 6.08,
+   "text": "video that will walk you through label"
+  },
+  {
+   "start": 4.24,
+   "end": 8.72,
+   "text": "and report customization in the"
+  },
+  {
+   "start": 6.08,
+   "end": 10.32,
+   "text": "ArtelWare software application. I've"
+  },
+  {
+   "start": 8.72,
+   "end": 14.16,
+   "text": "got a lot of information to share with"
+  },
+  {
+   "start": 10.32,
+   "end": 16.0,
+   "text": "you. So, let's go ahead and get started."
+  },
+  {
+   "start": 14.16,
+   "end": 18.32,
+   "text": "The ArtelWare application makes it"
+  },
+  {
+   "start": 16.0,
+   "end": 21.04,
+   "text": "really easy for users to customize"
+  },
+  {
+   "start": 18.32,
+   "end": 23.2,
+   "text": "labels as well as reports that the"
+  },
+  {
+   "start": 21.04,
+   "end": 25.44,
+   "text": "application generates. Let's go ahead"
+  },
+  {
+   "start": 23.2,
+   "end": 27.68,
+   "text": "and take a look at how this is done. If"
+  },
+  {
+   "start": 25.44,
+   "end": 30.64,
+   "text": "you click on the administration icon"
+  },
+  {
+   "start": 27.68,
+   "end": 32.8,
+   "text": "located in the far left navigation panel"
+  },
+  {
+   "start": 30.64,
+   "end": 35.2,
+   "text": "and from there click on lab policy"
+  },
+  {
+   "start": 32.8,
+   "end": 37.68,
+   "text": "settings. From here if you click on the"
+  },
+  {
+   "start": 35.2,
+   "end": 39.36,
+   "text": "reporting tab you can see all of the"
+  },
+  {
+   "start": 37.68,
+   "end": 41.92,
+   "text": "various options to the different"
+  },
+  {
+   "start": 39.36,
+   "end": 45.12,
+   "text": "reporting features to edit any of these"
+  },
+  {
+   "start": 41.92,
+   "end": 47.44,
+   "text": "options. Click on the edit lab policy"
+  },
+  {
+   "start": 45.12,
+   "end": 49.6,
+   "text": "settings icon located at the top of the"
+  },
+  {
+   "start": 47.44,
+   "end": 52.56,
+   "text": "screen. Here you can change your"
+  },
+  {
+   "start": 49.6,
+   "end": 53.52,
+   "text": "terminology options as far as reporting"
+  },
+  {
+   "start": 52.56,
+   "end": 55.92,
+   "text": "out statistics in"
+  },
+  {
+   "start": 53.52,
+   "end": 58.32,
+   "text": "imprecision/inaccuracy,"
+  },
+  {
+   "start": 55.92,
+   "end": 59.92,
+   "text": "imprecision sltress or random"
+  },
+  {
+   "start": 58.32,
+   "end": 62.16,
+   "text": "error/sistatic"
+  },
+  {
+   "start": 59.92,
+   "end": 64.64,
+   "text": "error. You can also change the titles of"
+  },
+  {
+   "start": 62.16,
+   "end": 66.96,
+   "text": "your report as well. Let's say that you"
+  },
+  {
+   "start": 64.64,
+   "end": 69.76,
+   "text": "want your pipette report title to say my"
+  },
+  {
+   "start": 66.96,
+   "end": 73.44,
+   "text": "pipette verification report instead of the"
+  },
+  {
+   "start": 69.76,
+   "end": 75.6,
+   "text": "artellar pipette calibration report. In"
+  },
+  {
+   "start": 73.44,
+   "end": 77.68,
+   "text": "addition, you can choose to include or"
+  },
+  {
+   "start": 75.6,
+   "end": 80.72,
+   "text": "exclude the next due date on your"
+  },
+  {
+   "start": 77.68,
+   "end": 82.48,
+   "text": "various reports. Last but not least, if"
+  },
+  {
+   "start": 80.72,
+   "end": 84.64,
+   "text": "we scroll down a little bit, you can"
+  },
+  {
+   "start": 82.48,
+   "end": 86.96,
+   "text": "also edit and insert your facilities"
+  },
+  {
+   "start": 84.64,
+   "end": 90.0,
+   "text": "address as well as upload your"
+  },
+  {
+   "start": 86.96,
+   "end": 92.0,
+   "text": "facilities company logo. And if you have"
+  },
+  {
+   "start": 90.0,
+   "end": 94.16,
+   "text": "an accreditation logo that you'd also"
+  },
+  {
+   "start": 92.0,
+   "end": 95.76,
+   "text": "like included on your reports, you can"
+  },
+  {
+   "start": 94.16,
+   "end": 98.4,
+   "text": "click on the ellipsus to upload that"
+  },
+  {
+   "start": 95.76,
+   "end": 101.44,
+   "text": "logo as well. Once you've made all of"
+  },
+  {
+   "start": 98.4,
+   "end": 104.72,
+   "text": "the changes to the reports as desired,"
+  },
+  {
+   "start": 101.44,
+   "end": 106.48,
+   "text": "you can click on the save icon."
+  },
+  {
+   "start": 104.72,
+   "end": 108.08,
+   "text": "But please note that the changes that"
+  },
+  {
+   "start": 106.48,
+   "end": 110.8,
+   "text": "you've implemented won't be effective"
+  },
+  {
+   "start": 108.08,
+   "end": 112.72,
+   "text": "until the next login. To customize"
+  },
+  {
+   "start": 110.8,
+   "end": 115.92,
+   "text": "labels, click on the labeling section of"
+  },
+  {
+   "start": 112.72,
+   "end": 117.92,
+   "text": "the lab policy settings area. There are"
+  },
+  {
+   "start": 115.92,
+   "end": 120.48,
+   "text": "two labels that our Telware will"
+  },
+  {
+   "start": 117.92,
+   "end": 122.64,
+   "text": "generate. The first is an ID label"
+  },
+  {
+   "start": 120.48,
+   "end": 124.32,
+   "text": "that's located on the top and it's a"
+  },
+  {
+   "start": 122.64,
+   "end": 126.4,
+   "text": "really quick way to begin a pipette"
+  },
+  {
+   "start": 124.32,
+   "end": 128.96,
+   "text": "calibration or liquid handler"
+  },
+  {
+   "start": 126.4,
+   "end": 132.0,
+   "text": "verification as well. The bottom label"
+  },
+  {
+   "start": 128.96,
+   "end": 134.64,
+   "text": "is a device calibration or verification"
+  },
+  {
+   "start": 132.0,
+   "end": 136.8,
+   "text": "label. You'll notice that there are some"
+  },
+  {
+   "start": 134.64,
+   "end": 139.52,
+   "text": "check boxes for some options that can be"
+  },
+  {
+   "start": 136.8,
+   "end": 141.76,
+   "text": "included or excluded on these labels. To"
+  },
+  {
+   "start": 139.52,
+   "end": 144.56,
+   "text": "edit your label settings, simply go up"
+  },
+  {
+   "start": 141.76,
+   "end": 146.16,
+   "text": "to the icon that says edit lab policy"
+  },
+  {
+   "start": 144.56,
+   "end": 147.84,
+   "text": "settings."
+  },
+  {
+   "start": 146.16,
+   "end": 150.08,
+   "text": "And then you can go ahead and check or"
+  },
+  {
+   "start": 147.84,
+   "end": 153.68,
+   "text": "uncheck the various items that you'd"
+  },
+  {
+   "start": 150.08,
+   "end": 155.52,
+   "text": "like to have included or excluded."
+  },
+  {
+   "start": 153.68,
+   "end": 157.6,
+   "text": "For your calibration or verification"
+  },
+  {
+   "start": 155.52,
+   "end": 159.92,
+   "text": "labels, you can also choose to have a"
+  },
+  {
+   "start": 157.6,
+   "end": 161.52,
+   "text": "custom date format."
+  },
+  {
+   "start": 159.92,
+   "end": 164.72,
+   "text": "Let's say that I want to have just the"
+  },
+  {
+   "start": 161.52,
+   "end": 166.48,
+   "text": "month and the year listed on my label."
+  },
+  {
+   "start": 164.72,
+   "end": 169.28,
+   "text": "Once you've made all of your desired"
+  },
+  {
+   "start": 166.48,
+   "end": 171.52,
+   "text": "changes to your labels, select the save"
+  },
+  {
+   "start": 169.28,
+   "end": 173.12,
+   "text": "icon in the lower right hand corner. But"
+  },
+  {
+   "start": 171.52,
+   "end": 176.08,
+   "text": "know that those changes won't be"
+  },
+  {
+   "start": 173.12,
+   "end": 177.84,
+   "text": "affected until your next login."
+  },
+  {
+   "start": 176.08,
+   "end": 179.6,
+   "text": "You might have noticed that both labels"
+  },
+  {
+   "start": 177.84,
+   "end": 182.0,
+   "text": "that are generated by the ArtelWare"
+  },
+  {
+   "start": 179.6,
+   "end": 184.88,
+   "text": "software application contain an Artell"
+  },
+  {
+   "start": 182.0,
+   "end": 186.24,
+   "text": "logo on the far left side of them. There"
+  },
+  {
+   "start": 184.88,
+   "end": 188.96,
+   "text": "is a way that you can upload your"
+  },
+  {
+   "start": 186.24,
+   "end": 192.08,
+   "text": "facilities logo. Just contact technical"
+  },
+  {
+   "start": 188.96,
+   "end": 194.48,
+   "text": "support. Okay, that concludes our brief"
+  },
+  {
+   "start": 192.08,
+   "end": 197.36,
+   "text": "tutorial. Do you have additional"
+  },
+  {
+   "start": 194.48,
+   "end": 200.36,
+   "text": "questions? Please contact us at 1"
+  },
+  {
+   "start": 197.36,
+   "end": 200.36,
+   "text": "800-225-434"
+  },
+  {
+   "start": 200.8,
+   "end": 206.4,
+   "text": "option 3 or at support at"
+  },
+  {
+   "start": 204.08,
+   "end": 209.2,
+   "text": "aicicompanies.com."
+  },
+  {
+   "start": 206.4,
+   "end": 209.2,
+   "text": "Thank you."
+  }
+ ]
+}

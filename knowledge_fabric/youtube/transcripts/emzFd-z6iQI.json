@@ -1,0 +1,458 @@
+{
+ "video_id": "emzFd-z6iQI",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 90,
+ "cues": [
+  {
+   "start": 0.24,
+   "end": 3.28,
+   "text": "Thank you for joining me for this brief"
+  },
+  {
+   "start": 1.84,
+   "end": 5.44,
+   "text": "video that will walk you through the"
+  },
+  {
+   "start": 3.28,
+   "end": 7.68,
+   "text": "process for adding a library plate model"
+  },
+  {
+   "start": 5.44,
+   "end": 10.4,
+   "text": "to the ArtelWare application for use"
+  },
+  {
+   "start": 7.68,
+   "end": 12.72,
+   "text": "with the Artell MVS system. Let's go"
+  },
+  {
+   "start": 10.4,
+   "end": 14.8,
+   "text": "ahead and get started. ArtelWare"
+  },
+  {
+   "start": 12.72,
+   "end": 17.04,
+   "text": "provides the user the ability to add"
+  },
+  {
+   "start": 14.8,
+   "end": 19.52,
+   "text": "plate types that may not be Artell"
+  },
+  {
+   "start": 17.04,
+   "end": 21.76,
+   "text": "verification plates. It should be noted"
+  },
+  {
+   "start": 19.52,
+   "end": 24.24,
+   "text": "that only the usage of Artell"
+  },
+  {
+   "start": 21.76,
+   "end": 26.4,
+   "text": "verification plates will provide NIS"
+  },
+  {
+   "start": 24.24,
+   "end": 28.64,
+   "text": "traceable results. When considering"
+  },
+  {
+   "start": 26.4,
+   "end": 30.8,
+   "text": "plates to be used with the MVS system,"
+  },
+  {
+   "start": 28.64,
+   "end": 33.52,
+   "text": "they must be optically clear, flat"
+  },
+  {
+   "start": 30.8,
+   "end": 35.12,
+   "text": "bottomed, and untreated. In addition,"
+  },
+  {
+   "start": 33.52,
+   "end": 37.68,
+   "text": "you should also know whether or not"
+  },
+  {
+   "start": 35.12,
+   "end": 39.68,
+   "text": "plate well itself is a round or square"
+  },
+  {
+   "start": 37.68,
+   "end": 42.32,
+   "text": "well. You also need to know the top"
+  },
+  {
+   "start": 39.68,
+   "end": 44.32,
+   "text": "diameter, the bottom diameter, as well"
+  },
+  {
+   "start": 42.32,
+   "end": 46.32,
+   "text": "as the height in order to add it to our"
+  },
+  {
+   "start": 44.32,
+   "end": 48.16,
+   "text": "TWear. Let's go ahead and walk through"
+  },
+  {
+   "start": 46.32,
+   "end": 50.08,
+   "text": "adding two different plate types to our"
+  },
+  {
+   "start": 48.16,
+   "end": 52.96,
+   "text": "Telware. The first plate type I'm going"
+  },
+  {
+   "start": 50.08,
+   "end": 55.12,
+   "text": "to use is the Corning 3631,"
+  },
+  {
+   "start": 52.96,
+   "end": 57.52,
+   "text": "which is an optional 96 well library"
+  },
+  {
+   "start": 55.12,
+   "end": 59.68,
+   "text": "plate. Within our Telware, navigate to"
+  },
+  {
+   "start": 57.52,
+   "end": 62.24,
+   "text": "the administration menu. From here,"
+  },
+  {
+   "start": 59.68,
+   "end": 65.12,
+   "text": "navigate to the device cataloges menu"
+  },
+  {
+   "start": 62.24,
+   "end": 67.76,
+   "text": "and click on the plate catalog tab."
+  },
+  {
+   "start": 65.12,
+   "end": 69.36,
+   "text": "Click on the view catalog box. You'll"
+  },
+  {
+   "start": 67.76,
+   "end": 71.04,
+   "text": "notice that I currently do not have any"
+  },
+  {
+   "start": 69.36,
+   "end": 73.2,
+   "text": "plates that are already added to the"
+  },
+  {
+   "start": 71.04,
+   "end": 75.36,
+   "text": "plate catalog. Let's go ahead and click"
+  },
+  {
+   "start": 73.2,
+   "end": 78.32,
+   "text": "on the add new plate model to catalog"
+  },
+  {
+   "start": 75.36,
+   "end": 82.16,
+   "text": "icon. As I mentioned, today I'm adding a"
+  },
+  {
+   "start": 78.32,
+   "end": 84.72,
+   "text": "Corning 3631 plate. I'll populate all of"
+  },
+  {
+   "start": 82.16,
+   "end": 87.28,
+   "text": "the fields that have red asterisks,"
+  },
+  {
+   "start": 84.72,
+   "end": 89.84,
+   "text": "including the manufacturer, the model,"
+  },
+  {
+   "start": 87.28,
+   "end": 92.24,
+   "text": "the description of the plate, the plate"
+  },
+  {
+   "start": 89.84,
+   "end": 94.64,
+   "text": "type, as well as whether or not the"
+  },
+  {
+   "start": 92.24,
+   "end": 96.88,
+   "text": "plate well itself is a round well or a"
+  },
+  {
+   "start": 94.64,
+   "end": 100.08,
+   "text": "square well. In this case, the Corning"
+  },
+  {
+   "start": 96.88,
+   "end": 103.12,
+   "text": "3631 is a round well plate. I know my"
+  },
+  {
+   "start": 100.08,
+   "end": 104.64,
+   "text": "top diameter, my bottom diameter, and"
+  },
+  {
+   "start": 103.12,
+   "end": 106.4,
+   "text": "the height of my well because I've"
+  },
+  {
+   "start": 104.64,
+   "end": 108.4,
+   "text": "gotten these from the plate manufacturer"
+  },
+  {
+   "start": 106.4,
+   "end": 111.36,
+   "text": "specifications. Let's go ahead and click"
+  },
+  {
+   "start": 108.4,
+   "end": 114.96,
+   "text": "the add box. And now we can see that we"
+  },
+  {
+   "start": 111.36,
+   "end": 117.84,
+   "text": "have the 96 well Corning 3631 plate"
+  },
+  {
+   "start": 114.96,
+   "end": 119.76,
+   "text": "that's added to the plate library."
+  },
+  {
+   "start": 117.84,
+   "end": 122.48,
+   "text": "Let's go ahead and click on add new"
+  },
+  {
+   "start": 119.76,
+   "end": 124.64,
+   "text": "plate model to catalog."
+  },
+  {
+   "start": 122.48,
+   "end": 127.28,
+   "text": "It should be noted that unless you have"
+  },
+  {
+   "start": 124.64,
+   "end": 130.32,
+   "text": "the 384 well plate support add-on"
+  },
+  {
+   "start": 127.28,
+   "end": 133.76,
+   "text": "license, you will not be able to add any"
+  },
+  {
+   "start": 130.32,
+   "end": 135.6,
+   "text": "384 well plates to the plate library."
+  },
+  {
+   "start": 133.76,
+   "end": 137.6,
+   "text": "I've gone ahead and added the Corning"
+  },
+  {
+   "start": 135.6,
+   "end": 141.52,
+   "text": "3762"
+  },
+  {
+   "start": 137.6,
+   "end": 145.12,
+   "text": "384 well plate to the plate library. The"
+  },
+  {
+   "start": 141.52,
+   "end": 147.12,
+   "text": "Corning 3762 plate is an optional 384"
+  },
+  {
+   "start": 145.12,
+   "end": 149.6,
+   "text": "well library plate. I've gone ahead and"
+  },
+  {
+   "start": 147.12,
+   "end": 151.6,
+   "text": "populated the manufacturer, the model,"
+  },
+  {
+   "start": 149.6,
+   "end": 154.88,
+   "text": "and the description fields. In the plate"
+  },
+  {
+   "start": 151.6,
+   "end": 157.52,
+   "text": "type field, I've selected 384 well"
+  },
+  {
+   "start": 154.88,
+   "end": 160.72,
+   "text": "because again, I have the 384 well plate"
+  },
+  {
+   "start": 157.52,
+   "end": 162.56,
+   "text": "support add-on added to our TWware. In"
+  },
+  {
+   "start": 160.72,
+   "end": 164.32,
+   "text": "addition, this is a square well plate."
+  },
+  {
+   "start": 162.56,
+   "end": 167.2,
+   "text": "So, I've gone ahead and selected square"
+  },
+  {
+   "start": 164.32,
+   "end": 168.56,
+   "text": "well. I've populated the top width, the"
+  },
+  {
+   "start": 167.2,
+   "end": 171.68,
+   "text": "bottom width, and the height"
+  },
+  {
+   "start": 168.56,
+   "end": 173.76,
+   "text": "specifications for this plate type. Now,"
+  },
+  {
+   "start": 171.68,
+   "end": 176.72,
+   "text": "it's important to note that the Corning"
+  },
+  {
+   "start": 173.76,
+   "end": 179.6,
+   "text": "3762 plate specifications that come from"
+  },
+  {
+   "start": 176.72,
+   "end": 181.76,
+   "text": "Corning have been modified. Through our"
+  },
+  {
+   "start": 179.6,
+   "end": 184.4,
+   "text": "experience, we've identified that these"
+  },
+  {
+   "start": 181.76,
+   "end": 187.36,
+   "text": "plate specifications more accurately"
+  },
+  {
+   "start": 184.4,
+   "end": 190.08,
+   "text": "reflect how the plate is designed. Let's"
+  },
+  {
+   "start": 187.36,
+   "end": 192.56,
+   "text": "go ahead and select add and we'll click"
+  },
+  {
+   "start": 190.08,
+   "end": 194.8,
+   "text": "okay. So now if we go back and review"
+  },
+  {
+   "start": 192.56,
+   "end": 196.72,
+   "text": "the catalog again, we can click on the"
+  },
+  {
+   "start": 194.8,
+   "end": 199.12,
+   "text": "drop down for the manufacturer and we"
+  },
+  {
+   "start": 196.72,
+   "end": 202.56,
+   "text": "can see that we have a Corning 3631"
+  },
+  {
+   "start": 199.12,
+   "end": 205.84,
+   "text": "plate and a Corning 3762"
+  },
+  {
+   "start": 202.56,
+   "end": 208.56,
+   "text": "384 well plate. That concludes my brief"
+  },
+  {
+   "start": 205.84,
+   "end": 210.88,
+   "text": "video. Do you have any questions? You"
+  },
+  {
+   "start": 208.56,
+   "end": 214.36,
+   "text": "can contact our technical support team"
+  },
+  {
+   "start": 210.88,
+   "end": 214.36,
+   "text": "at 1800225434"
+  },
+  {
+   "start": 214.64,
+   "end": 220.16,
+   "text": "option3 or at supportic"
+  },
+  {
+   "start": 218.56,
+   "end": 222.88,
+   "text": "companies.com."
+  },
+  {
+   "start": 220.16,
+   "end": 222.88,
+   "text": "Thank you."
+  }
+ ]
+}

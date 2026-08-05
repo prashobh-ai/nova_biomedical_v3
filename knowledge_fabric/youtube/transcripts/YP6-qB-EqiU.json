@@ -1,0 +1,1063 @@
+{
+ "video_id": "YP6-qB-EqiU",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 211,
+ "cues": [
+  {
+   "start": 0.88,
+   "end": 4.64,
+   "text": "Thank you for joining me for this brief"
+  },
+  {
+   "start": 2.48,
+   "end": 7.52,
+   "text": "tutorial focused on managing pipette"
+  },
+  {
+   "start": 4.64,
+   "end": 10.48,
+   "text": "calibration plans for use with the MVS"
+  },
+  {
+   "start": 7.52,
+   "end": 12.48,
+   "text": "in the ArtelWare software application."
+  },
+  {
+   "start": 10.48,
+   "end": 16.4,
+   "text": "We've got a lot of ground to cover. So,"
+  },
+  {
+   "start": 12.48,
+   "end": 19.28,
+   "text": "let's go ahead and get started."
+  },
+  {
+   "start": 16.4,
+   "end": 21.6,
+   "text": "Your MVS pipette calibration plan is where"
+  },
+  {
+   "start": 19.28,
+   "end": 23.2,
+   "text": "you'll define how many replicates that"
+  },
+  {
+   "start": 21.6,
+   "end": 26.16,
+   "text": "you're going to take for each pipette"
+  },
+  {
+   "start": 23.2,
+   "end": 27.84,
+   "text": "calibration, what volumes and what"
+  },
+  {
+   "start": 26.16,
+   "end": 29.36,
+   "text": "tolerance limits are going to be applied"
+  },
+  {
+   "start": 27.84,
+   "end": 31.6,
+   "text": "to each of those volumes when you"
+  },
+  {
+   "start": 29.36,
+   "end": 33.28,
+   "text": "perform your pipette calibrations. There"
+  },
+  {
+   "start": 31.6,
+   "end": 35.28,
+   "text": "are a couple of different ways to add a"
+  },
+  {
+   "start": 33.28,
+   "end": 38.4,
+   "text": "calibration plan to the ArtelWare"
+  },
+  {
+   "start": 35.28,
+   "end": 40.56,
+   "text": "software. The first way is to click on"
+  },
+  {
+   "start": 38.4,
+   "end": 43.2,
+   "text": "the create plan shortcut on the get"
+  },
+  {
+   "start": 40.56,
+   "end": 46.0,
+   "text": "started bar. The second way is to"
+  },
+  {
+   "start": 43.2,
+   "end": 49.2,
+   "text": "navigate to the configuration section of"
+  },
+  {
+   "start": 46.0,
+   "end": 52.8,
+   "text": "the left side navigation panel and then"
+  },
+  {
+   "start": 49.2,
+   "end": 54.32,
+   "text": "go to the calibration plans section."
+  },
+  {
+   "start": 52.8,
+   "end": 57.28,
+   "text": "Let's go ahead and go back to the home"
+  },
+  {
+   "start": 54.32,
+   "end": 59.6,
+   "text": "screen and let's use the create plan"
+  },
+  {
+   "start": 57.28,
+   "end": 62.16,
+   "text": "shortcut on the get started bar. We're"
+  },
+  {
+   "start": 59.6,
+   "end": 64.8,
+   "text": "going to select pipette calibration and"
+  },
+  {
+   "start": 62.16,
+   "end": 67.04,
+   "text": "we'll click okay. Your pipette calibration"
+  },
+  {
+   "start": 64.8,
+   "end": 68.96,
+   "text": "plan name typically contains information"
+  },
+  {
+   "start": 67.04,
+   "end": 71.28,
+   "text": "about the volume of the pipette that"
+  },
+  {
+   "start": 68.96,
+   "end": 73.12,
+   "text": "you're testing as well as whether or not"
+  },
+  {
+   "start": 71.28,
+   "end": 76.88,
+   "text": "it's a fixed volume pipette or an"
+  },
+  {
+   "start": 73.12,
+   "end": 78.72,
+   "text": "adjustable or variable volume pipette."
+  },
+  {
+   "start": 76.88,
+   "end": 81.84,
+   "text": "For today, we are going to be creating a"
+  },
+  {
+   "start": 78.72,
+   "end": 84.72,
+   "text": "calibration plan for 100 microL"
+  },
+  {
+   "start": 81.84,
+   "end": 86.56,
+   "text": "multi-channel pipette. The description"
+  },
+  {
+   "start": 84.72,
+   "end": 88.96,
+   "text": "field is optional, so we'll leave that"
+  },
+  {
+   "start": 86.56,
+   "end": 90.48,
+   "text": "blank. but information such as a"
+  },
+  {
+   "start": 88.96,
+   "end": 92.88,
+   "text": "specific volume that you might be"
+  },
+  {
+   "start": 90.48,
+   "end": 94.96,
+   "text": "testing with this calibration plan, that"
+  },
+  {
+   "start": 92.88,
+   "end": 96.48,
+   "text": "information could go here. The next"
+  },
+  {
+   "start": 94.96,
+   "end": 98.88,
+   "text": "thing that you'll want to select is your"
+  },
+  {
+   "start": 96.48,
+   "end": 101.04,
+   "text": "measurement type. Because we're going to"
+  },
+  {
+   "start": 98.88,
+   "end": 103.12,
+   "text": "be using the Artl MVS, we want to make"
+  },
+  {
+   "start": 101.04,
+   "end": 105.84,
+   "text": "sure that we've selected the Artel MBS"
+  },
+  {
+   "start": 103.12,
+   "end": 108.56,
+   "text": "for our measurement type. Next, we'll"
+  },
+  {
+   "start": 105.84,
+   "end": 111.36,
+   "text": "determine the plate type. And in this"
+  },
+  {
+   "start": 108.56,
+   "end": 114.32,
+   "text": "case, I only have 96 well as an option"
+  },
+  {
+   "start": 111.36,
+   "end": 116.96,
+   "text": "because I do not have the 384 well plate"
+  },
+  {
+   "start": 114.32,
+   "end": 120.08,
+   "text": "support added into my software. If"
+  },
+  {
+   "start": 116.96,
+   "end": 122.64,
+   "text": "you're interested in a 384 well support"
+  },
+  {
+   "start": 120.08,
+   "end": 124.4,
+   "text": "add-on, please contact your account"
+  },
+  {
+   "start": 122.64,
+   "end": 125.84,
+   "text": "manager."
+  },
+  {
+   "start": 124.4,
+   "end": 128.64,
+   "text": "Next, we'll determine the number of"
+  },
+  {
+   "start": 125.84,
+   "end": 130.56,
+   "text": "channels that are in the device. In this"
+  },
+  {
+   "start": 128.64,
+   "end": 132.32,
+   "text": "particular case, this is an 8 channel"
+  },
+  {
+   "start": 130.56,
+   "end": 133.76,
+   "text": "pipette."
+  },
+  {
+   "start": 132.32,
+   "end": 136.08,
+   "text": "Then, we'll determine what type of"
+  },
+  {
+   "start": 133.76,
+   "end": 138.0,
+   "text": "orientation that we'd like to use."
+  },
+  {
+   "start": 136.08,
+   "end": 139.6,
+   "text": "Because this is an 8 channel pipette,"
+  },
+  {
+   "start": 138.0,
+   "end": 142.48,
+   "text": "there's only one orientation that's"
+  },
+  {
+   "start": 139.6,
+   "end": 145.36,
+   "text": "available, and that's vertical. If I was"
+  },
+  {
+   "start": 142.48,
+   "end": 147.92,
+   "text": "using a 4 channel pipette,"
+  },
+  {
+   "start": 145.36,
+   "end": 150.32,
+   "text": "then I'd have some options. But I'm"
+  },
+  {
+   "start": 147.92,
+   "end": 152.48,
+   "text": "using an eight channel pipette"
+  },
+  {
+   "start": 150.32,
+   "end": 154.96,
+   "text": "and tip spacing will remain as"
+  },
+  {
+   "start": 152.48,
+   "end": 156.8,
+   "text": "contigious wells. I don't have any other"
+  },
+  {
+   "start": 154.96,
+   "end": 158.72,
+   "text": "options. I can't alternate wells with"
+  },
+  {
+   "start": 156.8,
+   "end": 161.72,
+   "text": "this eight channel device in a vertical"
+  },
+  {
+   "start": 158.72,
+   "end": 161.72,
+   "text": "orientation."
+  },
+  {
+   "start": 162.08,
+   "end": 166.08,
+   "text": "Next, I'll need to take a look at the"
+  },
+  {
+   "start": 163.84,
+   "end": 168.0,
+   "text": "tolerances and determine what types of"
+  },
+  {
+   "start": 166.08,
+   "end": 170.32,
+   "text": "tolerances that I want to use with this"
+  },
+  {
+   "start": 168.0,
+   "end": 172.8,
+   "text": "pipette calibration. I have a few"
+  },
+  {
+   "start": 170.32,
+   "end": 176.08,
+   "text": "different options. I can use the pipette"
+  },
+  {
+   "start": 172.8,
+   "end": 179.36,
+   "text": "manufacturer specification or I can use"
+  },
+  {
+   "start": 176.08,
+   "end": 182.24,
+   "text": "the ISO 86552022"
+  },
+  {
+   "start": 179.36,
+   "end": 184.08,
+   "text": "permissible tolerances table or the"
+  },
+  {
+   "start": 182.24,
+   "end": 187.6,
+   "text": "ISO8655"
+  },
+  {
+   "start": 184.08,
+   "end": 189.92,
+   "text": "2002 permissible tolerances table or I"
+  },
+  {
+   "start": 187.6,
+   "end": 192.48,
+   "text": "can define my own tolerances based on"
+  },
+  {
+   "start": 189.92,
+   "end": 196.04,
+   "text": "user requirements. I'm going to go ahead"
+  },
+  {
+   "start": 192.48,
+   "end": 196.04,
+   "text": "and select userdefined."
+  },
+  {
+   "start": 196.24,
+   "end": 201.04,
+   "text": "Next, I need to make some decisions"
+  },
+  {
+   "start": 197.76,
+   "end": 203.04,
+   "text": "about how I would like to see my data. I"
+  },
+  {
+   "start": 201.04,
+   "end": 205.92,
+   "text": "can choose to include channel statistics"
+  },
+  {
+   "start": 203.04,
+   "end": 207.6,
+   "text": "in my evaluation criteria, as well as"
+  },
+  {
+   "start": 205.92,
+   "end": 210.32,
+   "text": "dispense order statistics in my"
+  },
+  {
+   "start": 207.6,
+   "end": 212.88,
+   "text": "evaluation criteria. If I'm interested"
+  },
+  {
+   "start": 210.32,
+   "end": 215.44,
+   "text": "in seeing these, but I don't want my"
+  },
+  {
+   "start": 212.88,
+   "end": 218.16,
+   "text": "evaluation criteria to be pass or failed"
+  },
+  {
+   "start": 215.44,
+   "end": 220.08,
+   "text": "based on these, I can certainly uncheck"
+  },
+  {
+   "start": 218.16,
+   "end": 221.68,
+   "text": "these boxes."
+  },
+  {
+   "start": 220.08,
+   "end": 224.16,
+   "text": "Let's go ahead and include the channel"
+  },
+  {
+   "start": 221.68,
+   "end": 225.84,
+   "text": "statistics because I'm testing an eight"
+  },
+  {
+   "start": 224.16,
+   "end": 228.8,
+   "text": "channel pipette and that's important to"
+  },
+  {
+   "start": 225.84,
+   "end": 230.4,
+   "text": "me. Next, I'll go to the dispense step"
+  },
+  {
+   "start": 228.8,
+   "end": 233.68,
+   "text": "section because this is where I'll"
+  },
+  {
+   "start": 230.4,
+   "end": 235.68,
+   "text": "define what wells are being tested, what"
+  },
+  {
+   "start": 233.68,
+   "end": 237.68,
+   "text": "volumes are being tested, and what the"
+  },
+  {
+   "start": 235.68,
+   "end": 240.8,
+   "text": "pass or fill tolerances are for each"
+  },
+  {
+   "start": 237.68,
+   "end": 242.72,
+   "text": "volume. To add a dispense step, click on"
+  },
+  {
+   "start": 240.8,
+   "end": 245.76,
+   "text": "the plus sign for create new dispense"
+  },
+  {
+   "start": 242.72,
+   "end": 247.2,
+   "text": "step. Next, I'll define my dispense"
+  },
+  {
+   "start": 245.76,
+   "end": 249.44,
+   "text": "volume."
+  },
+  {
+   "start": 247.2,
+   "end": 251.52,
+   "text": "So I'm running a quick check on this"
+  },
+  {
+   "start": 249.44,
+   "end": 254.48,
+   "text": "particular pipe head. So I'm going to"
+  },
+  {
+   "start": 251.52,
+   "end": 258.24,
+   "text": "select 10 microL"
+  },
+  {
+   "start": 254.48,
+   "end": 259.92,
+   "text": "with four replicates per channel and I'm"
+  },
+  {
+   "start": 258.24,
+   "end": 262.16,
+   "text": "going to assign my inaccuracy and"
+  },
+  {
+   "start": 259.92,
+   "end": 264.24,
+   "text": "imprecision tolerances."
+  },
+  {
+   "start": 262.16,
+   "end": 267.04,
+   "text": "Next I need to select a color that will"
+  },
+  {
+   "start": 264.24,
+   "end": 269.44,
+   "text": "represent the wells within this plate"
+  },
+  {
+   "start": 267.04,
+   "end": 271.36,
+   "text": "and I'll select add dispense step. Our"
+  },
+  {
+   "start": 269.44,
+   "end": 273.36,
+   "text": "tell will show you a brief tutorial on"
+  },
+  {
+   "start": 271.36,
+   "end": 275.6,
+   "text": "how to do this. If you don't want to see"
+  },
+  {
+   "start": 273.36,
+   "end": 278.24,
+   "text": "that tutorial again, you can check the"
+  },
+  {
+   "start": 275.6,
+   "end": 280.88,
+   "text": "box for do not show this message again."
+  },
+  {
+   "start": 278.24,
+   "end": 282.8,
+   "text": "I'm going to go ahead and click okay."
+  },
+  {
+   "start": 280.88,
+   "end": 286.08,
+   "text": "Then I'm going to select the wells where"
+  },
+  {
+   "start": 282.8,
+   "end": 288.72,
+   "text": "I want these 10 microL dispenses to be"
+  },
+  {
+   "start": 286.08,
+   "end": 290.48,
+   "text": "dispensed into. Now I'm performing a"
+  },
+  {
+   "start": 288.72,
+   "end": 292.4,
+   "text": "routine check with this variable volume"
+  },
+  {
+   "start": 290.48,
+   "end": 294.56,
+   "text": "pipe head. And I don't want to test just"
+  },
+  {
+   "start": 292.4,
+   "end": 296.72,
+   "text": "at its low end. I want to test its mid"
+  },
+  {
+   "start": 294.56,
+   "end": 298.4,
+   "text": "and high ends as well. So I'm going to"
+  },
+  {
+   "start": 296.72,
+   "end": 300.8,
+   "text": "go ahead and click on this plus sign to"
+  },
+  {
+   "start": 298.4,
+   "end": 303.6,
+   "text": "add another dispense step where I'm"
+  },
+  {
+   "start": 300.8,
+   "end": 306.24,
+   "text": "testing at 50 microL."
+  },
+  {
+   "start": 303.6,
+   "end": 308.24,
+   "text": "I'll select four replicates again. Then"
+  },
+  {
+   "start": 306.24,
+   "end": 311.68,
+   "text": "I'll enter my tolerances for inaccuracy"
+  },
+  {
+   "start": 308.24,
+   "end": 313.28,
+   "text": "and imprecision for this 50 microL test."
+  },
+  {
+   "start": 311.68,
+   "end": 315.68,
+   "text": "I'll go ahead and I'll select a"
+  },
+  {
+   "start": 313.28,
+   "end": 318.16,
+   "text": "different color to represent the"
+  },
+  {
+   "start": 315.68,
+   "end": 319.84,
+   "text": "dispensing of the wells."
+  },
+  {
+   "start": 318.16,
+   "end": 322.0,
+   "text": "And I'll select the wells that I want"
+  },
+  {
+   "start": 319.84,
+   "end": 324.0,
+   "text": "these 50 microL replicates to be"
+  },
+  {
+   "start": 322.0,
+   "end": 326.48,
+   "text": "dispensed into."
+  },
+  {
+   "start": 324.0,
+   "end": 329.76,
+   "text": "Last to complete this routine test I'll"
+  },
+  {
+   "start": 326.48,
+   "end": 331.92,
+   "text": "add one last volume which is at 100"
+  },
+  {
+   "start": 329.76,
+   "end": 336.56,
+   "text": "microL the highest volume in this"
+  },
+  {
+   "start": 331.92,
+   "end": 338.96,
+   "text": "pipette four replicates and once again"
+  },
+  {
+   "start": 336.56,
+   "end": 341.76,
+   "text": "entering my inaccuracy and imprecision"
+  },
+  {
+   "start": 338.96,
+   "end": 343.76,
+   "text": "specification"
+  },
+  {
+   "start": 341.76,
+   "end": 346.16,
+   "text": "and this time I'll select another color"
+  },
+  {
+   "start": 343.76,
+   "end": 349.52,
+   "text": "to represent my wells and I'll go ahead"
+  },
+  {
+   "start": 346.16,
+   "end": 351.92,
+   "text": "and map my plate."
+  },
+  {
+   "start": 349.52,
+   "end": 353.76,
+   "text": "I can add additional plates and"
+  },
+  {
+   "start": 351.92,
+   "end": 356.0,
+   "text": "additional dispense steps, but because"
+  },
+  {
+   "start": 353.76,
+   "end": 358.48,
+   "text": "this is a routine test, I'm going to go"
+  },
+  {
+   "start": 356.0,
+   "end": 360.96,
+   "text": "ahead and leave it as is. I'll go ahead"
+  },
+  {
+   "start": 358.48,
+   "end": 362.48,
+   "text": "and select approved. And if there's an"
+  },
+  {
+   "start": 360.96,
+   "end": 364.48,
+   "text": "additional review comment that you want"
+  },
+  {
+   "start": 362.48,
+   "end": 366.72,
+   "text": "to add, you can certainly do that here"
+  },
+  {
+   "start": 364.48,
+   "end": 368.88,
+   "text": "or accept the default one. I'm going to"
+  },
+  {
+   "start": 366.72,
+   "end": 371.52,
+   "text": "accept the default"
+  },
+  {
+   "start": 368.88,
+   "end": 374.0,
+   "text": "and click okay."
+  },
+  {
+   "start": 371.52,
+   "end": 376.8,
+   "text": "And now you can see that my 100 microL"
+  },
+  {
+   "start": 374.0,
+   "end": 379.04,
+   "text": "variable multi-channel pipette calibration"
+  },
+  {
+   "start": 376.8,
+   "end": 380.8,
+   "text": "plan is now listed."
+  },
+  {
+   "start": 379.04,
+   "end": 382.32,
+   "text": "There are a couple of other icons that"
+  },
+  {
+   "start": 380.8,
+   "end": 384.32,
+   "text": "are on this screen that might be of"
+  },
+  {
+   "start": 382.32,
+   "end": 386.16,
+   "text": "interest. So once your calibration plan"
+  },
+  {
+   "start": 384.32,
+   "end": 388.16,
+   "text": "list grows a bit larger, you may choose"
+  },
+  {
+   "start": 386.16,
+   "end": 391.04,
+   "text": "to filter so that you can quickly locate"
+  },
+  {
+   "start": 388.16,
+   "end": 393.84,
+   "text": "various calibration plans. There's a"
+  },
+  {
+   "start": 391.04,
+   "end": 397.76,
+   "text": "refresh icon on this screen. There is"
+  },
+  {
+   "start": 393.84,
+   "end": 400.32,
+   "text": "also an import MVS data manager plate"
+  },
+  {
+   "start": 397.76,
+   "end": 404.16,
+   "text": "layout in this screen. If you have MVS"
+  },
+  {
+   "start": 400.32,
+   "end": 406.16,
+   "text": "Data Manager versions 3.6 or 3.7, you"
+  },
+  {
+   "start": 404.16,
+   "end": 408.72,
+   "text": "can export those plate layouts and"
+  },
+  {
+   "start": 406.16,
+   "end": 411.68,
+   "text": "import them into our Telware. There's"
+  },
+  {
+   "start": 408.72,
+   "end": 413.92,
+   "text": "also a clone selected calibration plan"
+  },
+  {
+   "start": 411.68,
+   "end": 416.08,
+   "text": "icon. So, if you want to clone this"
+  },
+  {
+   "start": 413.92,
+   "end": 418.08,
+   "text": "calibration plan, but maybe you want to"
+  },
+  {
+   "start": 416.08,
+   "end": 420.32,
+   "text": "call it a different name, you could"
+  },
+  {
+   "start": 418.08,
+   "end": 421.92,
+   "text": "certainly do that."
+  },
+  {
+   "start": 420.32,
+   "end": 423.84,
+   "text": "Or if you want to create another"
+  },
+  {
+   "start": 421.92,
+   "end": 426.48,
+   "text": "calibration plan from this screen,"
+  },
+  {
+   "start": 423.84,
+   "end": 428.24,
+   "text": "simply click on the plus sign."
+  },
+  {
+   "start": 426.48,
+   "end": 430.56,
+   "text": "Now, you'll notice that the calibration"
+  },
+  {
+   "start": 428.24,
+   "end": 432.48,
+   "text": "version is version one for this"
+  },
+  {
+   "start": 430.56,
+   "end": 435.52,
+   "text": "multi-channel calibration plan I just"
+  },
+  {
+   "start": 432.48,
+   "end": 437.92,
+   "text": "created. In your RTLWware verification"
+  },
+  {
+   "start": 435.52,
+   "end": 440.8,
+   "text": "reports, it will include the list of the"
+  },
+  {
+   "start": 437.92,
+   "end": 443.52,
+   "text": "calibration plan name that was used as"
+  },
+  {
+   "start": 440.8,
+   "end": 446.08,
+   "text": "well as the version. If I want to edit"
+  },
+  {
+   "start": 443.52,
+   "end": 449.28,
+   "text": "this particular calibration plan, I can"
+  },
+  {
+   "start": 446.08,
+   "end": 450.88,
+   "text": "click on the edit icon and then you'll"
+  },
+  {
+   "start": 449.28,
+   "end": 453.84,
+   "text": "notice that my version immediately"
+  },
+  {
+   "start": 450.88,
+   "end": 456.48,
+   "text": "versions to version two and it will"
+  },
+  {
+   "start": 453.84,
+   "end": 458.48,
+   "text": "continue to version. for each edit that"
+  },
+  {
+   "start": 456.48,
+   "end": 460.24,
+   "text": "I make."
+  },
+  {
+   "start": 458.48,
+   "end": 461.92,
+   "text": "A couple of other useful pieces of"
+  },
+  {
+   "start": 460.24,
+   "end": 464.8,
+   "text": "information that you might find in this"
+  },
+  {
+   "start": 461.92,
+   "end": 466.64,
+   "text": "calibration plan screen is an icon to"
+  },
+  {
+   "start": 464.8,
+   "end": 469.28,
+   "text": "view schedules that that calibration"
+  },
+  {
+   "start": 466.64,
+   "end": 471.2,
+   "text": "plan might be included in. Or if you"
+  },
+  {
+   "start": 469.28,
+   "end": 472.88,
+   "text": "wanted to deactivate your selected"
+  },
+  {
+   "start": 471.2,
+   "end": 475.76,
+   "text": "calibration plan, you could do that as"
+  },
+  {
+   "start": 472.88,
+   "end": 477.6,
+   "text": "well. So, a special thing to note is"
+  },
+  {
+   "start": 475.76,
+   "end": 480.0,
+   "text": "that if your calibration plan is linked"
+  },
+  {
+   "start": 477.6,
+   "end": 482.56,
+   "text": "to a schedule, you will have to remove"
+  },
+  {
+   "start": 480.0,
+   "end": 485.12,
+   "text": "the calibration plan from your schedule"
+  },
+  {
+   "start": 482.56,
+   "end": 487.36,
+   "text": "prior to deactivating it. And once you"
+  },
+  {
+   "start": 485.12,
+   "end": 490.48,
+   "text": "deactivate a calibration plan, you"
+  },
+  {
+   "start": 487.36,
+   "end": 492.96,
+   "text": "cannot reactivate that calibration plan."
+  },
+  {
+   "start": 490.48,
+   "end": 496.16,
+   "text": "So that's important to note as well."
+  },
+  {
+   "start": 492.96,
+   "end": 499.12,
+   "text": "Okay, that concludes our brief tutorial."
+  },
+  {
+   "start": 496.16,
+   "end": 503.24,
+   "text": "Do you have additional questions? Please"
+  },
+  {
+   "start": 499.12,
+   "end": 503.24,
+   "text": "contact us at 1 800225434"
+  },
+  {
+   "start": 503.68,
+   "end": 508.84,
+   "text": "option3 or at supporticmp.com."
+  },
+  {
+   "start": 509.28,
+   "end": 512.08,
+   "text": "Thank you."
+  }
+ ]
+}

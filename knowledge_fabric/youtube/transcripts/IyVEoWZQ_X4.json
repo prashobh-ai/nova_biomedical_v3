@@ -1,0 +1,8578 @@
+{
+ "video_id": "IyVEoWZQ_X4",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 1714,
+ "cues": [
+  {
+   "start": 4.8,
+   "end": 11.12,
+   "text": "hello and welcome to novel biomedical's"
+  },
+  {
+   "start": 7.6,
+   "end": 12.96,
+   "text": "educational webinar series"
+  },
+  {
+   "start": 11.12,
+   "end": 15.68,
+   "text": "today we have a great pleasure to have"
+  },
+  {
+   "start": 12.96,
+   "end": 17.12,
+   "text": "dr john tofaletti from duke university"
+  },
+  {
+   "start": 15.68,
+   "end": 18.96,
+   "text": "medical center"
+  },
+  {
+   "start": 17.12,
+   "end": 21.92,
+   "text": "to present on the topic of"
+  },
+  {
+   "start": 18.96,
+   "end": 24.48,
+   "text": "pre-analytical errors in critical care"
+  },
+  {
+   "start": 21.92,
+   "end": 24.48,
+   "text": "testing"
+  },
+  {
+   "start": 28.16,
+   "end": 35.12,
+   "text": "dr tofaleti received his phd degree from"
+  },
+  {
+   "start": 32.16,
+   "end": 37.52,
+   "text": "university of north carolina and did his"
+  },
+  {
+   "start": 35.12,
+   "end": 39.84,
+   "text": "residency in clinical chemistry at"
+  },
+  {
+   "start": 37.52,
+   "end": 41.52,
+   "text": "hartford hospital"
+  },
+  {
+   "start": 39.84,
+   "end": 43.76,
+   "text": "he is currently the professor of"
+  },
+  {
+   "start": 41.52,
+   "end": 46.24,
+   "text": "pathology and also the laboratory"
+  },
+  {
+   "start": 43.76,
+   "end": 48.64,
+   "text": "director at duke university medical"
+  },
+  {
+   "start": 46.24,
+   "end": 51.12,
+   "text": "center"
+  },
+  {
+   "start": 48.64,
+   "end": 53.76,
+   "text": "dr davenetti has a great experience in"
+  },
+  {
+   "start": 51.12,
+   "end": 57.28,
+   "text": "critical care testing with over 60"
+  },
+  {
+   "start": 53.76,
+   "end": 59.68,
+   "text": "publications in peer-reviewed journals"
+  },
+  {
+   "start": 57.28,
+   "end": 64.32,
+   "text": "he is also the author of the textbook"
+  },
+  {
+   "start": 59.68,
+   "end": 64.32,
+   "text": "blood gases and electrolytes"
+  },
+  {
+   "start": 67.92,
+   "end": 75.44,
+   "text": "this webinar is approved for continuing"
+  },
+  {
+   "start": 71.28,
+   "end": 79.52,
+   "text": "education for base and accept units"
+  },
+  {
+   "start": 75.44,
+   "end": 81.36,
+   "text": "and also cerp units for nurses"
+  },
+  {
+   "start": 79.52,
+   "end": 83.92,
+   "text": "after the webinar you will receive an"
+  },
+  {
+   "start": 81.36,
+   "end": 84.84,
+   "text": "email with directions of how to obtain"
+  },
+  {
+   "start": 83.92,
+   "end": 88.24,
+   "text": "these"
+  },
+  {
+   "start": 84.84,
+   "end": 92.24,
+   "text": "credits also at the end of the webinar"
+  },
+  {
+   "start": 88.24,
+   "end": 94.48,
+   "text": "there will be a live q a session"
+  },
+  {
+   "start": 92.24,
+   "end": 97.28,
+   "text": "without further ado i would like to"
+  },
+  {
+   "start": 94.48,
+   "end": 100.28,
+   "text": "invite dr tofaletti to start the"
+  },
+  {
+   "start": 97.28,
+   "end": 100.28,
+   "text": "presentation"
+  },
+  {
+   "start": 100.8,
+   "end": 104.16,
+   "text": "okay well thank you very much evan for"
+  },
+  {
+   "start": 102.4,
+   "end": 105.92,
+   "text": "that introduction uh"
+  },
+  {
+   "start": 104.16,
+   "end": 108.08,
+   "text": "my talk today will focus on a highly"
+  },
+  {
+   "start": 105.92,
+   "end": 110.08,
+   "text": "important area of critical care testing"
+  },
+  {
+   "start": 108.08,
+   "end": 112.0,
+   "text": "which is the pre-analytical variables"
+  },
+  {
+   "start": 110.08,
+   "end": 113.28,
+   "text": "that commonly cause errors in these"
+  },
+  {
+   "start": 112.0,
+   "end": 114.88,
+   "text": "tests"
+  },
+  {
+   "start": 113.28,
+   "end": 117.2,
+   "text": "the tests i will focus on are the"
+  },
+  {
+   "start": 114.88,
+   "end": 121.2,
+   "text": "electrolytes including ionized calcium"
+  },
+  {
+   "start": 117.2,
+   "end": 122.8,
+   "text": "blood gases lactate and also co-oximetry"
+  },
+  {
+   "start": 121.2,
+   "end": 125.36,
+   "text": "let me start by mentioning my"
+  },
+  {
+   "start": 122.8,
+   "end": 127.12,
+   "text": "disclosures"
+  },
+  {
+   "start": 125.36,
+   "end": 129.2,
+   "text": "they're listed here however i want to"
+  },
+  {
+   "start": 127.12,
+   "end": 132.4,
+   "text": "importantly know note that no products"
+  },
+  {
+   "start": 129.2,
+   "end": 132.4,
+   "text": "will be mentioned in this talk"
+  },
+  {
+   "start": 133.28,
+   "end": 137.12,
+   "text": "here are the learning objectives"
+  },
+  {
+   "start": 135.52,
+   "end": 138.72,
+   "text": "so just to briefly go over these after"
+  },
+  {
+   "start": 137.12,
+   "end": 140.88,
+   "text": "this presentation you should be able to"
+  },
+  {
+   "start": 138.72,
+   "end": 142.72,
+   "text": "describe common causes of pre-analytical"
+  },
+  {
+   "start": 140.88,
+   "end": 144.16,
+   "text": "errors i'll talk about many aspects of"
+  },
+  {
+   "start": 142.72,
+   "end": 145.52,
+   "text": "those"
+  },
+  {
+   "start": 144.16,
+   "end": 147.84,
+   "text": "you should be able to list the common"
+  },
+  {
+   "start": 145.52,
+   "end": 150.08,
+   "text": "causes of hemolysis and how to report"
+  },
+  {
+   "start": 147.84,
+   "end": 151.92,
+   "text": "results on hemolytic specimens and there"
+  },
+  {
+   "start": 150.08,
+   "end": 153.68,
+   "text": "are many of them there"
+  },
+  {
+   "start": 151.92,
+   "end": 155.52,
+   "text": "and then be able to implement practices"
+  },
+  {
+   "start": 153.68,
+   "end": 156.88,
+   "text": "to minimize pre-analytical errors in"
+  },
+  {
+   "start": 155.52,
+   "end": 158.64,
+   "text": "these various measurements that's the"
+  },
+  {
+   "start": 156.88,
+   "end": 160.8,
+   "text": "whole point of this talk to improve any"
+  },
+  {
+   "start": 158.64,
+   "end": 162.32,
+   "text": "processes that may not be done as well"
+  },
+  {
+   "start": 160.8,
+   "end": 163.84,
+   "text": "as they possibly could be and maybe i'll"
+  },
+  {
+   "start": 162.32,
+   "end": 166.08,
+   "text": "also learn some things as well from this"
+  },
+  {
+   "start": 163.84,
+   "end": 166.08,
+   "text": "talk"
+  },
+  {
+   "start": 167.2,
+   "end": 171.44,
+   "text": "i've listed here the phases of testing"
+  },
+  {
+   "start": 170.0,
+   "end": 173.2,
+   "text": "the ones of the three at the top are the"
+  },
+  {
+   "start": 171.44,
+   "end": 174.8,
+   "text": "pre-analytical phases"
+  },
+  {
+   "start": 173.2,
+   "end": 176.4,
+   "text": "the one in the middle of sample analysis"
+  },
+  {
+   "start": 174.8,
+   "end": 178.16,
+   "text": "of course of the analytical phase and"
+  },
+  {
+   "start": 176.4,
+   "end": 179.68,
+   "text": "the last two in red are the"
+  },
+  {
+   "start": 178.16,
+   "end": 181.2,
+   "text": "post-analytical"
+  },
+  {
+   "start": 179.68,
+   "end": 183.28,
+   "text": "and those are all things that we can"
+  },
+  {
+   "start": 181.2,
+   "end": 185.76,
+   "text": "affect or improve on even things like"
+  },
+  {
+   "start": 183.28,
+   "end": 188.64,
+   "text": "test ordering or interpretation of test"
+  },
+  {
+   "start": 185.76,
+   "end": 190.8,
+   "text": "results by making uh ordering and our"
+  },
+  {
+   "start": 188.64,
+   "end": 192.64,
+   "text": "reporting very clear"
+  },
+  {
+   "start": 190.8,
+   "end": 195.52,
+   "text": "so i'll talk about each of these and"
+  },
+  {
+   "start": 192.64,
+   "end": 197.52,
+   "text": "also note here and with that asterisk of"
+  },
+  {
+   "start": 195.52,
+   "end": 199.76,
+   "text": "the phases where point of care testing"
+  },
+  {
+   "start": 197.52,
+   "end": 201.28,
+   "text": "may have advantage over lab testing"
+  },
+  {
+   "start": 199.76,
+   "end": 202.96,
+   "text": "certainly for specimen handling and"
+  },
+  {
+   "start": 201.28,
+   "end": 204.16,
+   "text": "transport point-of-care testing has a"
+  },
+  {
+   "start": 202.96,
+   "end": 205.52,
+   "text": "big advantage"
+  },
+  {
+   "start": 204.16,
+   "end": 207.44,
+   "text": "because normally you would expect that"
+  },
+  {
+   "start": 205.52,
+   "end": 209.28,
+   "text": "you collect a sample and can run it"
+  },
+  {
+   "start": 207.44,
+   "end": 212.48,
+   "text": "virtually right away so there's almost"
+  },
+  {
+   "start": 209.28,
+   "end": 214.32,
+   "text": "no transport little sample handling and"
+  },
+  {
+   "start": 212.48,
+   "end": 216.88,
+   "text": "you get the results quickly so that's"
+  },
+  {
+   "start": 214.32,
+   "end": 216.88,
+   "text": "also good"
+  },
+  {
+   "start": 218.24,
+   "end": 221.76,
+   "text": "this slide here about the pre-analytical"
+  },
+  {
+   "start": 220.0,
+   "end": 224.32,
+   "text": "errors that account for a large number"
+  },
+  {
+   "start": 221.76,
+   "end": 225.92,
+   "text": "of errors in testing i got this while i"
+  },
+  {
+   "start": 224.32,
+   "end": 228.48,
+   "text": "was attending a symposium back in prague"
+  },
+  {
+   "start": 225.92,
+   "end": 230.32,
+   "text": "in 2012 but it highlights the difference"
+  },
+  {
+   "start": 228.48,
+   "end": 232.96,
+   "text": "between point-of-care testing and"
+  },
+  {
+   "start": 230.32,
+   "end": 235.36,
+   "text": "laboratory testing and it shows that the"
+  },
+  {
+   "start": 232.96,
+   "end": 237.52,
+   "text": "majority of point-of-care testing errors"
+  },
+  {
+   "start": 235.36,
+   "end": 240.08,
+   "text": "are analytical but a significant portion"
+  },
+  {
+   "start": 237.52,
+   "end": 241.6,
+   "text": "are also pre-analytical about a third"
+  },
+  {
+   "start": 240.08,
+   "end": 244.08,
+   "text": "well with laboratory testing the"
+  },
+  {
+   "start": 241.6,
+   "end": 245.6,
+   "text": "analytical errors are fairly small but a"
+  },
+  {
+   "start": 244.08,
+   "end": 247.52,
+   "text": "large percentage of those are"
+  },
+  {
+   "start": 245.6,
+   "end": 250.96,
+   "text": "pre-analytical let me emphasize that"
+  },
+  {
+   "start": 247.52,
+   "end": 252.4,
+   "text": "does not mean that the 88 of lab tests"
+  },
+  {
+   "start": 250.96,
+   "end": 255.84,
+   "text": "have free analytical errors it just"
+  },
+  {
+   "start": 252.4,
+   "end": 257.92,
+   "text": "means that 88 of a very small number of"
+  },
+  {
+   "start": 255.84,
+   "end": 259.44,
+   "text": "overall errors are due to pre-analytical"
+  },
+  {
+   "start": 257.92,
+   "end": 260.56,
+   "text": "but the majority of errors in lab"
+  },
+  {
+   "start": 259.44,
+   "end": 263.84,
+   "text": "testing"
+  },
+  {
+   "start": 260.56,
+   "end": 263.84,
+   "text": "uh are pre-analytical"
+  },
+  {
+   "start": 264.56,
+   "end": 267.52,
+   "text": "i just want to briefly mention that when"
+  },
+  {
+   "start": 266.32,
+   "end": 270.0,
+   "text": "comparing"
+  },
+  {
+   "start": 267.52,
+   "end": 271.84,
+   "text": "the personnel responsible for specimen"
+  },
+  {
+   "start": 270.0,
+   "end": 274.4,
+   "text": "rejection when there is a rejected"
+  },
+  {
+   "start": 271.84,
+   "end": 276.08,
+   "text": "specimen it's relatively uncommon to"
+  },
+  {
+   "start": 274.4,
+   "end": 277.92,
+   "text": "find that it's done by a phenomonist or"
+  },
+  {
+   "start": 276.08,
+   "end": 280.96,
+   "text": "a lab trained person"
+  },
+  {
+   "start": 277.92,
+   "end": 282.8,
+   "text": "uh the rate is higher but still small"
+  },
+  {
+   "start": 280.96,
+   "end": 285.12,
+   "text": "when uh when looking at other"
+  },
+  {
+   "start": 282.8,
+   "end": 287.12,
+   "text": "in-hospital personnel such as nurses of"
+  },
+  {
+   "start": 285.12,
+   "end": 288.8,
+   "text": "perfusionist anesthesia techs and"
+  },
+  {
+   "start": 287.12,
+   "end": 290.32,
+   "text": "doctors as well"
+  },
+  {
+   "start": 288.8,
+   "end": 292.64,
+   "text": "it's still small and i don't want to put"
+  },
+  {
+   "start": 290.32,
+   "end": 294.48,
+   "text": "them down at all because often they in"
+  },
+  {
+   "start": 292.64,
+   "end": 295.92,
+   "text": "fact all the time they have other"
+  },
+  {
+   "start": 294.48,
+   "end": 297.12,
+   "text": "responsibilities in the care of the"
+  },
+  {
+   "start": 295.92,
+   "end": 298.0,
+   "text": "patients"
+  },
+  {
+   "start": 297.12,
+   "end": 300.0,
+   "text": "and"
+  },
+  {
+   "start": 298.0,
+   "end": 301.6,
+   "text": "also they have more challenging blood"
+  },
+  {
+   "start": 300.0,
+   "end": 305.12,
+   "text": "collections as well such as maybe from a"
+  },
+  {
+   "start": 301.6,
+   "end": 307.44,
+   "text": "catheter or an iv line"
+  },
+  {
+   "start": 305.12,
+   "end": 308.96,
+   "text": "and to minimize this continual education"
+  },
+  {
+   "start": 307.44,
+   "end": 311.36,
+   "text": "is important to help"
+  },
+  {
+   "start": 308.96,
+   "end": 312.88,
+   "text": "to minimize these collection errors and"
+  },
+  {
+   "start": 311.36,
+   "end": 314.32,
+   "text": "it's also anytime you have to deal with"
+  },
+  {
+   "start": 312.88,
+   "end": 316.0,
+   "text": "non-led personnel you have less"
+  },
+  {
+   "start": 314.32,
+   "end": 317.84,
+   "text": "influence or less"
+  },
+  {
+   "start": 316.0,
+   "end": 320.88,
+   "text": "people less influence over them so that"
+  },
+  {
+   "start": 317.84,
+   "end": 320.88,
+   "text": "becomes a bit more difficult"
+  },
+  {
+   "start": 322.64,
+   "end": 326.96,
+   "text": "for blood gas analyzers and point of"
+  },
+  {
+   "start": 324.56,
+   "end": 329.12,
+   "text": "care testing in general we use a whole"
+  },
+  {
+   "start": 326.96,
+   "end": 330.24,
+   "text": "blood we test whole blood that has a lot"
+  },
+  {
+   "start": 329.12,
+   "end": 332.4,
+   "text": "of good"
+  },
+  {
+   "start": 330.24,
+   "end": 334.32,
+   "text": "factors about it a few that are not so"
+  },
+  {
+   "start": 332.4,
+   "end": 336.08,
+   "text": "good some disadvantages"
+  },
+  {
+   "start": 334.32,
+   "end": 337.84,
+   "text": "but it's especially advantageous for"
+  },
+  {
+   "start": 336.08,
+   "end": 339.12,
+   "text": "point of care"
+  },
+  {
+   "start": 337.84,
+   "end": 341.44,
+   "text": "first of all and very importantly"
+  },
+  {
+   "start": 339.12,
+   "end": 342.72,
+   "text": "immediate analysis is possible"
+  },
+  {
+   "start": 341.44,
+   "end": 344.32,
+   "text": "if you look down there i probably should"
+  },
+  {
+   "start": 342.72,
+   "end": 345.68,
+   "text": "have put no certification as needed"
+  },
+  {
+   "start": 344.32,
+   "end": 347.76,
+   "text": "right under that because that's what"
+  },
+  {
+   "start": 345.68,
+   "end": 349.76,
+   "text": "makes the analysis right away that you"
+  },
+  {
+   "start": 347.76,
+   "end": 351.28,
+   "text": "can do right away immediately"
+  },
+  {
+   "start": 349.76,
+   "end": 353.84,
+   "text": "there are minimal metabolic effects if"
+  },
+  {
+   "start": 351.28,
+   "end": 356.56,
+   "text": "you analyze a sample quickly"
+  },
+  {
+   "start": 353.84,
+   "end": 358.48,
+   "text": "icing is not necessary"
+  },
+  {
+   "start": 356.56,
+   "end": 360.24,
+   "text": "for pediatric applications you can"
+  },
+  {
+   "start": 358.48,
+   "end": 362.08,
+   "text": "analyze virtually all the sample is"
+  },
+  {
+   "start": 360.24,
+   "end": 363.52,
+   "text": "available or you can analyze virtually"
+  },
+  {
+   "start": 362.08,
+   "end": 366.72,
+   "text": "all of the samples"
+  },
+  {
+   "start": 363.52,
+   "end": 368.8,
+   "text": "well if you use serum or plasma"
+  },
+  {
+   "start": 366.72,
+   "end": 369.68,
+   "text": "you but really throw away about half the"
+  },
+  {
+   "start": 368.8,
+   "end": 371.44,
+   "text": "sample"
+  },
+  {
+   "start": 369.68,
+   "end": 373.6,
+   "text": "there are no dilutional effects as we'll"
+  },
+  {
+   "start": 371.44,
+   "end": 375.68,
+   "text": "see with uh with some electrolytes"
+  },
+  {
+   "start": 373.6,
+   "end": 377.36,
+   "text": "measured on large chemistry analyzers"
+  },
+  {
+   "start": 375.68,
+   "end": 379.2,
+   "text": "i've already said no certification is"
+  },
+  {
+   "start": 377.36,
+   "end": 380.72,
+   "text": "needed that's a huge advantage"
+  },
+  {
+   "start": 379.2,
+   "end": 382.96,
+   "text": "some of the negatives are that heparin"
+  },
+  {
+   "start": 380.72,
+   "end": 386.56,
+   "text": "may affect test results well heparin"
+  },
+  {
+   "start": 382.96,
+   "end": 388.8,
+   "text": "also can affect when we analyze plasma"
+  },
+  {
+   "start": 386.56,
+   "end": 390.56,
+   "text": "and a big part of that is how much we"
+  },
+  {
+   "start": 388.8,
+   "end": 392.8,
+   "text": "fill the tube obviously if we fill the"
+  },
+  {
+   "start": 390.56,
+   "end": 394.16,
+   "text": "tube half full we're going to double the"
+  },
+  {
+   "start": 392.8,
+   "end": 396.48,
+   "text": "heparin concentration or any"
+  },
+  {
+   "start": 394.16,
+   "end": 397.76,
+   "text": "anticoagulant or any glycolytic agent"
+  },
+  {
+   "start": 396.48,
+   "end": 399.52,
+   "text": "that happens to be in the tube or the"
+  },
+  {
+   "start": 397.76,
+   "end": 401.68,
+   "text": "syringe"
+  },
+  {
+   "start": 399.52,
+   "end": 403.84,
+   "text": "with whole blood hemolysis is not easily"
+  },
+  {
+   "start": 401.68,
+   "end": 405.12,
+   "text": "detected and that is a very significant"
+  },
+  {
+   "start": 403.84,
+   "end": 406.64,
+   "text": "issue that we have to deal with and"
+  },
+  {
+   "start": 405.12,
+   "end": 408.64,
+   "text": "we'll talk about that later"
+  },
+  {
+   "start": 406.64,
+   "end": 410.48,
+   "text": "and still metabolism may affect test"
+  },
+  {
+   "start": 408.64,
+   "end": 412.72,
+   "text": "results if the testing is delayed so"
+  },
+  {
+   "start": 410.48,
+   "end": 413.84,
+   "text": "it's the opposite end of the coin that"
+  },
+  {
+   "start": 412.72,
+   "end": 415.84,
+   "text": "up above i said there are minimal"
+  },
+  {
+   "start": 413.84,
+   "end": 417.84,
+   "text": "metabolic effects and that's true if you"
+  },
+  {
+   "start": 415.84,
+   "end": 420.0,
+   "text": "analyze a sample quickly if there's any"
+  },
+  {
+   "start": 417.84,
+   "end": 421.52,
+   "text": "delay you can withhold blood in any"
+  },
+  {
+   "start": 420.0,
+   "end": 424.48,
+   "text": "situation you're going to get more"
+  },
+  {
+   "start": 421.52,
+   "end": 424.48,
+   "text": "metabolic effects"
+  },
+  {
+   "start": 425.84,
+   "end": 430.16,
+   "text": "okay next to mention the types of"
+  },
+  {
+   "start": 427.44,
+   "end": 432.24,
+   "text": "pre-analytical errors"
+  },
+  {
+   "start": 430.16,
+   "end": 434.0,
+   "text": "the first is contamination with iv fluid"
+  },
+  {
+   "start": 432.24,
+   "end": 435.68,
+   "text": "that happens uh"
+  },
+  {
+   "start": 434.0,
+   "end": 437.68,
+   "text": "not too uncommonly"
+  },
+  {
+   "start": 435.68,
+   "end": 440.24,
+   "text": "the wrong collection tube"
+  },
+  {
+   "start": 437.68,
+   "end": 441.92,
+   "text": "again not doesn't happen very often"
+  },
+  {
+   "start": 440.24,
+   "end": 444.32,
+   "text": "labeling errors or incorrect patient"
+  },
+  {
+   "start": 441.92,
+   "end": 446.72,
+   "text": "labels can occur that's"
+  },
+  {
+   "start": 444.32,
+   "end": 448.08,
+   "text": "more frequently we find when during like"
+  },
+  {
+   "start": 446.72,
+   "end": 450.0,
+   "text": "an opera during an operating room or"
+  },
+  {
+   "start": 448.08,
+   "end": 452.4,
+   "text": "maybe they've left some patient labels"
+  },
+  {
+   "start": 450.0,
+   "end": 454.64,
+   "text": "or pre-printed them and somehow those"
+  },
+  {
+   "start": 452.4,
+   "end": 456.16,
+   "text": "get put on the wrong sample"
+  },
+  {
+   "start": 454.64,
+   "end": 457.6,
+   "text": "if there's insufficient blood volume in"
+  },
+  {
+   "start": 456.16,
+   "end": 459.92,
+   "text": "the tube that of course can mean there's"
+  },
+  {
+   "start": 457.6,
+   "end": 461.6,
+   "text": "not enough sample to do the testing"
+  },
+  {
+   "start": 459.92,
+   "end": 463.84,
+   "text": "it can also increase the concentration"
+  },
+  {
+   "start": 461.6,
+   "end": 465.6,
+   "text": "of heparin as i mentioned before"
+  },
+  {
+   "start": 463.84,
+   "end": 467.28,
+   "text": "hemolysis is a big one it's a big one"
+  },
+  {
+   "start": 465.6,
+   "end": 470.32,
+   "text": "for some of the very important tests"
+  },
+  {
+   "start": 467.28,
+   "end": 473.28,
+   "text": "especially potassium some of the enzymes"
+  },
+  {
+   "start": 470.32,
+   "end": 475.52,
+   "text": "and it's also sometimes hard to detect"
+  },
+  {
+   "start": 473.28,
+   "end": 477.36,
+   "text": "clots in blood can cause problems both"
+  },
+  {
+   "start": 475.52,
+   "end": 478.72,
+   "text": "testing itself and also affecting the"
+  },
+  {
+   "start": 477.36,
+   "end": 481.12,
+   "text": "analyzer"
+  },
+  {
+   "start": 478.72,
+   "end": 483.36,
+   "text": "any delay in transport of particulates"
+  },
+  {
+   "start": 481.12,
+   "end": 485.76,
+   "text": "over 30 minutes can certainly cause"
+  },
+  {
+   "start": 483.36,
+   "end": 487.36,
+   "text": "uh some type of metabolic effects might"
+  },
+  {
+   "start": 485.76,
+   "end": 488.8,
+   "text": "be more likely to have leakage if"
+  },
+  {
+   "start": 487.36,
+   "end": 491.2,
+   "text": "there's some kind of"
+  },
+  {
+   "start": 488.8,
+   "end": 492.48,
+   "text": "shaking or over excess moving of the"
+  },
+  {
+   "start": 491.2,
+   "end": 495.12,
+   "text": "sample"
+  },
+  {
+   "start": 492.48,
+   "end": 496.72,
+   "text": "and ultimately if we don't do the sample"
+  },
+  {
+   "start": 495.12,
+   "end": 499.28,
+   "text": "quickly it can cause loss of clinical"
+  },
+  {
+   "start": 496.72,
+   "end": 499.28,
+   "text": "usefulness"
+  },
+  {
+   "start": 500.16,
+   "end": 502.88,
+   "text": "let me start off with the tests"
+  },
+  {
+   "start": 501.44,
+   "end": 504.88,
+   "text": "themselves with the pre-analytical"
+  },
+  {
+   "start": 502.88,
+   "end": 507.2,
+   "text": "errors and sodium measurements"
+  },
+  {
+   "start": 504.88,
+   "end": 508.96,
+   "text": "first of all hemolysis does not usually"
+  },
+  {
+   "start": 507.2,
+   "end": 511.28,
+   "text": "affect the sodium result to any great"
+  },
+  {
+   "start": 508.96,
+   "end": 514.48,
+   "text": "degree the sodium concentrations red"
+  },
+  {
+   "start": 511.28,
+   "end": 516.64,
+   "text": "cells is about 10 percent that of blood"
+  },
+  {
+   "start": 514.48,
+   "end": 518.16,
+   "text": "uh and if you do like math calculation"
+  },
+  {
+   "start": 516.64,
+   "end": 520.72,
+   "text": "it might surprise you how little that"
+  },
+  {
+   "start": 518.16,
+   "end": 522.88,
+   "text": "effects actually affects the sodium"
+  },
+  {
+   "start": 520.72,
+   "end": 525.44,
+   "text": "concentration of the blood however"
+  },
+  {
+   "start": 522.88,
+   "end": 528.24,
+   "text": "if hemolysis is severe it can cause a"
+  },
+  {
+   "start": 525.44,
+   "end": 530.24,
+   "text": "pseudohyponatremia"
+  },
+  {
+   "start": 528.24,
+   "end": 532.4,
+   "text": "what we do run into is gross lipopemia"
+  },
+  {
+   "start": 530.24,
+   "end": 534.4,
+   "text": "or very elevated protein levels that can"
+  },
+  {
+   "start": 532.4,
+   "end": 536.48,
+   "text": "cause a falsely low sodium"
+  },
+  {
+   "start": 534.4,
+   "end": 538.24,
+   "text": "if a diluted sample is analyzed and that"
+  },
+  {
+   "start": 536.48,
+   "end": 540.48,
+   "text": "really is an analytical error and this"
+  },
+  {
+   "start": 538.24,
+   "end": 542.8,
+   "text": "occurs with our large chemistry"
+  },
+  {
+   "start": 540.48,
+   "end": 544.4,
+   "text": "analyzers where they use ion selective"
+  },
+  {
+   "start": 542.8,
+   "end": 546.8,
+   "text": "electrodes but they dilute the sample"
+  },
+  {
+   "start": 544.4,
+   "end": 548.64,
+   "text": "prior to analysis"
+  },
+  {
+   "start": 546.8,
+   "end": 550.4,
+   "text": "and if there's ever any an improper"
+  },
+  {
+   "start": 548.64,
+   "end": 551.84,
+   "text": "anticoagulant like a sodium containing"
+  },
+  {
+   "start": 550.4,
+   "end": 553.6,
+   "text": "anticoagulant i've listed those there"
+  },
+  {
+   "start": 551.84,
+   "end": 554.88,
+   "text": "with sodium heparin or sodium citrate"
+  },
+  {
+   "start": 553.6,
+   "end": 557.68,
+   "text": "obviously that's going to affect the"
+  },
+  {
+   "start": 554.88,
+   "end": 560.84,
+   "text": "sodium concentration"
+  },
+  {
+   "start": 557.68,
+   "end": 563.36,
+   "text": "now this slide is a new error in sodium"
+  },
+  {
+   "start": 560.84,
+   "end": 565.52,
+   "text": "measurements it's not that new anymore"
+  },
+  {
+   "start": 563.36,
+   "end": 567.2,
+   "text": "because it was the first detector over"
+  },
+  {
+   "start": 565.52,
+   "end": 569.6,
+   "text": "10 years ago but i was just being made"
+  },
+  {
+   "start": 567.2,
+   "end": 571.28,
+   "text": "more aware of over the last few years"
+  },
+  {
+   "start": 569.6,
+   "end": 574.16,
+   "text": "so here's the situation if we have a"
+  },
+  {
+   "start": 571.28,
+   "end": 576.32,
+   "text": "decreased plasma protein level that can"
+  },
+  {
+   "start": 574.16,
+   "end": 578.88,
+   "text": "falsely increase the sodium levels in"
+  },
+  {
+   "start": 576.32,
+   "end": 580.24,
+   "text": "diluted isc methods not in the undiluted"
+  },
+  {
+   "start": 578.88,
+   "end": 582.24,
+   "text": "method like we get on blood gas"
+  },
+  {
+   "start": 580.24,
+   "end": 584.32,
+   "text": "analyzers but in the ones that dilute"
+  },
+  {
+   "start": 582.24,
+   "end": 585.92,
+   "text": "the sample prior to electrolyte analysis"
+  },
+  {
+   "start": 584.32,
+   "end": 588.16,
+   "text": "or sodium analysis"
+  },
+  {
+   "start": 585.92,
+   "end": 590.08,
+   "text": "on the chemistry analyzers so the"
+  },
+  {
+   "start": 588.16,
+   "end": 592.72,
+   "text": "problem with this is that true normal"
+  },
+  {
+   "start": 590.08,
+   "end": 595.96,
+   "text": "results for sodium normonatremia"
+  },
+  {
+   "start": 592.72,
+   "end": 598.24,
+   "text": "can become pseudo hypernatremia or true"
+  },
+  {
+   "start": 595.96,
+   "end": 601.2,
+   "text": "hyponatremia can become"
+  },
+  {
+   "start": 598.24,
+   "end": 602.96,
+   "text": "pseudonormonatremia"
+  },
+  {
+   "start": 601.2,
+   "end": 604.96,
+   "text": "and the problem with this is the concern"
+  },
+  {
+   "start": 602.96,
+   "end": 606.96,
+   "text": "about this is that low protein levels"
+  },
+  {
+   "start": 604.96,
+   "end": 608.96,
+   "text": "are much more common than elevated lipid"
+  },
+  {
+   "start": 606.96,
+   "end": 610.8,
+   "text": "or protein levels in icu patients one"
+  },
+  {
+   "start": 608.96,
+   "end": 613.76,
+   "text": "study showed that"
+  },
+  {
+   "start": 610.8,
+   "end": 615.52,
+   "text": "in icu patients 73 percent had decreased"
+  },
+  {
+   "start": 613.76,
+   "end": 618.56,
+   "text": "total protein"
+  },
+  {
+   "start": 615.52,
+   "end": 620.96,
+   "text": "26 had normal total protein and only 0.3"
+  },
+  {
+   "start": 618.56,
+   "end": 623.44,
+   "text": "percent had elevated total protein so"
+  },
+  {
+   "start": 620.96,
+   "end": 626.16,
+   "text": "elevated total protein is quite unusual"
+  },
+  {
+   "start": 623.44,
+   "end": 628.08,
+   "text": "among uh icu patients"
+  },
+  {
+   "start": 626.16,
+   "end": 630.16,
+   "text": "and as protein levels decreased below"
+  },
+  {
+   "start": 628.08,
+   "end": 632.96,
+   "text": "six grams per deciliter so if the levels"
+  },
+  {
+   "start": 630.16,
+   "end": 634.8,
+   "text": "were above six it was very little effect"
+  },
+  {
+   "start": 632.96,
+   "end": 637.04,
+   "text": "but as you got below six percent of"
+  },
+  {
+   "start": 634.8,
+   "end": 639.28,
+   "text": "samples with direct versus indirect isd"
+  },
+  {
+   "start": 637.04,
+   "end": 641.52,
+   "text": "sodium differences that were four or"
+  },
+  {
+   "start": 639.28,
+   "end": 644.08,
+   "text": "more millimole per liter they begin to"
+  },
+  {
+   "start": 641.52,
+   "end": 646.24,
+   "text": "increase so at about 16 percent right at"
+  },
+  {
+   "start": 644.08,
+   "end": 647.92,
+   "text": "six percent six gram per deciliter as"
+  },
+  {
+   "start": 646.24,
+   "end": 650.88,
+   "text": "you got lower and lower could increase"
+  },
+  {
+   "start": 647.92,
+   "end": 654.08,
+   "text": "over eighty percent of errors of a four"
+  },
+  {
+   "start": 650.88,
+   "end": 654.08,
+   "text": "millimole plate or more"
+  },
+  {
+   "start": 655.92,
+   "end": 659.04,
+   "text": "moving on to potassium there are many"
+  },
+  {
+   "start": 657.44,
+   "end": 661.6,
+   "text": "factors that can increase potassium"
+  },
+  {
+   "start": 659.04,
+   "end": 663.44,
+   "text": "during or after blood collection"
+  },
+  {
+   "start": 661.6,
+   "end": 665.2,
+   "text": "and these are commonly cellular released"
+  },
+  {
+   "start": 663.44,
+   "end": 667.04,
+   "text": "after blood collection"
+  },
+  {
+   "start": 665.2,
+   "end": 668.96,
+   "text": "there's hemolysis of red cells very"
+  },
+  {
+   "start": 667.04,
+   "end": 670.56,
+   "text": "commonly"
+  },
+  {
+   "start": 668.96,
+   "end": 672.32,
+   "text": "that can be detected in chemistry"
+  },
+  {
+   "start": 670.56,
+   "end": 675.68,
+   "text": "analyzers but it's difficult in blood"
+  },
+  {
+   "start": 672.32,
+   "end": 677.92,
+   "text": "gas analyzers platelets can also release"
+  },
+  {
+   "start": 675.68,
+   "end": 679.76,
+   "text": "potassium they do that normally with any"
+  },
+  {
+   "start": 677.92,
+   "end": 681.44,
+   "text": "kind of with during clotting"
+  },
+  {
+   "start": 679.76,
+   "end": 683.68,
+   "text": "any other type of platelet activation"
+  },
+  {
+   "start": 681.44,
+   "end": 685.52,
+   "text": "that occurs after after collection can"
+  },
+  {
+   "start": 683.68,
+   "end": 688.32,
+   "text": "also help increase the amount of"
+  },
+  {
+   "start": 685.52,
+   "end": 690.16,
+   "text": "potassium released from platelets white"
+  },
+  {
+   "start": 688.32,
+   "end": 692.8,
+   "text": "cells usually not a problem because they"
+  },
+  {
+   "start": 690.16,
+   "end": 693.84,
+   "text": "are centrifuged down with the red cells"
+  },
+  {
+   "start": 692.8,
+   "end": 695.84,
+   "text": "however"
+  },
+  {
+   "start": 693.84,
+   "end": 697.76,
+   "text": "when you have high white cell counts"
+  },
+  {
+   "start": 695.84,
+   "end": 700.32,
+   "text": "there's a situation that can cause"
+  },
+  {
+   "start": 697.76,
+   "end": 703.28,
+   "text": "excess cell life at the white cells and"
+  },
+  {
+   "start": 700.32,
+   "end": 705.28,
+   "text": "that can increase potassium as well"
+  },
+  {
+   "start": 703.28,
+   "end": 707.28,
+   "text": "any type of excessive delay in cell"
+  },
+  {
+   "start": 705.28,
+   "end": 708.24,
+   "text": "separation can increase the amount of"
+  },
+  {
+   "start": 707.28,
+   "end": 709.6,
+   "text": "leakage"
+  },
+  {
+   "start": 708.24,
+   "end": 712.0,
+   "text": "usually if it's less than about three"
+  },
+  {
+   "start": 709.6,
+   "end": 712.96,
+   "text": "hours with most samples it's not a big"
+  },
+  {
+   "start": 712.0,
+   "end": 714.88,
+   "text": "issue"
+  },
+  {
+   "start": 712.96,
+   "end": 717.2,
+   "text": "but if a sample has a very high platelet"
+  },
+  {
+   "start": 714.88,
+   "end": 719.52,
+   "text": "or white cell count"
+  },
+  {
+   "start": 717.2,
+   "end": 722.56,
+   "text": "even a one hour even less than one hour"
+  },
+  {
+   "start": 719.52,
+   "end": 725.2,
+   "text": "can affect the results"
+  },
+  {
+   "start": 722.56,
+   "end": 727.68,
+   "text": "and over too long icing refrigeration of"
+  },
+  {
+   "start": 725.2,
+   "end": 730.24,
+   "text": "whole blood can increase the potassium"
+  },
+  {
+   "start": 727.68,
+   "end": 732.24,
+   "text": "about cell leakage out of the cell red"
+  },
+  {
+   "start": 730.24,
+   "end": 735.44,
+   "text": "cells"
+  },
+  {
+   "start": 732.24,
+   "end": 737.04,
+   "text": "if the improper order of draw occurs uh"
+  },
+  {
+   "start": 735.44,
+   "end": 738.96,
+   "text": "that can also be a problem so you should"
+  },
+  {
+   "start": 737.04,
+   "end": 740.88,
+   "text": "always collect blood for potassium"
+  },
+  {
+   "start": 738.96,
+   "end": 742.88,
+   "text": "analysis before collecting blood in any"
+  },
+  {
+   "start": 740.88,
+   "end": 744.88,
+   "text": "type of lavender or gray type twos"
+  },
+  {
+   "start": 742.88,
+   "end": 747.6,
+   "text": "because they contain either potassium"
+  },
+  {
+   "start": 744.88,
+   "end": 749.12,
+   "text": "edta or potassium oxalate"
+  },
+  {
+   "start": 747.6,
+   "end": 750.72,
+   "text": "the other concerns or other problems"
+  },
+  {
+   "start": 749.12,
+   "end": 752.32,
+   "text": "that can occur is when there's vigorous"
+  },
+  {
+   "start": 750.72,
+   "end": 754.08,
+   "text": "shaking of the tube"
+  },
+  {
+   "start": 752.32,
+   "end": 756.32,
+   "text": "excessive centrifugation"
+  },
+  {
+   "start": 754.08,
+   "end": 758.32,
+   "text": "pneumatic tube transport"
+  },
+  {
+   "start": 756.32,
+   "end": 760.0,
+   "text": "gel barriers if particularly if they're"
+  },
+  {
+   "start": 758.32,
+   "end": 762.24,
+   "text": "respond and there are other causes like"
+  },
+  {
+   "start": 760.0,
+   "end": 762.24,
+   "text": "that"
+  },
+  {
+   "start": 763.92,
+   "end": 768.16,
+   "text": "the effect of increased cell counts on"
+  },
+  {
+   "start": 765.6,
+   "end": 769.76,
+   "text": "potassium results is shown here"
+  },
+  {
+   "start": 768.16,
+   "end": 771.6,
+   "text": "platelets as i mentioned"
+  },
+  {
+   "start": 769.76,
+   "end": 773.2,
+   "text": "the normal clotting process can increase"
+  },
+  {
+   "start": 771.6,
+   "end": 774.96,
+   "text": "potassium slightly by anywhere from"
+  },
+  {
+   "start": 773.2,
+   "end": 776.32,
+   "text": "point one to point three millimoles per"
+  },
+  {
+   "start": 774.96,
+   "end": 778.48,
+   "text": "liter"
+  },
+  {
+   "start": 776.32,
+   "end": 780.56,
+   "text": "high platelet counts like thrombus isn't"
+  },
+  {
+   "start": 778.48,
+   "end": 782.72,
+   "text": "what's thrombocytosis"
+  },
+  {
+   "start": 780.56,
+   "end": 785.28,
+   "text": "even though it's not very frequent can"
+  },
+  {
+   "start": 782.72,
+   "end": 787.76,
+   "text": "increase potassium even more"
+  },
+  {
+   "start": 785.28,
+   "end": 789.68,
+   "text": "leukocytes are white cells"
+  },
+  {
+   "start": 787.76,
+   "end": 791.36,
+   "text": "normally not a problem again but when"
+  },
+  {
+   "start": 789.68,
+   "end": 792.72,
+   "text": "you get very high of white cell counts"
+  },
+  {
+   "start": 791.36,
+   "end": 794.8,
+   "text": "like in the hundred thousand per"
+  },
+  {
+   "start": 792.72,
+   "end": 796.64,
+   "text": "microliter range that can markedly"
+  },
+  {
+   "start": 794.8,
+   "end": 798.88,
+   "text": "increase potassium and i'll give an"
+  },
+  {
+   "start": 796.64,
+   "end": 800.24,
+   "text": "example of that later"
+  },
+  {
+   "start": 798.88,
+   "end": 804.0,
+   "text": "furthermore this can have variable"
+  },
+  {
+   "start": 800.24,
+   "end": 805.6,
+   "text": "effects in serum plasma or whole blood"
+  },
+  {
+   "start": 804.0,
+   "end": 807.44,
+   "text": "it also has variable effects among"
+  },
+  {
+   "start": 805.6,
+   "end": 809.44,
+   "text": "analyzers blood gas versus chemistry"
+  },
+  {
+   "start": 807.44,
+   "end": 810.96,
+   "text": "analyzers"
+  },
+  {
+   "start": 809.44,
+   "end": 813.04,
+   "text": "then we have probably the most common is"
+  },
+  {
+   "start": 810.96,
+   "end": 814.96,
+   "text": "that's red cell hemolysis"
+  },
+  {
+   "start": 813.04,
+   "end": 817.36,
+   "text": "i mentioned both in vivo and in vitro"
+  },
+  {
+   "start": 814.96,
+   "end": 819.68,
+   "text": "hemolysis because just to emphasize if"
+  },
+  {
+   "start": 817.36,
+   "end": 821.92,
+   "text": "it's in vitro that's much less common"
+  },
+  {
+   "start": 819.68,
+   "end": 823.44,
+   "text": "but that also means that's the correct"
+  },
+  {
+   "start": 821.92,
+   "end": 824.72,
+   "text": "result that is what the patient is"
+  },
+  {
+   "start": 823.44,
+   "end": 826.56,
+   "text": "experiencing"
+  },
+  {
+   "start": 824.72,
+   "end": 828.72,
+   "text": "more commonly if there's hemolysis is"
+  },
+  {
+   "start": 826.56,
+   "end": 830.32,
+   "text": "due to in vitro and we can usually tell"
+  },
+  {
+   "start": 828.72,
+   "end": 833.84,
+   "text": "that by the color of the sample being"
+  },
+  {
+   "start": 830.32,
+   "end": 836.08,
+   "text": "bright red if it's in vitro hormolysis"
+  },
+  {
+   "start": 833.84,
+   "end": 838.8,
+   "text": "and i've listed there some of the"
+  },
+  {
+   "start": 836.08,
+   "end": 840.48,
+   "text": "approximate effects on the potassium of"
+  },
+  {
+   "start": 838.8,
+   "end": 843.28,
+   "text": "various levels of molecules so slight"
+  },
+  {
+   "start": 840.48,
+   "end": 844.8,
+   "text": "hemolysis maybe only 0.1 millimole per"
+  },
+  {
+   "start": 843.28,
+   "end": 847.28,
+   "text": "liter of potassium is increased and"
+  },
+  {
+   "start": 844.8,
+   "end": 849.2,
+   "text": "that's not too much of a concern"
+  },
+  {
+   "start": 847.28,
+   "end": 851.12,
+   "text": "with moderate hemolysis"
+  },
+  {
+   "start": 849.2,
+   "end": 852.72,
+   "text": "maybe in the 0.2 to 0.3 millimole per"
+  },
+  {
+   "start": 851.12,
+   "end": 854.56,
+   "text": "liter range"
+  },
+  {
+   "start": 852.72,
+   "end": 856.64,
+   "text": "with growth hemolysis it can be one"
+  },
+  {
+   "start": 854.56,
+   "end": 858.72,
+   "text": "millimeter or more and of course they do"
+  },
+  {
+   "start": 856.64,
+   "end": 859.52,
+   "text": "not these are there's a gradual there's"
+  },
+  {
+   "start": 858.72,
+   "end": 861.92,
+   "text": "a"
+  },
+  {
+   "start": 859.52,
+   "end": 864.4,
+   "text": "gradation of effects on potassium as you"
+  },
+  {
+   "start": 861.92,
+   "end": 866.24,
+   "text": "go with more and more hemolysis"
+  },
+  {
+   "start": 864.4,
+   "end": 870.68,
+   "text": "as we hopefully know we should not use"
+  },
+  {
+   "start": 866.24,
+   "end": 870.68,
+   "text": "this to correct the potassium result"
+  },
+  {
+   "start": 872.16,
+   "end": 876.32,
+   "text": "this is a thermolysis and there are many"
+  },
+  {
+   "start": 874.4,
+   "end": 878.8,
+   "text": "the first is prolonged tourniquet"
+  },
+  {
+   "start": 876.32,
+   "end": 881.04,
+   "text": "application over too much fist clenching"
+  },
+  {
+   "start": 878.8,
+   "end": 883.28,
+   "text": "that can lead to a molecule usually not"
+  },
+  {
+   "start": 881.04,
+   "end": 885.84,
+   "text": "huge effects on the"
+  },
+  {
+   "start": 883.28,
+   "end": 887.6,
+   "text": "on the sample though"
+  },
+  {
+   "start": 885.84,
+   "end": 890.88,
+   "text": "cell rupture during collection if we"
+  },
+  {
+   "start": 887.6,
+   "end": 893.04,
+   "text": "apply excessive suction to the syringe"
+  },
+  {
+   "start": 890.88,
+   "end": 895.52,
+   "text": "pulling too hard that can affect"
+  },
+  {
+   "start": 893.04,
+   "end": 897.92,
+   "text": "mild cosmologists using two small bore"
+  },
+  {
+   "start": 895.52,
+   "end": 899.92,
+   "text": "needle when you get to 23 gauge needles"
+  },
+  {
+   "start": 897.92,
+   "end": 902.08,
+   "text": "or smaller that's especially prone to"
+  },
+  {
+   "start": 899.92,
+   "end": 904.0,
+   "text": "causing hemolysis"
+  },
+  {
+   "start": 902.08,
+   "end": 906.0,
+   "text": "any type of forceful squirting of the"
+  },
+  {
+   "start": 904.0,
+   "end": 906.96,
+   "text": "blood from the syringe in the tube"
+  },
+  {
+   "start": 906.0,
+   "end": 908.8,
+   "text": "will uh"
+  },
+  {
+   "start": 906.96,
+   "end": 910.64,
+   "text": "can encourage hemolysis"
+  },
+  {
+   "start": 908.8,
+   "end": 911.6,
+   "text": "so anytime you would do the squirt blood"
+  },
+  {
+   "start": 910.64,
+   "end": 913.52,
+   "text": "from a"
+  },
+  {
+   "start": 911.6,
+   "end": 914.88,
+   "text": "through a needle into a an evacuated"
+  },
+  {
+   "start": 913.52,
+   "end": 917.12,
+   "text": "tube that's going to be a forceful"
+  },
+  {
+   "start": 914.88,
+   "end": 919.76,
+   "text": "expulsion and even when it's an open"
+  },
+  {
+   "start": 917.12,
+   "end": 922.72,
+   "text": "tube if you it's very easy in the time"
+  },
+  {
+   "start": 919.76,
+   "end": 924.16,
+   "text": "to to save time that the the the"
+  },
+  {
+   "start": 922.72,
+   "end": 925.44,
+   "text": "there's forceful squaring in the blood"
+  },
+  {
+   "start": 924.16,
+   "end": 927.2,
+   "text": "and it goes very quickly through the"
+  },
+  {
+   "start": 925.44,
+   "end": 929.2,
+   "text": "syringe to the needle and then can cause"
+  },
+  {
+   "start": 927.2,
+   "end": 930.24,
+   "text": "hemolysis any type of difficult"
+  },
+  {
+   "start": 929.2,
+   "end": 932.64,
+   "text": "collection"
+  },
+  {
+   "start": 930.24,
+   "end": 934.16,
+   "text": "can cause hemolysis excessive squeezing"
+  },
+  {
+   "start": 932.64,
+   "end": 936.0,
+   "text": "to obtain blood"
+  },
+  {
+   "start": 934.16,
+   "end": 937.28,
+   "text": "especially so with finger or heel stick"
+  },
+  {
+   "start": 936.0,
+   "end": 938.72,
+   "text": "collections"
+  },
+  {
+   "start": 937.28,
+   "end": 940.08,
+   "text": "of"
+  },
+  {
+   "start": 938.72,
+   "end": 942.64,
+   "text": "which can occur with point of care in"
+  },
+  {
+   "start": 940.08,
+   "end": 944.88,
+   "text": "pediatric patients"
+  },
+  {
+   "start": 942.64,
+   "end": 947.12,
+   "text": "during transport delays any type of"
+  },
+  {
+   "start": 944.88,
+   "end": 949.6,
+   "text": "excessive delays extreme temperature"
+  },
+  {
+   "start": 947.12,
+   "end": 952.84,
+   "text": "variations either too cold too hot"
+  },
+  {
+   "start": 949.6,
+   "end": 955.36,
+   "text": "rough handling and also pneumatic"
+  },
+  {
+   "start": 952.84,
+   "end": 957.44,
+   "text": "transport during processing excessive"
+  },
+  {
+   "start": 955.36,
+   "end": 959.84,
+   "text": "centrifugation force or time can only"
+  },
+  {
+   "start": 957.44,
+   "end": 961.28,
+   "text": "affect hemolysis cause hemolysis i want"
+  },
+  {
+   "start": 959.84,
+   "end": 964.0,
+   "text": "to emphasize again that in vivo"
+  },
+  {
+   "start": 961.28,
+   "end": 965.76,
+   "text": "hemolysis is a biologic process and it's"
+  },
+  {
+   "start": 964.0,
+   "end": 967.6,
+   "text": "not a pre-analytical error because that"
+  },
+  {
+   "start": 965.76,
+   "end": 969.28,
+   "text": "is occurring in the patient and that can"
+  },
+  {
+   "start": 967.6,
+   "end": 970.72,
+   "text": "confuse things because that is the"
+  },
+  {
+   "start": 969.28,
+   "end": 971.84,
+   "text": "correct result"
+  },
+  {
+   "start": 970.72,
+   "end": 973.84,
+   "text": "and uh"
+  },
+  {
+   "start": 971.84,
+   "end": 975.76,
+   "text": "and should be reported"
+  },
+  {
+   "start": 973.84,
+   "end": 976.96,
+   "text": "we also have to always be"
+  },
+  {
+   "start": 975.76,
+   "end": 978.8,
+   "text": "a little bit cautious that high"
+  },
+  {
+   "start": 976.96,
+   "end": 980.72,
+   "text": "bilirubin or high net hemoglobin levels"
+  },
+  {
+   "start": 978.8,
+   "end": 983.28,
+   "text": "can appear as hemolysis i would say more"
+  },
+  {
+   "start": 980.72,
+   "end": 985.04,
+   "text": "frequently these can be a prop a problem"
+  },
+  {
+   "start": 983.28,
+   "end": 986.72,
+   "text": "or a concern when there's already some"
+  },
+  {
+   "start": 985.04,
+   "end": 987.6,
+   "text": "hemolysis and these make it look even"
+  },
+  {
+   "start": 986.72,
+   "end": 989.36,
+   "text": "worse"
+  },
+  {
+   "start": 987.6,
+   "end": 990.88,
+   "text": "so those are all issues that we have to"
+  },
+  {
+   "start": 989.36,
+   "end": 994.56,
+   "text": "deal with and it makes dealing with"
+  },
+  {
+   "start": 990.88,
+   "end": 996.56,
+   "text": "hemolysis a very challenging situation"
+  },
+  {
+   "start": 994.56,
+   "end": 998.24,
+   "text": "how the how should we report results"
+  },
+  {
+   "start": 996.56,
+   "end": 999.84,
+   "text": "with hemolyzed samples"
+  },
+  {
+   "start": 998.24,
+   "end": 1001.76,
+   "text": "with chemistry analyzers they do have"
+  },
+  {
+   "start": 999.84,
+   "end": 1003.44,
+   "text": "the advantage now with modern chemistry"
+  },
+  {
+   "start": 1001.76,
+   "end": 1005.28,
+   "text": "analyzers that they often provide a"
+  },
+  {
+   "start": 1003.44,
+   "end": 1006.72,
+   "text": "hemolysis index"
+  },
+  {
+   "start": 1005.28,
+   "end": 1009.68,
+   "text": "and this was absolutely essential"
+  },
+  {
+   "start": 1006.72,
+   "end": 1011.44,
+   "text": "because with automation now a p of the"
+  },
+  {
+   "start": 1009.68,
+   "end": 1013.76,
+   "text": "technologists often do not even see the"
+  },
+  {
+   "start": 1011.44,
+   "end": 1016.08,
+   "text": "sample once it's spun down if this is"
+  },
+  {
+   "start": 1013.76,
+   "end": 1017.92,
+   "text": "done this certification is automatic"
+  },
+  {
+   "start": 1016.08,
+   "end": 1018.8,
+   "text": "but the good news for chemistry"
+  },
+  {
+   "start": 1017.92,
+   "end": 1020.88,
+   "text": "analyzers is they have"
+  },
+  {
+   "start": 1018.8,
+   "end": 1023.36,
+   "text": "spectrophotometric means of doing a"
+  },
+  {
+   "start": 1020.88,
+   "end": 1026.24,
+   "text": "pretty good job of detecting hemolysis"
+  },
+  {
+   "start": 1023.36,
+   "end": 1027.84,
+   "text": "and giving a gradation scale"
+  },
+  {
+   "start": 1026.24,
+   "end": 1029.04,
+   "text": "with whole blood analyzers this is much"
+  },
+  {
+   "start": 1027.84,
+   "end": 1030.64,
+   "text": "more challenging"
+  },
+  {
+   "start": 1029.04,
+   "end": 1033.68,
+   "text": "because currently they cannot detect"
+  },
+  {
+   "start": 1030.64,
+   "end": 1035.2,
+   "text": "hemolysis in the sample by themselves"
+  },
+  {
+   "start": 1033.68,
+   "end": 1036.8,
+   "text": "so a lot of questions we could deal with"
+  },
+  {
+   "start": 1035.2,
+   "end": 1038.16,
+   "text": "these in much greater detail i'd be"
+  },
+  {
+   "start": 1036.8,
+   "end": 1040.16,
+   "text": "happy to have any discussion with this"
+  },
+  {
+   "start": 1038.16,
+   "end": 1042.48,
+   "text": "later how should you handle possible"
+  },
+  {
+   "start": 1040.16,
+   "end": 1043.92,
+   "text": "hemolysis and blood gas specimens and"
+  },
+  {
+   "start": 1042.48,
+   "end": 1046.0,
+   "text": "this is different with adult versus"
+  },
+  {
+   "start": 1043.92,
+   "end": 1047.36,
+   "text": "pediatric specimens"
+  },
+  {
+   "start": 1046.0,
+   "end": 1049.76,
+   "text": "how should we handle reporting results"
+  },
+  {
+   "start": 1047.36,
+   "end": 1051.52,
+   "text": "on hemolysis specimens well do we what"
+  },
+  {
+   "start": 1049.76,
+   "end": 1053.76,
+   "text": "should we do routinely versus when a"
+  },
+  {
+   "start": 1051.52,
+   "end": 1056.32,
+   "text": "physician insists"
+  },
+  {
+   "start": 1053.76,
+   "end": 1058.24,
+   "text": "and i'll just say real quickly with we"
+  },
+  {
+   "start": 1056.32,
+   "end": 1059.76,
+   "text": "could discuss this further later"
+  },
+  {
+   "start": 1058.24,
+   "end": 1061.44,
+   "text": "that what we've decided after a lot of"
+  },
+  {
+   "start": 1059.76,
+   "end": 1064.32,
+   "text": "discussion i mean months of discussion"
+  },
+  {
+   "start": 1061.44,
+   "end": 1066.56,
+   "text": "on this is we routinely do not report"
+  },
+  {
+   "start": 1064.32,
+   "end": 1068.16,
+   "text": "potassium results on above a certain"
+  },
+  {
+   "start": 1066.56,
+   "end": 1070.48,
+   "text": "level of hemolysis"
+  },
+  {
+   "start": 1068.16,
+   "end": 1072.56,
+   "text": "if the physician insists on it we will"
+  },
+  {
+   "start": 1070.48,
+   "end": 1074.4,
+   "text": "ask for another sample recollection if"
+  },
+  {
+   "start": 1072.56,
+   "end": 1076.56,
+   "text": "that female lies then eventually we will"
+  },
+  {
+   "start": 1074.4,
+   "end": 1078.4,
+   "text": "then give them the results with a lot of"
+  },
+  {
+   "start": 1076.56,
+   "end": 1080.0,
+   "text": "cautionary statements and comments on"
+  },
+  {
+   "start": 1078.4,
+   "end": 1081.84,
+   "text": "the report"
+  },
+  {
+   "start": 1080.0,
+   "end": 1084.88,
+   "text": "what about laboratory versus"
+  },
+  {
+   "start": 1081.84,
+   "end": 1084.88,
+   "text": "point-of-care testing"
+  },
+  {
+   "start": 1085.2,
+   "end": 1088.48,
+   "text": "i would say"
+  },
+  {
+   "start": 1086.4,
+   "end": 1090.24,
+   "text": "fairly confidently that hemolysis is"
+  },
+  {
+   "start": 1088.48,
+   "end": 1093.52,
+   "text": "less likely detected with point-of-care"
+  },
+  {
+   "start": 1090.24,
+   "end": 1095.44,
+   "text": "testing that the person is not attuned"
+  },
+  {
+   "start": 1093.52,
+   "end": 1097.04,
+   "text": "to that and they'll take"
+  },
+  {
+   "start": 1095.44,
+   "end": 1098.4,
+   "text": "not necessarily any result they give but"
+  },
+  {
+   "start": 1097.04,
+   "end": 1101.2,
+   "text": "they're more likely to take as a result"
+  },
+  {
+   "start": 1098.4,
+   "end": 1101.2,
+   "text": "without questioning it"
+  },
+  {
+   "start": 1101.44,
+   "end": 1104.8,
+   "text": "there's also the issue of in vitro"
+  },
+  {
+   "start": 1102.96,
+   "end": 1106.8,
+   "text": "versus in vivo hemolysis and just"
+  },
+  {
+   "start": 1104.8,
+   "end": 1109.12,
+   "text": "remember again if it is in vivo that is"
+  },
+  {
+   "start": 1106.8,
+   "end": 1110.56,
+   "text": "the correct result"
+  },
+  {
+   "start": 1109.12,
+   "end": 1112.08,
+   "text": "and also what about a falsely high"
+  },
+  {
+   "start": 1110.56,
+   "end": 1114.16,
+   "text": "potassium versus a falsely normal"
+  },
+  {
+   "start": 1112.08,
+   "end": 1116.24,
+   "text": "potassium which is more likely to go"
+  },
+  {
+   "start": 1114.16,
+   "end": 1118.48,
+   "text": "undetected well i think we'd all agree"
+  },
+  {
+   "start": 1116.24,
+   "end": 1121.04,
+   "text": "that falsely normal potassium"
+  },
+  {
+   "start": 1118.48,
+   "end": 1123.84,
+   "text": "that is truly hypokalemia"
+  },
+  {
+   "start": 1121.04,
+   "end": 1126.0,
+   "text": "will be much less likely to be detected"
+  },
+  {
+   "start": 1123.84,
+   "end": 1129.04,
+   "text": "and when should we check for homolysis"
+  },
+  {
+   "start": 1126.0,
+   "end": 1129.04,
+   "text": "by centrifugation"
+  },
+  {
+   "start": 1130.72,
+   "end": 1135.6,
+   "text": "move on to ionized calcium"
+  },
+  {
+   "start": 1132.88,
+   "end": 1137.76,
+   "text": "let me just start by a little primer on"
+  },
+  {
+   "start": 1135.6,
+   "end": 1139.44,
+   "text": "the bound versus free forms of calcium"
+  },
+  {
+   "start": 1137.76,
+   "end": 1142.24,
+   "text": "in blood so we have the total calcium"
+  },
+  {
+   "start": 1139.44,
+   "end": 1144.4,
+   "text": "which consists of protein-bound calcium"
+  },
+  {
+   "start": 1142.24,
+   "end": 1146.0,
+   "text": "ionized calcium and complex bound"
+  },
+  {
+   "start": 1144.4,
+   "end": 1147.84,
+   "text": "calcium the proportion of these are"
+  },
+  {
+   "start": 1146.0,
+   "end": 1150.32,
+   "text": "approximately for protein-bound calcium"
+  },
+  {
+   "start": 1147.84,
+   "end": 1152.64,
+   "text": "somewhere between 40 and 45 percent"
+  },
+  {
+   "start": 1150.32,
+   "end": 1153.92,
+   "text": "ionized calcium normally around 45 maybe"
+  },
+  {
+   "start": 1152.64,
+   "end": 1156.16,
+   "text": "50 percent"
+  },
+  {
+   "start": 1153.92,
+   "end": 1157.76,
+   "text": "and the complex bound calcium is maybe"
+  },
+  {
+   "start": 1156.16,
+   "end": 1159.36,
+   "text": "10 to 15"
+  },
+  {
+   "start": 1157.76,
+   "end": 1161.2,
+   "text": "and just to briefly go over these the"
+  },
+  {
+   "start": 1159.36,
+   "end": 1162.4,
+   "text": "i'll look at the well most importantly"
+  },
+  {
+   "start": 1161.2,
+   "end": 1164.56,
+   "text": "the ionized calcium is the"
+  },
+  {
+   "start": 1162.4,
+   "end": 1166.8,
+   "text": "physiologically active calcium"
+  },
+  {
+   "start": 1164.56,
+   "end": 1168.64,
+   "text": "that is what the our heart muscle our"
+  },
+  {
+   "start": 1166.8,
+   "end": 1170.48,
+   "text": "cells will muscle our nerve that's what"
+  },
+  {
+   "start": 1168.64,
+   "end": 1172.56,
+   "text": "they sense and also the parathyroid"
+  },
+  {
+   "start": 1170.48,
+   "end": 1173.52,
+   "text": "gland as well"
+  },
+  {
+   "start": 1172.56,
+   "end": 1175.12,
+   "text": "and so that we call that the"
+  },
+  {
+   "start": 1173.52,
+   "end": 1177.2,
+   "text": "physiologically active calcium that's"
+  },
+  {
+   "start": 1175.12,
+   "end": 1179.44,
+   "text": "probably what we should measure as often"
+  },
+  {
+   "start": 1177.2,
+   "end": 1181.28,
+   "text": "as possible"
+  },
+  {
+   "start": 1179.44,
+   "end": 1183.28,
+   "text": "there's also protein-bound calcium which"
+  },
+  {
+   "start": 1181.28,
+   "end": 1185.84,
+   "text": "i think of as kind of a reservoir of"
+  },
+  {
+   "start": 1183.28,
+   "end": 1188.88,
+   "text": "calcium importantly"
+  },
+  {
+   "start": 1185.84,
+   "end": 1190.96,
+   "text": "ph affects the equilibrium between"
+  },
+  {
+   "start": 1188.88,
+   "end": 1192.48,
+   "text": "calcium bound to protein and frequent"
+  },
+  {
+   "start": 1190.96,
+   "end": 1196.0,
+   "text": "free ionized calcium"
+  },
+  {
+   "start": 1192.48,
+   "end": 1197.2,
+   "text": "so more acidic phs lower phs that's"
+  },
+  {
+   "start": 1196.0,
+   "end": 1199.12,
+   "text": "going to favor"
+  },
+  {
+   "start": 1197.2,
+   "end": 1200.64,
+   "text": "dissociation of the calcium ions from"
+  },
+  {
+   "start": 1199.12,
+   "end": 1201.6,
+   "text": "the protein increasing the ionized"
+  },
+  {
+   "start": 1200.64,
+   "end": 1204.24,
+   "text": "calcium"
+  },
+  {
+   "start": 1201.6,
+   "end": 1206.4,
+   "text": "a higher more alkaline ph will cause"
+  },
+  {
+   "start": 1204.24,
+   "end": 1207.84,
+   "text": "more calcium being bound to the albumin"
+  },
+  {
+   "start": 1206.4,
+   "end": 1209.52,
+   "text": "and over on the right"
+  },
+  {
+   "start": 1207.84,
+   "end": 1211.28,
+   "text": "we look at the complex bound calcium"
+  },
+  {
+   "start": 1209.52,
+   "end": 1213.92,
+   "text": "that is calcium bound to relatively low"
+  },
+  {
+   "start": 1211.28,
+   "end": 1215.84,
+   "text": "molecular weight anions"
+  },
+  {
+   "start": 1213.92,
+   "end": 1218.16,
+   "text": "and if we look at these as bicarbonate"
+  },
+  {
+   "start": 1215.84,
+   "end": 1219.6,
+   "text": "citrate phosphate and lactate and the"
+  },
+  {
+   "start": 1218.16,
+   "end": 1221.12,
+   "text": "important point here to remember is that"
+  },
+  {
+   "start": 1219.6,
+   "end": 1223.6,
+   "text": "all of those"
+  },
+  {
+   "start": 1221.12,
+   "end": 1225.92,
+   "text": "uh can change either"
+  },
+  {
+   "start": 1223.6,
+   "end": 1228.16,
+   "text": "slightly or dramatically with critical"
+  },
+  {
+   "start": 1225.92,
+   "end": 1230.32,
+   "text": "care situations bicarbonate is affected"
+  },
+  {
+   "start": 1228.16,
+   "end": 1232.0,
+   "text": "by acid-base balance disturbances"
+  },
+  {
+   "start": 1230.32,
+   "end": 1234.16,
+   "text": "citrate can be given with situated blood"
+  },
+  {
+   "start": 1232.0,
+   "end": 1236.32,
+   "text": "products phosphate can change with"
+  },
+  {
+   "start": 1234.16,
+   "end": 1238.32,
+   "text": "change in renal function and lactate can"
+  },
+  {
+   "start": 1236.32,
+   "end": 1240.8,
+   "text": "increase rather dramatically with"
+  },
+  {
+   "start": 1238.32,
+   "end": 1242.72,
+   "text": "hypoxic conditions or with the"
+  },
+  {
+   "start": 1240.8,
+   "end": 1244.8,
+   "text": "with the mitochondrial dysfunction where"
+  },
+  {
+   "start": 1242.72,
+   "end": 1247.2,
+   "text": "it occurs at sepsis"
+  },
+  {
+   "start": 1244.8,
+   "end": 1249.12,
+   "text": "so just remember with ionized calcium as"
+  },
+  {
+   "start": 1247.2,
+   "end": 1251.04,
+   "text": "all the equilibrium and ph can affect"
+  },
+  {
+   "start": 1249.12,
+   "end": 1254.56,
+   "text": "that and adding any type of calcium"
+  },
+  {
+   "start": 1251.04,
+   "end": 1257.04,
+   "text": "chelator can affect that equilibrium"
+  },
+  {
+   "start": 1254.56,
+   "end": 1258.72,
+   "text": "so many factors can can affect ionized"
+  },
+  {
+   "start": 1257.04,
+   "end": 1261.2,
+   "text": "calcium concentrations in blood i've"
+  },
+  {
+   "start": 1258.72,
+   "end": 1262.88,
+   "text": "mentioned anticoagulants so edta and"
+  },
+  {
+   "start": 1261.2,
+   "end": 1265.2,
+   "text": "citrate are bad they're very tight"
+  },
+  {
+   "start": 1262.88,
+   "end": 1267.84,
+   "text": "binders of calcium and heparin can have"
+  },
+  {
+   "start": 1265.2,
+   "end": 1270.24,
+   "text": "an effect depending on its concentration"
+  },
+  {
+   "start": 1267.84,
+   "end": 1272.32,
+   "text": "and the type of heparin used"
+  },
+  {
+   "start": 1270.24,
+   "end": 1274.56,
+   "text": "clotting surprisingly and i'll show you"
+  },
+  {
+   "start": 1272.32,
+   "end": 1276.64,
+   "text": "some data on this clotting can cause"
+  },
+  {
+   "start": 1274.56,
+   "end": 1278.48,
+   "text": "unpredictable effects on ionized calcium"
+  },
+  {
+   "start": 1276.64,
+   "end": 1280.96,
+   "text": "with a mean decrease"
+  },
+  {
+   "start": 1278.48,
+   "end": 1282.8,
+   "text": "of about .03 millimoles per liter and"
+  },
+  {
+   "start": 1280.96,
+   "end": 1284.88,
+   "text": "quite a variation also and i'll show"
+  },
+  {
+   "start": 1282.8,
+   "end": 1286.24,
+   "text": "that in just a minute"
+  },
+  {
+   "start": 1284.88,
+   "end": 1287.68,
+   "text": "storage"
+  },
+  {
+   "start": 1286.24,
+   "end": 1289.68,
+   "text": "can affect ionized calcium so"
+  },
+  {
+   "start": 1287.68,
+   "end": 1292.4,
+   "text": "anticoagulated blood will have"
+  },
+  {
+   "start": 1289.68,
+   "end": 1293.92,
+   "text": "metabolism occurring can produce acid"
+  },
+  {
+   "start": 1292.4,
+   "end": 1296.16,
+   "text": "and can increase increased ionized"
+  },
+  {
+   "start": 1293.92,
+   "end": 1297.68,
+   "text": "calcium it can also produce lactate but"
+  },
+  {
+   "start": 1296.16,
+   "end": 1299.36,
+   "text": "curiously there's a"
+  },
+  {
+   "start": 1297.68,
+   "end": 1300.88,
+   "text": "odd equilibrium that occurs where"
+  },
+  {
+   "start": 1299.36,
+   "end": 1303.12,
+   "text": "lactate binds some of the calcium"
+  },
+  {
+   "start": 1300.88,
+   "end": 1304.56,
+   "text": "produced and tends to offset the effect"
+  },
+  {
+   "start": 1303.12,
+   "end": 1308.4,
+   "text": "of the hydrogen ions that are produced"
+  },
+  {
+   "start": 1304.56,
+   "end": 1308.4,
+   "text": "elsewhere in metabolism"
+  },
+  {
+   "start": 1309.12,
+   "end": 1312.96,
+   "text": "when serum or plasma is exposed to air"
+  },
+  {
+   "start": 1311.52,
+   "end": 1314.88,
+   "text": "or blood as well"
+  },
+  {
+   "start": 1312.96,
+   "end": 1316.24,
+   "text": "exposed to air that causes loss of"
+  },
+  {
+   "start": 1314.88,
+   "end": 1318.08,
+   "text": "carbon dioxide"
+  },
+  {
+   "start": 1316.24,
+   "end": 1320.4,
+   "text": "the sample becomes more alkaline and"
+  },
+  {
+   "start": 1318.08,
+   "end": 1323.04,
+   "text": "ionized calcium can decrease"
+  },
+  {
+   "start": 1320.4,
+   "end": 1324.88,
+   "text": "and less likely but can occur as extreme"
+  },
+  {
+   "start": 1323.04,
+   "end": 1326.8,
+   "text": "hemolysis gross molecules can have a"
+  },
+  {
+   "start": 1324.88,
+   "end": 1328.88,
+   "text": "delusional effect on the calcium results"
+  },
+  {
+   "start": 1326.8,
+   "end": 1331.88,
+   "text": "as it would similar to"
+  },
+  {
+   "start": 1328.88,
+   "end": 1331.88,
+   "text": "sodium"
+  },
+  {
+   "start": 1332.0,
+   "end": 1336.56,
+   "text": "table here which is a busy table and"
+  },
+  {
+   "start": 1334.4,
+   "end": 1338.24,
+   "text": "this is what we have we provide this for"
+  },
+  {
+   "start": 1336.56,
+   "end": 1338.96,
+   "text": "our technologists so that they can make"
+  },
+  {
+   "start": 1338.24,
+   "end": 1341.12,
+   "text": "a"
+  },
+  {
+   "start": 1338.96,
+   "end": 1343.6,
+   "text": "fairly independent decision when they"
+  },
+  {
+   "start": 1341.12,
+   "end": 1345.36,
+   "text": "get various types of samples and various"
+  },
+  {
+   "start": 1343.6,
+   "end": 1347.12,
+   "text": "types of specimen containers we have on"
+  },
+  {
+   "start": 1345.36,
+   "end": 1350.48,
+   "text": "the left column"
+  },
+  {
+   "start": 1347.12,
+   "end": 1352.96,
+   "text": "unopened syringe syringe is open briefly"
+  },
+  {
+   "start": 1350.48,
+   "end": 1355.12,
+   "text": "unopened vacutainer more than half full"
+  },
+  {
+   "start": 1352.96,
+   "end": 1356.96,
+   "text": "unopened vacutainer less than half full"
+  },
+  {
+   "start": 1355.12,
+   "end": 1358.4,
+   "text": "open vac container more than half full"
+  },
+  {
+   "start": 1356.96,
+   "end": 1359.68,
+   "text": "open vaccine or less than half full and"
+  },
+  {
+   "start": 1358.4,
+   "end": 1362.48,
+   "text": "finally at the bottom heparinized"
+  },
+  {
+   "start": 1359.68,
+   "end": 1365.28,
+   "text": "capillary tubes what we have is"
+  },
+  {
+   "start": 1362.48,
+   "end": 1367.28,
+   "text": "appropriate or acceptable time delays"
+  },
+  {
+   "start": 1365.28,
+   "end": 1369.12,
+   "text": "that we will accept the sample"
+  },
+  {
+   "start": 1367.28,
+   "end": 1371.2,
+   "text": "of result from each of those containers"
+  },
+  {
+   "start": 1369.12,
+   "end": 1373.12,
+   "text": "and i won't go over those but basically"
+  },
+  {
+   "start": 1371.2,
+   "end": 1374.48,
+   "text": "uh you know just look at the top of an"
+  },
+  {
+   "start": 1373.12,
+   "end": 1376.64,
+   "text": "unopened syringe"
+  },
+  {
+   "start": 1374.48,
+   "end": 1379.04,
+   "text": "we'll give a result with no comment up"
+  },
+  {
+   "start": 1376.64,
+   "end": 1380.48,
+   "text": "to 60 minutes and even up to eight hours"
+  },
+  {
+   "start": 1379.04,
+   "end": 1383.36,
+   "text": "but we will comment on that because the"
+  },
+  {
+   "start": 1380.48,
+   "end": 1385.92,
+   "text": "sample has been sitting around and"
+  },
+  {
+   "start": 1383.36,
+   "end": 1387.12,
+   "text": "the result may be slightly compromised"
+  },
+  {
+   "start": 1385.92,
+   "end": 1388.8,
+   "text": "now hopefully you'll have this where you"
+  },
+  {
+   "start": 1387.12,
+   "end": 1390.32,
+   "text": "can look at it and use that if you feel"
+  },
+  {
+   "start": 1388.8,
+   "end": 1392.64,
+   "text": "like necessary in your actual lab"
+  },
+  {
+   "start": 1390.32,
+   "end": 1392.64,
+   "text": "setting"
+  },
+  {
+   "start": 1394.48,
+   "end": 1397.84,
+   "text": "looking at the anticoagulant effects on"
+  },
+  {
+   "start": 1396.08,
+   "end": 1401.04,
+   "text": "ionized calcium as i've said before"
+  },
+  {
+   "start": 1397.84,
+   "end": 1402.72,
+   "text": "citrate or edk must never be used"
+  },
+  {
+   "start": 1401.04,
+   "end": 1404.48,
+   "text": "older liquid heparins significantly"
+  },
+  {
+   "start": 1402.72,
+   "end": 1406.64,
+   "text": "decrease calcium now that will dilute"
+  },
+  {
+   "start": 1404.48,
+   "end": 1408.64,
+   "text": "blood and bind calcium ions and also"
+  },
+  {
+   "start": 1406.64,
+   "end": 1410.96,
+   "text": "dilute anything that's not in the liquid"
+  },
+  {
+   "start": 1408.64,
+   "end": 1413.04,
+   "text": "peppermint itself so that this was a"
+  },
+  {
+   "start": 1410.96,
+   "end": 1415.44,
+   "text": "little problem back years ago"
+  },
+  {
+   "start": 1413.04,
+   "end": 1417.92,
+   "text": "when blood gas analyzer she did only ph"
+  },
+  {
+   "start": 1415.44,
+   "end": 1420.08,
+   "text": "pco2 and po2"
+  },
+  {
+   "start": 1417.92,
+   "end": 1422.32,
+   "text": "but now that they do electrolytes and"
+  },
+  {
+   "start": 1420.08,
+   "end": 1424.0,
+   "text": "lactating glucose and maybe others that"
+  },
+  {
+   "start": 1422.32,
+   "end": 1425.6,
+   "text": "becomes a big problem however the good"
+  },
+  {
+   "start": 1424.0,
+   "end": 1428.0,
+   "text": "news is as you probably know liquid"
+  },
+  {
+   "start": 1425.6,
+   "end": 1430.0,
+   "text": "heparin is almost never used anymore but"
+  },
+  {
+   "start": 1428.0,
+   "end": 1432.0,
+   "text": "the areas where we found it being used"
+  },
+  {
+   "start": 1430.0,
+   "end": 1433.2,
+   "text": "is in the poorer countries and more"
+  },
+  {
+   "start": 1432.0,
+   "end": 1435.12,
+   "text": "maybe poor"
+  },
+  {
+   "start": 1433.2,
+   "end": 1437.44,
+   "text": "locations"
+  },
+  {
+   "start": 1435.12,
+   "end": 1439.12,
+   "text": "to save money where they add the liquid"
+  },
+  {
+   "start": 1437.44,
+   "end": 1440.16,
+   "text": "heparin to the tubes or the syringes in"
+  },
+  {
+   "start": 1439.12,
+   "end": 1442.0,
+   "text": "order to"
+  },
+  {
+   "start": 1440.16,
+   "end": 1443.44,
+   "text": "be which is apparently"
+  },
+  {
+   "start": 1442.0,
+   "end": 1446.8,
+   "text": "less expensive than buying the"
+  },
+  {
+   "start": 1443.44,
+   "end": 1448.56,
+   "text": "pre-heparinized syringes and tubes"
+  },
+  {
+   "start": 1446.8,
+   "end": 1451.44,
+   "text": "ordinary dry heparin and syringes or"
+  },
+  {
+   "start": 1448.56,
+   "end": 1454.4,
+   "text": "tubes will decrease calcium"
+  },
+  {
+   "start": 1451.44,
+   "end": 1456.16,
+   "text": "and for example 25 iu per ml of sodium"
+  },
+  {
+   "start": 1454.4,
+   "end": 1458.16,
+   "text": "heparin will decrease ionized calcium by"
+  },
+  {
+   "start": 1456.16,
+   "end": 1460.64,
+   "text": "about .05 millimoles per year that would"
+  },
+  {
+   "start": 1458.16,
+   "end": 1462.56,
+   "text": "be the same philippine pepper as well"
+  },
+  {
+   "start": 1460.64,
+   "end": 1464.08,
+   "text": "however many dry heparin preparations"
+  },
+  {
+   "start": 1462.56,
+   "end": 1465.84,
+   "text": "have been developed to minimize this"
+  },
+  {
+   "start": 1464.08,
+   "end": 1467.84,
+   "text": "effect these could be most commonly"
+  },
+  {
+   "start": 1465.84,
+   "end": 1470.32,
+   "text": "calcium balanced heparin or electrolyte"
+  },
+  {
+   "start": 1467.84,
+   "end": 1471.92,
+   "text": "balanced heparin there's also one"
+  },
+  {
+   "start": 1470.32,
+   "end": 1473.52,
+   "text": "made by a company that has the heparin"
+  },
+  {
+   "start": 1471.92,
+   "end": 1475.2,
+   "text": "dispersed and a fast dissolving"
+  },
+  {
+   "start": 1473.52,
+   "end": 1478.0,
+   "text": "saccharide web i like to think of this"
+  },
+  {
+   "start": 1475.2,
+   "end": 1480.08,
+   "text": "like cotton candy so heparin is a bound"
+  },
+  {
+   "start": 1478.0,
+   "end": 1481.12,
+   "text": "to cotton candy dissolves very quickly"
+  },
+  {
+   "start": 1480.08,
+   "end": 1482.96,
+   "text": "and that"
+  },
+  {
+   "start": 1481.12,
+   "end": 1484.24,
+   "text": "allows them to use less heparin but it"
+  },
+  {
+   "start": 1482.96,
+   "end": 1487.36,
+   "text": "gets to dissolve"
+  },
+  {
+   "start": 1484.24,
+   "end": 1489.28,
+   "text": "very quickly"
+  },
+  {
+   "start": 1487.36,
+   "end": 1491.44,
+   "text": "study we did now quite a number of years"
+  },
+  {
+   "start": 1489.28,
+   "end": 1493.36,
+   "text": "ago published in 2001 when we looked at"
+  },
+  {
+   "start": 1491.44,
+   "end": 1494.4,
+   "text": "various syringes"
+  },
+  {
+   "start": 1493.36,
+   "end": 1496.56,
+   "text": "and also"
+  },
+  {
+   "start": 1494.4,
+   "end": 1497.44,
+   "text": "blood collected for serum"
+  },
+  {
+   "start": 1496.56,
+   "end": 1499.36,
+   "text": "on the"
+  },
+  {
+   "start": 1497.44,
+   "end": 1501.04,
+   "text": "x-axis we have the difference of"
+  },
+  {
+   "start": 1499.36,
+   "end": 1503.28,
+   "text": "syringes"
+  },
+  {
+   "start": 1501.04,
+   "end": 1504.56,
+   "text": "on the y-axis we have changes in ionized"
+  },
+  {
+   "start": 1503.28,
+   "end": 1506.64,
+   "text": "calcium"
+  },
+  {
+   "start": 1504.56,
+   "end": 1509.04,
+   "text": "and the the colorful areas to see the"
+  },
+  {
+   "start": 1506.64,
+   "end": 1510.8,
+   "text": "more solid blocks those are the mean"
+  },
+  {
+   "start": 1509.04,
+   "end": 1513.12,
+   "text": "changes so for example in the first one"
+  },
+  {
+   "start": 1510.8,
+   "end": 1515.12,
+   "text": "on the left there's a mean change of"
+  },
+  {
+   "start": 1513.12,
+   "end": 1517.68,
+   "text": "either a half full or a full syringe of"
+  },
+  {
+   "start": 1515.12,
+   "end": 1520.16,
+   "text": "relatively small you know less than .01"
+  },
+  {
+   "start": 1517.68,
+   "end": 1521.68,
+   "text": "millimeter decrease the next would be a"
+  },
+  {
+   "start": 1520.16,
+   "end": 1523.36,
+   "text": "slight increase"
+  },
+  {
+   "start": 1521.68,
+   "end": 1525.2,
+   "text": "and so you can see that there uh with"
+  },
+  {
+   "start": 1523.36,
+   "end": 1527.68,
+   "text": "with the first three products there very"
+  },
+  {
+   "start": 1525.2,
+   "end": 1530.0,
+   "text": "little change although the variation"
+  },
+  {
+   "start": 1527.68,
+   "end": 1532.16,
+   "text": "was was less for that that product that"
+  },
+  {
+   "start": 1530.0,
+   "end": 1533.68,
+   "text": "has a very low heparin"
+  },
+  {
+   "start": 1532.16,
+   "end": 1535.92,
+   "text": "there's a product no longer made that"
+  },
+  {
+   "start": 1533.68,
+   "end": 1538.24,
+   "text": "use zig heparin and that's the fourth"
+  },
+  {
+   "start": 1535.92,
+   "end": 1540.56,
+   "text": "one of those and you can see that it had"
+  },
+  {
+   "start": 1538.24,
+   "end": 1541.52,
+   "text": "a modest effect when full but a bigger"
+  },
+  {
+   "start": 1540.56,
+   "end": 1543.36,
+   "text": "effect"
+  },
+  {
+   "start": 1541.52,
+   "end": 1544.8,
+   "text": "when it was half full"
+  },
+  {
+   "start": 1543.36,
+   "end": 1546.4,
+   "text": "and also a lot of variability now the"
+  },
+  {
+   "start": 1544.8,
+   "end": 1547.52,
+   "text": "surprising one of this is when we looked"
+  },
+  {
+   "start": 1546.4,
+   "end": 1549.2,
+   "text": "at serum"
+  },
+  {
+   "start": 1547.52,
+   "end": 1551.12,
+   "text": "the average change in serum when you"
+  },
+  {
+   "start": 1549.2,
+   "end": 1553.84,
+   "text": "collect serum is about a decrease of"
+  },
+  {
+   "start": 1551.12,
+   "end": 1555.92,
+   "text": "about .03 millimoles per liter but a lot"
+  },
+  {
+   "start": 1553.84,
+   "end": 1557.92,
+   "text": "of variation now you may be asking how"
+  },
+  {
+   "start": 1555.92,
+   "end": 1559.52,
+   "text": "do we know what the true value was well"
+  },
+  {
+   "start": 1557.92,
+   "end": 1561.68,
+   "text": "back in the day"
+  },
+  {
+   "start": 1559.52,
+   "end": 1564.48,
+   "text": "we would collect blood from volunteers"
+  },
+  {
+   "start": 1561.68,
+   "end": 1566.72,
+   "text": "healthy volunteers and inject it without"
+  },
+  {
+   "start": 1564.48,
+   "end": 1568.88,
+   "text": "anticoagulant and inject immediately"
+  },
+  {
+   "start": 1566.72,
+   "end": 1571.84,
+   "text": "into our blood gas analyzer and then the"
+  },
+  {
+   "start": 1568.88,
+   "end": 1573.12,
+   "text": "rest we put into various tubes or"
+  },
+  {
+   "start": 1571.84,
+   "end": 1575.44,
+   "text": "syringes"
+  },
+  {
+   "start": 1573.12,
+   "end": 1577.28,
+   "text": "and we consider the value we got on the"
+  },
+  {
+   "start": 1575.44,
+   "end": 1579.28,
+   "text": "unheparinized immediately analyzed"
+  },
+  {
+   "start": 1577.28,
+   "end": 1581.04,
+   "text": "samples that was a true value and so we"
+  },
+  {
+   "start": 1579.28,
+   "end": 1583.6,
+   "text": "looked at changes versus that so that's"
+  },
+  {
+   "start": 1581.04,
+   "end": 1586.0,
+   "text": "how we did it i don't recommend that but"
+  },
+  {
+   "start": 1583.6,
+   "end": 1589.44,
+   "text": "we if we did it really right away we i"
+  },
+  {
+   "start": 1586.0,
+   "end": 1589.44,
+   "text": "don't recall we ever got a clot"
+  },
+  {
+   "start": 1591.44,
+   "end": 1595.04,
+   "text": "now lactate lactate has achieved much"
+  },
+  {
+   "start": 1593.44,
+   "end": 1597.2,
+   "text": "greater importance over the last several"
+  },
+  {
+   "start": 1595.04,
+   "end": 1599.2,
+   "text": "years and because it's used with sepsis"
+  },
+  {
+   "start": 1597.2,
+   "end": 1601.12,
+   "text": "sets is very common"
+  },
+  {
+   "start": 1599.2,
+   "end": 1603.52,
+   "text": "it's also been always been a marker for"
+  },
+  {
+   "start": 1601.12,
+   "end": 1605.2,
+   "text": "hypoxemia conditions"
+  },
+  {
+   "start": 1603.52,
+   "end": 1606.8,
+   "text": "i also want to emphasize that lactate"
+  },
+  {
+   "start": 1605.2,
+   "end": 1608.8,
+   "text": "increases when there's mitochondrial"
+  },
+  {
+   "start": 1606.8,
+   "end": 1610.48,
+   "text": "dysfunction because that means this body"
+  },
+  {
+   "start": 1608.8,
+   "end": 1612.96,
+   "text": "is that the cells are unable to utilize"
+  },
+  {
+   "start": 1610.48,
+   "end": 1615.2,
+   "text": "oxygen properly so let's look at how"
+  },
+  {
+   "start": 1612.96,
+   "end": 1616.48,
+   "text": "lactate increases in blood containing"
+  },
+  {
+   "start": 1615.2,
+   "end": 1619.36,
+   "text": "various types of"
+  },
+  {
+   "start": 1616.48,
+   "end": 1621.52,
+   "text": "antiquates anticoagulants or additives"
+  },
+  {
+   "start": 1619.36,
+   "end": 1623.76,
+   "text": "starting at the top we have plasma"
+  },
+  {
+   "start": 1621.52,
+   "end": 1625.76,
+   "text": "either cold temperatures or room"
+  },
+  {
+   "start": 1623.76,
+   "end": 1627.92,
+   "text": "temperature if we add fluoride oxalate"
+  },
+  {
+   "start": 1625.76,
+   "end": 1629.36,
+   "text": "to that like in a gray top tube"
+  },
+  {
+   "start": 1627.92,
+   "end": 1631.28,
+   "text": "even after eight hours there's very"
+  },
+  {
+   "start": 1629.36,
+   "end": 1633.12,
+   "text": "little change in lactate"
+  },
+  {
+   "start": 1631.28,
+   "end": 1634.72,
+   "text": "less than .03 millimoles per liter i"
+  },
+  {
+   "start": 1633.12,
+   "end": 1636.4,
+   "text": "would say that we can easily go to 24"
+  },
+  {
+   "start": 1634.72,
+   "end": 1637.92,
+   "text": "hours and have virtually a very"
+  },
+  {
+   "start": 1636.4,
+   "end": 1640.48,
+   "text": "insignificant effects if there's"
+  },
+  {
+   "start": 1637.92,
+   "end": 1642.88,
+   "text": "fluoride oxalate present in plasma"
+  },
+  {
+   "start": 1640.48,
+   "end": 1644.88,
+   "text": "if you leave plasma at room temperature"
+  },
+  {
+   "start": 1642.88,
+   "end": 1646.48,
+   "text": "no additives good for about two hours"
+  },
+  {
+   "start": 1644.88,
+   "end": 1649.04,
+   "text": "with uh maybe only a point one"
+  },
+  {
+   "start": 1646.48,
+   "end": 1650.16,
+   "text": "millimeter change in lactate"
+  },
+  {
+   "start": 1649.04,
+   "end": 1651.52,
+   "text": "whole blood at room temperature with"
+  },
+  {
+   "start": 1650.16,
+   "end": 1654.08,
+   "text": "fluoride oxalate"
+  },
+  {
+   "start": 1651.52,
+   "end": 1656.24,
+   "text": "also quite stable after two hours very"
+  },
+  {
+   "start": 1654.08,
+   "end": 1658.64,
+   "text": "little change in black tape"
+  },
+  {
+   "start": 1656.24,
+   "end": 1660.56,
+   "text": "whole blood on ice is pretty good"
+  },
+  {
+   "start": 1658.64,
+   "end": 1662.08,
+   "text": "with additive either being no additive"
+  },
+  {
+   "start": 1660.56,
+   "end": 1664.56,
+   "text": "or heparin"
+  },
+  {
+   "start": 1662.08,
+   "end": 1667.04,
+   "text": "after 60 minutes only again again a very"
+  },
+  {
+   "start": 1664.56,
+   "end": 1669.2,
+   "text": "small increase in lactate however at the"
+  },
+  {
+   "start": 1667.04,
+   "end": 1671.44,
+   "text": "very bottom we get with whole blood room"
+  },
+  {
+   "start": 1669.2,
+   "end": 1673.44,
+   "text": "temperature and no additive"
+  },
+  {
+   "start": 1671.44,
+   "end": 1675.44,
+   "text": "after 30 minutes"
+  },
+  {
+   "start": 1673.44,
+   "end": 1677.52,
+   "text": "we do see a significant change in"
+  },
+  {
+   "start": 1675.44,
+   "end": 1679.44,
+   "text": "lactate of about 0.3 millimoles per"
+  },
+  {
+   "start": 1677.52,
+   "end": 1682.0,
+   "text": "liter and that can vary"
+  },
+  {
+   "start": 1679.44,
+   "end": 1682.96,
+   "text": "and let me show you a study we did just"
+  },
+  {
+   "start": 1682.0,
+   "end": 1684.56,
+   "text": "for our"
+  },
+  {
+   "start": 1682.96,
+   "end": 1686.32,
+   "text": "edification"
+  },
+  {
+   "start": 1684.56,
+   "end": 1688.32,
+   "text": "we looked at five different samples and"
+  },
+  {
+   "start": 1686.32,
+   "end": 1689.84,
+   "text": "time the changes in lactate when they're"
+  },
+  {
+   "start": 1688.32,
+   "end": 1691.84,
+   "text": "stored at room temperature these are"
+  },
+  {
+   "start": 1689.84,
+   "end": 1693.68,
+   "text": "heparinized blood gas samples"
+  },
+  {
+   "start": 1691.84,
+   "end": 1696.32,
+   "text": "at room temperature and you can see that"
+  },
+  {
+   "start": 1693.68,
+   "end": 1699.2,
+   "text": "the average that solid line is exactly"
+  },
+  {
+   "start": 1696.32,
+   "end": 1702.16,
+   "text": "what we had reported earlier what others"
+  },
+  {
+   "start": 1699.2,
+   "end": 1704.56,
+   "text": "reported a 0.3 millimolar change in"
+  },
+  {
+   "start": 1702.16,
+   "end": 1706.96,
+   "text": "lactate after 30 minutes so the average"
+  },
+  {
+   "start": 1704.56,
+   "end": 1708.88,
+   "text": "is exactly that and it's barely"
+  },
+  {
+   "start": 1706.96,
+   "end": 1711.04,
+   "text": "consistent very linear as you go up"
+  },
+  {
+   "start": 1708.88,
+   "end": 1712.88,
+   "text": "greater time however you do see that"
+  },
+  {
+   "start": 1711.04,
+   "end": 1715.12,
+   "text": "there's variation so that one sample i"
+  },
+  {
+   "start": 1712.88,
+   "end": 1717.04,
+   "text": "believe that would be simple number five"
+  },
+  {
+   "start": 1715.12,
+   "end": 1719.04,
+   "text": "had a higher change than that faster"
+  },
+  {
+   "start": 1717.04,
+   "end": 1720.48,
+   "text": "more rapid change in lactate while the"
+  },
+  {
+   "start": 1719.04,
+   "end": 1722.72,
+   "text": "others tend to be right on around the"
+  },
+  {
+   "start": 1720.48,
+   "end": 1724.8,
+   "text": "mean or maybe a little bit less"
+  },
+  {
+   "start": 1722.72,
+   "end": 1727.04,
+   "text": "but i think it's good to go with the"
+  },
+  {
+   "start": 1724.8,
+   "end": 1730.08,
+   "text": "average and and just be careful about"
+  },
+  {
+   "start": 1727.04,
+   "end": 1730.08,
+   "text": "all those other conditions"
+  },
+  {
+   "start": 1730.88,
+   "end": 1736.72,
+   "text": "colloquy but some of the other"
+  },
+  {
+   "start": 1733.84,
+   "end": 1738.64,
+   "text": "other analytes are included here as well"
+  },
+  {
+   "start": 1736.72,
+   "end": 1741.36,
+   "text": "so with co-oximetry the collection is"
+  },
+  {
+   "start": 1738.64,
+   "end": 1742.88,
+   "text": "important we can get venus add mixture"
+  },
+  {
+   "start": 1741.36,
+   "end": 1744.72,
+   "text": "you know let's say we want to collect"
+  },
+  {
+   "start": 1742.88,
+   "end": 1746.48,
+   "text": "the arterial sample it's possible to get"
+  },
+  {
+   "start": 1744.72,
+   "end": 1748.24,
+   "text": "some of the venous blood in that or vice"
+  },
+  {
+   "start": 1746.48,
+   "end": 1749.92,
+   "text": "versa if we want a venous sample if we"
+  },
+  {
+   "start": 1748.24,
+   "end": 1752.8,
+   "text": "go deep enough we might get an arterial"
+  },
+  {
+   "start": 1749.92,
+   "end": 1755.04,
+   "text": "sample we hope not but that can cause"
+  },
+  {
+   "start": 1752.8,
+   "end": 1756.8,
+   "text": "oxia hemoglobin and oxygen content"
+  },
+  {
+   "start": 1755.04,
+   "end": 1758.48,
+   "text": "errors"
+  },
+  {
+   "start": 1756.8,
+   "end": 1759.68,
+   "text": "but either way whether it be venous or"
+  },
+  {
+   "start": 1758.48,
+   "end": 1761.76,
+   "text": "arterial"
+  },
+  {
+   "start": 1759.68,
+   "end": 1763.76,
+   "text": "if there's insufficient line waste draw"
+  },
+  {
+   "start": 1761.76,
+   "end": 1765.28,
+   "text": "you can get contamination with that iv"
+  },
+  {
+   "start": 1763.76,
+   "end": 1767.28,
+   "text": "fluid"
+  },
+  {
+   "start": 1765.28,
+   "end": 1769.44,
+   "text": "extracellular fluid contamination is"
+  },
+  {
+   "start": 1767.28,
+   "end": 1772.16,
+   "text": "particularly"
+  },
+  {
+   "start": 1769.44,
+   "end": 1773.76,
+   "text": "common with capillary samples"
+  },
+  {
+   "start": 1772.16,
+   "end": 1775.6,
+   "text": "among the pre-analytical errors are"
+  },
+  {
+   "start": 1773.76,
+   "end": 1778.08,
+   "text": "metabolism or icing for storage and"
+  },
+  {
+   "start": 1775.6,
+   "end": 1779.52,
+   "text": "transport"
+  },
+  {
+   "start": 1778.08,
+   "end": 1781.36,
+   "text": "and i'll talk about that later"
+  },
+  {
+   "start": 1779.52,
+   "end": 1782.72,
+   "text": "inadequate mixing also talk about that"
+  },
+  {
+   "start": 1781.36,
+   "end": 1784.88,
+   "text": "later liquid heparin dilution that's"
+  },
+  {
+   "start": 1782.72,
+   "end": 1787.04,
+   "text": "rare because again we don't use"
+  },
+  {
+   "start": 1784.88,
+   "end": 1788.72,
+   "text": "a liquid heparin much anymore at all for"
+  },
+  {
+   "start": 1787.04,
+   "end": 1791.76,
+   "text": "for anticoagulants"
+  },
+  {
+   "start": 1788.72,
+   "end": 1793.52,
+   "text": "in a blood collection device"
+  },
+  {
+   "start": 1791.76,
+   "end": 1795.12,
+   "text": "trapped air is a big concern"
+  },
+  {
+   "start": 1793.52,
+   "end": 1796.32,
+   "text": "particularly with pneumatic tube system"
+  },
+  {
+   "start": 1795.12,
+   "end": 1797.76,
+   "text": "transport"
+  },
+  {
+   "start": 1796.32,
+   "end": 1800.16,
+   "text": "cause errors"
+  },
+  {
+   "start": 1797.76,
+   "end": 1802.08,
+   "text": "initially with po2 but change in that"
+  },
+  {
+   "start": 1800.16,
+   "end": 1803.68,
+   "text": "can also affect the oxyhemoglobin and"
+  },
+  {
+   "start": 1802.08,
+   "end": 1804.8,
+   "text": "the oxygen content"
+  },
+  {
+   "start": 1803.68,
+   "end": 1805.76,
+   "text": "and finally we have at the bottom"
+  },
+  {
+   "start": 1804.8,
+   "end": 1806.64,
+   "text": "analytic"
+  },
+  {
+   "start": 1805.76,
+   "end": 1808.16,
+   "text": "errors"
+  },
+  {
+   "start": 1806.64,
+   "end": 1810.88,
+   "text": "caused by interfering light-absorbing"
+  },
+  {
+   "start": 1808.16,
+   "end": 1812.72,
+   "text": "substances this would most commonly be a"
+  },
+  {
+   "start": 1810.88,
+   "end": 1814.8,
+   "text": "lipase if there's a very high lipid"
+  },
+  {
+   "start": 1812.72,
+   "end": 1816.4,
+   "text": "content that will make a turbine can"
+  },
+  {
+   "start": 1814.8,
+   "end": 1818.72,
+   "text": "affect light absorbance"
+  },
+  {
+   "start": 1816.4,
+   "end": 1820.4,
+   "text": "but also salt hemoglobin hemoglobin"
+  },
+  {
+   "start": 1818.72,
+   "end": 1822.64,
+   "text": "variance and cobalamins and other"
+  },
+  {
+   "start": 1820.4,
+   "end": 1823.92,
+   "text": "colored compounds can affect can absorb"
+  },
+  {
+   "start": 1822.64,
+   "end": 1825.28,
+   "text": "light and affect the result those are"
+  },
+  {
+   "start": 1823.92,
+   "end": 1827.36,
+   "text": "less common"
+  },
+  {
+   "start": 1825.28,
+   "end": 1830.0,
+   "text": "or more common i'm sorry less common"
+  },
+  {
+   "start": 1827.36,
+   "end": 1830.0,
+   "text": "than lipids"
+  },
+  {
+   "start": 1831.52,
+   "end": 1835.36,
+   "text": "improper mixing is a concern"
+  },
+  {
+   "start": 1833.92,
+   "end": 1837.52,
+   "text": "first of all"
+  },
+  {
+   "start": 1835.36,
+   "end": 1839.68,
+   "text": "if you let whole blood samples sit they"
+  },
+  {
+   "start": 1837.52,
+   "end": 1841.52,
+   "text": "sediment fairly rapidly"
+  },
+  {
+   "start": 1839.68,
+   "end": 1842.88,
+   "text": "that's with any sample any"
+  },
+  {
+   "start": 1841.52,
+   "end": 1844.64,
+   "text": "whole blood sample"
+  },
+  {
+   "start": 1842.88,
+   "end": 1846.32,
+   "text": "but this is especially so with"
+  },
+  {
+   "start": 1844.64,
+   "end": 1847.84,
+   "text": "inflammatory conditions because if you"
+  },
+  {
+   "start": 1846.32,
+   "end": 1850.32,
+   "text": "think about it that's the basis of the"
+  },
+  {
+   "start": 1847.84,
+   "end": 1851.92,
+   "text": "old celery test it's been around for"
+  },
+  {
+   "start": 1850.32,
+   "end": 1852.72,
+   "text": "many many many years"
+  },
+  {
+   "start": 1851.92,
+   "end": 1854.4,
+   "text": "and"
+  },
+  {
+   "start": 1852.72,
+   "end": 1855.84,
+   "text": "inflammato inflammatory conditions are"
+  },
+  {
+   "start": 1854.4,
+   "end": 1857.92,
+   "text": "very common in the hospital you know"
+  },
+  {
+   "start": 1855.84,
+   "end": 1859.6,
+   "text": "with any type of chronic infection steps"
+  },
+  {
+   "start": 1857.92,
+   "end": 1861.6,
+   "text": "even during operations"
+  },
+  {
+   "start": 1859.6,
+   "end": 1863.36,
+   "text": "chronic kidney diseases lupus rheumatoid"
+  },
+  {
+   "start": 1861.6,
+   "end": 1865.52,
+   "text": "arthritis and many others so"
+  },
+  {
+   "start": 1863.36,
+   "end": 1868.64,
+   "text": "inflammation is a very common occurrence"
+  },
+  {
+   "start": 1865.52,
+   "end": 1871.2,
+   "text": "where that becomes a concern is that"
+  },
+  {
+   "start": 1868.64,
+   "end": 1874.0,
+   "text": "it makes sample sediment even faster if"
+  },
+  {
+   "start": 1871.2,
+   "end": 1875.68,
+   "text": "you let them sit so i would say even"
+  },
+  {
+   "start": 1874.0,
+   "end": 1877.68,
+   "text": "three or four minutes of sitting can"
+  },
+  {
+   "start": 1875.68,
+   "end": 1879.44,
+   "text": "start to cause the cells to"
+  },
+  {
+   "start": 1877.68,
+   "end": 1882.08,
+   "text": "sediment"
+  },
+  {
+   "start": 1879.44,
+   "end": 1884.56,
+   "text": "so it's important to mix thoroughly in"
+  },
+  {
+   "start": 1882.08,
+   "end": 1887.68,
+   "text": "two axis after the draw to distribute"
+  },
+  {
+   "start": 1884.56,
+   "end": 1889.12,
+   "text": "the heparin and also before the analysis"
+  },
+  {
+   "start": 1887.68,
+   "end": 1892.56,
+   "text": "so proper mixing will reduce the"
+  },
+  {
+   "start": 1889.12,
+   "end": 1893.92,
+   "text": "hemoglobin and oxygen content errors and"
+  },
+  {
+   "start": 1892.56,
+   "end": 1895.68,
+   "text": "mixing immediately after collection"
+  },
+  {
+   "start": 1893.92,
+   "end": 1898.4,
+   "text": "prevents coagulation and formation of"
+  },
+  {
+   "start": 1895.68,
+   "end": 1898.4,
+   "text": "microclimates"
+  },
+  {
+   "start": 1898.88,
+   "end": 1902.0,
+   "text": "okay"
+  },
+  {
+   "start": 1900.24,
+   "end": 1903.76,
+   "text": "this is a big problem because it can"
+  },
+  {
+   "start": 1902.0,
+   "end": 1905.68,
+   "text": "very frequently happen"
+  },
+  {
+   "start": 1903.76,
+   "end": 1907.92,
+   "text": "and a person may not the collector may"
+  },
+  {
+   "start": 1905.68,
+   "end": 1909.68,
+   "text": "not expel the air bubbles appropriately"
+  },
+  {
+   "start": 1907.92,
+   "end": 1911.28,
+   "text": "so trapped there can significantly lower"
+  },
+  {
+   "start": 1909.68,
+   "end": 1913.44,
+   "text": "a raised to2"
+  },
+  {
+   "start": 1911.28,
+   "end": 1915.6,
+   "text": "percent oxenemoglobin and oxygen content"
+  },
+  {
+   "start": 1913.44,
+   "end": 1917.36,
+   "text": "of blood samples as i've mentioned"
+  },
+  {
+   "start": 1915.6,
+   "end": 1920.88,
+   "text": "the variables are the volume of trapped"
+  },
+  {
+   "start": 1917.36,
+   "end": 1923.52,
+   "text": "air added so of course more air added"
+  },
+  {
+   "start": 1920.88,
+   "end": 1923.52,
+   "text": "is a concern"
+  },
+  {
+   "start": 1923.84,
+   "end": 1927.68,
+   "text": "agitation of the syringe by pneumatic"
+  },
+  {
+   "start": 1925.76,
+   "end": 1929.52,
+   "text": "tube transport"
+  },
+  {
+   "start": 1927.68,
+   "end": 1931.28,
+   "text": "is a concern"
+  },
+  {
+   "start": 1929.52,
+   "end": 1933.44,
+   "text": "the number and size of air bubbles so"
+  },
+  {
+   "start": 1931.28,
+   "end": 1934.88,
+   "text": "one big air bubble is less has lessened"
+  },
+  {
+   "start": 1933.44,
+   "end": 1936.32,
+   "text": "effect than the numerous small air"
+  },
+  {
+   "start": 1934.88,
+   "end": 1938.16,
+   "text": "bubbles because of surface area to"
+  },
+  {
+   "start": 1936.32,
+   "end": 1940.64,
+   "text": "volume relationships"
+  },
+  {
+   "start": 1938.16,
+   "end": 1941.92,
+   "text": "the original po2 of the sample can be"
+  },
+  {
+   "start": 1940.64,
+   "end": 1943.84,
+   "text": "it'd be important as i'll show you in"
+  },
+  {
+   "start": 1941.92,
+   "end": 1945.28,
+   "text": "the next in the next slide"
+  },
+  {
+   "start": 1943.84,
+   "end": 1948.08,
+   "text": "and the original hemoglobin"
+  },
+  {
+   "start": 1945.28,
+   "end": 1950.88,
+   "text": "concentration and oxyhemoglobin levels"
+  },
+  {
+   "start": 1948.08,
+   "end": 1952.8,
+   "text": "are also important so oxygen is buffered"
+  },
+  {
+   "start": 1950.88,
+   "end": 1954.48,
+   "text": "by hemoglobin so we have a high"
+  },
+  {
+   "start": 1952.8,
+   "end": 1956.8,
+   "text": "hemoglobin concentration that's going to"
+  },
+  {
+   "start": 1954.48,
+   "end": 1960.84,
+   "text": "show less of an effect on the oxygen"
+  },
+  {
+   "start": 1956.8,
+   "end": 1960.84,
+   "text": "parameters than the low hemoglobin"
+  },
+  {
+   "start": 1962.08,
+   "end": 1969.52,
+   "text": "a study we did a few years ago"
+  },
+  {
+   "start": 1966.64,
+   "end": 1972.4,
+   "text": "on the x-axis we have the original po2"
+  },
+  {
+   "start": 1969.52,
+   "end": 1975.12,
+   "text": "of the blood sample so anywhere from 40"
+  },
+  {
+   "start": 1972.4,
+   "end": 1976.8,
+   "text": "up to over 250 millimeters of mercury"
+  },
+  {
+   "start": 1975.12,
+   "end": 1978.56,
+   "text": "the sample that we looked at"
+  },
+  {
+   "start": 1976.8,
+   "end": 1981.68,
+   "text": "we would then add who analyzed that"
+  },
+  {
+   "start": 1978.56,
+   "end": 1983.76,
+   "text": "sample for for po2 we then add a 20"
+  },
+  {
+   "start": 1981.68,
+   "end": 1985.68,
+   "text": "microliter air bubble and a 40"
+  },
+  {
+   "start": 1983.76,
+   "end": 1987.04,
+   "text": "microliter air bubble to about one ml of"
+  },
+  {
+   "start": 1985.68,
+   "end": 1989.28,
+   "text": "that blood"
+  },
+  {
+   "start": 1987.04,
+   "end": 1991.2,
+   "text": "and in in separate syringes we send it"
+  },
+  {
+   "start": 1989.28,
+   "end": 1992.72,
+   "text": "by pneumatic transport on a circuitous"
+  },
+  {
+   "start": 1991.2,
+   "end": 1995.28,
+   "text": "route that brought it back to the left"
+  },
+  {
+   "start": 1992.72,
+   "end": 1998.32,
+   "text": "and we then measure the po2 and this"
+  },
+  {
+   "start": 1995.28,
+   "end": 2000.64,
+   "text": "shows the changes in po2 that occur"
+  },
+  {
+   "start": 1998.32,
+   "end": 2002.56,
+   "text": "most cases when you have up to about"
+  },
+  {
+   "start": 2000.64,
+   "end": 2004.88,
+   "text": "over 150 millimeters of mercury it"
+  },
+  {
+   "start": 2002.56,
+   "end": 2006.64,
+   "text": "increases the po2 just some things to"
+  },
+  {
+   "start": 2004.88,
+   "end": 2009.28,
+   "text": "point out when you have a very low po2"
+  },
+  {
+   "start": 2006.64,
+   "end": 2011.68,
+   "text": "like 40 50 60 the effect is relatively"
+  },
+  {
+   "start": 2009.28,
+   "end": 2013.28,
+   "text": "small if you have a small air bubble 20"
+  },
+  {
+   "start": 2011.68,
+   "end": 2015.44,
+   "text": "microliters i don't want to encourage"
+  },
+  {
+   "start": 2013.28,
+   "end": 2016.72,
+   "text": "that i'm just saying that we're somewhat"
+  },
+  {
+   "start": 2015.44,
+   "end": 2021.12,
+   "text": "fortunate because i think the worst"
+  },
+  {
+   "start": 2016.72,
+   "end": 2022.88,
+   "text": "thing would be to call a low po2 normal"
+  },
+  {
+   "start": 2021.12,
+   "end": 2024.64,
+   "text": "but when you get to the normal po2"
+  },
+  {
+   "start": 2022.88,
+   "end": 2026.72,
+   "text": "levels like 90 to 100 that has the"
+  },
+  {
+   "start": 2024.64,
+   "end": 2028.88,
+   "text": "greatest effect because the hemoglobin"
+  },
+  {
+   "start": 2026.72,
+   "end": 2031.36,
+   "text": "is already almost fully saturated with"
+  },
+  {
+   "start": 2028.88,
+   "end": 2033.76,
+   "text": "oxygen so the excess oxygen from the air"
+  },
+  {
+   "start": 2031.36,
+   "end": 2036.08,
+   "text": "bubble goes into the"
+  },
+  {
+   "start": 2033.76,
+   "end": 2037.2,
+   "text": "plasma which is what the po2 electrode"
+  },
+  {
+   "start": 2036.08,
+   "end": 2039.28,
+   "text": "detects"
+  },
+  {
+   "start": 2037.2,
+   "end": 2041.52,
+   "text": "eventually"
+  },
+  {
+   "start": 2039.28,
+   "end": 2044.0,
+   "text": "for very high po2 samples like 200 or"
+  },
+  {
+   "start": 2041.52,
+   "end": 2045.84,
+   "text": "250 or certainly higher"
+  },
+  {
+   "start": 2044.0,
+   "end": 2047.76,
+   "text": "that po2 in the blood is higher than"
+  },
+  {
+   "start": 2045.84,
+   "end": 2050.24,
+   "text": "atmospheric po2 and so it will actually"
+  },
+  {
+   "start": 2047.76,
+   "end": 2052.4,
+   "text": "lose oxygen to the to the air bubble"
+  },
+  {
+   "start": 2050.24,
+   "end": 2053.68,
+   "text": "that could cause a decrease so whatever"
+  },
+  {
+   "start": 2052.4,
+   "end": 2055.6,
+   "text": "we want to"
+  },
+  {
+   "start": 2053.68,
+   "end": 2058.08,
+   "text": "avoid any type of air bubble in a"
+  },
+  {
+   "start": 2055.6,
+   "end": 2058.8,
+   "text": "syringe in a syringe i do mention again"
+  },
+  {
+   "start": 2058.08,
+   "end": 2061.44,
+   "text": "that"
+  },
+  {
+   "start": 2058.8,
+   "end": 2063.76,
+   "text": "if we maintain the air bubble as one"
+  },
+  {
+   "start": 2061.44,
+   "end": 2065.44,
+   "text": "large bubble one bubble can have much"
+  },
+  {
+   "start": 2063.76,
+   "end": 2067.52,
+   "text": "less of effect than if you send it if"
+  },
+  {
+   "start": 2065.44,
+   "end": 2069.04,
+   "text": "you jostle it and create a lot of tiny"
+  },
+  {
+   "start": 2067.52,
+   "end": 2072.04,
+   "text": "air bubbles especially by pneumatic"
+  },
+  {
+   "start": 2069.04,
+   "end": 2072.04,
+   "text": "transport"
+  },
+  {
+   "start": 2076.56,
+   "end": 2080.72,
+   "text": "these are the learning objectives of the"
+  },
+  {
+   "start": 2078.48,
+   "end": 2083.36,
+   "text": "webinar"
+  },
+  {
+   "start": 2080.72,
+   "end": 2086.24,
+   "text": "dr tafaleti will describe common causes"
+  },
+  {
+   "start": 2083.36,
+   "end": 2089.84,
+   "text": "of pre-analytical errors about specimen"
+  },
+  {
+   "start": 2086.24,
+   "end": 2091.68,
+   "text": "collection and specimen transport"
+  },
+  {
+   "start": 2089.84,
+   "end": 2094.64,
+   "text": "also lists the common causes of"
+  },
+  {
+   "start": 2091.68,
+   "end": 2097.04,
+   "text": "hemolysis and how to report results on"
+  },
+  {
+   "start": 2094.64,
+   "end": 2099.68,
+   "text": "hemolyzed specimens"
+  },
+  {
+   "start": 2097.04,
+   "end": 2102.32,
+   "text": "and he will also represent how to"
+  },
+  {
+   "start": 2099.68,
+   "end": 2104.8,
+   "text": "implement practices to minimize"
+  },
+  {
+   "start": 2102.32,
+   "end": 2107.36,
+   "text": "pre-analytical errors in blood gas"
+  },
+  {
+   "start": 2104.8,
+   "end": 2107.36,
+   "text": "analysis"
+  },
+  {
+   "start": 2109.2,
+   "end": 2113.76,
+   "text": "pre-analytical error"
+  },
+  {
+   "start": 2111.28,
+   "end": 2115.44,
+   "text": "i think during transport"
+  },
+  {
+   "start": 2113.76,
+   "end": 2117.84,
+   "text": "the question comes up a lot should i use"
+  },
+  {
+   "start": 2115.44,
+   "end": 2119.76,
+   "text": "eyes or not use ice well ice does"
+  },
+  {
+   "start": 2117.84,
+   "end": 2122.96,
+   "text": "inhibit cell metabolism it does help"
+  },
+  {
+   "start": 2119.76,
+   "end": 2125.6,
+   "text": "preserve can help preserve po2 ph pco2"
+  },
+  {
+   "start": 2122.96,
+   "end": 2127.76,
+   "text": "glucose lactate maybe other analytes"
+  },
+  {
+   "start": 2125.6,
+   "end": 2130.56,
+   "text": "however"
+  },
+  {
+   "start": 2127.76,
+   "end": 2132.48,
+   "text": "icing can cause po2 increases in samples"
+  },
+  {
+   "start": 2130.56,
+   "end": 2133.28,
+   "text": "collected in plastic syringes if they"
+  },
+  {
+   "start": 2132.48,
+   "end": 2136.24,
+   "text": "are"
+  },
+  {
+   "start": 2133.28,
+   "end": 2138.48,
+   "text": "remain in ice long enough"
+  },
+  {
+   "start": 2136.24,
+   "end": 2140.48,
+   "text": "so the recommendation what should you do"
+  },
+  {
+   "start": 2138.48,
+   "end": 2142.24,
+   "text": "i say to do not i sample that the"
+  },
+  {
+   "start": 2140.48,
+   "end": 2143.68,
+   "text": "analysis will occur in less than 30"
+  },
+  {
+   "start": 2142.24,
+   "end": 2145.52,
+   "text": "minutes"
+  },
+  {
+   "start": 2143.68,
+   "end": 2147.36,
+   "text": "if the sample if the analysis is going"
+  },
+  {
+   "start": 2145.52,
+   "end": 2149.2,
+   "text": "to take longer than 30 minutes will be"
+  },
+  {
+   "start": 2147.36,
+   "end": 2151.12,
+   "text": "will not occur until after 30 minutes of"
+  },
+  {
+   "start": 2149.2,
+   "end": 2152.8,
+   "text": "sample i say probably better to ice"
+  },
+  {
+   "start": 2151.12,
+   "end": 2154.96,
+   "text": "you've got opposing effects there the"
+  },
+  {
+   "start": 2152.8,
+   "end": 2156.72,
+   "text": "ice does inhibit metabolism"
+  },
+  {
+   "start": 2154.96,
+   "end": 2158.48,
+   "text": "but what happens"
+  },
+  {
+   "start": 2156.72,
+   "end": 2159.36,
+   "text": "when you ice a sample with a whole blood"
+  },
+  {
+   "start": 2158.48,
+   "end": 2161.2,
+   "text": "sample"
+  },
+  {
+   "start": 2159.36,
+   "end": 2163.04,
+   "text": "the affinity of hemoglobin for oxygen"
+  },
+  {
+   "start": 2161.2,
+   "end": 2164.48,
+   "text": "increases dramatically"
+  },
+  {
+   "start": 2163.04,
+   "end": 2167.2,
+   "text": "and so the"
+  },
+  {
+   "start": 2164.48,
+   "end": 2169.36,
+   "text": "the hemoglobin can actually pull in to"
+  },
+  {
+   "start": 2167.2,
+   "end": 2171.28,
+   "text": "cause a slow diffusion of oxygen through"
+  },
+  {
+   "start": 2169.36,
+   "end": 2174.32,
+   "text": "that plastic syringe if you think about"
+  },
+  {
+   "start": 2171.28,
+   "end": 2176.0,
+   "text": "it our po2 electrodes use polypropylene"
+  },
+  {
+   "start": 2174.32,
+   "end": 2178.56,
+   "text": "as the membrane that's very thin much"
+  },
+  {
+   "start": 2176.0,
+   "end": 2179.6,
+   "text": "thinner than a syringe"
+  },
+  {
+   "start": 2178.56,
+   "end": 2181.28,
+   "text": "type"
+  },
+  {
+   "start": 2179.6,
+   "end": 2184.88,
+   "text": "and also when leland clark developed the"
+  },
+  {
+   "start": 2181.28,
+   "end": 2187.6,
+   "text": "first po2 electrode back many years ago"
+  },
+  {
+   "start": 2184.88,
+   "end": 2190.88,
+   "text": "he used polyethylene as the membrane so"
+  },
+  {
+   "start": 2187.6,
+   "end": 2192.8,
+   "text": "these plastics are permeable to oxygen"
+  },
+  {
+   "start": 2190.88,
+   "end": 2193.92,
+   "text": "uh with a syringe it's not fast it does"
+  },
+  {
+   "start": 2192.8,
+   "end": 2195.6,
+   "text": "take time"
+  },
+  {
+   "start": 2193.92,
+   "end": 2197.52,
+   "text": "but if you let a sample sit in ice for"
+  },
+  {
+   "start": 2195.6,
+   "end": 2198.88,
+   "text": "like 60 minutes or more you're going to"
+  },
+  {
+   "start": 2197.52,
+   "end": 2200.72,
+   "text": "see effects"
+  },
+  {
+   "start": 2198.88,
+   "end": 2202.88,
+   "text": "because what happens is"
+  },
+  {
+   "start": 2200.72,
+   "end": 2204.88,
+   "text": "it pulls in oxygen slowly"
+  },
+  {
+   "start": 2202.88,
+   "end": 2206.96,
+   "text": "and when you analyze that very coal"
+  },
+  {
+   "start": 2204.88,
+   "end": 2209.2,
+   "text": "sample in a blood gas analyzer it comes"
+  },
+  {
+   "start": 2206.96,
+   "end": 2211.6,
+   "text": "back to 37 degrees and under those"
+  },
+  {
+   "start": 2209.2,
+   "end": 2215.84,
+   "text": "conditions the oxygen is released and"
+  },
+  {
+   "start": 2211.6,
+   "end": 2215.84,
+   "text": "you get an increased po2 result"
+  },
+  {
+   "start": 2218.08,
+   "end": 2222.64,
+   "text": "was catheter flush"
+  },
+  {
+   "start": 2220.72,
+   "end": 2224.64,
+   "text": "both arterial and venous catheters must"
+  },
+  {
+   "start": 2222.64,
+   "end": 2225.76,
+   "text": "be adequately flushed prior to a sample"
+  },
+  {
+   "start": 2224.64,
+   "end": 2227.6,
+   "text": "draw"
+  },
+  {
+   "start": 2225.76,
+   "end": 2229.44,
+   "text": "some adequate flush volume will allow"
+  },
+  {
+   "start": 2227.6,
+   "end": 2231.68,
+   "text": "contents of the flush solution to mix"
+  },
+  {
+   "start": 2229.44,
+   "end": 2234.16,
+   "text": "with blood and lower the hemoglobin the"
+  },
+  {
+   "start": 2231.68,
+   "end": 2236.56,
+   "text": "hematocrit and the oxyhemoglobin so the"
+  },
+  {
+   "start": 2234.16,
+   "end": 2238.8,
+   "text": "recommendation is that the waste draw"
+  },
+  {
+   "start": 2236.56,
+   "end": 2240.96,
+   "text": "volume should be at least two times the"
+  },
+  {
+   "start": 2238.8,
+   "end": 2243.68,
+   "text": "catheter dead space volume so if you"
+  },
+  {
+   "start": 2240.96,
+   "end": 2245.68,
+   "text": "know that there's like one ml of space a"
+  },
+  {
+   "start": 2243.68,
+   "end": 2247.6,
+   "text": "volume between where the"
+  },
+  {
+   "start": 2245.68,
+   "end": 2249.12,
+   "text": "arterial line or venus line that goes"
+  },
+  {
+   "start": 2247.6,
+   "end": 2250.64,
+   "text": "into the patient versus where you"
+  },
+  {
+   "start": 2249.12,
+   "end": 2253.36,
+   "text": "collect the blood sample you should"
+  },
+  {
+   "start": 2250.64,
+   "end": 2255.44,
+   "text": "collect twice that as dead space and and"
+  },
+  {
+   "start": 2253.36,
+   "end": 2258.0,
+   "text": "and discard it or save it for if you can"
+  },
+  {
+   "start": 2255.44,
+   "end": 2258.0,
+   "text": "put it back in"
+  },
+  {
+   "start": 2258.24,
+   "end": 2262.4,
+   "text": "so that two times recommendation can"
+  },
+  {
+   "start": 2260.56,
+   "end": 2264.08,
+   "text": "vary depending on the flesh solution you"
+  },
+  {
+   "start": 2262.4,
+   "end": 2265.76,
+   "text": "know the concentration also analyte"
+  },
+  {
+   "start": 2264.08,
+   "end": 2268.56,
+   "text": "tested but in general two times should"
+  },
+  {
+   "start": 2265.76,
+   "end": 2268.56,
+   "text": "be adequate"
+  },
+  {
+   "start": 2269.6,
+   "end": 2273.52,
+   "text": "capillary samples are prone to tree"
+  },
+  {
+   "start": 2271.92,
+   "end": 2274.96,
+   "text": "analytical errors"
+  },
+  {
+   "start": 2273.52,
+   "end": 2276.72,
+   "text": "particularly with coax symmetry but"
+  },
+  {
+   "start": 2274.96,
+   "end": 2278.64,
+   "text": "other tests as well"
+  },
+  {
+   "start": 2276.72,
+   "end": 2280.64,
+   "text": "capillary samples show more variability"
+  },
+  {
+   "start": 2278.64,
+   "end": 2282.16,
+   "text": "than arterial or venous sample and why"
+  },
+  {
+   "start": 2280.64,
+   "end": 2284.72,
+   "text": "is that well it just makes physiologic"
+  },
+  {
+   "start": 2282.16,
+   "end": 2286.88,
+   "text": "sense because you're going from arterial"
+  },
+  {
+   "start": 2284.72,
+   "end": 2289.28,
+   "text": "concentrations to venous concentrations"
+  },
+  {
+   "start": 2286.88,
+   "end": 2291.52,
+   "text": "in a fairly small"
+  },
+  {
+   "start": 2289.28,
+   "end": 2293.36,
+   "text": "length of time very small and so they're"
+  },
+  {
+   "start": 2291.52,
+   "end": 2295.36,
+   "text": "clearly changes that are occurring in"
+  },
+  {
+   "start": 2293.36,
+   "end": 2297.12,
+   "text": "those capillaries"
+  },
+  {
+   "start": 2295.36,
+   "end": 2299.2,
+   "text": "and so depending on where you make the"
+  },
+  {
+   "start": 2297.12,
+   "end": 2301.76,
+   "text": "slit hopefully we get kind of a mixture"
+  },
+  {
+   "start": 2299.2,
+   "end": 2304.08,
+   "text": "of that so it's a more consistent result"
+  },
+  {
+   "start": 2301.76,
+   "end": 2305.6,
+   "text": "for the analytes but there are changes"
+  },
+  {
+   "start": 2304.08,
+   "end": 2307.44,
+   "text": "that are occurring as that blood goes"
+  },
+  {
+   "start": 2305.6,
+   "end": 2309.68,
+   "text": "through the capillaries that's just part"
+  },
+  {
+   "start": 2307.44,
+   "end": 2311.2,
+   "text": "of physiology"
+  },
+  {
+   "start": 2309.68,
+   "end": 2313.04,
+   "text": "real variability is most often"
+  },
+  {
+   "start": 2311.2,
+   "end": 2315.12,
+   "text": "associated with squeezing the puncture"
+  },
+  {
+   "start": 2313.04,
+   "end": 2316.56,
+   "text": "site before or after the puncture"
+  },
+  {
+   "start": 2315.12,
+   "end": 2318.24,
+   "text": "that can cause contamination with"
+  },
+  {
+   "start": 2316.56,
+   "end": 2319.76,
+   "text": "interstitial fluids"
+  },
+  {
+   "start": 2318.24,
+   "end": 2322.8,
+   "text": "and any type in time there's poor"
+  },
+  {
+   "start": 2319.76,
+   "end": 2326.84,
+   "text": "peripheral circulation and also edema"
+  },
+  {
+   "start": 2322.8,
+   "end": 2326.84,
+   "text": "that can contribute to the variability"
+  },
+  {
+   "start": 2328.16,
+   "end": 2331.2,
+   "text": "the proper collection of capillary"
+  },
+  {
+   "start": 2329.68,
+   "end": 2333.44,
+   "text": "samples is important so i've mentioned"
+  },
+  {
+   "start": 2331.2,
+   "end": 2335.36,
+   "text": "that so you should arterialize so-called"
+  },
+  {
+   "start": 2333.44,
+   "end": 2337.36,
+   "text": "arterialize the sample"
+  },
+  {
+   "start": 2335.36,
+   "end": 2339.12,
+   "text": "that can yield ph and pco2 results that"
+  },
+  {
+   "start": 2337.36,
+   "end": 2341.12,
+   "text": "are very close to arterial"
+  },
+  {
+   "start": 2339.12,
+   "end": 2342.88,
+   "text": "and po2 results that are somewhat lower"
+  },
+  {
+   "start": 2341.12,
+   "end": 2344.72,
+   "text": "than arterioles always going to be lower"
+  },
+  {
+   "start": 2342.88,
+   "end": 2346.24,
+   "text": "than arterial but that can be very"
+  },
+  {
+   "start": 2344.72,
+   "end": 2348.96,
+   "text": "helpful to uh"
+  },
+  {
+   "start": 2346.24,
+   "end": 2350.24,
+   "text": "physicians if the po2 is it's certainly"
+  },
+  {
+   "start": 2348.96,
+   "end": 2352.4,
+   "text": "normal that means you're doing the"
+  },
+  {
+   "start": 2350.24,
+   "end": 2354.4,
+   "text": "patient is not hypoxemic and"
+  },
+  {
+   "start": 2352.4,
+   "end": 2356.0,
+   "text": "if a capillary po2 is normal that"
+  },
+  {
+   "start": 2354.4,
+   "end": 2357.2,
+   "text": "certainly means the arterial po2 is"
+  },
+  {
+   "start": 2356.0,
+   "end": 2359.2,
+   "text": "going to be normal"
+  },
+  {
+   "start": 2357.2,
+   "end": 2360.88,
+   "text": "and even it's a little bit low that is a"
+  },
+  {
+   "start": 2359.2,
+   "end": 2363.12,
+   "text": "good indication that the artillery is"
+  },
+  {
+   "start": 2360.88,
+   "end": 2365.36,
+   "text": "probably okay with much less trauma than"
+  },
+  {
+   "start": 2363.12,
+   "end": 2367.92,
+   "text": "going to an arterial stick"
+  },
+  {
+   "start": 2365.36,
+   "end": 2369.52,
+   "text": "important to pre-warm the puncture site"
+  },
+  {
+   "start": 2367.92,
+   "end": 2372.0,
+   "text": "the general recommendation is to up to"
+  },
+  {
+   "start": 2369.52,
+   "end": 2374.56,
+   "text": "42 degrees and that will increase blood"
+  },
+  {
+   "start": 2372.0,
+   "end": 2376.56,
+   "text": "flow several fold i've seen estimates of"
+  },
+  {
+   "start": 2374.56,
+   "end": 2378.64,
+   "text": "anywhere two or three fold increase up"
+  },
+  {
+   "start": 2376.56,
+   "end": 2380.24,
+   "text": "to seven-fold increase"
+  },
+  {
+   "start": 2378.64,
+   "end": 2383.84,
+   "text": "it's important to let the blood flow"
+  },
+  {
+   "start": 2380.24,
+   "end": 2385.6,
+   "text": "freely anytime you melt the the skin or"
+  },
+  {
+   "start": 2383.84,
+   "end": 2387.84,
+   "text": "the area where you're collecting the"
+  },
+  {
+   "start": 2385.6,
+   "end": 2389.52,
+   "text": "sample that can introduce venous blood"
+  },
+  {
+   "start": 2387.84,
+   "end": 2391.76,
+   "text": "and also interstitial fluid and cause"
+  },
+  {
+   "start": 2389.52,
+   "end": 2393.36,
+   "text": "greater variability"
+  },
+  {
+   "start": 2391.76,
+   "end": 2394.64,
+   "text": "you should fill the capillary tube"
+  },
+  {
+   "start": 2393.36,
+   "end": 2396.72,
+   "text": "completely"
+  },
+  {
+   "start": 2394.64,
+   "end": 2398.48,
+   "text": "no air bubbles sealed ends which usually"
+  },
+  {
+   "start": 2396.72,
+   "end": 2400.24,
+   "text": "means they hold it with a gloved hand"
+  },
+  {
+   "start": 2398.48,
+   "end": 2402.24,
+   "text": "and carry it to the lab i hope we'll get"
+  },
+  {
+   "start": 2400.24,
+   "end": 2403.92,
+   "text": "the analysis done and of course very"
+  },
+  {
+   "start": 2402.24,
+   "end": 2405.52,
+   "text": "important to analyze within 15 minutes"
+  },
+  {
+   "start": 2403.92,
+   "end": 2407.52,
+   "text": "as soon as possible"
+  },
+  {
+   "start": 2405.52,
+   "end": 2408.72,
+   "text": "but the capillary samples can have a"
+  },
+  {
+   "start": 2407.52,
+   "end": 2410.4,
+   "text": "very"
+  },
+  {
+   "start": 2408.72,
+   "end": 2412.8,
+   "text": "definite changes if you're if you're"
+  },
+  {
+   "start": 2410.4,
+   "end": 2415.76,
+   "text": "careless with how you"
+  },
+  {
+   "start": 2412.8,
+   "end": 2415.76,
+   "text": "how you transport them"
+  },
+  {
+   "start": 2416.48,
+   "end": 2419.52,
+   "text": "so there's probable steps proper"
+  },
+  {
+   "start": 2418.0,
+   "end": 2421.84,
+   "text": "specimen handling"
+  },
+  {
+   "start": 2419.52,
+   "end": 2423.68,
+   "text": "or you should mix prior to analysis"
+  },
+  {
+   "start": 2421.84,
+   "end": 2424.96,
+   "text": "you should remove air bubbles mix"
+  },
+  {
+   "start": 2423.68,
+   "end": 2426.64,
+   "text": "immediately"
+  },
+  {
+   "start": 2424.96,
+   "end": 2428.4,
+   "text": "no air bubbles makes mixing less"
+  },
+  {
+   "start": 2426.64,
+   "end": 2430.72,
+   "text": "efficiency so you have to be very"
+  },
+  {
+   "start": 2428.4,
+   "end": 2432.32,
+   "text": "careful how you mix the sample"
+  },
+  {
+   "start": 2430.72,
+   "end": 2434.16,
+   "text": "so immediately after collection mix by"
+  },
+  {
+   "start": 2432.32,
+   "end": 2436.16,
+   "text": "inverting the syringe five times this is"
+  },
+  {
+   "start": 2434.16,
+   "end": 2437.36,
+   "text": "the recommendation that i've seen"
+  },
+  {
+   "start": 2436.16,
+   "end": 2439.04,
+   "text": "for imprint"
+  },
+  {
+   "start": 2437.36,
+   "end": 2440.16,
+   "text": "rolling between the palms for five to"
+  },
+  {
+   "start": 2439.04,
+   "end": 2441.36,
+   "text": "ten seconds"
+  },
+  {
+   "start": 2440.16,
+   "end": 2442.8,
+   "text": "and that helps disperse the"
+  },
+  {
+   "start": 2441.36,
+   "end": 2445.2,
+   "text": "anticoagulant"
+  },
+  {
+   "start": 2442.8,
+   "end": 2447.6,
+   "text": "if analysis is delayed important to mix"
+  },
+  {
+   "start": 2445.2,
+   "end": 2449.68,
+   "text": "in two axes so storage syringe specimens"
+  },
+  {
+   "start": 2447.6,
+   "end": 2451.84,
+   "text": "should be mixed by gently inverting this"
+  },
+  {
+   "start": 2449.68,
+   "end": 2453.52,
+   "text": "fringe ten times then rolling but"
+  },
+  {
+   "start": 2451.84,
+   "end": 2455.28,
+   "text": "horizontally between the pawns for 20 to"
+  },
+  {
+   "start": 2453.52,
+   "end": 2456.88,
+   "text": "60 seconds"
+  },
+  {
+   "start": 2455.28,
+   "end": 2458.08,
+   "text": "and there may be variations on that but"
+  },
+  {
+   "start": 2456.88,
+   "end": 2459.68,
+   "text": "generally you have to just make sure"
+  },
+  {
+   "start": 2458.08,
+   "end": 2463.28,
+   "text": "that it's mixed properly if there's any"
+  },
+  {
+   "start": 2459.68,
+   "end": 2465.52,
+   "text": "kind of sitting delay in analysis"
+  },
+  {
+   "start": 2463.28,
+   "end": 2468.32,
+   "text": "i want to close here with four cases i"
+  },
+  {
+   "start": 2465.52,
+   "end": 2469.92,
+   "text": "say the first two are fairly easy"
+  },
+  {
+   "start": 2468.32,
+   "end": 2471.68,
+   "text": "last two may be a bit more challenging"
+  },
+  {
+   "start": 2469.92,
+   "end": 2473.12,
+   "text": "so case number one"
+  },
+  {
+   "start": 2471.68,
+   "end": 2474.8,
+   "text": "and these illustrate some of the points"
+  },
+  {
+   "start": 2473.12,
+   "end": 2476.56,
+   "text": "that i've mentioned in this talk"
+  },
+  {
+   "start": 2474.8,
+   "end": 2479.04,
+   "text": "so during a very difficult and hectic"
+  },
+  {
+   "start": 2476.56,
+   "end": 2480.96,
+   "text": "surgical case some erratic hemoglobin"
+  },
+  {
+   "start": 2479.04,
+   "end": 2483.92,
+   "text": "results are noted from a blood gas"
+  },
+  {
+   "start": 2480.96,
+   "end": 2486.0,
+   "text": "analyzer located in the operating room"
+  },
+  {
+   "start": 2483.92,
+   "end": 2487.84,
+   "text": "the hemoglobin results on successive"
+  },
+  {
+   "start": 2486.0,
+   "end": 2492.16,
+   "text": "samples were 12.2"
+  },
+  {
+   "start": 2487.84,
+   "end": 2494.32,
+   "text": "6.8 9.8 11.2 and 8.3"
+  },
+  {
+   "start": 2492.16,
+   "end": 2496.8,
+   "text": "so it's fairly unlikely that those are"
+  },
+  {
+   "start": 2494.32,
+   "end": 2499.68,
+   "text": "actual results in in the patient those"
+  },
+  {
+   "start": 2496.8,
+   "end": 2501.28,
+   "text": "those are just too much variability"
+  },
+  {
+   "start": 2499.68,
+   "end": 2502.96,
+   "text": "so when the lab investigated these"
+  },
+  {
+   "start": 2501.28,
+   "end": 2504.8,
+   "text": "results the anesthesia tech said they"
+  },
+  {
+   "start": 2502.96,
+   "end": 2506.8,
+   "text": "sometimes had to leave a specimen on the"
+  },
+  {
+   "start": 2504.8,
+   "end": 2509.68,
+   "text": "table before the analysis because of the"
+  },
+  {
+   "start": 2506.8,
+   "end": 2511.2,
+   "text": "hectic case then they then inverted the"
+  },
+  {
+   "start": 2509.68,
+   "end": 2512.8,
+   "text": "same refringe a few times before"
+  },
+  {
+   "start": 2511.2,
+   "end": 2515.04,
+   "text": "analyzing it so can you explain these"
+  },
+  {
+   "start": 2512.8,
+   "end": 2516.32,
+   "text": "variables in the living results"
+  },
+  {
+   "start": 2515.04,
+   "end": 2518.16,
+   "text": "i'll let you think about that for just a"
+  },
+  {
+   "start": 2516.32,
+   "end": 2521.96,
+   "text": "few seconds"
+  },
+  {
+   "start": 2518.16,
+   "end": 2521.96,
+   "text": "and explain it"
+  },
+  {
+   "start": 2522.4,
+   "end": 2525.36,
+   "text": "well this"
+  },
+  {
+   "start": 2523.52,
+   "end": 2526.72,
+   "text": "case illustrates the point i just made"
+  },
+  {
+   "start": 2525.36,
+   "end": 2529.12,
+   "text": "it just a"
+  },
+  {
+   "start": 2526.72,
+   "end": 2531.68,
+   "text": "just a minute ago"
+  },
+  {
+   "start": 2529.12,
+   "end": 2533.92,
+   "text": "or if a sample sits and this can occur"
+  },
+  {
+   "start": 2531.68,
+   "end": 2535.12,
+   "text": "like i said in critical care situations"
+  },
+  {
+   "start": 2533.92,
+   "end": 2536.72,
+   "text": "particularly operating rooms they"
+  },
+  {
+   "start": 2535.12,
+   "end": 2538.72,
+   "text": "collect a sample what they think is"
+  },
+  {
+   "start": 2536.72,
+   "end": 2541.36,
+   "text": "maybe only a minute can either become"
+  },
+  {
+   "start": 2538.72,
+   "end": 2542.88,
+   "text": "four or five minutes or longer"
+  },
+  {
+   "start": 2541.36,
+   "end": 2545.04,
+   "text": "so it looked like they were letting the"
+  },
+  {
+   "start": 2542.88,
+   "end": 2546.64,
+   "text": "samples sit a lot like i said they're"
+  },
+  {
+   "start": 2545.04,
+   "end": 2548.88,
+   "text": "distracted by the patient as they should"
+  },
+  {
+   "start": 2546.64,
+   "end": 2551.36,
+   "text": "be and so the sample sit and it could"
+  },
+  {
+   "start": 2548.88,
+   "end": 2553.28,
+   "text": "sediment fairly rapidly so probably not"
+  },
+  {
+   "start": 2551.36,
+   "end": 2555.6,
+   "text": "mixing it well enough"
+  },
+  {
+   "start": 2553.28,
+   "end": 2557.6,
+   "text": "by simply inverting it a few times"
+  },
+  {
+   "start": 2555.6,
+   "end": 2561.36,
+   "text": "before analyzing it so that causes some"
+  },
+  {
+   "start": 2557.6,
+   "end": 2561.36,
+   "text": "highly variable hemoglobin results"
+  },
+  {
+   "start": 2561.84,
+   "end": 2567.52,
+   "text": "okay next case"
+  },
+  {
+   "start": 2564.64,
+   "end": 2569.44,
+   "text": "samples from an or"
+  },
+  {
+   "start": 2567.52,
+   "end": 2571.68,
+   "text": "analyzed that point of care by blood gas"
+  },
+  {
+   "start": 2569.44,
+   "end": 2574.0,
+   "text": "analyzer had po2 results consistently in"
+  },
+  {
+   "start": 2571.68,
+   "end": 2576.16,
+   "text": "the 75 to 90 millimeter mercury range so"
+  },
+  {
+   "start": 2574.0,
+   "end": 2578.24,
+   "text": "those are a little bit low and normal in"
+  },
+  {
+   "start": 2576.16,
+   "end": 2579.6,
+   "text": "that kind of range there so to check"
+  },
+  {
+   "start": 2578.24,
+   "end": 2581.28,
+   "text": "these results they did send two"
+  },
+  {
+   "start": 2579.6,
+   "end": 2582.72,
+   "text": "specimens by pneumatic tube to the"
+  },
+  {
+   "start": 2581.28,
+   "end": 2585.28,
+   "text": "laboratory"
+  },
+  {
+   "start": 2582.72,
+   "end": 2588.16,
+   "text": "these po2 results were 105 and 112"
+  },
+  {
+   "start": 2585.28,
+   "end": 2590.08,
+   "text": "millimeters of mercury"
+  },
+  {
+   "start": 2588.16,
+   "end": 2591.84,
+   "text": "and also the medical technologist noted"
+  },
+  {
+   "start": 2590.08,
+   "end": 2594.08,
+   "text": "that there was some bloody foam in this"
+  },
+  {
+   "start": 2591.84,
+   "end": 2595.52,
+   "text": "fringes before they analyzed them"
+  },
+  {
+   "start": 2594.08,
+   "end": 2597.28,
+   "text": "so what do you think this is you might"
+  },
+  {
+   "start": 2595.52,
+   "end": 2598.56,
+   "text": "think well the lab values must be"
+  },
+  {
+   "start": 2597.28,
+   "end": 2600.24,
+   "text": "correct they've got the more accurate"
+  },
+  {
+   "start": 2598.56,
+   "end": 2603.36,
+   "text": "analyzers but"
+  },
+  {
+   "start": 2600.24,
+   "end": 2605.12,
+   "text": "also some important clues here"
+  },
+  {
+   "start": 2603.36,
+   "end": 2607.52,
+   "text": "notably that they sent it by pneumatic"
+  },
+  {
+   "start": 2605.12,
+   "end": 2609.44,
+   "text": "tube and when the metal technologists"
+  },
+  {
+   "start": 2607.52,
+   "end": 2611.52,
+   "text": "looked at the sample they've bloody foam"
+  },
+  {
+   "start": 2609.44,
+   "end": 2613.36,
+   "text": "in the syringes before analyzing them so"
+  },
+  {
+   "start": 2611.52,
+   "end": 2615.76,
+   "text": "can you explain these differences in po2"
+  },
+  {
+   "start": 2613.36,
+   "end": 2615.76,
+   "text": "results"
+  },
+  {
+   "start": 2618.24,
+   "end": 2621.44,
+   "text": "well"
+  },
+  {
+   "start": 2619.52,
+   "end": 2623.04,
+   "text": "when you send a sample with pneumatic"
+  },
+  {
+   "start": 2621.44,
+   "end": 2625.68,
+   "text": "tube you leave an air bubble in it the"
+  },
+  {
+   "start": 2623.04,
+   "end": 2627.36,
+   "text": "pneumatic tube is going to act like a uh"
+  },
+  {
+   "start": 2625.68,
+   "end": 2629.68,
+   "text": "it's going to thoroughly mix those air"
+  },
+  {
+   "start": 2627.36,
+   "end": 2631.2,
+   "text": "bubbles but if you remember somebody if"
+  },
+  {
+   "start": 2629.68,
+   "end": 2632.72,
+   "text": "we a little bit older we might remember"
+  },
+  {
+   "start": 2631.2,
+   "end": 2635.6,
+   "text": "what's called a tonometer that would"
+  },
+  {
+   "start": 2632.72,
+   "end": 2637.28,
+   "text": "equilibrate blood with uh with with air"
+  },
+  {
+   "start": 2635.6,
+   "end": 2638.96,
+   "text": "there are various concentrations of"
+  },
+  {
+   "start": 2637.28,
+   "end": 2641.04,
+   "text": "oxygen in the air"
+  },
+  {
+   "start": 2638.96,
+   "end": 2642.8,
+   "text": "well the pneumatic tube acts like a"
+  },
+  {
+   "start": 2641.04,
+   "end": 2644.4,
+   "text": "tanometer in a way that will equilibrate"
+  },
+  {
+   "start": 2642.8,
+   "end": 2646.8,
+   "text": "that blood with whatever air is put in"
+  },
+  {
+   "start": 2644.4,
+   "end": 2648.96,
+   "text": "that syringe so it comes back as a froth"
+  },
+  {
+   "start": 2646.8,
+   "end": 2650.32,
+   "text": "or a foam almost"
+  },
+  {
+   "start": 2648.96,
+   "end": 2651.76,
+   "text": "so i think that's what was happening so"
+  },
+  {
+   "start": 2650.32,
+   "end": 2653.28,
+   "text": "the more accurate results were probably"
+  },
+  {
+   "start": 2651.76,
+   "end": 2655.52,
+   "text": "at the point of care almost certainly a"
+  },
+  {
+   "start": 2653.28,
+   "end": 2657.2,
+   "text": "point of care and pneumatic tube"
+  },
+  {
+   "start": 2655.52,
+   "end": 2659.6,
+   "text": "us ascending these would cause an"
+  },
+  {
+   "start": 2657.2,
+   "end": 2659.6,
+   "text": "increase"
+  },
+  {
+   "start": 2661.2,
+   "end": 2663.76,
+   "text": "case numbers"
+  },
+  {
+   "start": 2664.32,
+   "end": 2667.76,
+   "text": "this is a little bit more difficult"
+  },
+  {
+   "start": 2665.84,
+   "end": 2669.2,
+   "text": "blood collect blood the blood"
+  },
+  {
+   "start": 2667.76,
+   "end": 2670.64,
+   "text": "the blood was collected in the gel"
+  },
+  {
+   "start": 2669.2,
+   "end": 2672.48,
+   "text": "separator tube"
+  },
+  {
+   "start": 2670.64,
+   "end": 2674.72,
+   "text": "and it gave a potassium of 9.8"
+  },
+  {
+   "start": 2672.48,
+   "end": 2676.8,
+   "text": "millimoles per liter when run as plasma"
+  },
+  {
+   "start": 2674.72,
+   "end": 2679.2,
+   "text": "on the main chemistry analyzers"
+  },
+  {
+   "start": 2676.8,
+   "end": 2681.36,
+   "text": "repeating the tests on that on a"
+  },
+  {
+   "start": 2679.2,
+   "end": 2683.28,
+   "text": "different analyzer from the same type"
+  },
+  {
+   "start": 2681.36,
+   "end": 2685.52,
+   "text": "confirmed this result so that those gave"
+  },
+  {
+   "start": 2683.28,
+   "end": 2686.96,
+   "text": "you no very high potassium"
+  },
+  {
+   "start": 2685.52,
+   "end": 2689.12,
+   "text": "the caregivers called because the"
+  },
+  {
+   "start": 2686.96,
+   "end": 2691.84,
+   "text": "potassium done on a blood gas analyzer"
+  },
+  {
+   "start": 2689.12,
+   "end": 2693.12,
+   "text": "earlier was only 4.8 millimoles per"
+  },
+  {
+   "start": 2691.84,
+   "end": 2694.48,
+   "text": "liter"
+  },
+  {
+   "start": 2693.12,
+   "end": 2696.72,
+   "text": "so we looked at the sample this is an"
+  },
+  {
+   "start": 2694.48,
+   "end": 2698.16,
+   "text": "actual case i will always remember"
+  },
+  {
+   "start": 2696.72,
+   "end": 2700.64,
+   "text": "visual inspection of that sample"
+  },
+  {
+   "start": 2698.16,
+   "end": 2701.84,
+   "text": "revealed the specimen was quite cloudy"
+  },
+  {
+   "start": 2700.64,
+   "end": 2703.68,
+   "text": "but it wasn't lightening you know"
+  },
+  {
+   "start": 2701.84,
+   "end": 2704.72,
+   "text": "cholesterol triglycerides are quite"
+  },
+  {
+   "start": 2703.68,
+   "end": 2706.32,
+   "text": "normal"
+  },
+  {
+   "start": 2704.72,
+   "end": 2708.24,
+   "text": "so can you explain the very different"
+  },
+  {
+   "start": 2706.32,
+   "end": 2709.76,
+   "text": "potassium results"
+  },
+  {
+   "start": 2708.24,
+   "end": 2712.4,
+   "text": "give you just a little bit of time to"
+  },
+  {
+   "start": 2709.76,
+   "end": 2712.4,
+   "text": "think about that"
+  },
+  {
+   "start": 2713.36,
+   "end": 2717.84,
+   "text": "and what happened here was"
+  },
+  {
+   "start": 2716.48,
+   "end": 2719.12,
+   "text": "that when we looked at some of the other"
+  },
+  {
+   "start": 2717.84,
+   "end": 2721.28,
+   "text": "results"
+  },
+  {
+   "start": 2719.12,
+   "end": 2722.64,
+   "text": "and the clue was that there was a cloud"
+  },
+  {
+   "start": 2721.28,
+   "end": 2725.44,
+   "text": "this vessel was cloudy even after a"
+  },
+  {
+   "start": 2722.64,
+   "end": 2727.2,
+   "text": "century occasion"
+  },
+  {
+   "start": 2725.44,
+   "end": 2729.04,
+   "text": "what happened was that this person had"
+  },
+  {
+   "start": 2727.2,
+   "end": 2731.28,
+   "text": "on the on their cell phone had a very"
+  },
+  {
+   "start": 2729.04,
+   "end": 2733.6,
+   "text": "high white cell count about a hundred"
+  },
+  {
+   "start": 2731.28,
+   "end": 2735.2,
+   "text": "thousand per microliter"
+  },
+  {
+   "start": 2733.6,
+   "end": 2737.04,
+   "text": "and so what was happening was all the"
+  },
+  {
+   "start": 2735.2,
+   "end": 2738.72,
+   "text": "white cells were not being centrifuged"
+  },
+  {
+   "start": 2737.04,
+   "end": 2741.12,
+   "text": "through the gel and down into the layer"
+  },
+  {
+   "start": 2738.72,
+   "end": 2741.84,
+   "text": "below the gel so they were remaining in"
+  },
+  {
+   "start": 2741.12,
+   "end": 2744.16,
+   "text": "the"
+  },
+  {
+   "start": 2741.84,
+   "end": 2745.92,
+   "text": "plasma phase what happens then when you"
+  },
+  {
+   "start": 2744.16,
+   "end": 2747.12,
+   "text": "analyze these on a regular chemistry"
+  },
+  {
+   "start": 2745.92,
+   "end": 2749.12,
+   "text": "analyzer they're of course they're"
+  },
+  {
+   "start": 2747.12,
+   "end": 2751.52,
+   "text": "they're diluted the samples are diluted"
+  },
+  {
+   "start": 2749.12,
+   "end": 2753.12,
+   "text": "and the dilutes contain a detergent so"
+  },
+  {
+   "start": 2751.52,
+   "end": 2755.68,
+   "text": "our theory is that these were being"
+  },
+  {
+   "start": 2753.12,
+   "end": 2757.2,
+   "text": "lysed and uh and before they're being"
+  },
+  {
+   "start": 2755.68,
+   "end": 2758.88,
+   "text": "analyzed when the potassium was being"
+  },
+  {
+   "start": 2757.2,
+   "end": 2760.8,
+   "text": "released and that was causing the very"
+  },
+  {
+   "start": 2758.88,
+   "end": 2762.48,
+   "text": "large interference so in this case the"
+  },
+  {
+   "start": 2760.8,
+   "end": 2764.88,
+   "text": "blood gas analyzed gave the correct"
+  },
+  {
+   "start": 2762.48,
+   "end": 2764.88,
+   "text": "result"
+  },
+  {
+   "start": 2765.12,
+   "end": 2770.32,
+   "text": "finally case number four"
+  },
+  {
+   "start": 2768.32,
+   "end": 2772.32,
+   "text": "two pediatric mic retainer specimens are"
+  },
+  {
+   "start": 2770.32,
+   "end": 2773.76,
+   "text": "collected by a nurse"
+  },
+  {
+   "start": 2772.32,
+   "end": 2776.24,
+   "text": "at about two o'clock in the morning they"
+  },
+  {
+   "start": 2773.76,
+   "end": 2778.08,
+   "text": "arrived in the lab at that time"
+  },
+  {
+   "start": 2776.24,
+   "end": 2779.84,
+   "text": "one was a lavender top for hematology"
+  },
+  {
+   "start": 2778.08,
+   "end": 2781.28,
+   "text": "you know the blood count"
+  },
+  {
+   "start": 2779.84,
+   "end": 2783.36,
+   "text": "and the other was a green top tube for"
+  },
+  {
+   "start": 2781.28,
+   "end": 2785.28,
+   "text": "chemistry but basic metabolic panel was"
+  },
+  {
+   "start": 2783.36,
+   "end": 2788.44,
+   "text": "done"
+  },
+  {
+   "start": 2785.28,
+   "end": 2788.44,
+   "text": "the potassium"
+  },
+  {
+   "start": 2789.12,
+   "end": 2793.76,
+   "text": "was 10 millimoles per liter and the"
+  },
+  {
+   "start": 2791.04,
+   "end": 2796.64,
+   "text": "calcium total calcium was 2.3 milligrams"
+  },
+  {
+   "start": 2793.76,
+   "end": 2798.64,
+   "text": "per deciliter that's very low"
+  },
+  {
+   "start": 2796.64,
+   "end": 2801.12,
+   "text": "so can you explain these possible errant"
+  },
+  {
+   "start": 2798.64,
+   "end": 2801.12,
+   "text": "results"
+  },
+  {
+   "start": 2801.2,
+   "end": 2804.64,
+   "text": "this is a bit more difficult because you"
+  },
+  {
+   "start": 2803.12,
+   "end": 2805.84,
+   "text": "might have to think about both the time"
+  },
+  {
+   "start": 2804.64,
+   "end": 2807.84,
+   "text": "of day"
+  },
+  {
+   "start": 2805.84,
+   "end": 2809.6,
+   "text": "and how the blood might be collected"
+  },
+  {
+   "start": 2807.84,
+   "end": 2811.44,
+   "text": "with mic retainers"
+  },
+  {
+   "start": 2809.6,
+   "end": 2813.52,
+   "text": "what would almost surely happen in this"
+  },
+  {
+   "start": 2811.44,
+   "end": 2814.56,
+   "text": "case was"
+  },
+  {
+   "start": 2813.52,
+   "end": 2816.56,
+   "text": "that the"
+  },
+  {
+   "start": 2814.56,
+   "end": 2818.48,
+   "text": "sample the the"
+  },
+  {
+   "start": 2816.56,
+   "end": 2820.0,
+   "text": "tube caps were mixed up"
+  },
+  {
+   "start": 2818.48,
+   "end": 2822.08,
+   "text": "so the blood that was collected in the"
+  },
+  {
+   "start": 2820.0,
+   "end": 2825.12,
+   "text": "in the hematology sample of potassium"
+  },
+  {
+   "start": 2822.08,
+   "end": 2826.72,
+   "text": "edta had the green top put back on it"
+  },
+  {
+   "start": 2825.12,
+   "end": 2829.2,
+   "text": "and just vice versa so the one with"
+  },
+  {
+   "start": 2826.72,
+   "end": 2831.36,
+   "text": "heparin for bmp testing had the lavender"
+  },
+  {
+   "start": 2829.2,
+   "end": 2833.12,
+   "text": "type and so the"
+  },
+  {
+   "start": 2831.36,
+   "end": 2835.04,
+   "text": "having potassium edta in there would"
+  },
+  {
+   "start": 2833.12,
+   "end": 2836.32,
+   "text": "cause of course a dramatic increase in"
+  },
+  {
+   "start": 2835.04,
+   "end": 2838.48,
+   "text": "potassium"
+  },
+  {
+   "start": 2836.32,
+   "end": 2840.08,
+   "text": "and if you remember edta a very tight"
+  },
+  {
+   "start": 2838.48,
+   "end": 2841.92,
+   "text": "binder of calcium"
+  },
+  {
+   "start": 2840.08,
+   "end": 2843.28,
+   "text": "would cause the calcium to go down"
+  },
+  {
+   "start": 2841.92,
+   "end": 2845.92,
+   "text": "that's certainly true for ionized"
+  },
+  {
+   "start": 2843.28,
+   "end": 2848.16,
+   "text": "calcium edta is so tight it actually"
+  },
+  {
+   "start": 2845.92,
+   "end": 2850.16,
+   "text": "affects the total calcium as well so"
+  },
+  {
+   "start": 2848.16,
+   "end": 2854.0,
+   "text": "believe that's what the case okay well"
+  },
+  {
+   "start": 2850.16,
+   "end": 2854.0,
+   "text": "thank you very much that concludes my"
+  },
+  {
+   "start": 2855.92,
+   "end": 2859.2,
+   "text": "okay thank you dr tosoletti for that"
+  },
+  {
+   "start": 2858.08,
+   "end": 2860.48,
+   "text": "informative"
+  },
+  {
+   "start": 2859.2,
+   "end": 2863.12,
+   "text": "presentation"
+  },
+  {
+   "start": 2860.48,
+   "end": 2865.28,
+   "text": "uh we're going to have time for a few"
+  },
+  {
+   "start": 2863.12,
+   "end": 2866.96,
+   "text": "questions here uh and if anyone else has"
+  },
+  {
+   "start": 2865.28,
+   "end": 2869.04,
+   "text": "a question in the meantime"
+  },
+  {
+   "start": 2866.96,
+   "end": 2872.48,
+   "text": "feel free to put that into the chat or"
+  },
+  {
+   "start": 2869.04,
+   "end": 2874.16,
+   "text": "the q a tab at the bottom of the screen"
+  },
+  {
+   "start": 2872.48,
+   "end": 2876.64,
+   "text": "i'll go ahead and read the first"
+  },
+  {
+   "start": 2874.16,
+   "end": 2878.88,
+   "text": "question for you"
+  },
+  {
+   "start": 2876.64,
+   "end": 2882.64,
+   "text": "what is the most common source of error"
+  },
+  {
+   "start": 2878.88,
+   "end": 2882.64,
+   "text": "in blood gas specimen collection"
+  },
+  {
+   "start": 2883.76,
+   "end": 2888.64,
+   "text": "well uh just write a first hearing that"
+  },
+  {
+   "start": 2886.16,
+   "end": 2890.64,
+   "text": "i would say that uh it would be it'd be"
+  },
+  {
+   "start": 2888.64,
+   "end": 2891.6,
+   "text": "air bubbles in the sample"
+  },
+  {
+   "start": 2890.64,
+   "end": 2893.68,
+   "text": "um"
+  },
+  {
+   "start": 2891.6,
+   "end": 2895.12,
+   "text": "if i think about it uh it would also"
+  },
+  {
+   "start": 2893.68,
+   "end": 2897.6,
+   "text": "might depend on whether it's collected"
+  },
+  {
+   "start": 2895.12,
+   "end": 2900.0,
+   "text": "the point of care or or sent to the lab"
+  },
+  {
+   "start": 2897.6,
+   "end": 2902.08,
+   "text": "maybe by pneumatic tube or possibly even"
+  },
+  {
+   "start": 2900.0,
+   "end": 2903.52,
+   "text": "being carried"
+  },
+  {
+   "start": 2902.08,
+   "end": 2904.8,
+   "text": "if it's collected the point of care"
+  },
+  {
+   "start": 2903.52,
+   "end": 2906.08,
+   "text": "probably air bubbles don't make that"
+  },
+  {
+   "start": 2904.8,
+   "end": 2907.6,
+   "text": "much difference because there's no"
+  },
+  {
+   "start": 2906.08,
+   "end": 2909.36,
+   "text": "pneumatic transport there and there's"
+  },
+  {
+   "start": 2907.6,
+   "end": 2910.8,
+   "text": "probably very little agitation of the"
+  },
+  {
+   "start": 2909.36,
+   "end": 2913.04,
+   "text": "sample so"
+  },
+  {
+   "start": 2910.8,
+   "end": 2914.72,
+   "text": "but but in in the lab"
+  },
+  {
+   "start": 2913.04,
+   "end": 2916.16,
+   "text": "if it's set to the lab there's a i would"
+  },
+  {
+   "start": 2914.72,
+   "end": 2918.24,
+   "text": "say the air bubbles would be a common"
+  },
+  {
+   "start": 2916.16,
+   "end": 2921.2,
+   "text": "problem causing the changes in po2 and"
+  },
+  {
+   "start": 2918.24,
+   "end": 2923.44,
+   "text": "also probably clots i do get some"
+  },
+  {
+   "start": 2921.2,
+   "end": 2925.44,
+   "text": "some complaints about clotting which it"
+  },
+  {
+   "start": 2923.44,
+   "end": 2927.12,
+   "text": "could occur from a variety of sources be"
+  },
+  {
+   "start": 2925.44,
+   "end": 2930.4,
+   "text": "either possibly washing out the heparin"
+  },
+  {
+   "start": 2927.12,
+   "end": 2932.32,
+   "text": "in a in the syringe when it's collected"
+  },
+  {
+   "start": 2930.4,
+   "end": 2934.56,
+   "text": "before the blood is collected"
+  },
+  {
+   "start": 2932.32,
+   "end": 2937.04,
+   "text": "uh maybe washing that with the iv fluid"
+  },
+  {
+   "start": 2934.56,
+   "end": 2939.04,
+   "text": "perhaps or they're not mixing the sample"
+  },
+  {
+   "start": 2937.04,
+   "end": 2941.2,
+   "text": "properly and once uh clotting starts"
+  },
+  {
+   "start": 2939.04,
+   "end": 2944.0,
+   "text": "heparin does not this cannot dissolve a"
+  },
+  {
+   "start": 2941.2,
+   "end": 2946.64,
+   "text": "clause it's just useless for that"
+  },
+  {
+   "start": 2944.0,
+   "end": 2948.88,
+   "text": "for point of care but probably not"
+  },
+  {
+   "start": 2946.64,
+   "end": 2950.48,
+   "text": "mixing up properly if it's allowed to"
+  },
+  {
+   "start": 2948.88,
+   "end": 2952.16,
+   "text": "sit down and sit around that quality i"
+  },
+  {
+   "start": 2950.48,
+   "end": 2953.52,
+   "text": "would say that's especially true in the"
+  },
+  {
+   "start": 2952.16,
+   "end": 2956.32,
+   "text": "operating room or any place where"
+  },
+  {
+   "start": 2953.52,
+   "end": 2958.48,
+   "text": "there's a lot of you know a lot of a lot"
+  },
+  {
+   "start": 2956.32,
+   "end": 2960.72,
+   "text": "of chaos perhaps a lot of other"
+  },
+  {
+   "start": 2958.48,
+   "end": 2962.72,
+   "text": "uh involvement with the patient and so"
+  },
+  {
+   "start": 2960.72,
+   "end": 2964.64,
+   "text": "they forget that they collect the sample"
+  },
+  {
+   "start": 2962.72,
+   "end": 2966.64,
+   "text": "let it sit for a while and it's very"
+  },
+  {
+   "start": 2964.64,
+   "end": 2968.0,
+   "text": "easy to let one minute go by or think"
+  },
+  {
+   "start": 2966.64,
+   "end": 2969.28,
+   "text": "it's only one minute and in fact it's"
+  },
+  {
+   "start": 2968.0,
+   "end": 2971.2,
+   "text": "like three or four"
+  },
+  {
+   "start": 2969.28,
+   "end": 2972.96,
+   "text": "so i would say those two things that you"
+  },
+  {
+   "start": 2971.2,
+   "end": 2974.48,
+   "text": "know the"
+  },
+  {
+   "start": 2972.96,
+   "end": 2976.0,
+   "text": "bubbles in the sample"
+  },
+  {
+   "start": 2974.48,
+   "end": 2977.52,
+   "text": "allowing the sample to get clots or"
+  },
+  {
+   "start": 2976.0,
+   "end": 2981.28,
+   "text": "micro clots"
+  },
+  {
+   "start": 2977.52,
+   "end": 2983.28,
+   "text": "and then and then settling of the sample"
+  },
+  {
+   "start": 2981.28,
+   "end": 2985.2,
+   "text": "okay very good"
+  },
+  {
+   "start": 2983.28,
+   "end": 2987.28,
+   "text": "another question"
+  },
+  {
+   "start": 2985.2,
+   "end": 2992.16,
+   "text": "in the presentation you mentioned icing"
+  },
+  {
+   "start": 2987.28,
+   "end": 2992.16,
+   "text": "was not necessary anymore why is that"
+  },
+  {
+   "start": 2992.32,
+   "end": 2996.72,
+   "text": "well i didn't say it was not necessary"
+  },
+  {
+   "start": 2994.0,
+   "end": 2999.12,
+   "text": "anymore it's a matter of"
+  },
+  {
+   "start": 2996.72,
+   "end": 3001.84,
+   "text": "the effects that icing has on"
+  },
+  {
+   "start": 2999.12,
+   "end": 3004.0,
+   "text": "increasing the po2 in plastic syringes"
+  },
+  {
+   "start": 3001.84,
+   "end": 3005.68,
+   "text": "and also increasing the potassium which"
+  },
+  {
+   "start": 3004.0,
+   "end": 3008.24,
+   "text": "can increase leakage of potassium out of"
+  },
+  {
+   "start": 3005.68,
+   "end": 3010.4,
+   "text": "cells versus the effects of metabolism"
+  },
+  {
+   "start": 3008.24,
+   "end": 3012.88,
+   "text": "your metabolism at room temperature is"
+  },
+  {
+   "start": 3010.4,
+   "end": 3015.04,
+   "text": "going to be worse but then and so i"
+  },
+  {
+   "start": 3012.88,
+   "end": 3016.72,
+   "text": "think we'll salt will improve that but i"
+  },
+  {
+   "start": 3015.04,
+   "end": 3018.96,
+   "text": "think causes problems like i said with"
+  },
+  {
+   "start": 3016.72,
+   "end": 3020.24,
+   "text": "the po2 and the potassium so it's a"
+  },
+  {
+   "start": 3018.96,
+   "end": 3022.8,
+   "text": "matter of balance you know how long do"
+  },
+  {
+   "start": 3020.24,
+   "end": 3025.28,
+   "text": "you want it to wait uh i would say"
+  },
+  {
+   "start": 3022.8,
+   "end": 3027.6,
+   "text": "somewhere in the 15 to 30 minute range"
+  },
+  {
+   "start": 3025.28,
+   "end": 3029.84,
+   "text": "we we say if it's going to be less than"
+  },
+  {
+   "start": 3027.6,
+   "end": 3031.84,
+   "text": "30 minutes do not ice"
+  },
+  {
+   "start": 3029.84,
+   "end": 3033.44,
+   "text": "it's going to be longer than 30 minutes"
+  },
+  {
+   "start": 3031.84,
+   "end": 3035.52,
+   "text": "do put the sample on ice because you"
+  },
+  {
+   "start": 3033.44,
+   "end": 3037.36,
+   "text": "want to minimize the metabolic effects"
+  },
+  {
+   "start": 3035.52,
+   "end": 3039.36,
+   "text": "and of the two i think that after 30"
+  },
+  {
+   "start": 3037.36,
+   "end": 3040.56,
+   "text": "minutes you the metabolic effects would"
+  },
+  {
+   "start": 3039.36,
+   "end": 3041.6,
+   "text": "be worse"
+  },
+  {
+   "start": 3040.56,
+   "end": 3044.64,
+   "text": "than the"
+  },
+  {
+   "start": 3041.6,
+   "end": 3046.64,
+   "text": "increase in po2 from from permeability"
+  },
+  {
+   "start": 3044.64,
+   "end": 3048.16,
+   "text": "of the the syringes"
+  },
+  {
+   "start": 3046.64,
+   "end": 3049.68,
+   "text": "so now i didn't say don't ever use ice"
+  },
+  {
+   "start": 3048.16,
+   "end": 3051.76,
+   "text": "the other thing is you can never use ice"
+  },
+  {
+   "start": 3049.68,
+   "end": 3053.52,
+   "text": "on on a pneumatic tube so uh that's"
+  },
+  {
+   "start": 3051.76,
+   "end": 3055.12,
+   "text": "another reason so we generally don't use"
+  },
+  {
+   "start": 3053.52,
+   "end": 3057.36,
+   "text": "ice"
+  },
+  {
+   "start": 3055.12,
+   "end": 3059.68,
+   "text": "okay"
+  },
+  {
+   "start": 3057.36,
+   "end": 3061.92,
+   "text": "another one you mentioned extracellular"
+  },
+  {
+   "start": 3059.68,
+   "end": 3064.08,
+   "text": "fluid contamination affecting capillary"
+  },
+  {
+   "start": 3061.92,
+   "end": 3066.64,
+   "text": "samples and you also mentioned"
+  },
+  {
+   "start": 3064.08,
+   "end": 3069.84,
+   "text": "intracellular can you please explain or"
+  },
+  {
+   "start": 3066.64,
+   "end": 3069.84,
+   "text": "provide examples"
+  },
+  {
+   "start": 3069.92,
+   "end": 3074.4,
+   "text": "i don't know if i can provide examples"
+  },
+  {
+   "start": 3072.16,
+   "end": 3075.2,
+   "text": "that would be with with squeezing of the"
+  },
+  {
+   "start": 3074.4,
+   "end": 3078.4,
+   "text": "uh"
+  },
+  {
+   "start": 3075.2,
+   "end": 3080.24,
+   "text": "of the tissue at the puncture site"
+  },
+  {
+   "start": 3078.4,
+   "end": 3082.4,
+   "text": "usually not a problem with venipunctures"
+  },
+  {
+   "start": 3080.24,
+   "end": 3084.0,
+   "text": "or if the arterial or venous line is"
+  },
+  {
+   "start": 3082.4,
+   "end": 3085.2,
+   "text": "already in place that's usually not a"
+  },
+  {
+   "start": 3084.0,
+   "end": 3088.08,
+   "text": "problem there that would really be a"
+  },
+  {
+   "start": 3085.2,
+   "end": 3090.64,
+   "text": "problem with capillary samples"
+  },
+  {
+   "start": 3088.08,
+   "end": 3090.64,
+   "text": "and uh"
+  },
+  {
+   "start": 3090.8,
+   "end": 3095.84,
+   "text": "as you squeeze you uh you have the op"
+  },
+  {
+   "start": 3093.36,
+   "end": 3097.84,
+   "text": "did you have a greater possibility of"
+  },
+  {
+   "start": 3095.84,
+   "end": 3099.04,
+   "text": "introducing any of the interstitial"
+  },
+  {
+   "start": 3097.84,
+   "end": 3101.36,
+   "text": "fluids"
+  },
+  {
+   "start": 3099.04,
+   "end": 3103.52,
+   "text": "and the uh and possibly intracellular"
+  },
+  {
+   "start": 3101.36,
+   "end": 3105.68,
+   "text": "fluids if you really do a really squeeze"
+  },
+  {
+   "start": 3103.52,
+   "end": 3107.76,
+   "text": "heart i'd say mostly interstitial fluids"
+  },
+  {
+   "start": 3105.68,
+   "end": 3109.04,
+   "text": "more than intracellular fluids"
+  },
+  {
+   "start": 3107.76,
+   "end": 3111.12,
+   "text": "i hope that answered the question and i"
+  },
+  {
+   "start": 3109.04,
+   "end": 3112.96,
+   "text": "was a little bit puzzled by exactly what"
+  },
+  {
+   "start": 3111.12,
+   "end": 3114.32,
+   "text": "was meant by that but"
+  },
+  {
+   "start": 3112.96,
+   "end": 3116.56,
+   "text": "maybe the help of that did a good job"
+  },
+  {
+   "start": 3114.32,
+   "end": 3118.0,
+   "text": "there"
+  },
+  {
+   "start": 3116.56,
+   "end": 3119.68,
+   "text": "so"
+  },
+  {
+   "start": 3118.0,
+   "end": 3121.52,
+   "text": "someone asked are there different"
+  },
+  {
+   "start": 3119.68,
+   "end": 3123.84,
+   "text": "reference ranges for central venous"
+  },
+  {
+   "start": 3121.52,
+   "end": 3126.32,
+   "text": "versus venous samples especially for"
+  },
+  {
+   "start": 3123.84,
+   "end": 3126.32,
+   "text": "glucose"
+  },
+  {
+   "start": 3126.4,
+   "end": 3130.48,
+   "text": "well we don't provide those but i can"
+  },
+  {
+   "start": 3128.48,
+   "end": 3132.48,
+   "text": "just tell you that central venous if you"
+  },
+  {
+   "start": 3130.48,
+   "end": 3134.8,
+   "text": "think about it that is all the venous"
+  },
+  {
+   "start": 3132.48,
+   "end": 3136.56,
+   "text": "blood being mixed back together"
+  },
+  {
+   "start": 3134.8,
+   "end": 3138.32,
+   "text": "so that represents the entire body"
+  },
+  {
+   "start": 3136.56,
+   "end": 3139.84,
+   "text": "metabolism"
+  },
+  {
+   "start": 3138.32,
+   "end": 3141.92,
+   "text": "and for certain measurements surface"
+  },
+  {
+   "start": 3139.84,
+   "end": 3143.12,
+   "text": "like like oxygen consumption and oxygen"
+  },
+  {
+   "start": 3141.92,
+   "end": 3144.8,
+   "text": "delivery you really need that"
+  },
+  {
+   "start": 3143.12,
+   "end": 3146.56,
+   "text": "measurement well if you just do a"
+  },
+  {
+   "start": 3144.8,
+   "end": 3148.64,
+   "text": "venipuncture like the usually at the"
+  },
+  {
+   "start": 3146.56,
+   "end": 3151.12,
+   "text": "anticubicle vein in the arm"
+  },
+  {
+   "start": 3148.64,
+   "end": 3153.2,
+   "text": "that represents metabolism that occurred"
+  },
+  {
+   "start": 3151.12,
+   "end": 3155.92,
+   "text": "in the uh i guess in the hand and part"
+  },
+  {
+   "start": 3153.2,
+   "end": 3157.52,
+   "text": "of the arm so it's more localized"
+  },
+  {
+   "start": 3155.92,
+   "end": 3159.12,
+   "text": "generally there's not a"
+  },
+  {
+   "start": 3157.52,
+   "end": 3161.52,
+   "text": "huge difference with with many of the"
+  },
+  {
+   "start": 3159.12,
+   "end": 3163.6,
+   "text": "analytes oxygen may be"
+  },
+  {
+   "start": 3161.52,
+   "end": 3165.04,
+   "text": "glucose a little bit maybe i would say"
+  },
+  {
+   "start": 3163.6,
+   "end": 3166.8,
+   "text": "not not to a great extent but you know"
+  },
+  {
+   "start": 3165.04,
+   "end": 3169.2,
+   "text": "we're so used to getting"
+  },
+  {
+   "start": 3166.8,
+   "end": 3171.44,
+   "text": "our reference values and our"
+  },
+  {
+   "start": 3169.2,
+   "end": 3173.6,
+   "text": "usual clinical values from uh from"
+  },
+  {
+   "start": 3171.44,
+   "end": 3176.08,
+   "text": "venipunctures in the common places like"
+  },
+  {
+   "start": 3173.6,
+   "end": 3178.4,
+   "text": "the arm that that's what we use so you"
+  },
+  {
+   "start": 3176.08,
+   "end": 3180.0,
+   "text": "certainly don't need central venous"
+  },
+  {
+   "start": 3178.4,
+   "end": 3182.08,
+   "text": "collections for most analytes but i"
+  },
+  {
+   "start": 3180.0,
+   "end": 3185.12,
+   "text": "would say for po2 and"
+  },
+  {
+   "start": 3182.08,
+   "end": 3187.76,
+   "text": "uh possibly ph and pco2 that it's more"
+  },
+  {
+   "start": 3185.12,
+   "end": 3187.76,
+   "text": "more useful"
+  },
+  {
+   "start": 3188.88,
+   "end": 3192.84,
+   "text": "would you recommend chloride measurement"
+  },
+  {
+   "start": 3191.12,
+   "end": 3195.12,
+   "text": "on a blood gas"
+  },
+  {
+   "start": 3192.84,
+   "end": 3196.96,
+   "text": "analyzer hmm"
+  },
+  {
+   "start": 3195.12,
+   "end": 3198.96,
+   "text": "i guess it never hurts if it's there uh"
+  },
+  {
+   "start": 3196.96,
+   "end": 3200.56,
+   "text": "you know i hear that many of analyzers"
+  },
+  {
+   "start": 3198.96,
+   "end": 3202.56,
+   "text": "have chloride"
+  },
+  {
+   "start": 3200.56,
+   "end": 3204.48,
+   "text": "electrodes on them now so it"
+  },
+  {
+   "start": 3202.56,
+   "end": 3206.48,
+   "text": "you know it chloride can be useful with"
+  },
+  {
+   "start": 3204.48,
+   "end": 3208.48,
+   "text": "differentiating some types of acid-base"
+  },
+  {
+   "start": 3206.48,
+   "end": 3209.6,
+   "text": "disorders so it's always a good thing to"
+  },
+  {
+   "start": 3208.48,
+   "end": 3210.72,
+   "text": "have"
+  },
+  {
+   "start": 3209.6,
+   "end": 3212.32,
+   "text": "i don't know it's not considered"
+  },
+  {
+   "start": 3210.72,
+   "end": 3214.56,
+   "text": "essential but this is a good thing to"
+  },
+  {
+   "start": 3212.32,
+   "end": 3214.56,
+   "text": "have"
+  },
+  {
+   "start": 3215.12,
+   "end": 3223.0,
+   "text": "and uh how long can a gel sst to be open"
+  },
+  {
+   "start": 3218.8,
+   "end": 3223.0,
+   "text": "before testing ionized calcium"
+  },
+  {
+   "start": 3223.36,
+   "end": 3226.32,
+   "text": "well"
+  },
+  {
+   "start": 3224.64,
+   "end": 3231.44,
+   "text": "as i said there the fact that you've"
+  },
+  {
+   "start": 3226.32,
+   "end": 3233.52,
+   "text": "even used a sst essential serum"
+  },
+  {
+   "start": 3231.44,
+   "end": 3236.0,
+   "text": "the clotting process itself causes"
+  },
+  {
+   "start": 3233.52,
+   "end": 3238.0,
+   "text": "changes in the ph i presume the ph and"
+  },
+  {
+   "start": 3236.0,
+   "end": 3240.08,
+   "text": "the ionized calcium"
+  },
+  {
+   "start": 3238.0,
+   "end": 3242.0,
+   "text": "i would almost consider that a a bigger"
+  },
+  {
+   "start": 3240.08,
+   "end": 3243.68,
+   "text": "problem um"
+  },
+  {
+   "start": 3242.0,
+   "end": 3246.32,
+   "text": "go over that again do they ask how how"
+  },
+  {
+   "start": 3243.68,
+   "end": 3248.88,
+   "text": "long can be opened"
+  },
+  {
+   "start": 3246.32,
+   "end": 3250.56,
+   "text": "uh how long can the two be open for"
+  },
+  {
+   "start": 3248.88,
+   "end": 3252.48,
+   "text": "testing okay open"
+  },
+  {
+   "start": 3250.56,
+   "end": 3254.08,
+   "text": "um"
+  },
+  {
+   "start": 3252.48,
+   "end": 3255.76,
+   "text": "we say uh"
+  },
+  {
+   "start": 3254.08,
+   "end": 3257.44,
+   "text": "i would say if it's just briefly open"
+  },
+  {
+   "start": 3255.76,
+   "end": 3260.32,
+   "text": "not much of an issue of course has to be"
+  },
+  {
+   "start": 3257.44,
+   "end": 3262.16,
+   "text": "opened anyway i would say somewhere uh"
+  },
+  {
+   "start": 3260.32,
+   "end": 3263.28,
+   "text": "and maybe within within you know within"
+  },
+  {
+   "start": 3262.16,
+   "end": 3265.6,
+   "text": "five minutes you don't want it to stay"
+  },
+  {
+   "start": 3263.28,
+   "end": 3267.52,
+   "text": "open very long"
+  },
+  {
+   "start": 3265.6,
+   "end": 3270.0,
+   "text": "okay"
+  },
+  {
+   "start": 3267.52,
+   "end": 3272.56,
+   "text": "so do you know how creatine results will"
+  },
+  {
+   "start": 3270.0,
+   "end": 3274.56,
+   "text": "be affected in milking"
+  },
+  {
+   "start": 3272.56,
+   "end": 3277.04,
+   "text": "uh in capillary collections do the"
+  },
+  {
+   "start": 3274.56,
+   "end": 3278.48,
+   "text": "increase or decrease"
+  },
+  {
+   "start": 3277.04,
+   "end": 3281.84,
+   "text": "i should know that creatinine is one of"
+  },
+  {
+   "start": 3278.48,
+   "end": 3284.16,
+   "text": "my favorite analytes um"
+  },
+  {
+   "start": 3281.84,
+   "end": 3286.0,
+   "text": "i would guess that it's lower in"
+  },
+  {
+   "start": 3284.16,
+   "end": 3287.68,
+   "text": "interstitial fluids but i you know i"
+  },
+  {
+   "start": 3286.0,
+   "end": 3289.44,
+   "text": "don't know that that's a you know"
+  },
+  {
+   "start": 3287.68,
+   "end": 3291.84,
+   "text": "difficult question but certainly an"
+  },
+  {
+   "start": 3289.44,
+   "end": 3293.76,
+   "text": "interesting one"
+  },
+  {
+   "start": 3291.84,
+   "end": 3295.84,
+   "text": "the best thing is not to melt the sample"
+  },
+  {
+   "start": 3293.76,
+   "end": 3297.36,
+   "text": "anyway you know you as i said before"
+  },
+  {
+   "start": 3295.84,
+   "end": 3298.96,
+   "text": "arterialize it make sure there's good"
+  },
+  {
+   "start": 3297.36,
+   "end": 3300.88,
+   "text": "blood flow in the capillaries do a"
+  },
+  {
+   "start": 3298.96,
+   "end": 3302.96,
+   "text": "puncture let it flow freely that's"
+  },
+  {
+   "start": 3300.88,
+   "end": 3304.16,
+   "text": "that's the best answer to that and so"
+  },
+  {
+   "start": 3302.96,
+   "end": 3305.6,
+   "text": "you're not getting"
+  },
+  {
+   "start": 3304.16,
+   "end": 3307.28,
+   "text": "the effects of"
+  },
+  {
+   "start": 3305.6,
+   "end": 3309.68,
+   "text": "of interstitial fluids you know and"
+  },
+  {
+   "start": 3307.28,
+   "end": 3312.0,
+   "text": "creatinine i'll be fairly certain"
+  },
+  {
+   "start": 3309.68,
+   "end": 3314.0,
+   "text": "changes very very little as you go from"
+  },
+  {
+   "start": 3312.0,
+   "end": 3316.08,
+   "text": "arterial to venous so if you get really"
+  },
+  {
+   "start": 3314.0,
+   "end": 3320.0,
+   "text": "good blood sample that should be it"
+  },
+  {
+   "start": 3316.08,
+   "end": 3322.8,
+   "text": "should not be much of an effect"
+  },
+  {
+   "start": 3320.0,
+   "end": 3326.64,
+   "text": "um a specific one here of the ionized"
+  },
+  {
+   "start": 3322.8,
+   "end": 3328.72,
+   "text": "calcium table that you presented"
+  },
+  {
+   "start": 3326.64,
+   "end": 3330.64,
+   "text": "what the temperature of the samples was"
+  },
+  {
+   "start": 3328.72,
+   "end": 3332.64,
+   "text": "in that"
+  },
+  {
+   "start": 3330.64,
+   "end": 3335.64,
+   "text": "well that would be at room temperature"
+  },
+  {
+   "start": 3332.64,
+   "end": 3335.64,
+   "text": "okay"
+  },
+  {
+   "start": 3335.76,
+   "end": 3340.32,
+   "text": "all right and then someone asked does a"
+  },
+  {
+   "start": 3337.6,
+   "end": 3344.88,
+   "text": "high co2 in blood move out of plastic"
+  },
+  {
+   "start": 3340.32,
+   "end": 3344.88,
+   "text": "syringe resulting in loss of pot"
+  },
+  {
+   "start": 3346.24,
+   "end": 3350.08,
+   "text": "i would see that you know that's"
+  },
+  {
+   "start": 3348.56,
+   "end": 3351.12,
+   "text": "i can't i have to say i've never studied"
+  },
+  {
+   "start": 3350.08,
+   "end": 3353.28,
+   "text": "that"
+  },
+  {
+   "start": 3351.12,
+   "end": 3356.72,
+   "text": "but if you go back to what the mechanism"
+  },
+  {
+   "start": 3353.28,
+   "end": 3358.32,
+   "text": "for why it causes an effect anyway uh"
+  },
+  {
+   "start": 3356.72,
+   "end": 3360.0,
+   "text": "if it's in glass syringes there's"
+  },
+  {
+   "start": 3358.32,
+   "end": 3361.6,
+   "text": "there's really the you know is the"
+  },
+  {
+   "start": 3360.0,
+   "end": 3362.8,
+   "text": "hemoglobin affinity"
+  },
+  {
+   "start": 3361.6,
+   "end": 3364.56,
+   "text": "increases"
+  },
+  {
+   "start": 3362.8,
+   "end": 3366.48,
+   "text": "it can pick up oxygen but it can only"
+  },
+  {
+   "start": 3364.56,
+   "end": 3367.84,
+   "text": "happen oxygen in that blood sample it"
+  },
+  {
+   "start": 3366.48,
+   "end": 3370.32,
+   "text": "cannot pull it in from the outside so"
+  },
+  {
+   "start": 3367.84,
+   "end": 3372.88,
+   "text": "what apparently happens is the theory"
+  },
+  {
+   "start": 3370.32,
+   "end": 3375.04,
+   "text": "and seems like a good mechanism is"
+  },
+  {
+   "start": 3372.88,
+   "end": 3377.6,
+   "text": "that as the"
+  },
+  {
+   "start": 3375.04,
+   "end": 3380.16,
+   "text": "hemoglobin gets colder it dramatically"
+  },
+  {
+   "start": 3377.6,
+   "end": 3382.08,
+   "text": "increases its affinity for oxygen and so"
+  },
+  {
+   "start": 3380.16,
+   "end": 3384.64,
+   "text": "it binds the oxygen"
+  },
+  {
+   "start": 3382.08,
+   "end": 3387.36,
+   "text": "that can create a diffusion"
+  },
+  {
+   "start": 3384.64,
+   "end": 3389.52,
+   "text": "of oxygen from the outside into the into"
+  },
+  {
+   "start": 3387.36,
+   "end": 3391.28,
+   "text": "the blood itself"
+  },
+  {
+   "start": 3389.52,
+   "end": 3392.56,
+   "text": "and if you think about it though that"
+  },
+  {
+   "start": 3391.28,
+   "end": 3394.56,
+   "text": "maybe you may say oh that's hard to"
+  },
+  {
+   "start": 3392.56,
+   "end": 3397.36,
+   "text": "believe well just remember that"
+  },
+  {
+   "start": 3394.56,
+   "end": 3399.12,
+   "text": "polypropylene is the membrane used in"
+  },
+  {
+   "start": 3397.36,
+   "end": 3400.32,
+   "text": "po2 electrodes today and back when"
+  },
+  {
+   "start": 3399.12,
+   "end": 3402.08,
+   "text": "leland clark"
+  },
+  {
+   "start": 3400.32,
+   "end": 3404.32,
+   "text": "developed these initially it was"
+  },
+  {
+   "start": 3402.08,
+   "end": 3406.0,
+   "text": "polyethylene which is what is used for"
+  },
+  {
+   "start": 3404.32,
+   "end": 3408.16,
+   "text": "plastic syringes today now of course"
+  },
+  {
+   "start": 3406.0,
+   "end": 3410.72,
+   "text": "plastic syringes are much thicker than a"
+  },
+  {
+   "start": 3408.16,
+   "end": 3412.88,
+   "text": "membrane on these analyzers the problem"
+  },
+  {
+   "start": 3410.72,
+   "end": 3415.6,
+   "text": "comes about as you as you gain this"
+  },
+  {
+   "start": 3412.88,
+   "end": 3417.92,
+   "text": "oxygen at cold temperatures"
+  },
+  {
+   "start": 3415.6,
+   "end": 3419.92,
+   "text": "what temperature is the sample analyzed"
+  },
+  {
+   "start": 3417.92,
+   "end": 3421.52,
+   "text": "at well that's back at 37 degrees and so"
+  },
+  {
+   "start": 3419.92,
+   "end": 3423.52,
+   "text": "then the oxygen comes off of the"
+  },
+  {
+   "start": 3421.52,
+   "end": 3425.92,
+   "text": "hemoglobin into the aqueous phase and"
+  },
+  {
+   "start": 3423.52,
+   "end": 3427.52,
+   "text": "that is what an oxygen sensor of po2"
+  },
+  {
+   "start": 3425.92,
+   "end": 3430.4,
+   "text": "measures is the"
+  },
+  {
+   "start": 3427.52,
+   "end": 3431.6,
+   "text": "oxygen pressure retention in the aqueous"
+  },
+  {
+   "start": 3430.4,
+   "end": 3433.2,
+   "text": "phase"
+  },
+  {
+   "start": 3431.6,
+   "end": 3435.68,
+   "text": "so that that's the cause of the error as"
+  },
+  {
+   "start": 3433.2,
+   "end": 3438.08,
+   "text": "far as going back out of the syringe i"
+  },
+  {
+   "start": 3435.68,
+   "end": 3439.84,
+   "text": "bet that would be very very slow"
+  },
+  {
+   "start": 3438.08,
+   "end": 3442.8,
+   "text": "as far as"
+  },
+  {
+   "start": 3439.84,
+   "end": 3445.36,
+   "text": "how fast we go back into the atmosphere"
+  },
+  {
+   "start": 3442.8,
+   "end": 3447.36,
+   "text": "and uh it would have to be"
+  },
+  {
+   "start": 3445.36,
+   "end": 3449.84,
+   "text": "greater than about 150 millimeters of"
+  },
+  {
+   "start": 3447.36,
+   "end": 3451.28,
+   "text": "mercury to even cause a gradient so uh i"
+  },
+  {
+   "start": 3449.84,
+   "end": 3453.84,
+   "text": "think that would be"
+  },
+  {
+   "start": 3451.28,
+   "end": 3455.76,
+   "text": "very very very little"
+  },
+  {
+   "start": 3453.84,
+   "end": 3457.44,
+   "text": "more more a bigger concern is when you"
+  },
+  {
+   "start": 3455.76,
+   "end": 3460.4,
+   "text": "actually open the syringe"
+  },
+  {
+   "start": 3457.44,
+   "end": 3462.24,
+   "text": "one thing i can say about a blood sample"
+  },
+  {
+   "start": 3460.4,
+   "end": 3464.8,
+   "text": "with a high po2"
+  },
+  {
+   "start": 3462.24,
+   "end": 3466.4,
+   "text": "is that oxygen in the aqueous phase is"
+  },
+  {
+   "start": 3464.8,
+   "end": 3468.4,
+   "text": "very unstable"
+  },
+  {
+   "start": 3466.4,
+   "end": 3469.6,
+   "text": "so it doesn't take long"
+  },
+  {
+   "start": 3468.4,
+   "end": 3471.6,
+   "text": "to uh"
+  },
+  {
+   "start": 3469.6,
+   "end": 3473.28,
+   "text": "to lose that oxygen out of the blood and"
+  },
+  {
+   "start": 3471.6,
+   "end": 3475.04,
+   "text": "if you notice on that chart i showed"
+  },
+  {
+   "start": 3473.28,
+   "end": 3477.2,
+   "text": "that plot of"
+  },
+  {
+   "start": 3475.04,
+   "end": 3479.44,
+   "text": "pneumatic tube transport as you get if"
+  },
+  {
+   "start": 3477.2,
+   "end": 3482.32,
+   "text": "you have a sample with a high po2 and an"
+  },
+  {
+   "start": 3479.44,
+   "end": 3484.0,
+   "text": "air bubble you're going to lower your"
+  },
+  {
+   "start": 3482.32,
+   "end": 3486.72,
+   "text": "your po2"
+  },
+  {
+   "start": 3484.0,
+   "end": 3488.64,
+   "text": "i hope that answered it"
+  },
+  {
+   "start": 3486.72,
+   "end": 3490.48,
+   "text": "so i think we have time for one more"
+  },
+  {
+   "start": 3488.64,
+   "end": 3493.12,
+   "text": "question uh"
+  },
+  {
+   "start": 3490.48,
+   "end": 3495.76,
+   "text": "so for for newborns what analytes do you"
+  },
+  {
+   "start": 3493.12,
+   "end": 3498.48,
+   "text": "recommend drawing capillary and which by"
+  },
+  {
+   "start": 3495.76,
+   "end": 3498.48,
+   "text": "venipuncture"
+  },
+  {
+   "start": 3500.88,
+   "end": 3504.16,
+   "text": "well uh"
+  },
+  {
+   "start": 3502.48,
+   "end": 3507.2,
+   "text": "you know with newborns it's almost all"
+  },
+  {
+   "start": 3504.16,
+   "end": 3509.44,
+   "text": "done by heel sticks uh i wish i had our"
+  },
+  {
+   "start": 3507.2,
+   "end": 3510.24,
+   "text": "pediatric collections here to answer"
+  },
+  {
+   "start": 3509.44,
+   "end": 3511.84,
+   "text": "that"
+  },
+  {
+   "start": 3510.24,
+   "end": 3513.92,
+   "text": "but i know you know they're mostly done"
+  },
+  {
+   "start": 3511.84,
+   "end": 3515.68,
+   "text": "by by heel sticks just somewhat less"
+  },
+  {
+   "start": 3513.92,
+   "end": 3518.16,
+   "text": "painful but"
+  },
+  {
+   "start": 3515.68,
+   "end": 3519.6,
+   "text": "certainly still painful"
+  },
+  {
+   "start": 3518.16,
+   "end": 3521.36,
+   "text": "so i i"
+  },
+  {
+   "start": 3519.6,
+   "end": 3523.12,
+   "text": "i guess that's the answer i would give"
+  },
+  {
+   "start": 3521.36,
+   "end": 3524.96,
+   "text": "uh"
+  },
+  {
+   "start": 3523.12,
+   "end": 3527.6,
+   "text": "as they get older then things like mic"
+  },
+  {
+   "start": 3524.96,
+   "end": 3530.0,
+   "text": "retainers are possible and uh"
+  },
+  {
+   "start": 3527.6,
+   "end": 3532.56,
+   "text": "and uh you know for blood gases you want"
+  },
+  {
+   "start": 3530.0,
+   "end": 3534.0,
+   "text": "to try and minimize exposure to air"
+  },
+  {
+   "start": 3532.56,
+   "end": 3536.4,
+   "text": "but sometimes that's what you you're"
+  },
+  {
+   "start": 3534.0,
+   "end": 3539.28,
+   "text": "there that's what you're left with for"
+  },
+  {
+   "start": 3536.4,
+   "end": 3542.0,
+   "text": "very small neonates"
+  },
+  {
+   "start": 3539.28,
+   "end": 3544.24,
+   "text": "okay very good well i have a lot of"
+  },
+  {
+   "start": 3542.0,
+   "end": 3546.08,
+   "text": "questions here still but uh we're"
+  },
+  {
+   "start": 3544.24,
+   "end": 3548.56,
+   "text": "limited in time so"
+  },
+  {
+   "start": 3546.08,
+   "end": 3551.44,
+   "text": "we'll uh we'll close it out but again we"
+  },
+  {
+   "start": 3548.56,
+   "end": 3553.6,
+   "text": "appreciate your time dr toffeletti and"
+  },
+  {
+   "start": 3551.44,
+   "end": 3555.6,
+   "text": "for all the listeners"
+  },
+  {
+   "start": 3553.6,
+   "end": 3558.64,
+   "text": "we'll be sending out a"
+  },
+  {
+   "start": 3555.6,
+   "end": 3560.8,
+   "text": "follow-up email with a survey to get"
+  },
+  {
+   "start": 3558.64,
+   "end": 3562.88,
+   "text": "your continuing education credits you"
+  },
+  {
+   "start": 3560.8,
+   "end": 3564.24,
+   "text": "need to fill out that survey and also"
+  },
+  {
+   "start": 3562.88,
+   "end": 3566.08,
+   "text": "rick i would say that"
+  },
+  {
+   "start": 3564.24,
+   "end": 3567.52,
+   "text": "rick i would say if anybody has a"
+  },
+  {
+   "start": 3566.08,
+   "end": 3569.68,
+   "text": "burning question they can certainly"
+  },
+  {
+   "start": 3567.52,
+   "end": 3570.56,
+   "text": "email me and i'll try to answer it best"
+  },
+  {
+   "start": 3569.68,
+   "end": 3574.16,
+   "text": "i can"
+  },
+  {
+   "start": 3570.56,
+   "end": 3576.48,
+   "text": "okay great your email address"
+  },
+  {
+   "start": 3574.16,
+   "end": 3577.68,
+   "text": "well if my name is john dot"
+  },
+  {
+   "start": 3576.48,
+   "end": 3580.32,
+   "text": "topheletti"
+  },
+  {
+   "start": 3577.68,
+   "end": 3581.84,
+   "text": "duke.edu"
+  },
+  {
+   "start": 3580.32,
+   "end": 3584.08,
+   "text": "great"
+  },
+  {
+   "start": 3581.84,
+   "end": 3585.6,
+   "text": "okay thanks for your time and uh thank"
+  },
+  {
+   "start": 3584.08,
+   "end": 3589.24,
+   "text": "you everybody"
+  },
+  {
+   "start": 3585.6,
+   "end": 3589.24,
+   "text": "thank you great"
+  },
+  {
+   "start": 3633.04,
+   "end": 3635.12,
+   "text": "you"
+  }
+ ]
+}

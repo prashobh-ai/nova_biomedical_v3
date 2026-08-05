@@ -1,0 +1,3893 @@
+{
+ "video_id": "duIG7vtwv3c",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 777,
+ "cues": [
+  {
+   "start": 1.28,
+   "end": 5.04,
+   "text": "hello and thank you for joining us today"
+  },
+  {
+   "start": 3.36,
+   "end": 6.4,
+   "text": "my name is dennis begos and i'm an"
+  },
+  {
+   "start": 5.04,
+   "end": 7.6,
+   "text": "associate medical director"
+  },
+  {
+   "start": 6.4,
+   "end": 11.04,
+   "text": "in the department of medical and"
+  },
+  {
+   "start": 7.6,
+   "end": 15.04,
+   "text": "scientific affairs at nova biomedical"
+  },
+  {
+   "start": 11.04,
+   "end": 18.16,
+   "text": "today we have the extreme honor of"
+  },
+  {
+   "start": 15.04,
+   "end": 21.6,
+   "text": "dr ravi mehta here to discuss with us"
+  },
+  {
+   "start": 18.16,
+   "end": 23.44,
+   "text": "the 0x25 project ravi"
+  },
+  {
+   "start": 21.6,
+   "end": 25.2,
+   "text": "is a nephrologist and a professor of"
+  },
+  {
+   "start": 23.44,
+   "end": 26.0,
+   "text": "medicine at university of california san"
+  },
+  {
+   "start": 25.2,
+   "end": 27.76,
+   "text": "diego"
+  },
+  {
+   "start": 26.0,
+   "end": 29.36,
+   "text": "and he's a very accomplished"
+  },
+  {
+   "start": 27.76,
+   "end": 32.24,
+   "text": "nephrologist he's"
+  },
+  {
+   "start": 29.36,
+   "end": 33.84,
+   "text": "the recipient of a number of nih grants"
+  },
+  {
+   "start": 32.24,
+   "end": 35.84,
+   "text": "he's the principal investigator"
+  },
+  {
+   "start": 33.84,
+   "end": 36.88,
+   "text": "on a number of clinical trials and he's"
+  },
+  {
+   "start": 35.84,
+   "end": 41.04,
+   "text": "very well published"
+  },
+  {
+   "start": 36.88,
+   "end": 43.12,
+   "text": "in the areas of acute kidney injury crrt"
+  },
+  {
+   "start": 41.04,
+   "end": 44.56,
+   "text": "as well as global health which is why"
+  },
+  {
+   "start": 43.12,
+   "end": 46.4,
+   "text": "he's here today"
+  },
+  {
+   "start": 44.56,
+   "end": 48.08,
+   "text": "he recently published a paper on the"
+  },
+  {
+   "start": 46.4,
+   "end": 50.96,
+   "text": "0x25 project"
+  },
+  {
+   "start": 48.08,
+   "end": 51.68,
+   "text": "in plos medicine and we're going to"
+  },
+  {
+   "start": 50.96,
+   "end": 54.0,
+   "text": "discuss that"
+  },
+  {
+   "start": 51.68,
+   "end": 56.16,
+   "text": "in a little more detail with him today"
+  },
+  {
+   "start": 54.0,
+   "end": 58.16,
+   "text": "ravi thank you for joining us"
+  },
+  {
+   "start": 56.16,
+   "end": 59.28,
+   "text": "thank you dennis it's uh great to have"
+  },
+  {
+   "start": 58.16,
+   "end": 61.84,
+   "text": "this opportunity to"
+  },
+  {
+   "start": 59.28,
+   "end": 63.28,
+   "text": "be with you and discuss a little bit"
+  },
+  {
+   "start": 61.84,
+   "end": 65.04,
+   "text": "about what we've been doing"
+  },
+  {
+   "start": 63.28,
+   "end": 66.96,
+   "text": "i'm a professor of medicine at the"
+  },
+  {
+   "start": 65.04,
+   "end": 68.88,
+   "text": "university of california san diego"
+  },
+  {
+   "start": 66.96,
+   "end": 71.36,
+   "text": "and have been on the full-time faculty"
+  },
+  {
+   "start": 68.88,
+   "end": 74.08,
+   "text": "here since 1988."
+  },
+  {
+   "start": 71.36,
+   "end": 75.2,
+   "text": "my areas of interest have always been uh"
+  },
+  {
+   "start": 74.08,
+   "end": 78.16,
+   "text": "kitty injury"
+  },
+  {
+   "start": 75.2,
+   "end": 79.2,
+   "text": "and i was fortunate enough to be one of"
+  },
+  {
+   "start": 78.16,
+   "end": 81.92,
+   "text": "the co-leaders"
+  },
+  {
+   "start": 79.2,
+   "end": 83.84,
+   "text": "for the international society of"
+  },
+  {
+   "start": 81.92,
+   "end": 87.12,
+   "text": "nephrology 0x25"
+  },
+  {
+   "start": 83.84,
+   "end": 89.2,
+   "text": "project which started in 2014"
+  },
+  {
+   "start": 87.12,
+   "end": 91.76,
+   "text": "and i'll be glad to tell you a little"
+  },
+  {
+   "start": 89.2,
+   "end": 94.0,
+   "text": "bit more about it"
+  },
+  {
+   "start": 91.76,
+   "end": 96.0,
+   "text": "so rory for those who aren't familiar"
+  },
+  {
+   "start": 94.0,
+   "end": 96.24,
+   "text": "with the 0x25 study why don't you give"
+  },
+  {
+   "start": 96.0,
+   "end": 98.48,
+   "text": "us"
+  },
+  {
+   "start": 96.24,
+   "end": 100.08,
+   "text": "an overview kind of a 20 000 foot view"
+  },
+  {
+   "start": 98.48,
+   "end": 104.0,
+   "text": "of what the study was about"
+  },
+  {
+   "start": 100.08,
+   "end": 107.6,
+   "text": "how it began what its origins were and"
+  },
+  {
+   "start": 104.0,
+   "end": 110.32,
+   "text": "and what its purpose is so the"
+  },
+  {
+   "start": 107.6,
+   "end": 110.8,
+   "text": "international study nephrology 0x25"
+  },
+  {
+   "start": 110.32,
+   "end": 114.48,
+   "text": "project"
+  },
+  {
+   "start": 110.8,
+   "end": 117.92,
+   "text": "started actually following a"
+  },
+  {
+   "start": 114.48,
+   "end": 120.96,
+   "text": "initial uh inaugural speech by"
+  },
+  {
+   "start": 117.92,
+   "end": 124.4,
+   "text": "the then president giuseppe ramoji"
+  },
+  {
+   "start": 120.96,
+   "end": 125.92,
+   "text": "in 2013 this was the isn annual meeting"
+  },
+  {
+   "start": 124.4,
+   "end": 129.68,
+   "text": "was in hong kong"
+  },
+  {
+   "start": 125.92,
+   "end": 130.8,
+   "text": "and he uh through a challenge to"
+  },
+  {
+   "start": 129.68,
+   "end": 132.48,
+   "text": "everybody and as you know the"
+  },
+  {
+   "start": 130.8,
+   "end": 134.88,
+   "text": "international side is an organization of"
+  },
+  {
+   "start": 132.48,
+   "end": 138.48,
+   "text": "nephrologists from all over the world"
+  },
+  {
+   "start": 134.88,
+   "end": 140.08,
+   "text": "and it's um and has had a long-standing"
+  },
+  {
+   "start": 138.48,
+   "end": 142.88,
+   "text": "interest in terms of"
+  },
+  {
+   "start": 140.08,
+   "end": 144.64,
+   "text": "trying to optimize care of patients who"
+  },
+  {
+   "start": 142.88,
+   "end": 148.0,
+   "text": "have kidney disease"
+  },
+  {
+   "start": 144.64,
+   "end": 149.04,
+   "text": "and his challenge was that acute kidney"
+  },
+  {
+   "start": 148.0,
+   "end": 151.92,
+   "text": "injury"
+  },
+  {
+   "start": 149.04,
+   "end": 153.76,
+   "text": "which is a acute decline in kidney"
+  },
+  {
+   "start": 151.92,
+   "end": 156.08,
+   "text": "function"
+  },
+  {
+   "start": 153.76,
+   "end": 157.36,
+   "text": "which can occur almost to anybody it's"
+  },
+  {
+   "start": 156.08,
+   "end": 159.76,
+   "text": "it's got uh"
+  },
+  {
+   "start": 157.36,
+   "end": 160.88,
+   "text": "you know no boundaries in terms of who"
+  },
+  {
+   "start": 159.76,
+   "end": 164.32,
+   "text": "it might affect or"
+  },
+  {
+   "start": 160.88,
+   "end": 166.16,
+   "text": "what it might do you have uh it easily"
+  },
+  {
+   "start": 164.32,
+   "end": 168.24,
+   "text": "affecting people who have"
+  },
+  {
+   "start": 166.16,
+   "end": 170.4,
+   "text": "um you know underlying comorbidities"
+  },
+  {
+   "start": 168.24,
+   "end": 172.96,
+   "text": "versus those who are otherwise normal"
+  },
+  {
+   "start": 170.4,
+   "end": 174.48,
+   "text": "and could uh into multiple settings so"
+  },
+  {
+   "start": 172.96,
+   "end": 176.72,
+   "text": "anyway his challenge was that a kid"
+  },
+  {
+   "start": 174.48,
+   "end": 180.88,
+   "text": "kidney injury is associated with"
+  },
+  {
+   "start": 176.72,
+   "end": 184.32,
+   "text": "uh high mortality and so"
+  },
+  {
+   "start": 180.88,
+   "end": 187.52,
+   "text": "is there a way that we could"
+  },
+  {
+   "start": 184.32,
+   "end": 189.76,
+   "text": "reduce preventable deaths from acute"
+  },
+  {
+   "start": 187.52,
+   "end": 192.8,
+   "text": "kidney injury by 2025."
+  },
+  {
+   "start": 189.76,
+   "end": 196.64,
+   "text": "so this is 12 years ago in 2013"
+  },
+  {
+   "start": 192.8,
+   "end": 200.32,
+   "text": "in june and it was met with a lot of"
+  },
+  {
+   "start": 196.64,
+   "end": 202.48,
+   "text": "surprise and you know not that everybody"
+  },
+  {
+   "start": 200.32,
+   "end": 204.16,
+   "text": "didn't know that this was a problem but"
+  },
+  {
+   "start": 202.48,
+   "end": 206.4,
+   "text": "it was sort of oh well"
+  },
+  {
+   "start": 204.16,
+   "end": 207.84,
+   "text": "now we've got to do something about it"
+  },
+  {
+   "start": 206.4,
+   "end": 210.56,
+   "text": "so uh"
+  },
+  {
+   "start": 207.84,
+   "end": 212.0,
+   "text": "when we started thinking about this and"
+  },
+  {
+   "start": 210.56,
+   "end": 214.48,
+   "text": "initiating this he"
+  },
+  {
+   "start": 212.0,
+   "end": 215.84,
+   "text": "uh tasked me along with another team of"
+  },
+  {
+   "start": 214.48,
+   "end": 218.88,
+   "text": "members who"
+  },
+  {
+   "start": 215.84,
+   "end": 220.0,
+   "text": "uh basically develop a project around"
+  },
+  {
+   "start": 218.88,
+   "end": 222.56,
+   "text": "this"
+  },
+  {
+   "start": 220.0,
+   "end": 224.48,
+   "text": "and uh one of the first things we came"
+  },
+  {
+   "start": 222.56,
+   "end": 226.72,
+   "text": "up with was essentially to"
+  },
+  {
+   "start": 224.48,
+   "end": 228.08,
+   "text": "understand what would be the scope of a"
+  },
+  {
+   "start": 226.72,
+   "end": 230.24,
+   "text": "study like this and what would be the"
+  },
+  {
+   "start": 228.08,
+   "end": 232.56,
+   "text": "scope of a project like this"
+  },
+  {
+   "start": 230.24,
+   "end": 234.08,
+   "text": "and so the first aspect was just to"
+  },
+  {
+   "start": 232.56,
+   "end": 237.76,
+   "text": "understand the lay of the land"
+  },
+  {
+   "start": 234.08,
+   "end": 241.12,
+   "text": "and recognize that what do we mean by"
+  },
+  {
+   "start": 237.76,
+   "end": 242.48,
+   "text": "preventable death and when we think"
+  },
+  {
+   "start": 241.12,
+   "end": 245.68,
+   "text": "about preventable deaths"
+  },
+  {
+   "start": 242.48,
+   "end": 248.88,
+   "text": "in a situation like this it's"
+  },
+  {
+   "start": 245.68,
+   "end": 251.2,
+   "text": "it's hard to fathom it unless you put"
+  },
+  {
+   "start": 248.88,
+   "end": 254.16,
+   "text": "some criteria around it"
+  },
+  {
+   "start": 251.2,
+   "end": 255.44,
+   "text": "to put this in perspective when you look"
+  },
+  {
+   "start": 254.16,
+   "end": 258.56,
+   "text": "at"
+  },
+  {
+   "start": 255.44,
+   "end": 261.6,
+   "text": "acute kidney injury"
+  },
+  {
+   "start": 258.56,
+   "end": 264.08,
+   "text": "many people do not have a concept of"
+  },
+  {
+   "start": 261.6,
+   "end": 266.4,
+   "text": "what it really means"
+  },
+  {
+   "start": 264.08,
+   "end": 267.76,
+   "text": "for instance somebody who is in a motor"
+  },
+  {
+   "start": 266.4,
+   "end": 271.12,
+   "text": "vehicle accident"
+  },
+  {
+   "start": 267.76,
+   "end": 273.2,
+   "text": "ends up in the hospital and during the"
+  },
+  {
+   "start": 271.12,
+   "end": 276.48,
+   "text": "course of their hospitalization"
+  },
+  {
+   "start": 273.2,
+   "end": 278.56,
+   "text": "their kidneys fail they were otherwise"
+  },
+  {
+   "start": 276.48,
+   "end": 280.72,
+   "text": "totally fully healthy with no other"
+  },
+  {
+   "start": 278.56,
+   "end": 283.36,
+   "text": "problems than that"
+  },
+  {
+   "start": 280.72,
+   "end": 284.72,
+   "text": "the fact that their kidneys fail"
+  },
+  {
+   "start": 283.36,
+   "end": 287.76,
+   "text": "translates into them"
+  },
+  {
+   "start": 284.72,
+   "end": 290.88,
+   "text": "having not only a longer"
+  },
+  {
+   "start": 287.76,
+   "end": 292.4,
+   "text": "stay in the hospital more chances that"
+  },
+  {
+   "start": 290.88,
+   "end": 294.64,
+   "text": "they would die"
+  },
+  {
+   "start": 292.4,
+   "end": 295.68,
+   "text": "not only during the hospitalization but"
+  },
+  {
+   "start": 294.64,
+   "end": 298.4,
+   "text": "also"
+  },
+  {
+   "start": 295.68,
+   "end": 299.36,
+   "text": "as much as a one year to five years"
+  },
+  {
+   "start": 298.4,
+   "end": 302.4,
+   "text": "later"
+  },
+  {
+   "start": 299.36,
+   "end": 304.16,
+   "text": "from complications related to it"
+  },
+  {
+   "start": 302.4,
+   "end": 306.0,
+   "text": "you could have other people who may have"
+  },
+  {
+   "start": 304.16,
+   "end": 308.08,
+   "text": "say underlying comorbidities like"
+  },
+  {
+   "start": 306.0,
+   "end": 310.8,
+   "text": "diabetes or hypertension"
+  },
+  {
+   "start": 308.08,
+   "end": 311.52,
+   "text": "and they develop a good kidney injury"
+  },
+  {
+   "start": 310.8,
+   "end": 314.56,
+   "text": "someone"
+  },
+  {
+   "start": 311.52,
+   "end": 315.04,
+   "text": "in a in a environment may get a snake"
+  },
+  {
+   "start": 314.56,
+   "end": 317.68,
+   "text": "bite"
+  },
+  {
+   "start": 315.04,
+   "end": 319.2,
+   "text": "and following the envenomation get acute"
+  },
+  {
+   "start": 317.68,
+   "end": 320.4,
+   "text": "kidney injury so there's this white"
+  },
+  {
+   "start": 319.2,
+   "end": 322.56,
+   "text": "spectrum"
+  },
+  {
+   "start": 320.4,
+   "end": 324.64,
+   "text": "so when we what we came up with was that"
+  },
+  {
+   "start": 322.56,
+   "end": 325.92,
+   "text": "there are three types of preventable"
+  },
+  {
+   "start": 324.64,
+   "end": 329.84,
+   "text": "deaths"
+  },
+  {
+   "start": 325.92,
+   "end": 333.44,
+   "text": "first is where there is endemic"
+  },
+  {
+   "start": 329.84,
+   "end": 335.2,
+   "text": "illnesses which are correlated with or"
+  },
+  {
+   "start": 333.44,
+   "end": 337.28,
+   "text": "have a high risk for developing kidney"
+  },
+  {
+   "start": 335.2,
+   "end": 339.2,
+   "text": "injury as i have mentioned earlier"
+  },
+  {
+   "start": 337.28,
+   "end": 340.56,
+   "text": "so in the tropics you might have"
+  },
+  {
+   "start": 339.2,
+   "end": 343.52,
+   "text": "patients who uh"
+  },
+  {
+   "start": 340.56,
+   "end": 345.12,
+   "text": "who are likely to get a snake bite you"
+  },
+  {
+   "start": 343.52,
+   "end": 348.56,
+   "text": "might have somebody"
+  },
+  {
+   "start": 345.12,
+   "end": 352.08,
+   "text": "who has got malaria who has dengue or"
+  },
+  {
+   "start": 348.56,
+   "end": 353.04,
+   "text": "they develop cholera so those endemic"
+  },
+  {
+   "start": 352.08,
+   "end": 357.12,
+   "text": "illnesses are"
+  },
+  {
+   "start": 353.04,
+   "end": 360.56,
+   "text": "type of one type and then the second"
+  },
+  {
+   "start": 357.12,
+   "end": 363.6,
+   "text": "level of preventable illness is in"
+  },
+  {
+   "start": 360.56,
+   "end": 366.0,
+   "text": "situations where we may miss the fact"
+  },
+  {
+   "start": 363.6,
+   "end": 368.48,
+   "text": "that somebody has a good kidney injury"
+  },
+  {
+   "start": 366.0,
+   "end": 369.2,
+   "text": "it could be within the hospital setting"
+  },
+  {
+   "start": 368.48,
+   "end": 371.84,
+   "text": "it could be"
+  },
+  {
+   "start": 369.2,
+   "end": 372.64,
+   "text": "outside the hospital setting and it's"
+  },
+  {
+   "start": 371.84,
+   "end": 375.52,
+   "text": "not"
+  },
+  {
+   "start": 372.64,
+   "end": 377.52,
+   "text": "uncommon that we may not necessarily"
+  },
+  {
+   "start": 375.52,
+   "end": 378.24,
+   "text": "recognize the signs because the kidney"
+  },
+  {
+   "start": 377.52,
+   "end": 381.6,
+   "text": "itself"
+  },
+  {
+   "start": 378.24,
+   "end": 383.6,
+   "text": "does not complain there is no it's not"
+  },
+  {
+   "start": 381.6,
+   "end": 384.4,
+   "text": "unlike the heart where you have chest"
+  },
+  {
+   "start": 383.6,
+   "end": 387.2,
+   "text": "pain or"
+  },
+  {
+   "start": 384.4,
+   "end": 388.4,
+   "text": "a stroke where you have loss of you know"
+  },
+  {
+   "start": 387.2,
+   "end": 390.88,
+   "text": "uh"
+  },
+  {
+   "start": 388.4,
+   "end": 392.64,
+   "text": "or neurological function the kidney"
+  },
+  {
+   "start": 390.88,
+   "end": 396.72,
+   "text": "doesn't have any"
+  },
+  {
+   "start": 392.64,
+   "end": 399.36,
+   "text": "overt symptomatology and you may"
+  },
+  {
+   "start": 396.72,
+   "end": 401.12,
+   "text": "only find out with some lab tests or you"
+  },
+  {
+   "start": 399.36,
+   "end": 402.48,
+   "text": "may find out if the person really gets"
+  },
+  {
+   "start": 401.12,
+   "end": 404.24,
+   "text": "sick and gets"
+  },
+  {
+   "start": 402.48,
+   "end": 405.68,
+   "text": "complications related to the loss of"
+  },
+  {
+   "start": 404.24,
+   "end": 408.32,
+   "text": "function"
+  },
+  {
+   "start": 405.68,
+   "end": 410.24,
+   "text": "so that's the the second aspect of it is"
+  },
+  {
+   "start": 408.32,
+   "end": 413.92,
+   "text": "the preventable part is that you"
+  },
+  {
+   "start": 410.24,
+   "end": 417.84,
+   "text": "either missed the the"
+  },
+  {
+   "start": 413.92,
+   "end": 421.12,
+   "text": "few changes which referred to or mr lab"
+  },
+  {
+   "start": 417.84,
+   "end": 422.08,
+   "text": "or that in essence we were contributing"
+  },
+  {
+   "start": 421.12,
+   "end": 425.04,
+   "text": "to it so"
+  },
+  {
+   "start": 422.08,
+   "end": 426.72,
+   "text": "for example a lot of patients need to"
+  },
+  {
+   "start": 425.04,
+   "end": 428.48,
+   "text": "get antibiotics"
+  },
+  {
+   "start": 426.72,
+   "end": 430.56,
+   "text": "and some of those antibiotics have side"
+  },
+  {
+   "start": 428.48,
+   "end": 433.68,
+   "text": "effects on the kidney and so"
+  },
+  {
+   "start": 430.56,
+   "end": 437.2,
+   "text": "while they are necessary you do have"
+  },
+  {
+   "start": 433.68,
+   "end": 438.96,
+   "text": "a unfortunate effect on the kidneys"
+  },
+  {
+   "start": 437.2,
+   "end": 440.88,
+   "text": "itself which could be missed so that's"
+  },
+  {
+   "start": 438.96,
+   "end": 444.16,
+   "text": "the second sort of level"
+  },
+  {
+   "start": 440.88,
+   "end": 444.88,
+   "text": "and the third level was more where there"
+  },
+  {
+   "start": 444.16,
+   "end": 448.88,
+   "text": "is"
+  },
+  {
+   "start": 444.88,
+   "end": 452.0,
+   "text": "lack of care or lack of access to care"
+  },
+  {
+   "start": 448.88,
+   "end": 453.76,
+   "text": "and that is because let's say in certain"
+  },
+  {
+   "start": 452.0,
+   "end": 456.4,
+   "text": "parts of the world there is no"
+  },
+  {
+   "start": 453.76,
+   "end": 459.12,
+   "text": "dialysis capability there is no"
+  },
+  {
+   "start": 456.4,
+   "end": 462.24,
+   "text": "capability of getting a lab test done"
+  },
+  {
+   "start": 459.12,
+   "end": 464.0,
+   "text": "or if there is it costs so much that the"
+  },
+  {
+   "start": 462.24,
+   "end": 466.4,
+   "text": "person can't afford it"
+  },
+  {
+   "start": 464.0,
+   "end": 468.24,
+   "text": "so we we sort of started thinking is"
+  },
+  {
+   "start": 466.4,
+   "end": 469.36,
+   "text": "okay there are these three levels of"
+  },
+  {
+   "start": 468.24,
+   "end": 473.04,
+   "text": "preventable deaths"
+  },
+  {
+   "start": 469.36,
+   "end": 476.16,
+   "text": "so how do we then define"
+  },
+  {
+   "start": 473.04,
+   "end": 478.08,
+   "text": "what we would do in this project and"
+  },
+  {
+   "start": 476.16,
+   "end": 479.28,
+   "text": "so that was just the starting point for"
+  },
+  {
+   "start": 478.08,
+   "end": 480.64,
+   "text": "it"
+  },
+  {
+   "start": 479.28,
+   "end": 483.04,
+   "text": "that's great thank you ravi and you"
+  },
+  {
+   "start": 480.64,
+   "end": 486.56,
+   "text": "mentioned uh"
+  },
+  {
+   "start": 483.04,
+   "end": 488.8,
+   "text": "that aki can be like an mi"
+  },
+  {
+   "start": 486.56,
+   "end": 489.68,
+   "text": "and just out of curiosity when we see"
+  },
+  {
+   "start": 488.8,
+   "end": 493.04,
+   "text": "patients with"
+  },
+  {
+   "start": 489.68,
+   "end": 495.2,
+   "text": "uh with aki many of them have a"
+  },
+  {
+   "start": 493.04,
+   "end": 497.28,
+   "text": "bump in their creatinine a decrease in"
+  },
+  {
+   "start": 495.2,
+   "end": 499.84,
+   "text": "their urine output and it typically"
+  },
+  {
+   "start": 497.28,
+   "end": 502.32,
+   "text": "in many patients at least resolves over"
+  },
+  {
+   "start": 499.84,
+   "end": 504.72,
+   "text": "a few days"
+  },
+  {
+   "start": 502.32,
+   "end": 506.32,
+   "text": "is is aki analogous to an mi and that"
+  },
+  {
+   "start": 504.72,
+   "end": 509.36,
+   "text": "once those patients resolve"
+  },
+  {
+   "start": 506.32,
+   "end": 510.4,
+   "text": "their aki they have a number of nephrons"
+  },
+  {
+   "start": 509.36,
+   "end": 513.2,
+   "text": "that are"
+  },
+  {
+   "start": 510.4,
+   "end": 513.68,
+   "text": "non-functioning that are dead or do"
+  },
+  {
+   "start": 513.2,
+   "end": 517.12,
+   "text": "those"
+  },
+  {
+   "start": 513.68,
+   "end": 517.76,
+   "text": "nephrons actually come back what's the"
+  },
+  {
+   "start": 517.12,
+   "end": 519.76,
+   "text": "what's the"
+  },
+  {
+   "start": 517.76,
+   "end": 521.6,
+   "text": "pathophysiology of aki after they"
+  },
+  {
+   "start": 519.76,
+   "end": 522.88,
+   "text": "recover"
+  },
+  {
+   "start": 521.6,
+   "end": 525.28,
+   "text": "now actually dennis that's a good"
+  },
+  {
+   "start": 522.88,
+   "end": 528.64,
+   "text": "question i think the the"
+  },
+  {
+   "start": 525.28,
+   "end": 530.56,
+   "text": "the way we think about a good kidney"
+  },
+  {
+   "start": 528.64,
+   "end": 532.8,
+   "text": "injury is that our criteria for"
+  },
+  {
+   "start": 530.56,
+   "end": 535.84,
+   "text": "identifying it are based upon"
+  },
+  {
+   "start": 532.8,
+   "end": 538.88,
+   "text": "either a change in urine output or"
+  },
+  {
+   "start": 535.84,
+   "end": 539.76,
+   "text": "a recent and a relatively quick change"
+  },
+  {
+   "start": 538.88,
+   "end": 542.08,
+   "text": "in"
+  },
+  {
+   "start": 539.76,
+   "end": 545.28,
+   "text": "the serum creatinine values and the"
+  },
+  {
+   "start": 542.08,
+   "end": 548.16,
+   "text": "definitions are usually within 48 hours"
+  },
+  {
+   "start": 545.28,
+   "end": 549.2,
+   "text": "for an absolute change or a within seven"
+  },
+  {
+   "start": 548.16,
+   "end": 552.0,
+   "text": "days"
+  },
+  {
+   "start": 549.2,
+   "end": 553.76,
+   "text": "and the intent and the expectation is"
+  },
+  {
+   "start": 552.0,
+   "end": 555.12,
+   "text": "that for the acute kidney injury patient"
+  },
+  {
+   "start": 553.76,
+   "end": 558.0,
+   "text": "should recover"
+  },
+  {
+   "start": 555.12,
+   "end": 559.68,
+   "text": "however the recovery rates depend upon a"
+  },
+  {
+   "start": 558.0,
+   "end": 563.2,
+   "text": "variety of different things the nature"
+  },
+  {
+   "start": 559.68,
+   "end": 564.96,
+   "text": "of the insult how severe the process was"
+  },
+  {
+   "start": 563.2,
+   "end": 567.76,
+   "text": "what was the underlying state of kidney"
+  },
+  {
+   "start": 564.96,
+   "end": 570.56,
+   "text": "health and then how long it lasted"
+  },
+  {
+   "start": 567.76,
+   "end": 571.6,
+   "text": "and how many episodes the patients had"
+  },
+  {
+   "start": 570.56,
+   "end": 573.52,
+   "text": "so"
+  },
+  {
+   "start": 571.6,
+   "end": 576.0,
+   "text": "a significant number of patients will"
+  },
+  {
+   "start": 573.52,
+   "end": 578.0,
+   "text": "recover but there are others who will"
+  },
+  {
+   "start": 576.0,
+   "end": 579.76,
+   "text": "not recover completely"
+  },
+  {
+   "start": 578.0,
+   "end": 581.12,
+   "text": "and may end up with chronic kidney"
+  },
+  {
+   "start": 579.76,
+   "end": 582.96,
+   "text": "disease uh"
+  },
+  {
+   "start": 581.12,
+   "end": 584.16,
+   "text": "as a result of that episode of acute"
+  },
+  {
+   "start": 582.96,
+   "end": 587.84,
+   "text": "kidney injury"
+  },
+  {
+   "start": 584.16,
+   "end": 589.44,
+   "text": "so unlike and in some ways like"
+  },
+  {
+   "start": 587.84,
+   "end": 591.12,
+   "text": "myocardial infarction"
+  },
+  {
+   "start": 589.44,
+   "end": 592.64,
+   "text": "i mean you can have patients with micro"
+  },
+  {
+   "start": 591.12,
+   "end": 595.84,
+   "text": "infarction who"
+  },
+  {
+   "start": 592.64,
+   "end": 597.92,
+   "text": "will recover over time"
+  },
+  {
+   "start": 595.84,
+   "end": 599.68,
+   "text": "and others who will succumb to that"
+  },
+  {
+   "start": 597.92,
+   "end": 600.88,
+   "text": "illness it's the same thing with the kid"
+  },
+  {
+   "start": 599.68,
+   "end": 603.6,
+   "text": "kidney injury"
+  },
+  {
+   "start": 600.88,
+   "end": 605.12,
+   "text": "and part of this relates to what else is"
+  },
+  {
+   "start": 603.6,
+   "end": 607.6,
+   "text": "going on at the time that the"
+  },
+  {
+   "start": 605.12,
+   "end": 608.96,
+   "text": "kidneys fail how many other organs are"
+  },
+  {
+   "start": 607.6,
+   "end": 611.2,
+   "text": "down what caused it"
+  },
+  {
+   "start": 608.96,
+   "end": 612.88,
+   "text": "is it sepsis or any other aspects which"
+  },
+  {
+   "start": 611.2,
+   "end": 616.24,
+   "text": "will all contribute to that"
+  },
+  {
+   "start": 612.88,
+   "end": 618.64,
+   "text": "outcome thanks ravi you"
+  },
+  {
+   "start": 616.24,
+   "end": 620.24,
+   "text": "you mentioned a lot about low and middle"
+  },
+  {
+   "start": 618.64,
+   "end": 621.04,
+   "text": "income countries when it comes to zero"
+  },
+  {
+   "start": 620.24,
+   "end": 622.8,
+   "text": "by 25"
+  },
+  {
+   "start": 621.04,
+   "end": 624.24,
+   "text": "study and that's certainly where it was"
+  },
+  {
+   "start": 622.8,
+   "end": 626.72,
+   "text": "focused but"
+  },
+  {
+   "start": 624.24,
+   "end": 629.28,
+   "text": "we know that aki is not limited to low"
+  },
+  {
+   "start": 626.72,
+   "end": 631.12,
+   "text": "and middle income countries"
+  },
+  {
+   "start": 629.28,
+   "end": 632.32,
+   "text": "do you think that it's more prevalent"
+  },
+  {
+   "start": 631.12,
+   "end": 634.88,
+   "text": "there or do you think it's"
+  },
+  {
+   "start": 632.32,
+   "end": 636.8,
+   "text": "under diagnosed there where people live"
+  },
+  {
+   "start": 634.88,
+   "end": 638.16,
+   "text": "in remote areas and may not have good"
+  },
+  {
+   "start": 636.8,
+   "end": 640.96,
+   "text": "access to health care"
+  },
+  {
+   "start": 638.16,
+   "end": 642.8,
+   "text": "or uh laboratory evaluations and things"
+  },
+  {
+   "start": 640.96,
+   "end": 645.36,
+   "text": "like that"
+  },
+  {
+   "start": 642.8,
+   "end": 648.24,
+   "text": "so there is the the the first thing we"
+  },
+  {
+   "start": 645.36,
+   "end": 652.56,
+   "text": "did with the 0x25 project was to do"
+  },
+  {
+   "start": 648.24,
+   "end": 655.36,
+   "text": "a uh international study where we"
+  },
+  {
+   "start": 652.56,
+   "end": 658.32,
+   "text": "uh we designed this that was run in"
+  },
+  {
+   "start": 655.36,
+   "end": 661.36,
+   "text": "september 2014 for 10 weeks"
+  },
+  {
+   "start": 658.32,
+   "end": 661.84,
+   "text": "and we asked physicians from all over"
+  },
+  {
+   "start": 661.36,
+   "end": 664.16,
+   "text": "the world"
+  },
+  {
+   "start": 661.84,
+   "end": 666.16,
+   "text": "from multiple countries to basically"
+  },
+  {
+   "start": 664.16,
+   "end": 669.36,
+   "text": "pick um"
+  },
+  {
+   "start": 666.16,
+   "end": 672.08,
+   "text": "a day in their daily lives"
+  },
+  {
+   "start": 669.36,
+   "end": 675.44,
+   "text": "where they would record information of"
+  },
+  {
+   "start": 672.08,
+   "end": 678.72,
+   "text": "patients that they saw on that day"
+  },
+  {
+   "start": 675.44,
+   "end": 679.76,
+   "text": "or three days prior and uh to who met"
+  },
+  {
+   "start": 678.72,
+   "end": 682.56,
+   "text": "the criteria for the"
+  },
+  {
+   "start": 679.76,
+   "end": 684.88,
+   "text": "kidney injury and then tell us what"
+  },
+  {
+   "start": 682.56,
+   "end": 688.4,
+   "text": "happened to them seven days later"
+  },
+  {
+   "start": 684.88,
+   "end": 691.04,
+   "text": "and we were very fortunate to have"
+  },
+  {
+   "start": 688.4,
+   "end": 692.72,
+   "text": "over four thousand patients information"
+  },
+  {
+   "start": 691.04,
+   "end": 693.84,
+   "text": "uh recorded and we published this in"
+  },
+  {
+   "start": 692.72,
+   "end": 697.44,
+   "text": "landsat"
+  },
+  {
+   "start": 693.84,
+   "end": 698.32,
+   "text": "and what it showed was a a very unique"
+  },
+  {
+   "start": 697.44,
+   "end": 702.16,
+   "text": "set of"
+  },
+  {
+   "start": 698.32,
+   "end": 704.96,
+   "text": "information as such it showed that"
+  },
+  {
+   "start": 702.16,
+   "end": 707.28,
+   "text": "we were seeing a wide spectrum of where"
+  },
+  {
+   "start": 704.96,
+   "end": 709.52,
+   "text": "acute kidney injury was occurring"
+  },
+  {
+   "start": 707.28,
+   "end": 711.84,
+   "text": "and to our surprise we found that a"
+  },
+  {
+   "start": 709.52,
+   "end": 715.28,
+   "text": "significant number of patients had"
+  },
+  {
+   "start": 711.84,
+   "end": 716.56,
+   "text": "a kidney injury in the non-hospitalized"
+  },
+  {
+   "start": 715.28,
+   "end": 718.64,
+   "text": "part in the community"
+  },
+  {
+   "start": 716.56,
+   "end": 720.32,
+   "text": "and then they weigh or may have come"
+  },
+  {
+   "start": 718.64,
+   "end": 721.84,
+   "text": "into the hospital with it"
+  },
+  {
+   "start": 720.32,
+   "end": 724.32,
+   "text": "and a second group of patients were"
+  },
+  {
+   "start": 721.84,
+   "end": 725.68,
+   "text": "having uh kidney injury during a"
+  },
+  {
+   "start": 724.32,
+   "end": 727.6,
+   "text": "hospitalization"
+  },
+  {
+   "start": 725.68,
+   "end": 729.36,
+   "text": "so there was this distinction between"
+  },
+  {
+   "start": 727.6,
+   "end": 730.88,
+   "text": "community acquired and hospital acquired"
+  },
+  {
+   "start": 729.36,
+   "end": 733.76,
+   "text": "a kid kidney injury"
+  },
+  {
+   "start": 730.88,
+   "end": 734.0,
+   "text": "we found that dehydration hypotension"
+  },
+  {
+   "start": 733.76,
+   "end": 736.16,
+   "text": "and"
+  },
+  {
+   "start": 734.0,
+   "end": 738.08,
+   "text": "infection were the common denominators"
+  },
+  {
+   "start": 736.16,
+   "end": 739.92,
+   "text": "no matter where you went in the world"
+  },
+  {
+   "start": 738.08,
+   "end": 741.36,
+   "text": "which associated with acute kidney"
+  },
+  {
+   "start": 739.92,
+   "end": 744.56,
+   "text": "injury itself"
+  },
+  {
+   "start": 741.36,
+   "end": 746.96,
+   "text": "and then we also realized that"
+  },
+  {
+   "start": 744.56,
+   "end": 748.64,
+   "text": "patients depending upon which part of"
+  },
+  {
+   "start": 746.96,
+   "end": 752.0,
+   "text": "the world they were"
+  },
+  {
+   "start": 748.64,
+   "end": 755.04,
+   "text": "had different levels of access to care"
+  },
+  {
+   "start": 752.0,
+   "end": 756.24,
+   "text": "and so as a consequence of this we we"
+  },
+  {
+   "start": 755.04,
+   "end": 758.4,
+   "text": "recognized that"
+  },
+  {
+   "start": 756.24,
+   "end": 760.0,
+   "text": "patients who were in low and low middle"
+  },
+  {
+   "start": 758.4,
+   "end": 763.04,
+   "text": "income countries"
+  },
+  {
+   "start": 760.0,
+   "end": 764.8,
+   "text": "whenever they presented two with a kid"
+  },
+  {
+   "start": 763.04,
+   "end": 766.32,
+   "text": "kidney injury or were recognized to have"
+  },
+  {
+   "start": 764.8,
+   "end": 769.52,
+   "text": "acute kidney injury"
+  },
+  {
+   "start": 766.32,
+   "end": 771.84,
+   "text": "they were at a much more severe stage of"
+  },
+  {
+   "start": 769.52,
+   "end": 773.68,
+   "text": "a good kidney injury than those say in a"
+  },
+  {
+   "start": 771.84,
+   "end": 776.32,
+   "text": "very high income country where"
+  },
+  {
+   "start": 773.68,
+   "end": 779.2,
+   "text": "access to care was available and then"
+  },
+  {
+   "start": 776.32,
+   "end": 782.56,
+   "text": "finally we also found that"
+  },
+  {
+   "start": 779.2,
+   "end": 784.84,
+   "text": "patients who ordinarily we would"
+  },
+  {
+   "start": 782.56,
+   "end": 787.92,
+   "text": "ordinarily dialyze in a high income"
+  },
+  {
+   "start": 784.84,
+   "end": 792.32,
+   "text": "country often were not dialyzed"
+  },
+  {
+   "start": 787.92,
+   "end": 793.6,
+   "text": "and uh to to some of this was related"
+  },
+  {
+   "start": 792.32,
+   "end": 794.48,
+   "text": "just to the fact that they couldn't"
+  },
+  {
+   "start": 793.6,
+   "end": 796.4,
+   "text": "afford it"
+  },
+  {
+   "start": 794.48,
+   "end": 797.52,
+   "text": "or that dialysis services were not"
+  },
+  {
+   "start": 796.4,
+   "end": 800.08,
+   "text": "available"
+  },
+  {
+   "start": 797.52,
+   "end": 800.64,
+   "text": "which sort of reinforced our notion that"
+  },
+  {
+   "start": 800.08,
+   "end": 802.96,
+   "text": "we"
+  },
+  {
+   "start": 800.64,
+   "end": 804.8,
+   "text": "needed to think about the preventable"
+  },
+  {
+   "start": 802.96,
+   "end": 805.12,
+   "text": "deaths again in the same levels that i"
+  },
+  {
+   "start": 804.8,
+   "end": 808.4,
+   "text": "had"
+  },
+  {
+   "start": 805.12,
+   "end": 810.56,
+   "text": "shown you earlier in terms of those"
+  },
+  {
+   "start": 808.4,
+   "end": 813.04,
+   "text": "where there are endemic illnesses"
+  },
+  {
+   "start": 810.56,
+   "end": 814.24,
+   "text": "and versus those where we miss the"
+  },
+  {
+   "start": 813.04,
+   "end": 816.0,
+   "text": "diagnosis or"
+  },
+  {
+   "start": 814.24,
+   "end": 817.84,
+   "text": "contributed to it directly to those"
+  },
+  {
+   "start": 816.0,
+   "end": 820.24,
+   "text": "where it is access to care"
+  },
+  {
+   "start": 817.84,
+   "end": 821.52,
+   "text": "because in each of those circumstances"
+  },
+  {
+   "start": 820.24,
+   "end": 823.84,
+   "text": "the the"
+  },
+  {
+   "start": 821.52,
+   "end": 824.56,
+   "text": "strategies to tackle it would be quite"
+  },
+  {
+   "start": 823.84,
+   "end": 828.16,
+   "text": "different"
+  },
+  {
+   "start": 824.56,
+   "end": 831.6,
+   "text": "uh in that setting thanks ravi so"
+  },
+  {
+   "start": 828.16,
+   "end": 833.52,
+   "text": "that's the the feasibility"
+  },
+  {
+   "start": 831.6,
+   "end": 834.88,
+   "text": "study or the feasibility groundwork that"
+  },
+  {
+   "start": 833.52,
+   "end": 838.0,
+   "text": "was done"
+  },
+  {
+   "start": 834.88,
+   "end": 839.04,
+   "text": "what did you guys then do next in order"
+  },
+  {
+   "start": 838.0,
+   "end": 842.8,
+   "text": "to"
+  },
+  {
+   "start": 839.04,
+   "end": 844.48,
+   "text": "further advance the zero by 25 study and"
+  },
+  {
+   "start": 842.8,
+   "end": 846.0,
+   "text": "do you think it's something that could"
+  },
+  {
+   "start": 844.48,
+   "end": 847.92,
+   "text": "have been done without"
+  },
+  {
+   "start": 846.0,
+   "end": 849.44,
+   "text": "technology such as handheld creatinine"
+  },
+  {
+   "start": 847.92,
+   "end": 852.4,
+   "text": "meters"
+  },
+  {
+   "start": 849.44,
+   "end": 853.76,
+   "text": "so the trial was designed to ask the"
+  },
+  {
+   "start": 852.4,
+   "end": 858.48,
+   "text": "question"
+  },
+  {
+   "start": 853.76,
+   "end": 862.64,
+   "text": "could we uh assess the feasibility of an"
+  },
+  {
+   "start": 858.48,
+   "end": 864.96,
+   "text": "educational program in"
+  },
+  {
+   "start": 862.64,
+   "end": 867.28,
+   "text": "remote parts of the world where access"
+  },
+  {
+   "start": 864.96,
+   "end": 870.72,
+   "text": "to care is limited"
+  },
+  {
+   "start": 867.28,
+   "end": 871.92,
+   "text": "to for people to identify cooking injury"
+  },
+  {
+   "start": 870.72,
+   "end": 874.32,
+   "text": "and manage it"
+  },
+  {
+   "start": 871.92,
+   "end": 875.28,
+   "text": "so the design of the study was that we"
+  },
+  {
+   "start": 874.32,
+   "end": 880.0,
+   "text": "picked"
+  },
+  {
+   "start": 875.28,
+   "end": 883.28,
+   "text": "three countries we did malawi"
+  },
+  {
+   "start": 880.0,
+   "end": 884.4,
+   "text": "nepal and bolivia and in each of these"
+  },
+  {
+   "start": 883.28,
+   "end": 887.76,
+   "text": "three countries"
+  },
+  {
+   "start": 884.4,
+   "end": 889.28,
+   "text": "we went out into the community"
+  },
+  {
+   "start": 887.76,
+   "end": 891.6,
+   "text": "to the health care clinics in the"
+  },
+  {
+   "start": 889.28,
+   "end": 895.12,
+   "text": "community where there's no doctors"
+  },
+  {
+   "start": 891.6,
+   "end": 897.6,
+   "text": "patients are seen simply by"
+  },
+  {
+   "start": 895.12,
+   "end": 898.72,
+   "text": "some qualified individuals but who do"
+  },
+  {
+   "start": 897.6,
+   "end": 902.48,
+   "text": "not have any"
+  },
+  {
+   "start": 898.72,
+   "end": 904.24,
+   "text": "formal medical training beyond"
+  },
+  {
+   "start": 902.48,
+   "end": 906.0,
+   "text": "you know being able to assess some"
+  },
+  {
+   "start": 904.24,
+   "end": 909.28,
+   "text": "health systems"
+  },
+  {
+   "start": 906.0,
+   "end": 911.92,
+   "text": "and we designed the study in"
+  },
+  {
+   "start": 909.28,
+   "end": 914.32,
+   "text": "three phases so in each of these centers"
+  },
+  {
+   "start": 911.92,
+   "end": 916.56,
+   "text": "we had a cluster of healthcare clinics"
+  },
+  {
+   "start": 914.32,
+   "end": 918.24,
+   "text": "which then were reporting there or"
+  },
+  {
+   "start": 916.56,
+   "end": 919.52,
+   "text": "sending their patients to a district"
+  },
+  {
+   "start": 918.24,
+   "end": 922.0,
+   "text": "hospital which was"
+  },
+  {
+   "start": 919.52,
+   "end": 924.56,
+   "text": "then staffed appropriately with you know"
+  },
+  {
+   "start": 922.0,
+   "end": 927.12,
+   "text": "physicians and the ability"
+  },
+  {
+   "start": 924.56,
+   "end": 927.84,
+   "text": "and yet in these clinics there was no"
+  },
+  {
+   "start": 927.12,
+   "end": 929.84,
+   "text": "structure"
+  },
+  {
+   "start": 927.84,
+   "end": 931.52,
+   "text": "other than you know basic vital signs"
+  },
+  {
+   "start": 929.84,
+   "end": 936.08,
+   "text": "being monitored or basic"
+  },
+  {
+   "start": 931.52,
+   "end": 939.76,
+   "text": "uh aspect of of uh care to be provided"
+  },
+  {
+   "start": 936.08,
+   "end": 940.0,
+   "text": "and uh we had the set the study into"
+  },
+  {
+   "start": 939.76,
+   "end": 941.76,
+   "text": "three"
+  },
+  {
+   "start": 940.0,
+   "end": 943.04,
+   "text": "phases we did an observation phase for"
+  },
+  {
+   "start": 941.76,
+   "end": 945.44,
+   "text": "four months"
+  },
+  {
+   "start": 943.04,
+   "end": 947.44,
+   "text": "a uh training phase for two months and"
+  },
+  {
+   "start": 945.44,
+   "end": 948.88,
+   "text": "then an intervention phase for another"
+  },
+  {
+   "start": 947.44,
+   "end": 951.6,
+   "text": "six months"
+  },
+  {
+   "start": 948.88,
+   "end": 953.52,
+   "text": "and in the observation phase so do from"
+  },
+  {
+   "start": 951.6,
+   "end": 956.56,
+   "text": "the data we had collected from the"
+  },
+  {
+   "start": 953.52,
+   "end": 959.6,
+   "text": "0x25 study before we"
+  },
+  {
+   "start": 956.56,
+   "end": 960.4,
+   "text": "uh created one of my colleagues dr"
+  },
+  {
+   "start": 959.6,
+   "end": 964.16,
+   "text": "macedo"
+  },
+  {
+   "start": 960.4,
+   "end": 966.16,
+   "text": "who was who is now also at uc san diego"
+  },
+  {
+   "start": 964.16,
+   "end": 967.28,
+   "text": "took that information from those 4 000"
+  },
+  {
+   "start": 966.16,
+   "end": 970.08,
+   "text": "patients and"
+  },
+  {
+   "start": 967.28,
+   "end": 971.28,
+   "text": "created a risk score based upon a"
+  },
+  {
+   "start": 970.08,
+   "end": 974.0,
+   "text": "symptom complex"
+  },
+  {
+   "start": 971.28,
+   "end": 976.0,
+   "text": "and we had identified in the previous"
+  },
+  {
+   "start": 974.0,
+   "end": 978.72,
+   "text": "zero by 25 patients that patients who"
+  },
+  {
+   "start": 976.0,
+   "end": 981.76,
+   "text": "had acute kidney injury came into this"
+  },
+  {
+   "start": 978.72,
+   "end": 982.96,
+   "text": "relative sequence of symptoms which were"
+  },
+  {
+   "start": 981.76,
+   "end": 984.24,
+   "text": "associated they may have come in with"
+  },
+  {
+   "start": 982.96,
+   "end": 985.84,
+   "text": "diarrhea they may come in"
+  },
+  {
+   "start": 984.24,
+   "end": 988.16,
+   "text": "with shortness of breath they may have"
+  },
+  {
+   "start": 985.84,
+   "end": 990.64,
+   "text": "completely decreased urine output or"
+  },
+  {
+   "start": 988.16,
+   "end": 991.6,
+   "text": "other symptoms so she parsed the symptom"
+  },
+  {
+   "start": 990.64,
+   "end": 994.24,
+   "text": "complexes"
+  },
+  {
+   "start": 991.6,
+   "end": 996.56,
+   "text": "and created a score which allowed us to"
+  },
+  {
+   "start": 994.24,
+   "end": 999.68,
+   "text": "say okay based upon how a"
+  },
+  {
+   "start": 996.56,
+   "end": 1003.36,
+   "text": "patient presents to the clinic and"
+  },
+  {
+   "start": 999.68,
+   "end": 1006.32,
+   "text": "if they beat a moderate to a high risk"
+  },
+  {
+   "start": 1003.36,
+   "end": 1007.04,
+   "text": "score based upon those symptoms then we"
+  },
+  {
+   "start": 1006.32,
+   "end": 1010.0,
+   "text": "would"
+  },
+  {
+   "start": 1007.04,
+   "end": 1011.2,
+   "text": "do two things we would take uh consent"
+  },
+  {
+   "start": 1010.0,
+   "end": 1014.24,
+   "text": "from them"
+  },
+  {
+   "start": 1011.2,
+   "end": 1016.32,
+   "text": "and to say can we test your"
+  },
+  {
+   "start": 1014.24,
+   "end": 1018.0,
+   "text": "blood with a with a finger stick"
+  },
+  {
+   "start": 1016.32,
+   "end": 1021.28,
+   "text": "creatinine which was the"
+  },
+  {
+   "start": 1018.0,
+   "end": 1022.64,
+   "text": "newer biomed sensor and also a urine"
+  },
+  {
+   "start": 1021.28,
+   "end": 1025.76,
+   "text": "dipstick"
+  },
+  {
+   "start": 1022.64,
+   "end": 1026.96,
+   "text": "and uh from that point onwards then we"
+  },
+  {
+   "start": 1025.76,
+   "end": 1030.16,
+   "text": "would follow"
+  },
+  {
+   "start": 1026.96,
+   "end": 1032.96,
+   "text": "those patients uh for"
+  },
+  {
+   "start": 1030.16,
+   "end": 1035.28,
+   "text": "the for the not only the clinic visit"
+  },
+  {
+   "start": 1032.96,
+   "end": 1036.32,
+   "text": "but subsequently up to as long as six"
+  },
+  {
+   "start": 1035.28,
+   "end": 1039.52,
+   "text": "months"
+  },
+  {
+   "start": 1036.32,
+   "end": 1041.36,
+   "text": "so in the observation phase we were just"
+  },
+  {
+   "start": 1039.52,
+   "end": 1043.6,
+   "text": "collecting this data"
+  },
+  {
+   "start": 1041.36,
+   "end": 1044.96,
+   "text": "then we trained in the next two months"
+  },
+  {
+   "start": 1043.6,
+   "end": 1047.36,
+   "text": "the the"
+  },
+  {
+   "start": 1044.96,
+   "end": 1048.88,
+   "text": "local healthcare provider so we had"
+  },
+  {
+   "start": 1047.36,
+   "end": 1050.32,
+   "text": "embedded the"
+  },
+  {
+   "start": 1048.88,
+   "end": 1053.36,
+   "text": "research coordinator in each of these"
+  },
+  {
+   "start": 1050.32,
+   "end": 1055.6,
+   "text": "health centers whose sole purpose was to"
+  },
+  {
+   "start": 1053.36,
+   "end": 1056.72,
+   "text": "do the test responsible for gathering"
+  },
+  {
+   "start": 1055.6,
+   "end": 1058.4,
+   "text": "all the data"
+  },
+  {
+   "start": 1056.72,
+   "end": 1060.16,
+   "text": "and then in the next two months during"
+  },
+  {
+   "start": 1058.4,
+   "end": 1061.76,
+   "text": "the training phase we actually trained"
+  },
+  {
+   "start": 1060.16,
+   "end": 1062.88,
+   "text": "the actual healthcare provider"
+  },
+  {
+   "start": 1061.76,
+   "end": 1066.0,
+   "text": "themselves"
+  },
+  {
+   "start": 1062.88,
+   "end": 1067.44,
+   "text": "and also engaged a physician at the"
+  },
+  {
+   "start": 1066.0,
+   "end": 1071.2,
+   "text": "district hospital"
+  },
+  {
+   "start": 1067.44,
+   "end": 1073.52,
+   "text": "who would be accessible to care and"
+  },
+  {
+   "start": 1071.2,
+   "end": 1075.12,
+   "text": "that person could then provide guidance"
+  },
+  {
+   "start": 1073.52,
+   "end": 1076.32,
+   "text": "to the healthcare provider based upon"
+  },
+  {
+   "start": 1075.12,
+   "end": 1078.4,
+   "text": "what the test results"
+  },
+  {
+   "start": 1076.32,
+   "end": 1080.16,
+   "text": "looked like and then that was part of"
+  },
+  {
+   "start": 1078.4,
+   "end": 1082.88,
+   "text": "the intervention phase where"
+  },
+  {
+   "start": 1080.16,
+   "end": 1084.08,
+   "text": "we did the same thing except this time"
+  },
+  {
+   "start": 1082.88,
+   "end": 1085.92,
+   "text": "the healthcare provider if they"
+  },
+  {
+   "start": 1084.08,
+   "end": 1088.0,
+   "text": "recognize the patient have the"
+  },
+  {
+   "start": 1085.92,
+   "end": 1089.6,
+   "text": "high-risk scores got the creatinine test"
+  },
+  {
+   "start": 1088.0,
+   "end": 1093.04,
+   "text": "and got the urine dipstick"
+  },
+  {
+   "start": 1089.6,
+   "end": 1095.6,
+   "text": "could uh ask the telemedicine"
+  },
+  {
+   "start": 1093.04,
+   "end": 1097.2,
+   "text": "console sold to speak from the physician"
+  },
+  {
+   "start": 1095.6,
+   "end": 1100.96,
+   "text": "in the district hospital"
+  },
+  {
+   "start": 1097.2,
+   "end": 1105.84,
+   "text": "and to enable this we had a"
+  },
+  {
+   "start": 1100.96,
+   "end": 1109.44,
+   "text": "cell based cell telephone based"
+  },
+  {
+   "start": 1105.84,
+   "end": 1112.4,
+   "text": "program which allowed the physician"
+  },
+  {
+   "start": 1109.44,
+   "end": 1113.44,
+   "text": "remotely to connect with by text"
+  },
+  {
+   "start": 1112.4,
+   "end": 1115.6,
+   "text": "messaging"
+  },
+  {
+   "start": 1113.44,
+   "end": 1118.08,
+   "text": "and also they could see the data because"
+  },
+  {
+   "start": 1115.6,
+   "end": 1120.64,
+   "text": "the data was being uploaded directly"
+  },
+  {
+   "start": 1118.08,
+   "end": 1122.8,
+   "text": "uh through an app which was android"
+  },
+  {
+   "start": 1120.64,
+   "end": 1124.64,
+   "text": "based and on a tablet"
+  },
+  {
+   "start": 1122.8,
+   "end": 1127.2,
+   "text": "so that they could view it and see what"
+  },
+  {
+   "start": 1124.64,
+   "end": 1130.32,
+   "text": "was the basic information on the patient"
+  },
+  {
+   "start": 1127.2,
+   "end": 1130.72,
+   "text": "and so that's the study that we utilize"
+  },
+  {
+   "start": 1130.32,
+   "end": 1133.44,
+   "text": "the"
+  },
+  {
+   "start": 1130.72,
+   "end": 1135.04,
+   "text": "nova biomet creatine point of care"
+  },
+  {
+   "start": 1133.44,
+   "end": 1137.92,
+   "text": "reacting test for"
+  },
+  {
+   "start": 1135.04,
+   "end": 1138.72,
+   "text": "and that's what we use we determined"
+  },
+  {
+   "start": 1137.92,
+   "end": 1142.08,
+   "text": "that's"
+  },
+  {
+   "start": 1138.72,
+   "end": 1143.92,
+   "text": "the results of which were published"
+  },
+  {
+   "start": 1142.08,
+   "end": 1145.12,
+   "text": "that's great thanks ravi can you talk a"
+  },
+  {
+   "start": 1143.92,
+   "end": 1145.84,
+   "text": "little bit about the results of the"
+  },
+  {
+   "start": 1145.12,
+   "end": 1148.72,
+   "text": "study"
+  },
+  {
+   "start": 1145.84,
+   "end": 1150.8,
+   "text": "and also what are your thoughts about"
+  },
+  {
+   "start": 1148.72,
+   "end": 1152.32,
+   "text": "whether the study is scalable or not"
+  },
+  {
+   "start": 1150.8,
+   "end": 1154.0,
+   "text": "whether it can be applied to"
+  },
+  {
+   "start": 1152.32,
+   "end": 1156.48,
+   "text": "larger population groups larger"
+  },
+  {
+   "start": 1154.0,
+   "end": 1157.84,
+   "text": "countries in these remote areas"
+  },
+  {
+   "start": 1156.48,
+   "end": 1159.6,
+   "text": "particularly in low and middle income"
+  },
+  {
+   "start": 1157.84,
+   "end": 1162.64,
+   "text": "countries"
+  },
+  {
+   "start": 1159.6,
+   "end": 1165.12,
+   "text": "what we were able to determine"
+  },
+  {
+   "start": 1162.64,
+   "end": 1165.84,
+   "text": "by using these uh point of care"
+  },
+  {
+   "start": 1165.12,
+   "end": 1169.36,
+   "text": "instrument"
+  },
+  {
+   "start": 1165.84,
+   "end": 1170.64,
+   "text": "itself was we looked at the initial"
+  },
+  {
+   "start": 1169.36,
+   "end": 1173.04,
+   "text": "values"
+  },
+  {
+   "start": 1170.64,
+   "end": 1174.4,
+   "text": "and then the some of these patients were"
+  },
+  {
+   "start": 1173.04,
+   "end": 1176.24,
+   "text": "hospitalized and then you know"
+  },
+  {
+   "start": 1174.4,
+   "end": 1178.16,
+   "text": "hospitalized we did also values in two"
+  },
+  {
+   "start": 1176.24,
+   "end": 1180.16,
+   "text": "days but otherwise we did value they"
+  },
+  {
+   "start": 1178.16,
+   "end": 1183.52,
+   "text": "were followed up at seven days"
+  },
+  {
+   "start": 1180.16,
+   "end": 1186.8,
+   "text": "and then 30 days and then three months"
+  },
+  {
+   "start": 1183.52,
+   "end": 1190.64,
+   "text": "and what we found was that a"
+  },
+  {
+   "start": 1186.8,
+   "end": 1193.28,
+   "text": "about nine percent of the patients"
+  },
+  {
+   "start": 1190.64,
+   "end": 1194.08,
+   "text": "had underlying chronic kidney disease uh"
+  },
+  {
+   "start": 1193.28,
+   "end": 1195.52,
+   "text": "these are all"
+  },
+  {
+   "start": 1194.08,
+   "end": 1197.6,
+   "text": "you can think of all comers i mean"
+  },
+  {
+   "start": 1195.52,
+   "end": 1200.56,
+   "text": "there's over two thousand patients"
+  },
+  {
+   "start": 1197.6,
+   "end": 1202.24,
+   "text": "so uh nine percent had chronic kidney"
+  },
+  {
+   "start": 1200.56,
+   "end": 1206.0,
+   "text": "disease underlying"
+  },
+  {
+   "start": 1202.24,
+   "end": 1207.68,
+   "text": "and then uh within seven days"
+  },
+  {
+   "start": 1206.0,
+   "end": 1209.52,
+   "text": "which was a definitional aspect of acute"
+  },
+  {
+   "start": 1207.68,
+   "end": 1211.6,
+   "text": "kidney injury thirty percent"
+  },
+  {
+   "start": 1209.52,
+   "end": 1213.52,
+   "text": "of the total population developed a"
+  },
+  {
+   "start": 1211.6,
+   "end": 1215.52,
+   "text": "kidney injury or met the criteria of a"
+  },
+  {
+   "start": 1213.52,
+   "end": 1220.48,
+   "text": "good kidney injury"
+  },
+  {
+   "start": 1215.52,
+   "end": 1223.52,
+   "text": "and approximately 57 of the patients uh"
+  },
+  {
+   "start": 1220.48,
+   "end": 1225.84,
+   "text": "from this enroll group had what we call"
+  },
+  {
+   "start": 1223.52,
+   "end": 1227.56,
+   "text": "acute kidney disease which is which"
+  },
+  {
+   "start": 1225.84,
+   "end": 1230.16,
+   "text": "means that"
+  },
+  {
+   "start": 1227.56,
+   "end": 1232.0,
+   "text": "definitionally they did not meet the"
+  },
+  {
+   "start": 1230.16,
+   "end": 1233.92,
+   "text": "criteria of chronic kidney disease which"
+  },
+  {
+   "start": 1232.0,
+   "end": 1235.6,
+   "text": "requires that you should have a"
+  },
+  {
+   "start": 1233.92,
+   "end": 1237.92,
+   "text": "structural"
+  },
+  {
+   "start": 1235.6,
+   "end": 1241.2,
+   "text": "damage or evidence of changes in your"
+  },
+  {
+   "start": 1237.92,
+   "end": 1245.44,
+   "text": "immune function for over 90 days"
+  },
+  {
+   "start": 1241.2,
+   "end": 1246.88,
+   "text": "and that but they did have a"
+  },
+  {
+   "start": 1245.44,
+   "end": 1249.04,
+   "text": "they did not have any history of chronic"
+  },
+  {
+   "start": 1246.88,
+   "end": 1251.04,
+   "text": "kidney disease so they were classified"
+  },
+  {
+   "start": 1249.04,
+   "end": 1253.84,
+   "text": "as acute kidney disease"
+  },
+  {
+   "start": 1251.04,
+   "end": 1255.84,
+   "text": "and in essence what we found was that"
+  },
+  {
+   "start": 1253.84,
+   "end": 1258.08,
+   "text": "overall 30 percent of the patients"
+  },
+  {
+   "start": 1255.84,
+   "end": 1261.84,
+   "text": "develop a kid kidney injury"
+  },
+  {
+   "start": 1258.08,
+   "end": 1265.28,
+   "text": "and then when we track them downstream"
+  },
+  {
+   "start": 1261.84,
+   "end": 1268.24,
+   "text": "the overall mortality was about 13"
+  },
+  {
+   "start": 1265.28,
+   "end": 1268.96,
+   "text": "in them but we were able to track based"
+  },
+  {
+   "start": 1268.24,
+   "end": 1271.04,
+   "text": "upon"
+  },
+  {
+   "start": 1268.96,
+   "end": 1272.08,
+   "text": "their the sequential testing that we"
+  },
+  {
+   "start": 1271.04,
+   "end": 1274.64,
+   "text": "were doing"
+  },
+  {
+   "start": 1272.08,
+   "end": 1276.08,
+   "text": "as to what happens to these patients uh"
+  },
+  {
+   "start": 1274.64,
+   "end": 1279.68,
+   "text": "both in terms of"
+  },
+  {
+   "start": 1276.08,
+   "end": 1281.12,
+   "text": "their follow-up forces their uh"
+  },
+  {
+   "start": 1279.68,
+   "end": 1283.52,
+   "text": "going into the hospitalization what"
+  },
+  {
+   "start": 1281.12,
+   "end": 1286.88,
+   "text": "happens post-hospitalization"
+  },
+  {
+   "start": 1283.52,
+   "end": 1290.72,
+   "text": "and what was not unexpected but was uh"
+  },
+  {
+   "start": 1286.88,
+   "end": 1290.72,
+   "text": "somewhat you know uh"
+  },
+  {
+   "start": 1290.8,
+   "end": 1295.44,
+   "text": "it was not unexpected but we had to hope"
+  },
+  {
+   "start": 1293.04,
+   "end": 1297.6,
+   "text": "that we would be a lot less"
+  },
+  {
+   "start": 1295.44,
+   "end": 1299.68,
+   "text": "is that we lost a significant number of"
+  },
+  {
+   "start": 1297.6,
+   "end": 1302.48,
+   "text": "the patients to follow up"
+  },
+  {
+   "start": 1299.68,
+   "end": 1303.76,
+   "text": "and uh part of this is because some of"
+  },
+  {
+   "start": 1302.48,
+   "end": 1305.2,
+   "text": "these patients that will travel long"
+  },
+  {
+   "start": 1303.76,
+   "end": 1308.64,
+   "text": "distances to go"
+  },
+  {
+   "start": 1305.2,
+   "end": 1310.24,
+   "text": "to uh to to be seen in the hospital or"
+  },
+  {
+   "start": 1308.64,
+   "end": 1312.0,
+   "text": "even to the healthcare center"
+  },
+  {
+   "start": 1310.24,
+   "end": 1315.12,
+   "text": "so for them i have to come back and see"
+  },
+  {
+   "start": 1312.0,
+   "end": 1318.88,
+   "text": "that was not quite easy for them"
+  },
+  {
+   "start": 1315.12,
+   "end": 1319.36,
+   "text": "and i seek to so given what we found"
+  },
+  {
+   "start": 1318.88,
+   "end": 1322.4,
+   "text": "with"
+  },
+  {
+   "start": 1319.36,
+   "end": 1323.12,
+   "text": "with that aspect of things what we think"
+  },
+  {
+   "start": 1322.4,
+   "end": 1326.72,
+   "text": "is"
+  },
+  {
+   "start": 1323.12,
+   "end": 1330.48,
+   "text": "yes it is feasible to train and equip"
+  },
+  {
+   "start": 1326.72,
+   "end": 1331.6,
+   "text": "people to monitor kidney function with"
+  },
+  {
+   "start": 1330.48,
+   "end": 1332.96,
+   "text": "simple tests"
+  },
+  {
+   "start": 1331.6,
+   "end": 1335.2,
+   "text": "a point of care instrument for"
+  },
+  {
+   "start": 1332.96,
+   "end": 1337.2,
+   "text": "creatinine and a urine dipstick"
+  },
+  {
+   "start": 1335.2,
+   "end": 1339.12,
+   "text": "helps you identify those patients who"
+  },
+  {
+   "start": 1337.2,
+   "end": 1342.8,
+   "text": "might benefit from it"
+  },
+  {
+   "start": 1339.12,
+   "end": 1346.16,
+   "text": "i think what's more important though is"
+  },
+  {
+   "start": 1342.8,
+   "end": 1346.8,
+   "text": "to have a awareness that acute kidney"
+  },
+  {
+   "start": 1346.16,
+   "end": 1349.92,
+   "text": "injury"
+  },
+  {
+   "start": 1346.8,
+   "end": 1350.8,
+   "text": "is there and is something which needs to"
+  },
+  {
+   "start": 1349.92,
+   "end": 1352.48,
+   "text": "be addressed"
+  },
+  {
+   "start": 1350.8,
+   "end": 1354.96,
+   "text": "because it has a lot of downstream"
+  },
+  {
+   "start": 1352.48,
+   "end": 1357.04,
+   "text": "effects and more important"
+  },
+  {
+   "start": 1354.96,
+   "end": 1359.28,
+   "text": "that this needs to shift into more"
+  },
+  {
+   "start": 1357.04,
+   "end": 1362.8,
+   "text": "policy issues because"
+  },
+  {
+   "start": 1359.28,
+   "end": 1365.68,
+   "text": "the accessibility of these devices"
+  },
+  {
+   "start": 1362.8,
+   "end": 1367.28,
+   "text": "or even the ability to train people to"
+  },
+  {
+   "start": 1365.68,
+   "end": 1371.76,
+   "text": "utilize them"
+  },
+  {
+   "start": 1367.28,
+   "end": 1374.88,
+   "text": "comes uh more at uh"
+  },
+  {
+   "start": 1371.76,
+   "end": 1375.84,
+   "text": "at a cost for other things so imagine"
+  },
+  {
+   "start": 1374.88,
+   "end": 1378.4,
+   "text": "for a moment that"
+  },
+  {
+   "start": 1375.84,
+   "end": 1378.96,
+   "text": "in these healthcare centers people are"
+  },
+  {
+   "start": 1378.4,
+   "end": 1382.72,
+   "text": "seeing"
+  },
+  {
+   "start": 1378.96,
+   "end": 1386.88,
+   "text": "60 to 100 patients in one day"
+  },
+  {
+   "start": 1382.72,
+   "end": 1388.64,
+   "text": "so you don't have the luxury of time"
+  },
+  {
+   "start": 1386.88,
+   "end": 1390.56,
+   "text": "of saying about 15-20 minutes per"
+  },
+  {
+   "start": 1388.64,
+   "end": 1391.92,
+   "text": "patient which is kind of the norm in"
+  },
+  {
+   "start": 1390.56,
+   "end": 1393.36,
+   "text": "most of the high income countries"
+  },
+  {
+   "start": 1391.92,
+   "end": 1395.36,
+   "text": "clinics as such"
+  },
+  {
+   "start": 1393.36,
+   "end": 1397.52,
+   "text": "when you're seeing 6 200 patients a day"
+  },
+  {
+   "start": 1395.36,
+   "end": 1399.28,
+   "text": "and you've got one provider or maybe one"
+  },
+  {
+   "start": 1397.52,
+   "end": 1401.36,
+   "text": "important of one helper"
+  },
+  {
+   "start": 1399.28,
+   "end": 1402.48,
+   "text": "and these are not people who are"
+  },
+  {
+   "start": 1401.36,
+   "end": 1405.36,
+   "text": "physicians"
+  },
+  {
+   "start": 1402.48,
+   "end": 1407.76,
+   "text": "then somebody has to enable them to give"
+  },
+  {
+   "start": 1405.36,
+   "end": 1409.92,
+   "text": "them the resources to do these tests"
+  },
+  {
+   "start": 1407.76,
+   "end": 1411.04,
+   "text": "and to follow our patients and to have"
+  },
+  {
+   "start": 1409.92,
+   "end": 1414.64,
+   "text": "the accessibility"
+  },
+  {
+   "start": 1411.04,
+   "end": 1417.68,
+   "text": "so yes it is scalable but"
+  },
+  {
+   "start": 1414.64,
+   "end": 1420.8,
+   "text": "it requires uh it will require"
+  },
+  {
+   "start": 1417.68,
+   "end": 1423.92,
+   "text": "that there is a concerted"
+  },
+  {
+   "start": 1420.8,
+   "end": 1426.32,
+   "text": "effort from the"
+  },
+  {
+   "start": 1423.92,
+   "end": 1426.96,
+   "text": "from the government or the local policy"
+  },
+  {
+   "start": 1426.32,
+   "end": 1429.52,
+   "text": "makers"
+  },
+  {
+   "start": 1426.96,
+   "end": 1431.2,
+   "text": "that they perceive that this is"
+  },
+  {
+   "start": 1429.52,
+   "end": 1432.64,
+   "text": "something which needs to be supported"
+  },
+  {
+   "start": 1431.2,
+   "end": 1434.24,
+   "text": "and they provide the infrastructure for"
+  },
+  {
+   "start": 1432.64,
+   "end": 1436.0,
+   "text": "it"
+  },
+  {
+   "start": 1434.24,
+   "end": 1437.6,
+   "text": "thanks ravi that's great you actually"
+  },
+  {
+   "start": 1436.0,
+   "end": 1438.64,
+   "text": "anticipated my next question and i'm"
+  },
+  {
+   "start": 1437.6,
+   "end": 1439.6,
+   "text": "going to put you on the spot a little"
+  },
+  {
+   "start": 1438.64,
+   "end": 1442.64,
+   "text": "bit here"
+  },
+  {
+   "start": 1439.6,
+   "end": 1444.96,
+   "text": "and have you put on the hat"
+  },
+  {
+   "start": 1442.64,
+   "end": 1446.64,
+   "text": "of a minister of health in a low and"
+  },
+  {
+   "start": 1444.96,
+   "end": 1448.48,
+   "text": "middle income country"
+  },
+  {
+   "start": 1446.64,
+   "end": 1449.68,
+   "text": "so if you have a limited budget limited"
+  },
+  {
+   "start": 1448.48,
+   "end": 1452.16,
+   "text": "resources"
+  },
+  {
+   "start": 1449.68,
+   "end": 1453.44,
+   "text": "do you think implementing something like"
+  },
+  {
+   "start": 1452.16,
+   "end": 1455.36,
+   "text": "the zero by 25"
+  },
+  {
+   "start": 1453.44,
+   "end": 1456.96,
+   "text": "program is something that would be cost"
+  },
+  {
+   "start": 1455.36,
+   "end": 1457.28,
+   "text": "effective because as you mentioned there"
+  },
+  {
+   "start": 1456.96,
+   "end": 1460.4,
+   "text": "are"
+  },
+  {
+   "start": 1457.28,
+   "end": 1462.32,
+   "text": "lots of downstream costs"
+  },
+  {
+   "start": 1460.4,
+   "end": 1464.48,
+   "text": "and morbidity and mortality associated"
+  },
+  {
+   "start": 1462.32,
+   "end": 1466.64,
+   "text": "with aki"
+  },
+  {
+   "start": 1464.48,
+   "end": 1468.48,
+   "text": "do you think this is something that"
+  },
+  {
+   "start": 1466.64,
+   "end": 1469.28,
+   "text": "would be worthwhile for countries to"
+  },
+  {
+   "start": 1468.48,
+   "end": 1472.24,
+   "text": "pursue"
+  },
+  {
+   "start": 1469.28,
+   "end": 1474.32,
+   "text": "who are in situations like this i think"
+  },
+  {
+   "start": 1472.24,
+   "end": 1475.52,
+   "text": "that's a very difficult question because"
+  },
+  {
+   "start": 1474.32,
+   "end": 1478.88,
+   "text": "you're competing"
+  },
+  {
+   "start": 1475.52,
+   "end": 1481.04,
+   "text": "with a variety of"
+  },
+  {
+   "start": 1478.88,
+   "end": 1483.68,
+   "text": "other illnesses which things so when you"
+  },
+  {
+   "start": 1481.04,
+   "end": 1483.68,
+   "text": "think about"
+  },
+  {
+   "start": 1484.24,
+   "end": 1488.08,
+   "text": "where you have level one countries the"
+  },
+  {
+   "start": 1486.4,
+   "end": 1490.64,
+   "text": "equivalent of that you don't have the"
+  },
+  {
+   "start": 1488.08,
+   "end": 1493.52,
+   "text": "resources you don't have access to care"
+  },
+  {
+   "start": 1490.64,
+   "end": 1494.24,
+   "text": "you're fighting things like malaria and"
+  },
+  {
+   "start": 1493.52,
+   "end": 1497.44,
+   "text": "dengue"
+  },
+  {
+   "start": 1494.24,
+   "end": 1500.08,
+   "text": "and tuberculosis and malnutrition"
+  },
+  {
+   "start": 1497.44,
+   "end": 1500.96,
+   "text": "and in that context to say well put all"
+  },
+  {
+   "start": 1500.08,
+   "end": 1502.56,
+   "text": "your resources"
+  },
+  {
+   "start": 1500.96,
+   "end": 1504.0,
+   "text": "in terms of identifying quickening"
+  },
+  {
+   "start": 1502.56,
+   "end": 1506.0,
+   "text": "injury"
+  },
+  {
+   "start": 1504.0,
+   "end": 1507.92,
+   "text": "that's probably not going to meet the"
+  },
+  {
+   "start": 1506.0,
+   "end": 1509.12,
+   "text": "same level of priority at a government"
+  },
+  {
+   "start": 1507.92,
+   "end": 1512.72,
+   "text": "at a"
+  },
+  {
+   "start": 1509.12,
+   "end": 1514.88,
+   "text": "at a level itself"
+  },
+  {
+   "start": 1512.72,
+   "end": 1516.24,
+   "text": "you must even in an upper middle income"
+  },
+  {
+   "start": 1514.88,
+   "end": 1518.4,
+   "text": "country we don't spend"
+  },
+  {
+   "start": 1516.24,
+   "end": 1520.56,
+   "text": "as much time and effort on trying to"
+  },
+  {
+   "start": 1518.4,
+   "end": 1522.24,
+   "text": "detect a good kidney injury or manage it"
+  },
+  {
+   "start": 1520.56,
+   "end": 1524.08,
+   "text": "yourself i think probably the best"
+  },
+  {
+   "start": 1522.24,
+   "end": 1525.76,
+   "text": "example of what's happening in the world"
+  },
+  {
+   "start": 1524.08,
+   "end": 1527.84,
+   "text": "is from the uk"
+  },
+  {
+   "start": 1525.76,
+   "end": 1529.36,
+   "text": "now in the uk with the national health"
+  },
+  {
+   "start": 1527.84,
+   "end": 1532.8,
+   "text": "system in place"
+  },
+  {
+   "start": 1529.36,
+   "end": 1533.28,
+   "text": "they started uh in 2009 they realized"
+  },
+  {
+   "start": 1532.8,
+   "end": 1535.52,
+   "text": "from an"
+  },
+  {
+   "start": 1533.28,
+   "end": 1536.64,
+   "text": "audit that they did that the the kid"
+  },
+  {
+   "start": 1535.52,
+   "end": 1538.48,
+   "text": "kidney injury was a"
+  },
+  {
+   "start": 1536.64,
+   "end": 1540.4,
+   "text": "real contributor to downstream effects"
+  },
+  {
+   "start": 1538.48,
+   "end": 1543.28,
+   "text": "and mortality and"
+  },
+  {
+   "start": 1540.4,
+   "end": 1544.64,
+   "text": "problems so from 2014 onwards they did a"
+  },
+  {
+   "start": 1543.28,
+   "end": 1546.4,
+   "text": "national audit and"
+  },
+  {
+   "start": 1544.64,
+   "end": 1548.08,
+   "text": "in fact dennis at the meeting that you"
+  },
+  {
+   "start": 1546.4,
+   "end": 1550.96,
+   "text": "were in shortly"
+  },
+  {
+   "start": 1548.08,
+   "end": 1552.72,
+   "text": "uh earlier the last week or the kia and"
+  },
+  {
+   "start": 1550.96,
+   "end": 1555.04,
+   "text": "crt conference"
+  },
+  {
+   "start": 1552.72,
+   "end": 1556.0,
+   "text": "nick selby showed some of the data from"
+  },
+  {
+   "start": 1555.04,
+   "end": 1559.52,
+   "text": "the uk"
+  },
+  {
+   "start": 1556.0,
+   "end": 1560.32,
+   "text": "audit demonstrating that by they they"
+  },
+  {
+   "start": 1559.52,
+   "end": 1563.84,
+   "text": "mandated"
+  },
+  {
+   "start": 1560.32,
+   "end": 1566.8,
+   "text": "that everybody in the hospital every lab"
+  },
+  {
+   "start": 1563.84,
+   "end": 1568.24,
+   "text": "would report on abnormal creatinine"
+  },
+  {
+   "start": 1566.8,
+   "end": 1569.84,
+   "text": "values which correspond to"
+  },
+  {
+   "start": 1568.24,
+   "end": 1571.36,
+   "text": "kidney injury and they tracked it and"
+  },
+  {
+   "start": 1569.84,
+   "end": 1572.72,
+   "text": "they tracked what happened to them they"
+  },
+  {
+   "start": 1571.36,
+   "end": 1573.68,
+   "text": "tracked where the preventive measures"
+  },
+  {
+   "start": 1572.72,
+   "end": 1575.6,
+   "text": "were done"
+  },
+  {
+   "start": 1573.68,
+   "end": 1577.36,
+   "text": "so that at a national level and they've"
+  },
+  {
+   "start": 1575.6,
+   "end": 1579.36,
+   "text": "already demonstrated that that made a"
+  },
+  {
+   "start": 1577.36,
+   "end": 1579.92,
+   "text": "difference with respect to downstream"
+  },
+  {
+   "start": 1579.36,
+   "end": 1581.68,
+   "text": "aspects"
+  },
+  {
+   "start": 1579.92,
+   "end": 1583.28,
+   "text": "and he had shown the health economic"
+  },
+  {
+   "start": 1581.68,
+   "end": 1586.0,
+   "text": "benefit of that"
+  },
+  {
+   "start": 1583.28,
+   "end": 1586.96,
+   "text": "intervention when you translate that"
+  },
+  {
+   "start": 1586.0,
+   "end": 1589.12,
+   "text": "into"
+  },
+  {
+   "start": 1586.96,
+   "end": 1590.24,
+   "text": "a low and low middle-income country or"
+  },
+  {
+   "start": 1589.12,
+   "end": 1593.12,
+   "text": "even a"
+  },
+  {
+   "start": 1590.24,
+   "end": 1594.88,
+   "text": "middle-income country you've got to"
+  },
+  {
+   "start": 1593.12,
+   "end": 1596.96,
+   "text": "you've got to put this in context of"
+  },
+  {
+   "start": 1594.88,
+   "end": 1598.72,
+   "text": "what else are the competing events which"
+  },
+  {
+   "start": 1596.96,
+   "end": 1601.68,
+   "text": "are happening"
+  },
+  {
+   "start": 1598.72,
+   "end": 1603.28,
+   "text": "nevertheless i think that by raising"
+  },
+  {
+   "start": 1601.68,
+   "end": 1606.32,
+   "text": "awareness of this"
+  },
+  {
+   "start": 1603.28,
+   "end": 1606.72,
+   "text": "by focusing on what's preventable i"
+  },
+  {
+   "start": 1606.32,
+   "end": 1609.76,
+   "text": "think"
+  },
+  {
+   "start": 1606.72,
+   "end": 1612.24,
+   "text": "those elements can be implemented"
+  },
+  {
+   "start": 1609.76,
+   "end": 1613.68,
+   "text": "and should be implemented and that's"
+  },
+  {
+   "start": 1612.24,
+   "end": 1615.76,
+   "text": "something that we need to continue to"
+  },
+  {
+   "start": 1613.68,
+   "end": 1618.16,
+   "text": "strive towards"
+  },
+  {
+   "start": 1615.76,
+   "end": 1619.52,
+   "text": "well it's great ravi um so do you have"
+  },
+  {
+   "start": 1618.16,
+   "end": 1623.68,
+   "text": "any take-home messages"
+  },
+  {
+   "start": 1619.52,
+   "end": 1625.52,
+   "text": "uh for folks who are looking in here who"
+  },
+  {
+   "start": 1623.68,
+   "end": 1627.12,
+   "text": "may be in situations either in low and"
+  },
+  {
+   "start": 1625.52,
+   "end": 1629.92,
+   "text": "middle income countries or"
+  },
+  {
+   "start": 1627.12,
+   "end": 1632.08,
+   "text": "in places where there's an under"
+  },
+  {
+   "start": 1629.92,
+   "end": 1635.12,
+   "text": "recognized or under diagnosed population"
+  },
+  {
+   "start": 1632.08,
+   "end": 1637.52,
+   "text": "of folks with acute kidney injury i"
+  },
+  {
+   "start": 1635.12,
+   "end": 1638.56,
+   "text": "think the the most important aspect here"
+  },
+  {
+   "start": 1637.52,
+   "end": 1640.72,
+   "text": "is the"
+  },
+  {
+   "start": 1638.56,
+   "end": 1642.4,
+   "text": "continuing need to raise awareness"
+  },
+  {
+   "start": 1640.72,
+   "end": 1645.44,
+   "text": "provide the tools to"
+  },
+  {
+   "start": 1642.4,
+   "end": 1647.2,
+   "text": "individuals and"
+  },
+  {
+   "start": 1645.44,
+   "end": 1648.72,
+   "text": "continue to take the small steps which"
+  },
+  {
+   "start": 1647.2,
+   "end": 1650.4,
+   "text": "are necessary to make this happen the"
+  },
+  {
+   "start": 1648.72,
+   "end": 1652.48,
+   "text": "international study nephrology is"
+  },
+  {
+   "start": 1650.4,
+   "end": 1654.0,
+   "text": "focused on is as is now the american"
+  },
+  {
+   "start": 1652.48,
+   "end": 1656.88,
+   "text": "society nephrology"
+  },
+  {
+   "start": 1654.0,
+   "end": 1658.08,
+   "text": "they have initiatives in place and we"
+  },
+  {
+   "start": 1656.88,
+   "end": 1660.32,
+   "text": "are making a lot of progress"
+  },
+  {
+   "start": 1658.08,
+   "end": 1663.04,
+   "text": "in terms of you know how to identify the"
+  },
+  {
+   "start": 1660.32,
+   "end": 1666.88,
+   "text": "disease how to manage it how to treat it"
+  },
+  {
+   "start": 1663.04,
+   "end": 1669.44,
+   "text": "uh it's one of those major"
+  },
+  {
+   "start": 1666.88,
+   "end": 1671.6,
+   "text": "areas that we will continue to need"
+  },
+  {
+   "start": 1669.44,
+   "end": 1672.24,
+   "text": "considered focus on so the more we can"
+  },
+  {
+   "start": 1671.6,
+   "end": 1675.44,
+   "text": "do to"
+  },
+  {
+   "start": 1672.24,
+   "end": 1675.84,
+   "text": "identify individuals early on and manage"
+  },
+  {
+   "start": 1675.44,
+   "end": 1678.0,
+   "text": "them"
+  },
+  {
+   "start": 1675.84,
+   "end": 1679.52,
+   "text": "uh it will make a big difference to"
+  },
+  {
+   "start": 1678.0,
+   "end": 1681.52,
+   "text": "outcomes"
+  },
+  {
+   "start": 1679.52,
+   "end": 1683.92,
+   "text": "that's fantastic ravi thank you so much"
+  },
+  {
+   "start": 1681.52,
+   "end": 1686.72,
+   "text": "and thanks for being"
+  },
+  {
+   "start": 1683.92,
+   "end": 1688.08,
+   "text": "part of the team that's able to help"
+  },
+  {
+   "start": 1686.72,
+   "end": 1690.4,
+   "text": "raise awareness of this"
+  },
+  {
+   "start": 1688.08,
+   "end": 1692.0,
+   "text": "significant worldwide health problem and"
+  },
+  {
+   "start": 1690.4,
+   "end": 1695.44,
+   "text": "this global health problem"
+  },
+  {
+   "start": 1692.0,
+   "end": 1697.92,
+   "text": "that hopefully we can begin to address"
+  },
+  {
+   "start": 1695.44,
+   "end": 1700.32,
+   "text": "through technology and through projects"
+  },
+  {
+   "start": 1697.92,
+   "end": 1702.88,
+   "text": "like the 0x25"
+  },
+  {
+   "start": 1700.32,
+   "end": 1703.6,
+   "text": "that you've been spearheading hopefully"
+  },
+  {
+   "start": 1702.88,
+   "end": 1705.76,
+   "text": "we can help"
+  },
+  {
+   "start": 1703.6,
+   "end": 1708.32,
+   "text": "put a dent in this significant"
+  },
+  {
+   "start": 1705.76,
+   "end": 1711.84,
+   "text": "healthcare problem across the world"
+  },
+  {
+   "start": 1708.32,
+   "end": 1711.84,
+   "text": "thank you"
+  }
+ ]
+}

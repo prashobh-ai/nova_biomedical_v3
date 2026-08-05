@@ -1,0 +1,2868 @@
+{
+ "video_id": "gogFM-9s_rU",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 572,
+ "cues": [
+  {
+   "start": 2.24,
+   "end": 6.56,
+   "text": "hello everybody"
+  },
+  {
+   "start": 3.92,
+   "end": 8.24,
+   "text": "i am takao kato from the department of"
+  },
+  {
+   "start": 6.56,
+   "end": 10.24,
+   "text": "anesthesiology"
+  },
+  {
+   "start": 8.24,
+   "end": 13.04,
+   "text": "saitama medical center"
+  },
+  {
+   "start": 10.24,
+   "end": 15.44,
+   "text": "saitama medical university"
+  },
+  {
+   "start": 13.04,
+   "end": 17.76,
+   "text": "the title of my webinar today is deep"
+  },
+  {
+   "start": 15.44,
+   "end": 21.12,
+   "text": "diving into clinical utilization of"
+  },
+  {
+   "start": 17.76,
+   "end": 23.92,
+   "text": "ionized magnesium cases of monitoring"
+  },
+  {
+   "start": 21.12,
+   "end": 26.72,
+   "text": "ionized magnesium and administration of"
+  },
+  {
+   "start": 23.92,
+   "end": 26.72,
+   "text": "magnesium"
+  },
+  {
+   "start": 27.2,
+   "end": 31.36,
+   "text": "magnesium activates more than 300"
+  },
+  {
+   "start": 29.92,
+   "end": 34.08,
+   "text": "enzymes"
+  },
+  {
+   "start": 31.36,
+   "end": 36.56,
+   "text": "it is indispensable for energy usage and"
+  },
+  {
+   "start": 34.08,
+   "end": 39.2,
+   "text": "is essential for life support i would"
+  },
+  {
+   "start": 36.56,
+   "end": 41.76,
+   "text": "like you to understand in this webinar"
+  },
+  {
+   "start": 39.2,
+   "end": 44.08,
+   "text": "that the physiologically active form is"
+  },
+  {
+   "start": 41.76,
+   "end": 46.48,
+   "text": "ionized magnesium and that target"
+  },
+  {
+   "start": 44.08,
+   "end": 49.04,
+   "text": "concentration setting and monitoring are"
+  },
+  {
+   "start": 46.48,
+   "end": 49.04,
+   "text": "important"
+  },
+  {
+   "start": 49.12,
+   "end": 52.8,
+   "text": "here is today's content"
+  },
+  {
+   "start": 51.52,
+   "end": 54.48,
+   "text": "first of all"
+  },
+  {
+   "start": 52.8,
+   "end": 57.44,
+   "text": "i would like you to understand that"
+  },
+  {
+   "start": 54.48,
+   "end": 58.4,
+   "text": "ionized magnesium is important"
+  },
+  {
+   "start": 57.44,
+   "end": 60.16,
+   "text": "next"
+  },
+  {
+   "start": 58.4,
+   "end": 63.28,
+   "text": "i will describe the specific"
+  },
+  {
+   "start": 60.16,
+   "end": 64.64,
+   "text": "administration method of magnesium"
+  },
+  {
+   "start": 63.28,
+   "end": 66.96,
+   "text": "finally"
+  },
+  {
+   "start": 64.64,
+   "end": 69.04,
+   "text": "i will present actual cases so that you"
+  },
+  {
+   "start": 66.96,
+   "end": 71.28,
+   "text": "can understand that it is important to"
+  },
+  {
+   "start": 69.04,
+   "end": 73.04,
+   "text": "set a target concentration"
+  },
+  {
+   "start": 71.28,
+   "end": 76.24,
+   "text": "and administer magnesium while"
+  },
+  {
+   "start": 73.04,
+   "end": 76.24,
+   "text": "monitoring the patient"
+  },
+  {
+   "start": 76.8,
+   "end": 81.84,
+   "text": "first i will explain that ionized"
+  },
+  {
+   "start": 79.44,
+   "end": 83.28,
+   "text": "magnesium is important"
+  },
+  {
+   "start": 81.84,
+   "end": 87.04,
+   "text": "in adults"
+  },
+  {
+   "start": 83.28,
+   "end": 88.88,
+   "text": "24 grams of magnesium exist in the body"
+  },
+  {
+   "start": 87.04,
+   "end": 92.32,
+   "text": "mostly in the bones"
+  },
+  {
+   "start": 88.88,
+   "end": 95.6,
+   "text": "muscles and soft tissue"
+  },
+  {
+   "start": 92.32,
+   "end": 98.32,
+   "text": "only 0.3 percent exist in the plasma and"
+  },
+  {
+   "start": 95.6,
+   "end": 101.84,
+   "text": "plasma magnesium can be divided into the"
+  },
+  {
+   "start": 98.32,
+   "end": 104.56,
+   "text": "ionized form complex form"
+  },
+  {
+   "start": 101.84,
+   "end": 106.88,
+   "text": "and protein bound form"
+  },
+  {
+   "start": 104.56,
+   "end": 108.24,
+   "text": "all of them combined is called total"
+  },
+  {
+   "start": 106.88,
+   "end": 111.12,
+   "text": "magnesium"
+  },
+  {
+   "start": 108.24,
+   "end": 114.12,
+   "text": "the ionized form is called ionized"
+  },
+  {
+   "start": 111.12,
+   "end": 114.12,
+   "text": "magnesium"
+  },
+  {
+   "start": 114.72,
+   "end": 119.52,
+   "text": "there are three different fractions in"
+  },
+  {
+   "start": 116.64,
+   "end": 121.92,
+   "text": "plasma magnesium distribution"
+  },
+  {
+   "start": 119.52,
+   "end": 123.92,
+   "text": "and the physiologically active form is"
+  },
+  {
+   "start": 121.92,
+   "end": 126.48,
+   "text": "ionized magnesium"
+  },
+  {
+   "start": 123.92,
+   "end": 128.56,
+   "text": "protein-bound and ligand-bound forms are"
+  },
+  {
+   "start": 126.48,
+   "end": 131.04,
+   "text": "not physiologically active"
+  },
+  {
+   "start": 128.56,
+   "end": 132.72,
+   "text": "and furthermore the three forms cannot"
+  },
+  {
+   "start": 131.04,
+   "end": 135.68,
+   "text": "be differentiated by the usual"
+  },
+  {
+   "start": 132.72,
+   "end": 135.68,
+   "text": "measurement method"
+  },
+  {
+   "start": 136.16,
+   "end": 141.44,
+   "text": "nova biomedical's blood gas analyzer is"
+  },
+  {
+   "start": 138.96,
+   "end": 144.48,
+   "text": "the only blood gas analyzer available"
+  },
+  {
+   "start": 141.44,
+   "end": 146.88,
+   "text": "that can measure ionized magnesium"
+  },
+  {
+   "start": 144.48,
+   "end": 150.0,
+   "text": "it can measure ionized magnesium at the"
+  },
+  {
+   "start": 146.88,
+   "end": 150.0,
+   "text": "bedside rapidly"
+  },
+  {
+   "start": 150.24,
+   "end": 156.08,
+   "text": "plasma magnesium has three fractions but"
+  },
+  {
+   "start": 153.28,
+   "end": 158.0,
+   "text": "the ionized magnesium is physiologically"
+  },
+  {
+   "start": 156.08,
+   "end": 160.4,
+   "text": "active form"
+  },
+  {
+   "start": 158.0,
+   "end": 163.52,
+   "text": "this analyzer can measure the ionized"
+  },
+  {
+   "start": 160.4,
+   "end": 164.96,
+   "text": "magnesium rapidly at the bedside"
+  },
+  {
+   "start": 163.52,
+   "end": 167.2,
+   "text": "on the other hand"
+  },
+  {
+   "start": 164.96,
+   "end": 170.24,
+   "text": "total magnesium does not represent"
+  },
+  {
+   "start": 167.2,
+   "end": 172.72,
+   "text": "physiologically active status it also"
+  },
+  {
+   "start": 170.24,
+   "end": 175.92,
+   "text": "takes 30 minutes to one hour to measure"
+  },
+  {
+   "start": 172.72,
+   "end": 175.92,
+   "text": "the total magnesium"
+  },
+  {
+   "start": 176.0,
+   "end": 180.88,
+   "text": "i think you know that it is necessary to"
+  },
+  {
+   "start": 178.32,
+   "end": 183.44,
+   "text": "measure the ionized fraction of calcium"
+  },
+  {
+   "start": 180.88,
+   "end": 185.92,
+   "text": "directly because the accurate value"
+  },
+  {
+   "start": 183.44,
+   "end": 188.0,
+   "text": "cannot be obtained even when calcium is"
+  },
+  {
+   "start": 185.92,
+   "end": 190.24,
+   "text": "corrected by albumin"
+  },
+  {
+   "start": 188.0,
+   "end": 192.4,
+   "text": "measurement of ionized calcium is"
+  },
+  {
+   "start": 190.24,
+   "end": 193.6,
+   "text": "already a common practice"
+  },
+  {
+   "start": 192.4,
+   "end": 195.44,
+   "text": "similarly"
+  },
+  {
+   "start": 193.6,
+   "end": 198.96,
+   "text": "it is considered important to measure"
+  },
+  {
+   "start": 195.44,
+   "end": 202.4,
+   "text": "the ionized form of magnesium which is"
+  },
+  {
+   "start": 198.96,
+   "end": 202.4,
+   "text": "ionized magnesium"
+  },
+  {
+   "start": 202.8,
+   "end": 207.44,
+   "text": "it is reported that ionized magnesium"
+  },
+  {
+   "start": 205.36,
+   "end": 210.72,
+   "text": "does not correlate well to the total"
+  },
+  {
+   "start": 207.44,
+   "end": 213.76,
+   "text": "magnesium in critically ill patients"
+  },
+  {
+   "start": 210.72,
+   "end": 216.24,
+   "text": "the reasons are the changes of ph"
+  },
+  {
+   "start": 213.76,
+   "end": 218.48,
+   "text": "changes of concentration of protein"
+  },
+  {
+   "start": 216.24,
+   "end": 219.68,
+   "text": "especially albumin"
+  },
+  {
+   "start": 218.48,
+   "end": 221.6,
+   "text": "in addition"
+  },
+  {
+   "start": 219.68,
+   "end": 223.36,
+   "text": "there is an increase of negatively"
+  },
+  {
+   "start": 221.6,
+   "end": 227.52,
+   "text": "charged ligand"
+  },
+  {
+   "start": 223.36,
+   "end": 230.64,
+   "text": "or if during transfusion citric acid"
+  },
+  {
+   "start": 227.52,
+   "end": 234.08,
+   "text": "bicarbonate and lactic acid will bind to"
+  },
+  {
+   "start": 230.64,
+   "end": 235.36,
+   "text": "the positively charged magnesium ion"
+  },
+  {
+   "start": 234.08,
+   "end": 237.76,
+   "text": "furthermore"
+  },
+  {
+   "start": 235.36,
+   "end": 241.6,
+   "text": "medication will also affect magnesium"
+  },
+  {
+   "start": 237.76,
+   "end": 243.76,
+   "text": "status of the patients"
+  },
+  {
+   "start": 241.6,
+   "end": 246.4,
+   "text": "this is a study that investigated the"
+  },
+  {
+   "start": 243.76,
+   "end": 248.4,
+   "text": "correlation between total magnesium and"
+  },
+  {
+   "start": 246.4,
+   "end": 250.4,
+   "text": "ionized magnesium"
+  },
+  {
+   "start": 248.4,
+   "end": 252.4,
+   "text": "as this figure shows"
+  },
+  {
+   "start": 250.4,
+   "end": 256.0,
+   "text": "although total magnesium is in the"
+  },
+  {
+   "start": 252.4,
+   "end": 259.52,
+   "text": "reference range ionized magnesium is low"
+  },
+  {
+   "start": 256.0,
+   "end": 262.0,
+   "text": "in as much as 25 percent of the patients"
+  },
+  {
+   "start": 259.52,
+   "end": 263.36,
+   "text": "the correlation coefficient is extremely"
+  },
+  {
+   "start": 262.0,
+   "end": 265.68,
+   "text": "low too"
+  },
+  {
+   "start": 263.36,
+   "end": 268.0,
+   "text": "this means that total magnesium does not"
+  },
+  {
+   "start": 265.68,
+   "end": 271.68,
+   "text": "reflect the physiologically active"
+  },
+  {
+   "start": 268.0,
+   "end": 271.68,
+   "text": "ionized magnesium level"
+  },
+  {
+   "start": 272.32,
+   "end": 277.28,
+   "text": "this study measured the total magnesium"
+  },
+  {
+   "start": 274.64,
+   "end": 280.4,
+   "text": "and ionized magnesium at the same time"
+  },
+  {
+   "start": 277.28,
+   "end": 283.12,
+   "text": "in a surgical icu and examined the rate"
+  },
+  {
+   "start": 280.4,
+   "end": 285.68,
+   "text": "of concordance the treated departments"
+  },
+  {
+   "start": 283.12,
+   "end": 288.12,
+   "text": "of the subjects were highly diverse"
+  },
+  {
+   "start": 285.68,
+   "end": 291.12,
+   "text": "including general surgery"
+  },
+  {
+   "start": 288.12,
+   "end": 293.12,
+   "text": "hepatobiliary pancreatic surgery"
+  },
+  {
+   "start": 291.12,
+   "end": 295.04,
+   "text": "vascular surgery"
+  },
+  {
+   "start": 293.12,
+   "end": 296.56,
+   "text": "thoracic surgery"
+  },
+  {
+   "start": 295.04,
+   "end": 297.92,
+   "text": "orthopedics"
+  },
+  {
+   "start": 296.56,
+   "end": 302.4,
+   "text": "obstetrics"
+  },
+  {
+   "start": 297.92,
+   "end": 302.4,
+   "text": "gynecology and neurosurgery"
+  },
+  {
+   "start": 302.56,
+   "end": 307.44,
+   "text": "this is a figure plotting total"
+  },
+  {
+   "start": 304.32,
+   "end": 310.4,
+   "text": "magnesium on the x axis and ionized"
+  },
+  {
+   "start": 307.44,
+   "end": 312.72,
+   "text": "magnesium on the y-axis"
+  },
+  {
+   "start": 310.4,
+   "end": 315.44,
+   "text": "when you look at the figure you can see"
+  },
+  {
+   "start": 312.72,
+   "end": 318.4,
+   "text": "that 82 percent of the cases whose total"
+  },
+  {
+   "start": 315.44,
+   "end": 320.88,
+   "text": "magnesium was low actually had a normal"
+  },
+  {
+   "start": 318.4,
+   "end": 322.96,
+   "text": "ionized magnesium level"
+  },
+  {
+   "start": 320.88,
+   "end": 325.28,
+   "text": "three percent of the cases whose total"
+  },
+  {
+   "start": 322.96,
+   "end": 328.48,
+   "text": "magnesium was in the normal range had a"
+  },
+  {
+   "start": 325.28,
+   "end": 330.16,
+   "text": "low ionized magnesium level"
+  },
+  {
+   "start": 328.48,
+   "end": 333.04,
+   "text": "on the contrary"
+  },
+  {
+   "start": 330.16,
+   "end": 334.08,
+   "text": "21 percent had a high ionized magnesium"
+  },
+  {
+   "start": 333.04,
+   "end": 337.2,
+   "text": "level"
+  },
+  {
+   "start": 334.08,
+   "end": 339.76,
+   "text": "28 of the cases whose total magnesium"
+  },
+  {
+   "start": 337.2,
+   "end": 342.32,
+   "text": "was low actually had an ionized"
+  },
+  {
+   "start": 339.76,
+   "end": 343.44,
+   "text": "magnesium level in the normal range"
+  },
+  {
+   "start": 342.32,
+   "end": 345.04,
+   "text": "overall"
+  },
+  {
+   "start": 343.44,
+   "end": 349.36,
+   "text": "the concordance rate by weighted"
+  },
+  {
+   "start": 345.04,
+   "end": 349.36,
+   "text": "coefficient kappa was extremely low"
+  },
+  {
+   "start": 350.0,
+   "end": 353.44,
+   "text": "what this means is that in critically"
+  },
+  {
+   "start": 352.08,
+   "end": 356.0,
+   "text": "ill patients"
+  },
+  {
+   "start": 353.44,
+   "end": 357.36,
+   "text": "total magnesium deviates from ionized"
+  },
+  {
+   "start": 356.0,
+   "end": 359.68,
+   "text": "magnesium"
+  },
+  {
+   "start": 357.36,
+   "end": 360.8,
+   "text": "so if you only see the total magnesium"
+  },
+  {
+   "start": 359.68,
+   "end": 363.76,
+   "text": "level"
+  },
+  {
+   "start": 360.8,
+   "end": 366.4,
+   "text": "it may lead to unnecessary tests"
+  },
+  {
+   "start": 363.76,
+   "end": 369.12,
+   "text": "unnecessary dosing of magnesium"
+  },
+  {
+   "start": 366.4,
+   "end": 371.04,
+   "text": "or overlooking of abnormalities"
+  },
+  {
+   "start": 369.12,
+   "end": 373.44,
+   "text": "i think you will understand from this"
+  },
+  {
+   "start": 371.04,
+   "end": 376.48,
+   "text": "study that clinical diagnosis should be"
+  },
+  {
+   "start": 373.44,
+   "end": 379.04,
+   "text": "conducted with ionized magnesium and it"
+  },
+  {
+   "start": 376.48,
+   "end": 380.8,
+   "text": "is necessary to directly measure ionized"
+  },
+  {
+   "start": 379.04,
+   "end": 382.0,
+   "text": "magnesium"
+  },
+  {
+   "start": 380.8,
+   "end": 384.56,
+   "text": "however"
+  },
+  {
+   "start": 382.0,
+   "end": 386.8,
+   "text": "exclusive ion selective electrodes are"
+  },
+  {
+   "start": 384.56,
+   "end": 388.32,
+   "text": "necessary for ionized magnesium"
+  },
+  {
+   "start": 386.8,
+   "end": 390.64,
+   "text": "measurement"
+  },
+  {
+   "start": 388.32,
+   "end": 394.76,
+   "text": "this is why total magnesium is still"
+  },
+  {
+   "start": 390.64,
+   "end": 394.76,
+   "text": "used for clinical practice"
+  },
+  {
+   "start": 394.8,
+   "end": 401.36,
+   "text": "next i will explain the specific"
+  },
+  {
+   "start": 397.12,
+   "end": 401.36,
+   "text": "repletion protocol of magnesium"
+  },
+  {
+   "start": 402.64,
+   "end": 406.96,
+   "text": "this is a table that shows the clinical"
+  },
+  {
+   "start": 404.8,
+   "end": 408.8,
+   "text": "symptoms according to the blood level of"
+  },
+  {
+   "start": 406.96,
+   "end": 411.12,
+   "text": "magnesium"
+  },
+  {
+   "start": 408.8,
+   "end": 414.56,
+   "text": "this table is based on reported total"
+  },
+  {
+   "start": 411.12,
+   "end": 417.92,
+   "text": "magnesium no ionized magnesium values"
+  },
+  {
+   "start": 414.56,
+   "end": 420.56,
+   "text": "corresponding to this table was reported"
+  },
+  {
+   "start": 417.92,
+   "end": 422.48,
+   "text": "ionized magnesium levels were calculated"
+  },
+  {
+   "start": 420.56,
+   "end": 426.0,
+   "text": "from total magnesium using the"
+  },
+  {
+   "start": 422.48,
+   "end": 428.8,
+   "text": "ionization ratio is 64 percent"
+  },
+  {
+   "start": 426.0,
+   "end": 434.08,
+   "text": "the reference value of ionized magnesium"
+  },
+  {
+   "start": 428.8,
+   "end": 436.64,
+   "text": "is 0.45 to 0.67 millimoles per liter"
+  },
+  {
+   "start": 434.08,
+   "end": 439.52,
+   "text": "it is generally asymptomatic up to twice"
+  },
+  {
+   "start": 436.64,
+   "end": 442.16,
+   "text": "the level of the upper reference range"
+  },
+  {
+   "start": 439.52,
+   "end": 444.64,
+   "text": "which is around 2.5 milligrams per"
+  },
+  {
+   "start": 442.16,
+   "end": 447.52,
+   "text": "deciliter in total magnesium"
+  },
+  {
+   "start": 444.64,
+   "end": 450.88,
+   "text": "which is shown in the very left column"
+  },
+  {
+   "start": 447.52,
+   "end": 452.4,
+   "text": "and 1.34 millimoles per liter in ionized"
+  },
+  {
+   "start": 450.88,
+   "end": 454.72,
+   "text": "magnesium"
+  },
+  {
+   "start": 452.4,
+   "end": 456.96,
+   "text": "patients will generally have no severe"
+  },
+  {
+   "start": 454.72,
+   "end": 459.36,
+   "text": "symptoms up to five milligrams per"
+  },
+  {
+   "start": 456.96,
+   "end": 461.36,
+   "text": "deciliter in total magnesium"
+  },
+  {
+   "start": 459.36,
+   "end": 464.36,
+   "text": "which is two times the upper reference"
+  },
+  {
+   "start": 461.36,
+   "end": 464.36,
+   "text": "value"
+  },
+  {
+   "start": 465.2,
+   "end": 470.16,
+   "text": "magnesium is absorbed by the intestine"
+  },
+  {
+   "start": 467.84,
+   "end": 471.28,
+   "text": "and excreted from the kidneys"
+  },
+  {
+   "start": 470.16,
+   "end": 473.36,
+   "text": "therefore"
+  },
+  {
+   "start": 471.28,
+   "end": 476.4,
+   "text": "the kidneys play an extremely important"
+  },
+  {
+   "start": 473.36,
+   "end": 478.56,
+   "text": "role in the magnesium homeostasis"
+  },
+  {
+   "start": 476.4,
+   "end": 481.12,
+   "text": "in patients with renal failure"
+  },
+  {
+   "start": 478.56,
+   "end": 483.52,
+   "text": "the blood concentration of magnesium may"
+  },
+  {
+   "start": 481.12,
+   "end": 483.52,
+   "text": "increase"
+  },
+  {
+   "start": 484.24,
+   "end": 489.08,
+   "text": "magnesium acts on the heart and shows an"
+  },
+  {
+   "start": 486.92,
+   "end": 491.36,
+   "text": "anti-ischemic effect and an"
+  },
+  {
+   "start": 489.08,
+   "end": 494.16,
+   "text": "anti-arrhythmic effect"
+  },
+  {
+   "start": 491.36,
+   "end": 497.2,
+   "text": "it also acts on blood vessels and shows"
+  },
+  {
+   "start": 494.16,
+   "end": 499.36,
+   "text": "a vasodilation effect so it is necessary"
+  },
+  {
+   "start": 497.2,
+   "end": 503.52,
+   "text": "to pay attention to decrease of blood"
+  },
+  {
+   "start": 499.36,
+   "end": 503.52,
+   "text": "pressure when administering magnesium"
+  },
+  {
+   "start": 504.0,
+   "end": 509.28,
+   "text": "here is how you replete magnesium"
+  },
+  {
+   "start": 506.8,
+   "end": 512.64,
+   "text": "the magnesium formulation we generally"
+  },
+  {
+   "start": 509.28,
+   "end": 515.44,
+   "text": "use is this 2.5 grams 20 milli"
+  },
+  {
+   "start": 512.64,
+   "end": 518.48,
+   "text": "equivalent preparation shown here 1 to"
+  },
+  {
+   "start": 515.44,
+   "end": 522.4,
+   "text": "2.5 grams of the solution is diluted"
+  },
+  {
+   "start": 518.48,
+   "end": 524.72,
+   "text": "with 50 to 100 milliliters of saline"
+  },
+  {
+   "start": 522.4,
+   "end": 526.24,
+   "text": "then the solution is administered over"
+  },
+  {
+   "start": 524.72,
+   "end": 529.04,
+   "text": "20 minutes"
+  },
+  {
+   "start": 526.24,
+   "end": 532.64,
+   "text": "for continuous dosing it is given at a"
+  },
+  {
+   "start": 529.04,
+   "end": 534.32,
+   "text": "rate of about 0.5 to 1 gram per hour"
+  },
+  {
+   "start": 532.64,
+   "end": 536.24,
+   "text": "when patients are severely"
+  },
+  {
+   "start": 534.32,
+   "end": 538.08,
+   "text": "hypomagnesemic"
+  },
+  {
+   "start": 536.24,
+   "end": 541.36,
+   "text": "or when you need to replete patients"
+  },
+  {
+   "start": 538.08,
+   "end": 543.76,
+   "text": "with hypoperfusion in the icu"
+  },
+  {
+   "start": 541.36,
+   "end": 546.16,
+   "text": "2.5 grams of the solution will be"
+  },
+  {
+   "start": 543.76,
+   "end": 548.96,
+   "text": "co-infused in the main infusion solution"
+  },
+  {
+   "start": 546.16,
+   "end": 550.16,
+   "text": "to correct it slowly as explained"
+  },
+  {
+   "start": 548.96,
+   "end": 552.64,
+   "text": "earlier"
+  },
+  {
+   "start": 550.16,
+   "end": 555.2,
+   "text": "due to vasodilation effect when"
+  },
+  {
+   "start": 552.64,
+   "end": 557.76,
+   "text": "conducting bolus administration"
+  },
+  {
+   "start": 555.2,
+   "end": 561.04,
+   "text": "the blood pressure may not be maintained"
+  },
+  {
+   "start": 557.76,
+   "end": 562.48,
+   "text": "especially in a hypoperfusion state"
+  },
+  {
+   "start": 561.04,
+   "end": 564.4,
+   "text": "in any case"
+  },
+  {
+   "start": 562.48,
+   "end": 565.92,
+   "text": "it is necessary to set a target"
+  },
+  {
+   "start": 564.4,
+   "end": 567.68,
+   "text": "concentration"
+  },
+  {
+   "start": 565.92,
+   "end": 571.76,
+   "text": "and administer magnesium while"
+  },
+  {
+   "start": 567.68,
+   "end": 571.76,
+   "text": "monitoring the ionized magnesium"
+  },
+  {
+   "start": 572.24,
+   "end": 577.04,
+   "text": "finally i will present actual cases so"
+  },
+  {
+   "start": 575.28,
+   "end": 579.84,
+   "text": "that you can understand that it is"
+  },
+  {
+   "start": 577.04,
+   "end": 581.6,
+   "text": "important to set a target concentration"
+  },
+  {
+   "start": 579.84,
+   "end": 584.72,
+   "text": "and administer magnesium while"
+  },
+  {
+   "start": 581.6,
+   "end": 584.72,
+   "text": "monitoring the patient"
+  },
+  {
+   "start": 585.12,
+   "end": 590.16,
+   "text": "in the obstetric field magnesium is used"
+  },
+  {
+   "start": 588.24,
+   "end": 592.8,
+   "text": "to prevent development and to treat"
+  },
+  {
+   "start": 590.16,
+   "end": 594.64,
+   "text": "eclampsia in severe pregnancy-induced"
+  },
+  {
+   "start": 592.8,
+   "end": 596.4,
+   "text": "hypertension"
+  },
+  {
+   "start": 594.64,
+   "end": 599.12,
+   "text": "there are some magnesium sulfate"
+  },
+  {
+   "start": 596.4,
+   "end": 600.88,
+   "text": "formulations shown here"
+  },
+  {
+   "start": 599.12,
+   "end": 603.44,
+   "text": "in the package insert"
+  },
+  {
+   "start": 600.88,
+   "end": 605.84,
+   "text": "it says administer under the monitoring"
+  },
+  {
+   "start": 603.44,
+   "end": 607.76,
+   "text": "of magnesium level"
+  },
+  {
+   "start": 605.84,
+   "end": 609.2,
+   "text": "i believe they all talk about total"
+  },
+  {
+   "start": 607.76,
+   "end": 612.96,
+   "text": "magnesium"
+  },
+  {
+   "start": 609.2,
+   "end": 612.96,
+   "text": "not the ionized magnesium"
+  },
+  {
+   "start": 613.44,
+   "end": 621.04,
+   "text": "the initial dosage of magnesium sulfate"
+  },
+  {
+   "start": 616.16,
+   "end": 621.04,
+   "text": "is quite a large volume 4 grams"
+  },
+  {
+   "start": 622.24,
+   "end": 627.28,
+   "text": "this is a study that examined the blood"
+  },
+  {
+   "start": 624.4,
+   "end": 629.12,
+   "text": "concentration 30 minutes after magnesium"
+  },
+  {
+   "start": 627.28,
+   "end": 632.32,
+   "text": "administration"
+  },
+  {
+   "start": 629.12,
+   "end": 635.44,
+   "text": "50 pregnant women were investigated"
+  },
+  {
+   "start": 632.32,
+   "end": 638.64,
+   "text": "the magnesium level increased to 5.4"
+  },
+  {
+   "start": 635.44,
+   "end": 642.72,
+   "text": "plus minus 1.8 milligrams per deciliter"
+  },
+  {
+   "start": 638.64,
+   "end": 645.84,
+   "text": "for total magnesium and 1.35 plus minus"
+  },
+  {
+   "start": 642.72,
+   "end": 647.68,
+   "text": "0.4 millimoles per liter for ionized"
+  },
+  {
+   "start": 645.84,
+   "end": 649.92,
+   "text": "magnesium"
+  },
+  {
+   "start": 647.68,
+   "end": 651.68,
+   "text": "as for symptoms and complaints during"
+  },
+  {
+   "start": 649.92,
+   "end": 653.28,
+   "text": "administration"
+  },
+  {
+   "start": 651.68,
+   "end": 655.6,
+   "text": "there were pregnant women who felt"
+  },
+  {
+   "start": 653.28,
+   "end": 657.76,
+   "text": "intense fatigue saying"
+  },
+  {
+   "start": 655.6,
+   "end": 659.2,
+   "text": "i have no strength and it feels that it"
+  },
+  {
+   "start": 657.76,
+   "end": 662.64,
+   "text": "is not my body"
+  },
+  {
+   "start": 659.2,
+   "end": 664.32,
+   "text": "or i do not feel i am alive"
+  },
+  {
+   "start": 662.64,
+   "end": 668.16,
+   "text": "i would rather like to be put into a"
+  },
+  {
+   "start": 664.32,
+   "end": 668.16,
+   "text": "coma until my baby comes out"
+  },
+  {
+   "start": 669.52,
+   "end": 673.6,
+   "text": "let us see where the therapeutic"
+  },
+  {
+   "start": 671.2,
+   "end": 675.76,
+   "text": "concentration is in this magnesium"
+  },
+  {
+   "start": 673.6,
+   "end": 678.24,
+   "text": "toxicity table"
+  },
+  {
+   "start": 675.76,
+   "end": 680.4,
+   "text": "we can see that the therapeutic range is"
+  },
+  {
+   "start": 678.24,
+   "end": 682.32,
+   "text": "in the toxic range"
+  },
+  {
+   "start": 680.4,
+   "end": 684.48,
+   "text": "if the symptoms advance"
+  },
+  {
+   "start": 682.32,
+   "end": 686.8,
+   "text": "the patients may end up with hypotension"
+  },
+  {
+   "start": 684.48,
+   "end": 688.48,
+   "text": "or cardiac arrest"
+  },
+  {
+   "start": 686.8,
+   "end": 691.2,
+   "text": "so it is necessary to check"
+  },
+  {
+   "start": 688.48,
+   "end": 694.0,
+   "text": "simultaneously the physical findings"
+  },
+  {
+   "start": 691.2,
+   "end": 695.76,
+   "text": "such as decreased tendon reflex or loss"
+  },
+  {
+   "start": 694.0,
+   "end": 698.16,
+   "text": "of tendon reflex"
+  },
+  {
+   "start": 695.76,
+   "end": 700.48,
+   "text": "when confirming the ionized magnesium"
+  },
+  {
+   "start": 698.16,
+   "end": 700.48,
+   "text": "level"
+  },
+  {
+   "start": 701.84,
+   "end": 706.4,
+   "text": "these are cases when the infusion pump"
+  },
+  {
+   "start": 704.08,
+   "end": 708.8,
+   "text": "was accidentally disconnected and free"
+  },
+  {
+   "start": 706.4,
+   "end": 710.48,
+   "text": "fall of the magnesium sulfate solution"
+  },
+  {
+   "start": 708.8,
+   "end": 712.08,
+   "text": "happened"
+  },
+  {
+   "start": 710.48,
+   "end": 714.32,
+   "text": "in the left case"
+  },
+  {
+   "start": 712.08,
+   "end": 716.64,
+   "text": "a total of 32 grams"
+  },
+  {
+   "start": 714.32,
+   "end": 718.96,
+   "text": "and in the right case a total of 20"
+  },
+  {
+   "start": 716.64,
+   "end": 721.36,
+   "text": "grams was administered as a bolus"
+  },
+  {
+   "start": 718.96,
+   "end": 723.12,
+   "text": "infusion which led to respiratory arrest"
+  },
+  {
+   "start": 721.36,
+   "end": 725.6,
+   "text": "and arrhythmia"
+  },
+  {
+   "start": 723.12,
+   "end": 726.56,
+   "text": "we have had experiences at our hospital"
+  },
+  {
+   "start": 725.6,
+   "end": 728.24,
+   "text": "too"
+  },
+  {
+   "start": 726.56,
+   "end": 731.28,
+   "text": "but in all cases"
+  },
+  {
+   "start": 728.24,
+   "end": 733.28,
+   "text": "the patients were aware of the situation"
+  },
+  {
+   "start": 731.28,
+   "end": 734.88,
+   "text": "they just cannot move but most of them"
+  },
+  {
+   "start": 733.28,
+   "end": 736.08,
+   "text": "were aware"
+  },
+  {
+   "start": 734.88,
+   "end": 738.56,
+   "text": "in addition"
+  },
+  {
+   "start": 736.08,
+   "end": 741.12,
+   "text": "blood concentration may rapidly increase"
+  },
+  {
+   "start": 738.56,
+   "end": 745.08,
+   "text": "in patients with renal dysfunction"
+  },
+  {
+   "start": 741.12,
+   "end": 745.08,
+   "text": "so caution is required"
+  },
+  {
+   "start": 745.84,
+   "end": 750.88,
+   "text": "next i will show a case patient who"
+  },
+  {
+   "start": 748.32,
+   "end": 753.04,
+   "text": "developed hypocalcemia in addition to"
+  },
+  {
+   "start": 750.88,
+   "end": 756.08,
+   "text": "magnesium deficiency"
+  },
+  {
+   "start": 753.04,
+   "end": 759.04,
+   "text": "the patient was a woman in her forties"
+  },
+  {
+   "start": 756.08,
+   "end": 762.48,
+   "text": "after total colectomy due to familial"
+  },
+  {
+   "start": 759.04,
+   "end": 765.36,
+   "text": "adenomatous polyposis fap"
+  },
+  {
+   "start": 762.48,
+   "end": 767.52,
+   "text": "she developed a central venous cv port"
+  },
+  {
+   "start": 765.36,
+   "end": 769.84,
+   "text": "related infection"
+  },
+  {
+   "start": 767.52,
+   "end": 772.64,
+   "text": "the port was removed at another hospital"
+  },
+  {
+   "start": 769.84,
+   "end": 774.88,
+   "text": "and she was treated with antibiotics"
+  },
+  {
+   "start": 772.64,
+   "end": 775.76,
+   "text": "a cv port was planned to be inserted"
+  },
+  {
+   "start": 774.88,
+   "end": 778.24,
+   "text": "again"
+  },
+  {
+   "start": 775.76,
+   "end": 780.16,
+   "text": "but she developed tetany"
+  },
+  {
+   "start": 778.24,
+   "end": 782.64,
+   "text": "calcium was administered"
+  },
+  {
+   "start": 780.16,
+   "end": 784.72,
+   "text": "but symptoms did not improve"
+  },
+  {
+   "start": 782.64,
+   "end": 787.68,
+   "text": "she was transferred to our hospital and"
+  },
+  {
+   "start": 784.72,
+   "end": 790.88,
+   "text": "entered the icu the total magnesium was"
+  },
+  {
+   "start": 787.68,
+   "end": 794.0,
+   "text": "0.8 milligrams per deciliter"
+  },
+  {
+   "start": 790.88,
+   "end": 795.28,
+   "text": "the ionized magnesium was 0.3 millimoles"
+  },
+  {
+   "start": 794.0,
+   "end": 798.0,
+   "text": "per liter"
+  },
+  {
+   "start": 795.28,
+   "end": 800.64,
+   "text": "which is considerably low"
+  },
+  {
+   "start": 798.0,
+   "end": 802.4,
+   "text": "although calcium had been repleted"
+  },
+  {
+   "start": 800.64,
+   "end": 805.36,
+   "text": "it was still low"
+  },
+  {
+   "start": 802.4,
+   "end": 808.72,
+   "text": "1.0 millimoles per liter"
+  },
+  {
+   "start": 805.36,
+   "end": 811.28,
+   "text": "symptoms of tetany nausea and vomiting"
+  },
+  {
+   "start": 808.72,
+   "end": 811.28,
+   "text": "continued"
+  },
+  {
+   "start": 812.24,
+   "end": 817.52,
+   "text": "let us see where the blood concentration"
+  },
+  {
+   "start": 814.32,
+   "end": 819.68,
+   "text": "of this case falls in this table again"
+  },
+  {
+   "start": 817.52,
+   "end": 823.68,
+   "text": "it is in the level where tetany"
+  },
+  {
+   "start": 819.68,
+   "end": 823.68,
+   "text": "seizure and arrhythmia occur"
+  },
+  {
+   "start": 824.64,
+   "end": 829.36,
+   "text": "as for treatment for this patient"
+  },
+  {
+   "start": 826.96,
+   "end": 830.96,
+   "text": "since magnesium and calcium levels were"
+  },
+  {
+   "start": 829.36,
+   "end": 834.8,
+   "text": "both low"
+  },
+  {
+   "start": 830.96,
+   "end": 836.8,
+   "text": "2.5 grams of magnesium and 0.4 grams of"
+  },
+  {
+   "start": 834.8,
+   "end": 838.8,
+   "text": "calcium preparation were mixed in"
+  },
+  {
+   "start": 836.8,
+   "end": 840.88,
+   "text": "physiological saline"
+  },
+  {
+   "start": 838.8,
+   "end": 843.36,
+   "text": "and administered by intravenous drip"
+  },
+  {
+   "start": 840.88,
+   "end": 846.08,
+   "text": "infusion over 20 minutes both the"
+  },
+  {
+   "start": 843.36,
+   "end": 848.4,
+   "text": "ionized magnesium and ionized calcium"
+  },
+  {
+   "start": 846.08,
+   "end": 851.04,
+   "text": "blood concentrations were elevated in"
+  },
+  {
+   "start": 848.4,
+   "end": 853.12,
+   "text": "about one hour and nausea and tetany"
+  },
+  {
+   "start": 851.04,
+   "end": 854.32,
+   "text": "symptoms disappeared"
+  },
+  {
+   "start": 853.12,
+   "end": 856.32,
+   "text": "thereafter"
+  },
+  {
+   "start": 854.32,
+   "end": 858.8,
+   "text": "magnesium sulfate was mixed in"
+  },
+  {
+   "start": 856.32,
+   "end": 860.72,
+   "text": "extracellular fluid and was administered"
+  },
+  {
+   "start": 858.8,
+   "end": 862.0,
+   "text": "continuously"
+  },
+  {
+   "start": 860.72,
+   "end": 864.0,
+   "text": "in the end"
+  },
+  {
+   "start": 862.0,
+   "end": 865.84,
+   "text": "amino acid maintenance solution was"
+  },
+  {
+   "start": 864.0,
+   "end": 868.24,
+   "text": "administered and the patient left the"
+  },
+  {
+   "start": 865.84,
+   "end": 870.0,
+   "text": "icu the following day"
+  },
+  {
+   "start": 868.24,
+   "end": 872.08,
+   "text": "what we have to pay attention when"
+  },
+  {
+   "start": 870.0,
+   "end": 875.68,
+   "text": "administering magnesium is that the"
+  },
+  {
+   "start": 872.08,
+   "end": 878.4,
+   "text": "patient may complain hot flash or nausea"
+  },
+  {
+   "start": 875.68,
+   "end": 880.72,
+   "text": "when magnesium is rapidly administered"
+  },
+  {
+   "start": 878.4,
+   "end": 884.4,
+   "text": "such events may occur so administer"
+  },
+  {
+   "start": 880.72,
+   "end": 886.0,
+   "text": "magnesium intravenously over 20 minutes"
+  },
+  {
+   "start": 884.4,
+   "end": 887.28,
+   "text": "fully explained to the patient that"
+  },
+  {
+   "start": 886.0,
+   "end": 890.72,
+   "text": "these events"
+  },
+  {
+   "start": 887.28,
+   "end": 892.16,
+   "text": "hot flash and nausea might occur"
+  },
+  {
+   "start": 890.72,
+   "end": 894.16,
+   "text": "in some cases"
+  },
+  {
+   "start": 892.16,
+   "end": 896.24,
+   "text": "blood pressure may drop"
+  },
+  {
+   "start": 894.16,
+   "end": 899.56,
+   "text": "so you also have to pay attention to the"
+  },
+  {
+   "start": 896.24,
+   "end": 899.56,
+   "text": "blood pressure"
+  },
+  {
+   "start": 899.84,
+   "end": 903.92,
+   "text": "we quoted to the previous hospital of"
+  },
+  {
+   "start": 902.08,
+   "end": 905.52,
+   "text": "this patients how the patient was"
+  },
+  {
+   "start": 903.92,
+   "end": 907.92,
+   "text": "treated"
+  },
+  {
+   "start": 905.52,
+   "end": 910.4,
+   "text": "after the port was removed the patient"
+  },
+  {
+   "start": 907.92,
+   "end": 912.8,
+   "text": "received only maintenance solution which"
+  },
+  {
+   "start": 910.4,
+   "end": 914.4,
+   "text": "did not contain either calcium nor"
+  },
+  {
+   "start": 912.8,
+   "end": 916.88,
+   "text": "magnesium"
+  },
+  {
+   "start": 914.4,
+   "end": 919.52,
+   "text": "the hospital has a blood gas analyzer"
+  },
+  {
+   "start": 916.88,
+   "end": 922.48,
+   "text": "which can measure ionized calcium"
+  },
+  {
+   "start": 919.52,
+   "end": 924.8,
+   "text": "but not ionized magnesium"
+  },
+  {
+   "start": 922.48,
+   "end": 927.2,
+   "text": "even the measurement of total magnesium"
+  },
+  {
+   "start": 924.8,
+   "end": 929.2,
+   "text": "has to be outsourced to a laboratory"
+  },
+  {
+   "start": 927.2,
+   "end": 930.88,
+   "text": "outside the hospital"
+  },
+  {
+   "start": 929.2,
+   "end": 933.28,
+   "text": "and it takes several days to get the"
+  },
+  {
+   "start": 930.88,
+   "end": 936.64,
+   "text": "results the staff of the previous"
+  },
+  {
+   "start": 933.28,
+   "end": 938.56,
+   "text": "hospital suspected magnesium abnormality"
+  },
+  {
+   "start": 936.64,
+   "end": 940.88,
+   "text": "but they also said they did not know how"
+  },
+  {
+   "start": 938.56,
+   "end": 942.88,
+   "text": "to replete magnesium"
+  },
+  {
+   "start": 940.88,
+   "end": 945.36,
+   "text": "there are some hospitals where even"
+  },
+  {
+   "start": 942.88,
+   "end": 947.2,
+   "text": "total magnesium can only be measured by"
+  },
+  {
+   "start": 945.36,
+   "end": 948.24,
+   "text": "off hospital lab"
+  },
+  {
+   "start": 947.2,
+   "end": 950.88,
+   "text": "therefore"
+  },
+  {
+   "start": 948.24,
+   "end": 953.04,
+   "text": "if at least they had ionized magnesium"
+  },
+  {
+   "start": 950.88,
+   "end": 955.76,
+   "text": "ion selective electrodes for the blood"
+  },
+  {
+   "start": 953.04,
+   "end": 958.0,
+   "text": "gas analyzer they would have been able"
+  },
+  {
+   "start": 955.76,
+   "end": 960.16,
+   "text": "to realize the abnormality of the"
+  },
+  {
+   "start": 958.0,
+   "end": 961.36,
+   "text": "magnesium status"
+  },
+  {
+   "start": 960.16,
+   "end": 964.32,
+   "text": "however"
+  },
+  {
+   "start": 961.36,
+   "end": 966.32,
+   "text": "even if you realize the abnormality"
+  },
+  {
+   "start": 964.32,
+   "end": 969.28,
+   "text": "we cannot treat the patient unless we"
+  },
+  {
+   "start": 966.32,
+   "end": 971.44,
+   "text": "know how to replete the deficiency"
+  },
+  {
+   "start": 969.28,
+   "end": 974.72,
+   "text": "we need to familiarize with magnesium"
+  },
+  {
+   "start": 971.44,
+   "end": 974.72,
+   "text": "repletion protocol"
+  },
+  {
+   "start": 975.76,
+   "end": 981.92,
+   "text": "this study is one of the few randomized"
+  },
+  {
+   "start": 977.92,
+   "end": 983.84,
+   "text": "control trials rcts regarding ionized"
+  },
+  {
+   "start": 981.92,
+   "end": 985.68,
+   "text": "magnesium"
+  },
+  {
+   "start": 983.84,
+   "end": 988.48,
+   "text": "it examines whether correction of"
+  },
+  {
+   "start": 985.68,
+   "end": 989.92,
+   "text": "ionized magnesium during cardiopulmonary"
+  },
+  {
+   "start": 988.48,
+   "end": 992.16,
+   "text": "bypass"
+  },
+  {
+   "start": 989.92,
+   "end": 994.96,
+   "text": "reduces the risk of arrhythmia after"
+  },
+  {
+   "start": 992.16,
+   "end": 996.88,
+   "text": "coronary artery bypass grafting"
+  },
+  {
+   "start": 994.96,
+   "end": 999.44,
+   "text": "cabg"
+  },
+  {
+   "start": 996.88,
+   "end": 1001.92,
+   "text": "the protocol of this study was to infuse"
+  },
+  {
+   "start": 999.44,
+   "end": 1004.72,
+   "text": "10 millimoles of magnesium over 20"
+  },
+  {
+   "start": 1001.92,
+   "end": 1008.08,
+   "text": "minutes if ionized magnesium was smaller"
+  },
+  {
+   "start": 1004.72,
+   "end": 1010.0,
+   "text": "than 0.5 millimoles per liter"
+  },
+  {
+   "start": 1008.08,
+   "end": 1012.48,
+   "text": "results showed that correction of"
+  },
+  {
+   "start": 1010.0,
+   "end": 1014.88,
+   "text": "ionized magnesium level with a targeted"
+  },
+  {
+   "start": 1012.48,
+   "end": 1018.16,
+   "text": "concentration decreased the incidence of"
+  },
+  {
+   "start": 1014.88,
+   "end": 1020.24,
+   "text": "ventricular tachycardia bt"
+  },
+  {
+   "start": 1018.16,
+   "end": 1022.56,
+   "text": "and increased the duration of sinus"
+  },
+  {
+   "start": 1020.24,
+   "end": 1022.56,
+   "text": "rhythm"
+  },
+  {
+   "start": 1022.96,
+   "end": 1028.16,
+   "text": "both ionized magnesium and total"
+  },
+  {
+   "start": 1025.44,
+   "end": 1031.44,
+   "text": "magnesium actually became higher in the"
+  },
+  {
+   "start": 1028.16,
+   "end": 1034.32,
+   "text": "magnesium group and the incidence of vt"
+  },
+  {
+   "start": 1031.44,
+   "end": 1036.64,
+   "text": "in the first 24 hours after the surgery"
+  },
+  {
+   "start": 1034.32,
+   "end": 1038.8,
+   "text": "and the duration of staying lone grade"
+  },
+  {
+   "start": 1036.64,
+   "end": 1040.56,
+   "text": "zero without arrhythmia were improved"
+  },
+  {
+   "start": 1038.8,
+   "end": 1041.92,
+   "text": "with a statistically significant"
+  },
+  {
+   "start": 1040.56,
+   "end": 1044.48,
+   "text": "difference"
+  },
+  {
+   "start": 1041.92,
+   "end": 1046.88,
+   "text": "it is one of the few rcts regarding"
+  },
+  {
+   "start": 1044.48,
+   "end": 1049.04,
+   "text": "ionized magnesium which proved that"
+  },
+  {
+   "start": 1046.88,
+   "end": 1051.36,
+   "text": "correction of magnesium while setting a"
+  },
+  {
+   "start": 1049.04,
+   "end": 1053.6,
+   "text": "target concentration and monitoring the"
+  },
+  {
+   "start": 1051.36,
+   "end": 1055.76,
+   "text": "ionized magnesium level"
+  },
+  {
+   "start": 1053.6,
+   "end": 1058.56,
+   "text": "reduce the incidence of ventricular"
+  },
+  {
+   "start": 1055.76,
+   "end": 1058.56,
+   "text": "tachycardia"
+  },
+  {
+   "start": 1058.96,
+   "end": 1063.76,
+   "text": "this is a case report in which treatment"
+  },
+  {
+   "start": 1061.28,
+   "end": 1066.48,
+   "text": "using ionized magnesium as a guided"
+  },
+  {
+   "start": 1063.76,
+   "end": 1069.12,
+   "text": "marker for torsades de puente due to"
+  },
+  {
+   "start": 1066.48,
+   "end": 1071.76,
+   "text": "drug induced long qt syndrome the"
+  },
+  {
+   "start": 1069.12,
+   "end": 1074.8,
+   "text": "patient was a female in her 60s who was"
+  },
+  {
+   "start": 1071.76,
+   "end": 1077.44,
+   "text": "taking 80 milligrams of osimertinib from"
+  },
+  {
+   "start": 1074.8,
+   "end": 1079.92,
+   "text": "about two months ago for lung cancer she"
+  },
+  {
+   "start": 1077.44,
+   "end": 1082.08,
+   "text": "had undergone a surgery under general"
+  },
+  {
+   "start": 1079.92,
+   "end": 1084.88,
+   "text": "anesthetic for thoracic compression"
+  },
+  {
+   "start": 1082.08,
+   "end": 1087.44,
+   "text": "fracture at another hospital one day ago"
+  },
+  {
+   "start": 1084.88,
+   "end": 1089.44,
+   "text": "she developed torsades de plante at"
+  },
+  {
+   "start": 1087.44,
+   "end": 1092.0,
+   "text": "night on the day of surgery and was"
+  },
+  {
+   "start": 1089.44,
+   "end": 1095.2,
+   "text": "diagnosed with a drug-induced long-qt"
+  },
+  {
+   "start": 1092.0,
+   "end": 1097.68,
+   "text": "syndrome by osimertinib although a total"
+  },
+  {
+   "start": 1095.2,
+   "end": 1099.12,
+   "text": "of six grams of magnesium sulfate was"
+  },
+  {
+   "start": 1097.68,
+   "end": 1101.12,
+   "text": "administered"
+  },
+  {
+   "start": 1099.12,
+   "end": 1103.2,
+   "text": "symptoms did not resolve"
+  },
+  {
+   "start": 1101.12,
+   "end": 1106.72,
+   "text": "and she was transferred to our hospital"
+  },
+  {
+   "start": 1103.2,
+   "end": 1106.72,
+   "text": "and entered the icu"
+  },
+  {
+   "start": 1107.28,
+   "end": 1113.28,
+   "text": "her electrocardiogram ecg"
+  },
+  {
+   "start": 1110.72,
+   "end": 1116.16,
+   "text": "upon entering the icu"
+  },
+  {
+   "start": 1113.28,
+   "end": 1118.48,
+   "text": "showed frequent pbcs and torsades de"
+  },
+  {
+   "start": 1116.16,
+   "end": 1119.68,
+   "text": "plant here and there"
+  },
+  {
+   "start": 1118.48,
+   "end": 1122.4,
+   "text": "however"
+  },
+  {
+   "start": 1119.68,
+   "end": 1125.2,
+   "text": "torsades de plant did not continue"
+  },
+  {
+   "start": 1122.4,
+   "end": 1128.32,
+   "text": "so she managed to enter the icu without"
+  },
+  {
+   "start": 1125.2,
+   "end": 1128.32,
+   "text": "being intubated"
+  },
+  {
+   "start": 1129.12,
+   "end": 1135.52,
+   "text": "the ionized magnesium concentration at"
+  },
+  {
+   "start": 1131.84,
+   "end": 1136.4,
+   "text": "the arrival of icu was 0.92 millimoles"
+  },
+  {
+   "start": 1135.52,
+   "end": 1138.72,
+   "text": "per liter"
+  },
+  {
+   "start": 1136.4,
+   "end": 1139.76,
+   "text": "it was extremely high"
+  },
+  {
+   "start": 1138.72,
+   "end": 1141.52,
+   "text": "however"
+  },
+  {
+   "start": 1139.76,
+   "end": 1143.76,
+   "text": "we know that the magnesium blood"
+  },
+  {
+   "start": 1141.52,
+   "end": 1144.88,
+   "text": "concentration can be increased a little"
+  },
+  {
+   "start": 1143.76,
+   "end": 1147.36,
+   "text": "more"
+  },
+  {
+   "start": 1144.88,
+   "end": 1149.52,
+   "text": "so we administered one gram of magnesium"
+  },
+  {
+   "start": 1147.36,
+   "end": 1151.84,
+   "text": "when she entered the icu"
+  },
+  {
+   "start": 1149.52,
+   "end": 1154.16,
+   "text": "torsades de plant terminated at the"
+  },
+  {
+   "start": 1151.84,
+   "end": 1156.88,
+   "text": "point when ionized magnesium blood"
+  },
+  {
+   "start": 1154.16,
+   "end": 1158.88,
+   "text": "concentration was elevated to 1.3"
+  },
+  {
+   "start": 1156.88,
+   "end": 1160.16,
+   "text": "millimoles per liter"
+  },
+  {
+   "start": 1158.88,
+   "end": 1162.4,
+   "text": "thereafter"
+  },
+  {
+   "start": 1160.16,
+   "end": 1165.28,
+   "text": "we adjusted the dosing rate using the"
+  },
+  {
+   "start": 1162.4,
+   "end": 1167.36,
+   "text": "ionized magnesium concentration of one"
+  },
+  {
+   "start": 1165.28,
+   "end": 1170.08,
+   "text": "point three millimoles per liter when"
+  },
+  {
+   "start": 1167.36,
+   "end": 1171.92,
+   "text": "torsades de point terminated"
+  },
+  {
+   "start": 1170.08,
+   "end": 1174.32,
+   "text": "we expected the arrhythmia would"
+  },
+  {
+   "start": 1171.92,
+   "end": 1176.16,
+   "text": "continue after osimertinib was"
+  },
+  {
+   "start": 1174.32,
+   "end": 1177.36,
+   "text": "discontinued because of its long"
+  },
+  {
+   "start": 1176.16,
+   "end": 1179.12,
+   "text": "half-life"
+  },
+  {
+   "start": 1177.36,
+   "end": 1181.76,
+   "text": "48 hours"
+  },
+  {
+   "start": 1179.12,
+   "end": 1183.84,
+   "text": "therefore the tapering of magnesium was"
+  },
+  {
+   "start": 1181.76,
+   "end": 1185.64,
+   "text": "initiated when the drug's half-life"
+  },
+  {
+   "start": 1183.84,
+   "end": 1188.4,
+   "text": "period had elapsed after the"
+  },
+  {
+   "start": 1185.64,
+   "end": 1190.24,
+   "text": "discontinuation of the medication"
+  },
+  {
+   "start": 1188.4,
+   "end": 1193.04,
+   "text": "after we confirmed that there was no"
+  },
+  {
+   "start": 1190.24,
+   "end": 1195.44,
+   "text": "recurrence of torsades de plante"
+  },
+  {
+   "start": 1193.04,
+   "end": 1197.52,
+   "text": "she was transferred to a general ward on"
+  },
+  {
+   "start": 1195.44,
+   "end": 1200.24,
+   "text": "the third day and discharged on the"
+  },
+  {
+   "start": 1197.52,
+   "end": 1200.24,
+   "text": "eleventh day"
+  },
+  {
+   "start": 1201.04,
+   "end": 1205.76,
+   "text": "the points to be noted when repleting"
+  },
+  {
+   "start": 1203.04,
+   "end": 1208.16,
+   "text": "magnesium is that it is often necessary"
+  },
+  {
+   "start": 1205.76,
+   "end": 1210.08,
+   "text": "to correct other electrolytes"
+  },
+  {
+   "start": 1208.16,
+   "end": 1211.2,
+   "text": "such as phosphate"
+  },
+  {
+   "start": 1210.08,
+   "end": 1212.88,
+   "text": "sodium"
+  },
+  {
+   "start": 1211.2,
+   "end": 1215.04,
+   "text": "and calcium"
+  },
+  {
+   "start": 1212.88,
+   "end": 1217.04,
+   "text": "because patients are most likely to have"
+  },
+  {
+   "start": 1215.04,
+   "end": 1219.28,
+   "text": "other electrolyte imbalances"
+  },
+  {
+   "start": 1217.04,
+   "end": 1220.72,
+   "text": "simultaneously"
+  },
+  {
+   "start": 1219.28,
+   "end": 1222.56,
+   "text": "in addition"
+  },
+  {
+   "start": 1220.72,
+   "end": 1224.64,
+   "text": "attention needs to be drawn to the"
+  },
+  {
+   "start": 1222.56,
+   "end": 1226.08,
+   "text": "dosing rate in patients with renal"
+  },
+  {
+   "start": 1224.64,
+   "end": 1228.56,
+   "text": "dysfunction"
+  },
+  {
+   "start": 1226.08,
+   "end": 1229.92,
+   "text": "when magnesium formulation is rapidly"
+  },
+  {
+   "start": 1228.56,
+   "end": 1232.08,
+   "text": "administered"
+  },
+  {
+   "start": 1229.92,
+   "end": 1233.44,
+   "text": "patients fall into a state in which they"
+  },
+  {
+   "start": 1232.08,
+   "end": 1235.68,
+   "text": "are conscious"
+  },
+  {
+   "start": 1233.44,
+   "end": 1236.88,
+   "text": "but unable to move"
+  },
+  {
+   "start": 1235.68,
+   "end": 1240.24,
+   "text": "that is"
+  },
+  {
+   "start": 1236.88,
+   "end": 1242.32,
+   "text": "they go into a state of sleep paralysis"
+  },
+  {
+   "start": 1240.24,
+   "end": 1244.16,
+   "text": "it is also necessary to reduce the"
+  },
+  {
+   "start": 1242.32,
+   "end": 1245.6,
+   "text": "dosage in patients with renal"
+  },
+  {
+   "start": 1244.16,
+   "end": 1247.92,
+   "text": "dysfunction"
+  },
+  {
+   "start": 1245.6,
+   "end": 1250.24,
+   "text": "we administer magnesium while paying"
+  },
+  {
+   "start": 1247.92,
+   "end": 1252.64,
+   "text": "attention to symptoms associated with"
+  },
+  {
+   "start": 1250.24,
+   "end": 1255.28,
+   "text": "toxicity and decrease of blood pressure"
+  },
+  {
+   "start": 1252.64,
+   "end": 1257.04,
+   "text": "due to bolus administration"
+  },
+  {
+   "start": 1255.28,
+   "end": 1259.44,
+   "text": "as i said earlier"
+  },
+  {
+   "start": 1257.04,
+   "end": 1262.4,
+   "text": "it is important to administer magnesium"
+  },
+  {
+   "start": 1259.44,
+   "end": 1263.6,
+   "text": "sulfate over more than 20 minutes"
+  },
+  {
+   "start": 1262.4,
+   "end": 1266.0,
+   "text": "additionally"
+  },
+  {
+   "start": 1263.6,
+   "end": 1268.88,
+   "text": "since many patients complain hot flash"
+  },
+  {
+   "start": 1266.0,
+   "end": 1271.28,
+   "text": "and nausea we need to firmly explain in"
+  },
+  {
+   "start": 1268.88,
+   "end": 1273.28,
+   "text": "advance that they may occur"
+  },
+  {
+   "start": 1271.28,
+   "end": 1275.28,
+   "text": "in the obstetrics field"
+  },
+  {
+   "start": 1273.28,
+   "end": 1277.6,
+   "text": "we need to be aware that the therapeutic"
+  },
+  {
+   "start": 1275.28,
+   "end": 1279.84,
+   "text": "range is approximately equal to the"
+  },
+  {
+   "start": 1277.6,
+   "end": 1281.52,
+   "text": "toxic range when we use magnesium"
+  },
+  {
+   "start": 1279.84,
+   "end": 1282.88,
+   "text": "formulation"
+  },
+  {
+   "start": 1281.52,
+   "end": 1284.88,
+   "text": "in any case"
+  },
+  {
+   "start": 1282.88,
+   "end": 1286.4,
+   "text": "it is necessary to set a target"
+  },
+  {
+   "start": 1284.88,
+   "end": 1288.24,
+   "text": "concentration"
+  },
+  {
+   "start": 1286.4,
+   "end": 1292.88,
+   "text": "and administer magnesium while"
+  },
+  {
+   "start": 1288.24,
+   "end": 1292.88,
+   "text": "monitoring the ionized magnesium level"
+  },
+  {
+   "start": 1293.52,
+   "end": 1298.24,
+   "text": "this is the summary of my seminar today"
+  },
+  {
+   "start": 1296.96,
+   "end": 1300.88,
+   "text": "first of all"
+  },
+  {
+   "start": 1298.24,
+   "end": 1303.52,
+   "text": "magnesium is a positive ion which has an"
+  },
+  {
+   "start": 1300.88,
+   "end": 1305.52,
+   "text": "important role in life support"
+  },
+  {
+   "start": 1303.52,
+   "end": 1308.08,
+   "text": "as well as calcium"
+  },
+  {
+   "start": 1305.52,
+   "end": 1310.16,
+   "text": "magnesium has three fractions and the"
+  },
+  {
+   "start": 1308.08,
+   "end": 1312.96,
+   "text": "physiologically active fraction of"
+  },
+  {
+   "start": 1310.16,
+   "end": 1315.6,
+   "text": "magnesium is the ionized form"
+  },
+  {
+   "start": 1312.96,
+   "end": 1318.08,
+   "text": "which is ionized magnesium"
+  },
+  {
+   "start": 1315.6,
+   "end": 1320.4,
+   "text": "exclusive ion selective electrode is"
+  },
+  {
+   "start": 1318.08,
+   "end": 1322.0,
+   "text": "required for the measurement of ionized"
+  },
+  {
+   "start": 1320.4,
+   "end": 1324.32,
+   "text": "magnesium"
+  },
+  {
+   "start": 1322.0,
+   "end": 1327.04,
+   "text": "the blood gas analyzer which can measure"
+  },
+  {
+   "start": 1324.32,
+   "end": 1328.64,
+   "text": "ionized magnesium is only from nova"
+  },
+  {
+   "start": 1327.04,
+   "end": 1330.56,
+   "text": "biomedical"
+  },
+  {
+   "start": 1328.64,
+   "end": 1333.6,
+   "text": "i would like you to understand that"
+  },
+  {
+   "start": 1330.56,
+   "end": 1335.92,
+   "text": "ionized magnesium and total magnesium do"
+  },
+  {
+   "start": 1333.6,
+   "end": 1337.6,
+   "text": "not always correlate in critically ill"
+  },
+  {
+   "start": 1335.92,
+   "end": 1340.24,
+   "text": "patients"
+  },
+  {
+   "start": 1337.6,
+   "end": 1342.16,
+   "text": "as for the correction of magnesium level"
+  },
+  {
+   "start": 1340.24,
+   "end": 1344.56,
+   "text": "it is important to set a target"
+  },
+  {
+   "start": 1342.16,
+   "end": 1346.96,
+   "text": "concentration and monitor ionized"
+  },
+  {
+   "start": 1344.56,
+   "end": 1348.88,
+   "text": "magnesium at the bedside"
+  },
+  {
+   "start": 1346.96,
+   "end": 1351.28,
+   "text": "in the obstetric field"
+  },
+  {
+   "start": 1348.88,
+   "end": 1353.04,
+   "text": "the therapeutic range is almost equal to"
+  },
+  {
+   "start": 1351.28,
+   "end": 1355.12,
+   "text": "the toxic range"
+  },
+  {
+   "start": 1353.04,
+   "end": 1357.12,
+   "text": "so it is necessary to pay attention to"
+  },
+  {
+   "start": 1355.12,
+   "end": 1360.64,
+   "text": "the renal function of the patients and"
+  },
+  {
+   "start": 1357.12,
+   "end": 1362.72,
+   "text": "physical findings such as tendon reflex"
+  },
+  {
+   "start": 1360.64,
+   "end": 1365.04,
+   "text": "complication of other electrolyte"
+  },
+  {
+   "start": 1362.72,
+   "end": 1368.64,
+   "text": "imbalances are often seen"
+  },
+  {
+   "start": 1365.04,
+   "end": 1370.96,
+   "text": "such as hyponatremia hypokalemia"
+  },
+  {
+   "start": 1368.64,
+   "end": 1372.08,
+   "text": "and hypocalcemia"
+  },
+  {
+   "start": 1370.96,
+   "end": 1373.76,
+   "text": "therefore"
+  },
+  {
+   "start": 1372.08,
+   "end": 1375.84,
+   "text": "we have to be cautious about these"
+  },
+  {
+   "start": 1373.76,
+   "end": 1378.24,
+   "text": "conditions"
+  },
+  {
+   "start": 1375.84,
+   "end": 1380.08,
+   "text": "that will be the end of my talk"
+  },
+  {
+   "start": 1378.24,
+   "end": 1382.32,
+   "text": "i hope this webinar will become some"
+  },
+  {
+   "start": 1380.08,
+   "end": 1386.76,
+   "text": "help for your everyday practice"
+  },
+  {
+   "start": 1382.32,
+   "end": 1386.76,
+   "text": "thank you for joining this seminar"
+  },
+  {
+   "start": 1425.92,
+   "end": 1428.0,
+   "text": "you"
+  }
+ ]
+}

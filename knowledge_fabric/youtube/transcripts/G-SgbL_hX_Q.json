@@ -1,0 +1,7698 @@
+{
+ "video_id": "G-SgbL_hX_Q",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 1538,
+ "cues": [
+  {
+   "start": 4.32,
+   "end": 8.8,
+   "text": "welcome to the nova biomedical"
+  },
+  {
+   "start": 6.16,
+   "end": 10.56,
+   "text": "educational webinar series"
+  },
+  {
+   "start": 8.8,
+   "end": 13.36,
+   "text": "today's webinar is titled"
+  },
+  {
+   "start": 10.56,
+   "end": 16.84,
+   "text": "cardiopulmonary resuscitation and blood"
+  },
+  {
+   "start": 13.36,
+   "end": 16.84,
+   "text": "gas sampling"
+  },
+  {
+   "start": 20.16,
+   "end": 25.04,
+   "text": "our presenter today is dr jake wolf an"
+  },
+  {
+   "start": 22.8,
+   "end": 26.48,
+   "text": "emergency and critical care resident at"
+  },
+  {
+   "start": 25.04,
+   "end": 29.44,
+   "text": "the university of pennsylvania"
+  },
+  {
+   "start": 26.48,
+   "end": 31.52,
+   "text": "veterinary hospital in philadelphia"
+  },
+  {
+   "start": 29.44,
+   "end": 33.76,
+   "text": "he is a graduate of cornell university"
+  },
+  {
+   "start": 31.52,
+   "end": 36.32,
+   "text": "college of veterinary medicine"
+  },
+  {
+   "start": 33.76,
+   "end": 38.0,
+   "text": "prior to cornell dr wolfe worked as a"
+  },
+  {
+   "start": 36.32,
+   "end": 40.48,
+   "text": "nurse in veterinary hospitals in the"
+  },
+  {
+   "start": 38.0,
+   "end": 43.2,
+   "text": "washington dc area for two years"
+  },
+  {
+   "start": 40.48,
+   "end": 45.6,
+   "text": "his clinical interests include teaching"
+  },
+  {
+   "start": 43.2,
+   "end": 48.56,
+   "text": "exotics clinical pathology and"
+  },
+  {
+   "start": 45.6,
+   "end": 48.56,
+   "text": "hemodynamics"
+  },
+  {
+   "start": 50.56,
+   "end": 54.8,
+   "text": "today's program is race approved to"
+  },
+  {
+   "start": 52.72,
+   "end": 57.92,
+   "text": "offer a total of one"
+  },
+  {
+   "start": 54.8,
+   "end": 60.08,
+   "text": "ce credit to any one of veterinarian or"
+  },
+  {
+   "start": 57.92,
+   "end": 62.08,
+   "text": "veterinary technicians"
+  },
+  {
+   "start": 60.08,
+   "end": 64.56,
+   "text": "after the webinar you will receive an"
+  },
+  {
+   "start": 62.08,
+   "end": 66.0,
+   "text": "email with directions for obtaining ce"
+  },
+  {
+   "start": 64.56,
+   "end": 68.0,
+   "text": "credits"
+  },
+  {
+   "start": 66.0,
+   "end": 70.88,
+   "text": "dr wolfe will be available after his"
+  },
+  {
+   "start": 68.0,
+   "end": 73.84,
+   "text": "presentation for questions and answers"
+  },
+  {
+   "start": 70.88,
+   "end": 73.84,
+   "text": "dr wolf"
+  },
+  {
+   "start": 75.36,
+   "end": 80.72,
+   "text": "welcome to today's webinar entitled"
+  },
+  {
+   "start": 78.4,
+   "end": 82.08,
+   "text": "cardiopulmonary resuscitation and blood"
+  },
+  {
+   "start": 80.72,
+   "end": 83.76,
+   "text": "gas sampling"
+  },
+  {
+   "start": 82.08,
+   "end": 86.32,
+   "text": "during cpr"
+  },
+  {
+   "start": 83.76,
+   "end": 88.96,
+   "text": "and thank you for tuning in my name is"
+  },
+  {
+   "start": 86.32,
+   "end": 88.96,
+   "text": "jake wolf"
+  },
+  {
+   "start": 89.04,
+   "end": 93.28,
+   "text": "and as you heard i am a"
+  },
+  {
+   "start": 91.68,
+   "end": 94.96,
+   "text": "first year emergency and critical care"
+  },
+  {
+   "start": 93.28,
+   "end": 96.56,
+   "text": "veterinarian at the university of"
+  },
+  {
+   "start": 94.96,
+   "end": 98.24,
+   "text": "pennsylvania"
+  },
+  {
+   "start": 96.56,
+   "end": 100.32,
+   "text": "and i look forward to any questions you"
+  },
+  {
+   "start": 98.24,
+   "end": 102.72,
+   "text": "might have at the end of the"
+  },
+  {
+   "start": 100.32,
+   "end": 105.12,
+   "text": "presentation"
+  },
+  {
+   "start": 102.72,
+   "end": 107.44,
+   "text": "just as a brief overview"
+  },
+  {
+   "start": 105.12,
+   "end": 108.56,
+   "text": "this presentation will cover"
+  },
+  {
+   "start": 107.44,
+   "end": 112.08,
+   "text": "five"
+  },
+  {
+   "start": 108.56,
+   "end": 114.56,
+   "text": "steps um or five different components of"
+  },
+  {
+   "start": 112.08,
+   "end": 117.12,
+   "text": "cardiopulmonary resuscitation first"
+  },
+  {
+   "start": 114.56,
+   "end": 119.92,
+   "text": "recognition of cardiopulmonary arrest"
+  },
+  {
+   "start": 117.12,
+   "end": 122.8,
+   "text": "second basic life support third advanced"
+  },
+  {
+   "start": 119.92,
+   "end": 125.2,
+   "text": "life support fourth blood gas monitoring"
+  },
+  {
+   "start": 122.8,
+   "end": 127.04,
+   "text": "as a component of advanced life support"
+  },
+  {
+   "start": 125.2,
+   "end": 128.64,
+   "text": "and then finally things that we can do"
+  },
+  {
+   "start": 127.04,
+   "end": 132.0,
+   "text": "in practice to prepare for a"
+  },
+  {
+   "start": 128.64,
+   "end": 132.0,
+   "text": "cardiopulmonary arrest"
+  },
+  {
+   "start": 132.48,
+   "end": 137.52,
+   "text": "recognition of cardiopulmonary arrest in"
+  },
+  {
+   "start": 134.8,
+   "end": 140.72,
+   "text": "an unresponsive patient usually focuses"
+  },
+  {
+   "start": 137.52,
+   "end": 143.28,
+   "text": "on three things your abcs it's important"
+  },
+  {
+   "start": 140.72,
+   "end": 145.68,
+   "text": "to remember that abcs is for recognition"
+  },
+  {
+   "start": 143.28,
+   "end": 148.08,
+   "text": "of cardiopulmonary arrest not for the"
+  },
+  {
+   "start": 145.68,
+   "end": 150.88,
+   "text": "initiation of interventions for patients"
+  },
+  {
+   "start": 148.08,
+   "end": 153.28,
+   "text": "with cardiopulmonary arrest as cpr is"
+  },
+  {
+   "start": 150.88,
+   "end": 155.6,
+   "text": "not done in the same order"
+  },
+  {
+   "start": 153.28,
+   "end": 158.0,
+   "text": "so for your abcs the first thing you'll"
+  },
+  {
+   "start": 155.6,
+   "end": 161.12,
+   "text": "examine for a patient is their airway to"
+  },
+  {
+   "start": 158.0,
+   "end": 163.2,
+   "text": "look for any upper airway obstruction"
+  },
+  {
+   "start": 161.12,
+   "end": 165.44,
+   "text": "next you will look to see if the patient"
+  },
+  {
+   "start": 163.2,
+   "end": 166.64,
+   "text": "is breathing"
+  },
+  {
+   "start": 165.44,
+   "end": 168.64,
+   "text": "however"
+  },
+  {
+   "start": 166.64,
+   "end": 170.72,
+   "text": "breathing agonal breaths are not"
+  },
+  {
+   "start": 168.64,
+   "end": 173.6,
+   "text": "included as breathing and if a patient"
+  },
+  {
+   "start": 170.72,
+   "end": 175.92,
+   "text": "is agonally breathing"
+  },
+  {
+   "start": 173.6,
+   "end": 178.56,
+   "text": "and has no pillable pulses"
+  },
+  {
+   "start": 175.92,
+   "end": 181.52,
+   "text": "cpr should be initiated"
+  },
+  {
+   "start": 178.56,
+   "end": 184.16,
+   "text": "and finally circulation"
+  },
+  {
+   "start": 181.52,
+   "end": 188.0,
+   "text": "so examining a patient's palpable pulses"
+  },
+  {
+   "start": 184.16,
+   "end": 190.64,
+   "text": "or palpable heart apex heartbeat"
+  },
+  {
+   "start": 188.0,
+   "end": 192.96,
+   "text": "see if there are signs consistent with"
+  },
+  {
+   "start": 190.64,
+   "end": 194.72,
+   "text": "arrest"
+  },
+  {
+   "start": 192.96,
+   "end": 196.0,
+   "text": "it's important to remember that pulse"
+  },
+  {
+   "start": 194.72,
+   "end": 198.08,
+   "text": "palpation"
+  },
+  {
+   "start": 196.0,
+   "end": 199.44,
+   "text": "at least in humans is notoriously"
+  },
+  {
+   "start": 198.08,
+   "end": 200.4,
+   "text": "unreliable"
+  },
+  {
+   "start": 199.44,
+   "end": 203.04,
+   "text": "um"
+  },
+  {
+   "start": 200.4,
+   "end": 205.52,
+   "text": "and it is usually safer to administer"
+  },
+  {
+   "start": 203.04,
+   "end": 206.96,
+   "text": "cpr if uncertain"
+  },
+  {
+   "start": 205.52,
+   "end": 208.32,
+   "text": "indeed serious"
+  },
+  {
+   "start": 206.96,
+   "end": 210.56,
+   "text": "adverse effects"
+  },
+  {
+   "start": 208.32,
+   "end": 212.72,
+   "text": "effects have occurred in less than two"
+  },
+  {
+   "start": 210.56,
+   "end": 214.72,
+   "text": "percent of human patients who are not in"
+  },
+  {
+   "start": 212.72,
+   "end": 217.2,
+   "text": "cardiopulmonary arrest that received"
+  },
+  {
+   "start": 214.72,
+   "end": 219.36,
+   "text": "chest compressions"
+  },
+  {
+   "start": 217.2,
+   "end": 221.76,
+   "text": "the incidence of cardiopulmonary arrest"
+  },
+  {
+   "start": 219.36,
+   "end": 223.44,
+   "text": "during anesthesia or sedation during"
+  },
+  {
+   "start": 221.76,
+   "end": 228.4,
+   "text": "veterinary medicine"
+  },
+  {
+   "start": 223.44,
+   "end": 232.72,
+   "text": "is 0.17 percent in dogs and 0.24"
+  },
+  {
+   "start": 228.4,
+   "end": 234.8,
+   "text": "in cats this is not a"
+  },
+  {
+   "start": 232.72,
+   "end": 236.24,
+   "text": "it is definitely something that every"
+  },
+  {
+   "start": 234.8,
+   "end": 237.92,
+   "text": "veterinarian including general"
+  },
+  {
+   "start": 236.24,
+   "end": 241.04,
+   "text": "practitioners and specialists should be"
+  },
+  {
+   "start": 237.92,
+   "end": 243.28,
+   "text": "aware of"
+  },
+  {
+   "start": 241.04,
+   "end": 246.24,
+   "text": "in people a three-phase model of"
+  },
+  {
+   "start": 243.28,
+   "end": 251.44,
+   "text": "cardiopulmonary arrest is described and"
+  },
+  {
+   "start": 246.24,
+   "end": 251.44,
+   "text": "based on which stage a patient falls"
+  },
+  {
+   "start": 252.4,
+   "end": 257.84,
+   "text": "treatment is uh is based on"
+  },
+  {
+   "start": 255.92,
+   "end": 260.88,
+   "text": "on the phase in which they in which"
+  },
+  {
+   "start": 257.84,
+   "end": 262.96,
+   "text": "they're classified so the first phase"
+  },
+  {
+   "start": 260.88,
+   "end": 263.76,
+   "text": "is the electrical phase which is the"
+  },
+  {
+   "start": 262.96,
+   "end": 265.92,
+   "text": "first"
+  },
+  {
+   "start": 263.76,
+   "end": 268.16,
+   "text": "four minutes after cardiopulmonary"
+  },
+  {
+   "start": 265.92,
+   "end": 271.28,
+   "text": "arrest and this is characterized by"
+  },
+  {
+   "start": 268.16,
+   "end": 272.4,
+   "text": "minimal ischemia"
+  },
+  {
+   "start": 271.28,
+   "end": 274.24,
+   "text": "due to the"
+  },
+  {
+   "start": 272.4,
+   "end": 276.16,
+   "text": "acute onset"
+  },
+  {
+   "start": 274.24,
+   "end": 278.56,
+   "text": "in this phase if a patient has a"
+  },
+  {
+   "start": 276.16,
+   "end": 280.88,
+   "text": "shockable rhythm such as pulseless"
+  },
+  {
+   "start": 278.56,
+   "end": 284.08,
+   "text": "ventricular tachycardia or ventricular"
+  },
+  {
+   "start": 280.88,
+   "end": 287.12,
+   "text": "fibrillation defibrillation is the most"
+  },
+  {
+   "start": 284.08,
+   "end": 289.52,
+   "text": "important treatment and can be initiated"
+  },
+  {
+   "start": 287.12,
+   "end": 292.56,
+   "text": "without compression chest compressions"
+  },
+  {
+   "start": 289.52,
+   "end": 294.96,
+   "text": "prior to the defibrillation"
+  },
+  {
+   "start": 292.56,
+   "end": 296.48,
+   "text": "the second phase is the circulatory"
+  },
+  {
+   "start": 294.96,
+   "end": 299.68,
+   "text": "phase which is"
+  },
+  {
+   "start": 296.48,
+   "end": 301.2,
+   "text": "characterized as minutes 4 through 10"
+  },
+  {
+   "start": 299.68,
+   "end": 303.28,
+   "text": "after arrest"
+  },
+  {
+   "start": 301.2,
+   "end": 306.08,
+   "text": "this is where energy depletion and"
+  },
+  {
+   "start": 303.28,
+   "end": 307.84,
+   "text": "reversible cellular damage occurs and"
+  },
+  {
+   "start": 306.08,
+   "end": 311.04,
+   "text": "during this phase"
+  },
+  {
+   "start": 307.84,
+   "end": 313.12,
+   "text": "oxygen delivery is most important"
+  },
+  {
+   "start": 311.04,
+   "end": 314.64,
+   "text": "therefore regardless of whether a"
+  },
+  {
+   "start": 313.12,
+   "end": 316.8,
+   "text": "patient has"
+  },
+  {
+   "start": 314.64,
+   "end": 317.76,
+   "text": "a shockable rhythm or not"
+  },
+  {
+   "start": 316.8,
+   "end": 320.64,
+   "text": "a"
+  },
+  {
+   "start": 317.76,
+   "end": 324.64,
+   "text": "cycle of chest compressions is important"
+  },
+  {
+   "start": 320.64,
+   "end": 327.52,
+   "text": "to deliver oxygen to the tissues"
+  },
+  {
+   "start": 324.64,
+   "end": 329.76,
+   "text": "and finally the last phase is the"
+  },
+  {
+   "start": 327.52,
+   "end": 330.72,
+   "text": "metabolic phase which is"
+  },
+  {
+   "start": 329.76,
+   "end": 332.96,
+   "text": "um"
+  },
+  {
+   "start": 330.72,
+   "end": 335.52,
+   "text": "arrests over 10 minutes"
+  },
+  {
+   "start": 332.96,
+   "end": 337.12,
+   "text": "this is when ischemic injury occurs that"
+  },
+  {
+   "start": 335.52,
+   "end": 340.32,
+   "text": "requires advanced"
+  },
+  {
+   "start": 337.12,
+   "end": 342.24,
+   "text": "strategies to recover cellular function"
+  },
+  {
+   "start": 340.32,
+   "end": 345.2,
+   "text": "during this time gut mucosal"
+  },
+  {
+   "start": 342.24,
+   "end": 347.84,
+   "text": "translocation of gram-negative bacteria"
+  },
+  {
+   "start": 345.2,
+   "end": 349.92,
+   "text": "may also occur and result in endotoxin"
+  },
+  {
+   "start": 347.84,
+   "end": 352.24,
+   "text": "and cytokine-induced"
+  },
+  {
+   "start": 349.92,
+   "end": 354.48,
+   "text": "suppression of myocardial function after"
+  },
+  {
+   "start": 352.24,
+   "end": 355.68,
+   "text": "defibrillation if there's a shockable"
+  },
+  {
+   "start": 354.48,
+   "end": 356.96,
+   "text": "rhythm"
+  },
+  {
+   "start": 355.68,
+   "end": 358.64,
+   "text": "present"
+  },
+  {
+   "start": 356.96,
+   "end": 360.88,
+   "text": "a number of strategies have been"
+  },
+  {
+   "start": 358.64,
+   "end": 363.04,
+   "text": "post-related to benefit during the"
+  },
+  {
+   "start": 360.88,
+   "end": 365.84,
+   "text": "metabolic phase"
+  },
+  {
+   "start": 363.04,
+   "end": 368.24,
+   "text": "such as protective strategies like cardo"
+  },
+  {
+   "start": 365.84,
+   "end": 370.56,
+   "text": "cardiopulmonary bypass and"
+  },
+  {
+   "start": 368.24,
+   "end": 371.76,
+   "text": "therapeutic hypothermia in people"
+  },
+  {
+   "start": 370.56,
+   "end": 373.6,
+   "text": "they'll know"
+  },
+  {
+   "start": 371.76,
+   "end": 375.6,
+   "text": "though none of these have shown a"
+  },
+  {
+   "start": 373.6,
+   "end": 377.36,
+   "text": "significant benefit and are probably not"
+  },
+  {
+   "start": 375.6,
+   "end": 380.36,
+   "text": "currently feasible in our veterinary"
+  },
+  {
+   "start": 377.36,
+   "end": 380.36,
+   "text": "patients"
+  },
+  {
+   "start": 380.48,
+   "end": 384.32,
+   "text": "the 2012 recover guidelines in the"
+  },
+  {
+   "start": 382.8,
+   "end": 386.64,
+   "text": "journal of veterinary emergency and"
+  },
+  {
+   "start": 384.32,
+   "end": 389.04,
+   "text": "critical care introduce the standards"
+  },
+  {
+   "start": 386.64,
+   "end": 390.88,
+   "text": "for cardiopulmonary resuscitation in"
+  },
+  {
+   "start": 389.04,
+   "end": 392.56,
+   "text": "veterinary medicine"
+  },
+  {
+   "start": 390.88,
+   "end": 395.12,
+   "text": "these will likely be updated in the"
+  },
+  {
+   "start": 392.56,
+   "end": 396.72,
+   "text": "coming years but they outline two"
+  },
+  {
+   "start": 395.12,
+   "end": 400.4,
+   "text": "separate components"
+  },
+  {
+   "start": 396.72,
+   "end": 403.12,
+   "text": "of cpr that are that occur at the same"
+  },
+  {
+   "start": 400.4,
+   "end": 405.84,
+   "text": "time basic life support"
+  },
+  {
+   "start": 403.12,
+   "end": 406.72,
+   "text": "and advanced life support"
+  },
+  {
+   "start": 405.84,
+   "end": 408.4,
+   "text": "these"
+  },
+  {
+   "start": 406.72,
+   "end": 410.8,
+   "text": "basic life support and advanced life"
+  },
+  {
+   "start": 408.4,
+   "end": 413.2,
+   "text": "support cover all four rest rhythms that"
+  },
+  {
+   "start": 410.8,
+   "end": 416.08,
+   "text": "we see in veterinary patients including"
+  },
+  {
+   "start": 413.2,
+   "end": 418.32,
+   "text": "asystole pulseless electrical activity"
+  },
+  {
+   "start": 416.08,
+   "end": 420.8,
+   "text": "ventricular fibrillation and pulseless"
+  },
+  {
+   "start": 418.32,
+   "end": 422.96,
+   "text": "ventricular tachycardia"
+  },
+  {
+   "start": 420.8,
+   "end": 424.8,
+   "text": "basic life support consists of"
+  },
+  {
+   "start": 422.96,
+   "end": 426.0,
+   "text": "initiation of immediate chest"
+  },
+  {
+   "start": 424.8,
+   "end": 428.88,
+   "text": "compressions"
+  },
+  {
+   "start": 426.0,
+   "end": 431.2,
+   "text": "and establishment of ventilatory access"
+  },
+  {
+   "start": 428.88,
+   "end": 432.56,
+   "text": "and initiation of ventilation and it's"
+  },
+  {
+   "start": 431.2,
+   "end": 435.28,
+   "text": "important to"
+  },
+  {
+   "start": 432.56,
+   "end": 439.04,
+   "text": "note that basic life support is the most"
+  },
+  {
+   "start": 435.28,
+   "end": 440.8,
+   "text": "important part portion of cpr"
+  },
+  {
+   "start": 439.04,
+   "end": 442.08,
+   "text": "advanced life support consists of"
+  },
+  {
+   "start": 440.8,
+   "end": 445.2,
+   "text": "monitoring"
+  },
+  {
+   "start": 442.08,
+   "end": 447.28,
+   "text": "through electrocardiogram entitled co2"
+  },
+  {
+   "start": 445.2,
+   "end": 450.24,
+   "text": "and venous blood gases"
+  },
+  {
+   "start": 447.28,
+   "end": 452.4,
+   "text": "establishment of vascular access and"
+  },
+  {
+   "start": 450.24,
+   "end": 454.96,
+   "text": "administration of various therapies"
+  },
+  {
+   "start": 452.4,
+   "end": 457.6,
+   "text": "including reversal agents vasopressors"
+  },
+  {
+   "start": 454.96,
+   "end": 461.2,
+   "text": "and atropine defibrillation and"
+  },
+  {
+   "start": 457.6,
+   "end": 461.2,
+   "text": "antiarrhythmics if indicated"
+  },
+  {
+   "start": 461.92,
+   "end": 465.04,
+   "text": "increased return of spontaneous"
+  },
+  {
+   "start": 463.68,
+   "end": 468.88,
+   "text": "circulation"
+  },
+  {
+   "start": 465.04,
+   "end": 471.28,
+   "text": "has been noted with open chest cpr"
+  },
+  {
+   "start": 468.88,
+   "end": 473.28,
+   "text": "especially for patients under anesthesia"
+  },
+  {
+   "start": 471.28,
+   "end": 475.12,
+   "text": "or already in hospital"
+  },
+  {
+   "start": 473.28,
+   "end": 476.32,
+   "text": "but there is unknown timing of when to"
+  },
+  {
+   "start": 475.12,
+   "end": 478.4,
+   "text": "begin this whether it should be"
+  },
+  {
+   "start": 476.32,
+   "end": 481.52,
+   "text": "initiated immediately or after"
+  },
+  {
+   "start": 478.4,
+   "end": 483.44,
+   "text": "10 to 20 minutes of therapy certainly"
+  },
+  {
+   "start": 481.52,
+   "end": 486.0,
+   "text": "it's indicated in certain diseases such"
+  },
+  {
+   "start": 483.44,
+   "end": 487.84,
+   "text": "as pleural space disease and chest wall"
+  },
+  {
+   "start": 486.0,
+   "end": 489.52,
+   "text": "disease where"
+  },
+  {
+   "start": 487.84,
+   "end": 490.88,
+   "text": "chest compressions are not going to"
+  },
+  {
+   "start": 489.52,
+   "end": 493.12,
+   "text": "offer"
+  },
+  {
+   "start": 490.88,
+   "end": 494.24,
+   "text": "significant benefit or when you're doing"
+  },
+  {
+   "start": 493.12,
+   "end": 496.4,
+   "text": "thoracic"
+  },
+  {
+   "start": 494.24,
+   "end": 498.64,
+   "text": "surgery and already have access to the"
+  },
+  {
+   "start": 496.4,
+   "end": 500.48,
+   "text": "heart or abdominal surgery where you can"
+  },
+  {
+   "start": 498.64,
+   "end": 502.32,
+   "text": "readily incise through the diaphragm and"
+  },
+  {
+   "start": 500.48,
+   "end": 503.68,
+   "text": "directly compress the heart"
+  },
+  {
+   "start": 502.32,
+   "end": 505.84,
+   "text": "however"
+  },
+  {
+   "start": 503.68,
+   "end": 509.68,
+   "text": "because it often requires intensive"
+  },
+  {
+   "start": 505.84,
+   "end": 512.16,
+   "text": "monitoring after and surgery"
+  },
+  {
+   "start": 509.68,
+   "end": 514.4,
+   "text": "including a thoracotomy to flush the"
+  },
+  {
+   "start": 512.16,
+   "end": 517.36,
+   "text": "the chest and plural space"
+  },
+  {
+   "start": 514.4,
+   "end": 520.32,
+   "text": "i will not be discussing it further"
+  },
+  {
+   "start": 517.36,
+   "end": 523.12,
+   "text": "in this lecture"
+  },
+  {
+   "start": 520.32,
+   "end": 524.56,
+   "text": "this is the algorithm"
+  },
+  {
+   "start": 523.12,
+   "end": 526.4,
+   "text": "created by"
+  },
+  {
+   "start": 524.56,
+   "end": 527.52,
+   "text": "recover"
+  },
+  {
+   "start": 526.4,
+   "end": 530.32,
+   "text": "that"
+  },
+  {
+   "start": 527.52,
+   "end": 532.24,
+   "text": "guides your response to an unresponsive"
+  },
+  {
+   "start": 530.32,
+   "end": 534.8,
+   "text": "ethnic patient"
+  },
+  {
+   "start": 532.24,
+   "end": 536.56,
+   "text": "and it shows that immediately basic life"
+  },
+  {
+   "start": 534.8,
+   "end": 538.48,
+   "text": "support is initiated including chest"
+  },
+  {
+   "start": 536.56,
+   "end": 540.48,
+   "text": "compressions and ventilation and then"
+  },
+  {
+   "start": 538.48,
+   "end": 541.68,
+   "text": "advanced life support is started as long"
+  },
+  {
+   "start": 540.48,
+   "end": 544.32,
+   "text": "as you have enough team members"
+  },
+  {
+   "start": 541.68,
+   "end": 546.88,
+   "text": "concurrently which includes initiation"
+  },
+  {
+   "start": 544.32,
+   "end": 548.8,
+   "text": "of monitoring vascular access"
+  },
+  {
+   "start": 546.88,
+   "end": 550.48,
+   "text": "and administration of reversals if"
+  },
+  {
+   "start": 548.8,
+   "end": 552.72,
+   "text": "indicated"
+  },
+  {
+   "start": 550.48,
+   "end": 555.28,
+   "text": "and then evaluation of the"
+  },
+  {
+   "start": 552.72,
+   "end": 557.84,
+   "text": "ecg to decide upon further therapies"
+  },
+  {
+   "start": 555.28,
+   "end": 559.36,
+   "text": "whether vasopressors antiarrhythmics or"
+  },
+  {
+   "start": 557.84,
+   "end": 563.8,
+   "text": "defibrillation"
+  },
+  {
+   "start": 559.36,
+   "end": 563.8,
+   "text": "i'll give you a moment to look over that"
+  },
+  {
+   "start": 567.92,
+   "end": 572.32,
+   "text": "let's first discuss chest compression"
+  },
+  {
+   "start": 570.24,
+   "end": 574.08,
+   "text": "technique"
+  },
+  {
+   "start": 572.32,
+   "end": 578.0,
+   "text": "there are two theories"
+  },
+  {
+   "start": 574.08,
+   "end": 580.08,
+   "text": "that discuss the proper form for"
+  },
+  {
+   "start": 578.0,
+   "end": 582.88,
+   "text": "chest compressions the thoracic pump"
+  },
+  {
+   "start": 580.08,
+   "end": 585.44,
+   "text": "theory and the cardiac pump theory"
+  },
+  {
+   "start": 582.88,
+   "end": 587.92,
+   "text": "the cardiac pump theory is more"
+  },
+  {
+   "start": 585.44,
+   "end": 590.4,
+   "text": "intuitive and holds that"
+  },
+  {
+   "start": 587.92,
+   "end": 591.44,
+   "text": "compression directly over the heart"
+  },
+  {
+   "start": 590.4,
+   "end": 593.68,
+   "text": "causes"
+  },
+  {
+   "start": 591.44,
+   "end": 596.08,
+   "text": "compression of the ventricles and thus"
+  },
+  {
+   "start": 593.68,
+   "end": 597.2,
+   "text": "the outflow of blood"
+  },
+  {
+   "start": 596.08,
+   "end": 599.76,
+   "text": "and"
+  },
+  {
+   "start": 597.2,
+   "end": 601.6,
+   "text": "utilization of this technique means that"
+  },
+  {
+   "start": 599.76,
+   "end": 604.24,
+   "text": "you would place your hands directly over"
+  },
+  {
+   "start": 601.6,
+   "end": 606.72,
+   "text": "where the patient's heart would be this"
+  },
+  {
+   "start": 604.24,
+   "end": 608.0,
+   "text": "technique is practiced in"
+  },
+  {
+   "start": 606.72,
+   "end": 610.32,
+   "text": "cats"
+  },
+  {
+   "start": 608.0,
+   "end": 613.28,
+   "text": "small breed dogs"
+  },
+  {
+   "start": 610.32,
+   "end": 614.8,
+   "text": "and deep-chested dogs dogs like"
+  },
+  {
+   "start": 613.28,
+   "end": 616.64,
+   "text": "greyhounds"
+  },
+  {
+   "start": 614.8,
+   "end": 620.08,
+   "text": "diet hounds"
+  },
+  {
+   "start": 616.64,
+   "end": 621.28,
+   "text": "the thoracic pump theory holds that"
+  },
+  {
+   "start": 620.08,
+   "end": 623.36,
+   "text": "for"
+  },
+  {
+   "start": 621.28,
+   "end": 625.52,
+   "text": "uh delivery of"
+  },
+  {
+   "start": 623.36,
+   "end": 627.76,
+   "text": "compression over the widest portion of"
+  },
+  {
+   "start": 625.52,
+   "end": 629.76,
+   "text": "the chest will"
+  },
+  {
+   "start": 627.76,
+   "end": 631.36,
+   "text": "secondarily cause"
+  },
+  {
+   "start": 629.76,
+   "end": 633.2,
+   "text": "compression of the ventricles and"
+  },
+  {
+   "start": 631.36,
+   "end": 635.04,
+   "text": "outflow of blood"
+  },
+  {
+   "start": 633.2,
+   "end": 638.96,
+   "text": "and this technique is thought to work"
+  },
+  {
+   "start": 635.04,
+   "end": 641.44,
+   "text": "best in wider chested breeds like"
+  },
+  {
+   "start": 638.96,
+   "end": 645.28,
+   "text": "labradors your large and other large"
+  },
+  {
+   "start": 641.44,
+   "end": 649.44,
+   "text": "breed and medium breed dogs"
+  },
+  {
+   "start": 645.28,
+   "end": 652.16,
+   "text": "a modulation of this theory works in"
+  },
+  {
+   "start": 649.44,
+   "end": 655.68,
+   "text": "um barrel chested breeds like french"
+  },
+  {
+   "start": 652.16,
+   "end": 658.8,
+   "text": "bulldogs bulldogs and pugs that may"
+  },
+  {
+   "start": 655.68,
+   "end": 661.76,
+   "text": "benefit from being in dorsal recumbency"
+  },
+  {
+   "start": 658.8,
+   "end": 663.52,
+   "text": "um and have chest compressions delivered"
+  },
+  {
+   "start": 661.76,
+   "end": 664.72,
+   "text": "similar to a human"
+  },
+  {
+   "start": 663.52,
+   "end": 667.92,
+   "text": "whereas"
+  },
+  {
+   "start": 664.72,
+   "end": 670.08,
+   "text": "most other speak breeds of dogs and cats"
+  },
+  {
+   "start": 667.92,
+   "end": 674.68,
+   "text": "will then benefit from being in later"
+  },
+  {
+   "start": 670.08,
+   "end": 674.68,
+   "text": "left or right lateral recumbency"
+  },
+  {
+   "start": 676.4,
+   "end": 680.56,
+   "text": "the goal of chest compressions is to"
+  },
+  {
+   "start": 678.32,
+   "end": 682.72,
+   "text": "maximize cardiac output"
+  },
+  {
+   "start": 680.56,
+   "end": 684.24,
+   "text": "of course in a patient who has suffered"
+  },
+  {
+   "start": 682.72,
+   "end": 687.12,
+   "text": "a cardiopulmonary arrest and you"
+  },
+  {
+   "start": 684.24,
+   "end": 690.16,
+   "text": "initiate tpr in them you will not attain"
+  },
+  {
+   "start": 687.12,
+   "end": 691.68,
+   "text": "for full cardiac output and really the"
+  },
+  {
+   "start": 690.16,
+   "end": 694.72,
+   "text": "best that we can achieve in these"
+  },
+  {
+   "start": 691.68,
+   "end": 698.08,
+   "text": "patients is usually 25 to 35 percent of"
+  },
+  {
+   "start": 694.72,
+   "end": 698.08,
+   "text": "a patient's cardiac output"
+  },
+  {
+   "start": 698.32,
+   "end": 702.88,
+   "text": "your chest compressions"
+  },
+  {
+   "start": 700.8,
+   "end": 704.96,
+   "text": "technique will depend on a number of"
+  },
+  {
+   "start": 702.88,
+   "end": 706.08,
+   "text": "factors and we'll cover each of them"
+  },
+  {
+   "start": 704.96,
+   "end": 708.56,
+   "text": "briefly"
+  },
+  {
+   "start": 706.08,
+   "end": 711.36,
+   "text": "the first first is the depth of"
+  },
+  {
+   "start": 708.56,
+   "end": 714.64,
+   "text": "compressions delivered"
+  },
+  {
+   "start": 711.36,
+   "end": 717.6,
+   "text": "studies done in pigs have shown"
+  },
+  {
+   "start": 714.64,
+   "end": 719.68,
+   "text": "that the depth of compression"
+  },
+  {
+   "start": 717.6,
+   "end": 722.88,
+   "text": "is positively correlated with a"
+  },
+  {
+   "start": 719.68,
+   "end": 724.88,
+   "text": "patient's cardiac output and mean aortic"
+  },
+  {
+   "start": 722.88,
+   "end": 726.08,
+   "text": "pressure"
+  },
+  {
+   "start": 724.88,
+   "end": 728.08,
+   "text": "and"
+  },
+  {
+   "start": 726.08,
+   "end": 729.92,
+   "text": "studies and dogs have"
+  },
+  {
+   "start": 728.08,
+   "end": 732.64,
+   "text": "demonstrated that cardiac output and"
+  },
+  {
+   "start": 729.92,
+   "end": 736.0,
+   "text": "mean arterial pressure increase linearly"
+  },
+  {
+   "start": 732.64,
+   "end": 739.2,
+   "text": "with sternal chest compressions between"
+  },
+  {
+   "start": 736.0,
+   "end": 741.28,
+   "text": "25 and 60 centimeters"
+  },
+  {
+   "start": 739.2,
+   "end": 742.96,
+   "text": "importantly for"
+  },
+  {
+   "start": 741.28,
+   "end": 746.64,
+   "text": "these dogs"
+  },
+  {
+   "start": 742.96,
+   "end": 748.64,
+   "text": "um compressions less than 23 centimeters"
+  },
+  {
+   "start": 746.64,
+   "end": 750.96,
+   "text": "where the chest was compressed less than"
+  },
+  {
+   "start": 748.64,
+   "end": 754.4,
+   "text": "that amount there was no cardiac output"
+  },
+  {
+   "start": 750.96,
+   "end": 756.16,
+   "text": "or mean arterial pressure"
+  },
+  {
+   "start": 754.4,
+   "end": 758.56,
+   "text": "other studies have shown that increased"
+  },
+  {
+   "start": 756.16,
+   "end": 760.48,
+   "text": "depth of compressions associated are"
+  },
+  {
+   "start": 758.56,
+   "end": 763.36,
+   "text": "associated with an increased rate of"
+  },
+  {
+   "start": 760.48,
+   "end": 765.6,
+   "text": "successful defibrillation and return of"
+  },
+  {
+   "start": 763.36,
+   "end": 768.0,
+   "text": "spontaneous"
+  },
+  {
+   "start": 765.6,
+   "end": 771.12,
+   "text": "circulation and therefore it is"
+  },
+  {
+   "start": 768.0,
+   "end": 774.08,
+   "text": "important to go about a third to a half"
+  },
+  {
+   "start": 771.12,
+   "end": 776.0,
+   "text": "of the patient's chest depth when"
+  },
+  {
+   "start": 774.08,
+   "end": 778.96,
+   "text": "compressing"
+  },
+  {
+   "start": 776.0,
+   "end": 780.48,
+   "text": "additionally recoil must be allowed to"
+  },
+  {
+   "start": 778.96,
+   "end": 783.44,
+   "text": "fully occur"
+  },
+  {
+   "start": 780.48,
+   "end": 786.64,
+   "text": "as this is when the heart will fill with"
+  },
+  {
+   "start": 783.44,
+   "end": 788.88,
+   "text": "blood and when myocardial perfusion"
+  },
+  {
+   "start": 786.64,
+   "end": 792.88,
+   "text": "occurs so it's important not to lean on"
+  },
+  {
+   "start": 788.88,
+   "end": 792.88,
+   "text": "your patient in between compressions"
+  },
+  {
+   "start": 793.12,
+   "end": 798.16,
+   "text": "positioning of your patient is"
+  },
+  {
+   "start": 795.6,
+   "end": 800.08,
+   "text": "also important during"
+  },
+  {
+   "start": 798.16,
+   "end": 801.84,
+   "text": "chest compressions"
+  },
+  {
+   "start": 800.08,
+   "end": 803.6,
+   "text": "and numerous studies have devel"
+  },
+  {
+   "start": 801.84,
+   "end": 806.72,
+   "text": "demonstrated higher left ventricular"
+  },
+  {
+   "start": 803.6,
+   "end": 808.8,
+   "text": "pressure and aortic flow in dogs who are"
+  },
+  {
+   "start": 806.72,
+   "end": 810.16,
+   "text": "placed in lateral rather than dorsal"
+  },
+  {
+   "start": 808.8,
+   "end": 812.72,
+   "text": "recumbency"
+  },
+  {
+   "start": 810.16,
+   "end": 814.32,
+   "text": "um and have demonstrated a higher"
+  },
+  {
+   "start": 812.72,
+   "end": 815.68,
+   "text": "likelihood of return of spontaneous"
+  },
+  {
+   "start": 814.32,
+   "end": 816.64,
+   "text": "circulation"
+  },
+  {
+   "start": 815.68,
+   "end": 819.44,
+   "text": "again"
+  },
+  {
+   "start": 816.64,
+   "end": 821.84,
+   "text": "your exception may be your barrel"
+  },
+  {
+   "start": 819.44,
+   "end": 825.36,
+   "text": "chested brachycephalics who may benefit"
+  },
+  {
+   "start": 821.84,
+   "end": 827.6,
+   "text": "from being in dorsal recumbency"
+  },
+  {
+   "start": 825.36,
+   "end": 829.76,
+   "text": "the rate of chest compressions is"
+  },
+  {
+   "start": 827.6,
+   "end": 831.28,
+   "text": "probably the most variable and the most"
+  },
+  {
+   "start": 829.76,
+   "end": 833.12,
+   "text": "important part of your chest"
+  },
+  {
+   "start": 831.28,
+   "end": 835.68,
+   "text": "compressions"
+  },
+  {
+   "start": 833.12,
+   "end": 838.0,
+   "text": "studies of dogs"
+  },
+  {
+   "start": 835.68,
+   "end": 840.0,
+   "text": "with induced ventricular fibrillation"
+  },
+  {
+   "start": 838.0,
+   "end": 843.28,
+   "text": "showed a higher return of spontaneous"
+  },
+  {
+   "start": 840.0,
+   "end": 846.08,
+   "text": "circulation and survival with 120 beats"
+  },
+  {
+   "start": 843.28,
+   "end": 848.0,
+   "text": "per minute rather than 60 compressions"
+  },
+  {
+   "start": 846.08,
+   "end": 850.32,
+   "text": "per minute"
+  },
+  {
+   "start": 848.0,
+   "end": 852.0,
+   "text": "indeed improved cardiac output and"
+  },
+  {
+   "start": 850.32,
+   "end": 854.16,
+   "text": "stable"
+  },
+  {
+   "start": 852.0,
+   "end": 857.84,
+   "text": "coronary profusion and cerebral blood"
+  },
+  {
+   "start": 854.16,
+   "end": 862.8,
+   "text": "flow were noted as hot with um"
+  },
+  {
+   "start": 857.84,
+   "end": 862.8,
+   "text": "rates as high as 150 in dogs"
+  },
+  {
+   "start": 862.88,
+   "end": 866.72,
+   "text": "this along with the the depth of"
+  },
+  {
+   "start": 864.8,
+   "end": 868.84,
+   "text": "compressions has led to the"
+  },
+  {
+   "start": 866.72,
+   "end": 870.8,
+   "text": "um"
+  },
+  {
+   "start": 868.84,
+   "end": 872.88,
+   "text": "the"
+  },
+  {
+   "start": 870.8,
+   "end": 875.84,
+   "text": "statement in human medicine of push hard"
+  },
+  {
+   "start": 872.88,
+   "end": 875.84,
+   "text": "and push fast"
+  },
+  {
+   "start": 876.48,
+   "end": 880.96,
+   "text": "and like i mentioned with your rate"
+  },
+  {
+   "start": 878.72,
+   "end": 882.32,
+   "text": "while you're you are aiming for 100 to"
+  },
+  {
+   "start": 880.96,
+   "end": 885.04,
+   "text": "120"
+  },
+  {
+   "start": 882.32,
+   "end": 887.36,
+   "text": "compressions per minute it is important"
+  },
+  {
+   "start": 885.04,
+   "end": 889.68,
+   "text": "to not go so quickly that you do not"
+  },
+  {
+   "start": 887.36,
+   "end": 892.0,
+   "text": "allow complete chest recoil as again"
+  },
+  {
+   "start": 889.68,
+   "end": 894.32,
+   "text": "that's when myocardial profusion will"
+  },
+  {
+   "start": 892.0,
+   "end": 894.32,
+   "text": "occur"
+  },
+  {
+   "start": 895.44,
+   "end": 898.96,
+   "text": "interposed abdominal compression where"
+  },
+  {
+   "start": 898.08,
+   "end": 900.32,
+   "text": "you"
+  },
+  {
+   "start": 898.96,
+   "end": 901.92,
+   "text": "have"
+  },
+  {
+   "start": 900.32,
+   "end": 904.4,
+   "text": "one person compressing the chest and"
+  },
+  {
+   "start": 901.92,
+   "end": 906.56,
+   "text": "then the other person compressing the"
+  },
+  {
+   "start": 904.4,
+   "end": 907.92,
+   "text": "abdomen"
+  },
+  {
+   "start": 906.56,
+   "end": 910.0,
+   "text": "to"
+  },
+  {
+   "start": 907.92,
+   "end": 911.76,
+   "text": "during periods of"
+  },
+  {
+   "start": 910.0,
+   "end": 913.28,
+   "text": "diastole"
+  },
+  {
+   "start": 911.76,
+   "end": 915.84,
+   "text": "to increase"
+  },
+  {
+   "start": 913.28,
+   "end": 918.32,
+   "text": "blood flow into the heart"
+  },
+  {
+   "start": 915.84,
+   "end": 920.16,
+   "text": "has occasionally been demonstrated and a"
+  },
+  {
+   "start": 918.32,
+   "end": 922.24,
+   "text": "number of studies in dogs has showed"
+  },
+  {
+   "start": 920.16,
+   "end": 924.64,
+   "text": "increased blood flow blood pressures and"
+  },
+  {
+   "start": 922.24,
+   "end": 927.12,
+   "text": "cardiac output and blood flow to the"
+  },
+  {
+   "start": 924.64,
+   "end": 929.84,
+   "text": "brain with using this method compared to"
+  },
+  {
+   "start": 927.12,
+   "end": 931.36,
+   "text": "standard cpr however that study did not"
+  },
+  {
+   "start": 929.84,
+   "end": 933.52,
+   "text": "show any benefit to survival to"
+  },
+  {
+   "start": 931.36,
+   "end": 936.08,
+   "text": "discharge for these patients"
+  },
+  {
+   "start": 933.52,
+   "end": 938.4,
+   "text": "two human studies however have shown"
+  },
+  {
+   "start": 936.08,
+   "end": 940.8,
+   "text": "increased survival to discharge with"
+  },
+  {
+   "start": 938.4,
+   "end": 942.16,
+   "text": "interposed abdominal compressions and if"
+  },
+  {
+   "start": 940.8,
+   "end": 944.16,
+   "text": "you have enough"
+  },
+  {
+   "start": 942.16,
+   "end": 947.04,
+   "text": "team members this is something that"
+  },
+  {
+   "start": 944.16,
+   "end": 947.04,
+   "text": "could be considered"
+  },
+  {
+   "start": 947.44,
+   "end": 952.88,
+   "text": "and finally cycle length is the other"
+  },
+  {
+   "start": 950.8,
+   "end": 955.6,
+   "text": "very important component for chest"
+  },
+  {
+   "start": 952.88,
+   "end": 958.72,
+   "text": "compressions in dogs and cats"
+  },
+  {
+   "start": 955.6,
+   "end": 960.96,
+   "text": "so studies and pigs have shown that it"
+  },
+  {
+   "start": 958.72,
+   "end": 963.6,
+   "text": "takes approximately 60 seconds of"
+  },
+  {
+   "start": 960.96,
+   "end": 966.56,
+   "text": "continuous compressions to build up to a"
+  },
+  {
+   "start": 963.6,
+   "end": 968.8,
+   "text": "maximum cerebral perfusion pressure and"
+  },
+  {
+   "start": 966.56,
+   "end": 971.44,
+   "text": "any pauses are associated with an"
+  },
+  {
+   "start": 968.8,
+   "end": 974.24,
+   "text": "immediate decrease in blood flow to the"
+  },
+  {
+   "start": 971.44,
+   "end": 975.68,
+   "text": "brain therefore compressors must be you"
+  },
+  {
+   "start": 974.24,
+   "end": 978.32,
+   "text": "do not"
+  },
+  {
+   "start": 975.68,
+   "end": 980.72,
+   "text": "obtain adequate flow until 60 seconds of"
+  },
+  {
+   "start": 978.32,
+   "end": 983.04,
+   "text": "compression"
+  },
+  {
+   "start": 980.72,
+   "end": 985.12,
+   "text": "um studies in humans have shown that two"
+  },
+  {
+   "start": 983.04,
+   "end": 986.96,
+   "text": "minutes of uninterrupted compressions"
+  },
+  {
+   "start": 985.12,
+   "end": 988.96,
+   "text": "with only brief rhythm checks"
+  },
+  {
+   "start": 986.96,
+   "end": 991.6,
+   "text": "significantly improve survival and"
+  },
+  {
+   "start": 988.96,
+   "end": 993.92,
+   "text": "neurologic status"
+  },
+  {
+   "start": 991.6,
+   "end": 997.52,
+   "text": "and finally fatigue is an important"
+  },
+  {
+   "start": 993.92,
+   "end": 999.44,
+   "text": "thing to keep in mind so studies in"
+  },
+  {
+   "start": 997.52,
+   "end": 1002.16,
+   "text": "using mannequin models have shown that"
+  },
+  {
+   "start": 999.44,
+   "end": 1003.2,
+   "text": "the depth of compressions decline after"
+  },
+  {
+   "start": 1002.16,
+   "end": 1005.28,
+   "text": "90"
+  },
+  {
+   "start": 1003.2,
+   "end": 1008.0,
+   "text": "seconds despite feedback to the"
+  },
+  {
+   "start": 1005.28,
+   "end": 1011.44,
+   "text": "compressor and fatigue usually begins"
+  },
+  {
+   "start": 1008.0,
+   "end": 1014.72,
+   "text": "one minute after initiate initiation"
+  },
+  {
+   "start": 1011.44,
+   "end": 1016.96,
+   "text": "importantly compressors were poorly able"
+  },
+  {
+   "start": 1014.72,
+   "end": 1018.72,
+   "text": "to identify when fatigue was incur"
+  },
+  {
+   "start": 1016.96,
+   "end": 1020.4,
+   "text": "occurring in themselves"
+  },
+  {
+   "start": 1018.72,
+   "end": 1021.92,
+   "text": "and"
+  },
+  {
+   "start": 1020.4,
+   "end": 1023.2,
+   "text": "there was a decrease in correct"
+  },
+  {
+   "start": 1021.92,
+   "end": 1025.2,
+   "text": "compressions"
+  },
+  {
+   "start": 1023.2,
+   "end": 1029.2,
+   "text": "defined as hand position and compression"
+  },
+  {
+   "start": 1025.2,
+   "end": 1030.48,
+   "text": "depth from 93 percent at one minute 67"
+  },
+  {
+   "start": 1029.2,
+   "end": 1031.6,
+   "text": "at two minutes"
+  },
+  {
+   "start": 1030.48,
+   "end": 1033.76,
+   "text": "31"
+  },
+  {
+   "start": 1031.6,
+   "end": 1037.6,
+   "text": "39 at three minutes"
+  },
+  {
+   "start": 1033.76,
+   "end": 1039.52,
+   "text": "and 18 percent at five minutes"
+  },
+  {
+   "start": 1037.6,
+   "end": 1040.72,
+   "text": "that is a huge drop off after two"
+  },
+  {
+   "start": 1039.52,
+   "end": 1043.44,
+   "text": "minutes"
+  },
+  {
+   "start": 1040.72,
+   "end": 1045.52,
+   "text": "and therefore that is why cycles are"
+  },
+  {
+   "start": 1043.44,
+   "end": 1047.92,
+   "text": "recommended to be two minutes in length"
+  },
+  {
+   "start": 1045.52,
+   "end": 1051.8,
+   "text": "so one compressor for two minutes and"
+  },
+  {
+   "start": 1047.92,
+   "end": 1051.8,
+   "text": "then a switch is made"
+  },
+  {
+   "start": 1054.64,
+   "end": 1058.48,
+   "text": "the other component of basic life"
+  },
+  {
+   "start": 1056.32,
+   "end": 1059.92,
+   "text": "support is ventilation the importance of"
+  },
+  {
+   "start": 1058.48,
+   "end": 1063.36,
+   "text": "ventilation has been debated"
+  },
+  {
+   "start": 1059.92,
+   "end": 1065.28,
+   "text": "significantly in human medicine recently"
+  },
+  {
+   "start": 1063.36,
+   "end": 1067.2,
+   "text": "and veterinary medicine to an extent as"
+  },
+  {
+   "start": 1065.28,
+   "end": 1069.12,
+   "text": "well there is"
+  },
+  {
+   "start": 1067.2,
+   "end": 1071.28,
+   "text": "evidence in human pediatric patients"
+  },
+  {
+   "start": 1069.12,
+   "end": 1074.0,
+   "text": "that ventilation is more important in"
+  },
+  {
+   "start": 1071.28,
+   "end": 1076.72,
+   "text": "patients with cardiopulmonary arrest not"
+  },
+  {
+   "start": 1074.0,
+   "end": 1078.88,
+   "text": "of primary cardiac origin and therefore"
+  },
+  {
+   "start": 1076.72,
+   "end": 1081.28,
+   "text": "since most of our patients suffer a"
+  },
+  {
+   "start": 1078.88,
+   "end": 1085.12,
+   "text": "primary respiratory arrest ventilation"
+  },
+  {
+   "start": 1081.28,
+   "end": 1085.12,
+   "text": "may be more important in our patients"
+  },
+  {
+   "start": 1085.32,
+   "end": 1090.96,
+   "text": "hypoxemia hypercapnia and hyperoxia have"
+  },
+  {
+   "start": 1089.12,
+   "end": 1093.6,
+   "text": "all been shown to negatively impact"
+  },
+  {
+   "start": 1090.96,
+   "end": 1097.76,
+   "text": "survival and neurologic status"
+  },
+  {
+   "start": 1093.6,
+   "end": 1100.0,
+   "text": "following cardiac pulmonary arrest thus"
+  },
+  {
+   "start": 1097.76,
+   "end": 1102.0,
+   "text": "demonstrating the importance of proper"
+  },
+  {
+   "start": 1100.0,
+   "end": 1103.6,
+   "text": "ventilation"
+  },
+  {
+   "start": 1102.0,
+   "end": 1105.2,
+   "text": "there's two components to ventilation"
+  },
+  {
+   "start": 1103.6,
+   "end": 1109.08,
+   "text": "the first one is respiratory rate and"
+  },
+  {
+   "start": 1105.2,
+   "end": 1109.08,
+   "text": "the second tidal volume"
+  },
+  {
+   "start": 1109.44,
+   "end": 1113.04,
+   "text": "in looking at"
+  },
+  {
+   "start": 1111.04,
+   "end": 1115.36,
+   "text": "respiratory rate"
+  },
+  {
+   "start": 1113.04,
+   "end": 1116.64,
+   "text": "studies in animals have demonstrated"
+  },
+  {
+   "start": 1115.36,
+   "end": 1119.36,
+   "text": "that"
+  },
+  {
+   "start": 1116.64,
+   "end": 1121.6,
+   "text": "comparing compression only to"
+  },
+  {
+   "start": 1119.36,
+   "end": 1123.76,
+   "text": "10 breasts per minute"
+  },
+  {
+   "start": 1121.6,
+   "end": 1125.76,
+   "text": "ventilation those that were ventilated"
+  },
+  {
+   "start": 1123.76,
+   "end": 1128.24,
+   "text": "had an improved outcome"
+  },
+  {
+   "start": 1125.76,
+   "end": 1129.84,
+   "text": "and similarly in human studies those who"
+  },
+  {
+   "start": 1128.24,
+   "end": 1132.08,
+   "text": "are ventilated had shorter time to"
+  },
+  {
+   "start": 1129.84,
+   "end": 1137.16,
+   "text": "return a spontaneous circulation a"
+  },
+  {
+   "start": 1132.08,
+   "end": 1137.16,
+   "text": "higher ph and increase end-tidal co2"
+  },
+  {
+   "start": 1137.2,
+   "end": 1141.12,
+   "text": "again studies in animals have"
+  },
+  {
+   "start": 1139.28,
+   "end": 1142.88,
+   "text": "demonstrated that 10 breasts per minute"
+  },
+  {
+   "start": 1141.12,
+   "end": 1145.52,
+   "text": "improve blood flow to the brain and"
+  },
+  {
+   "start": 1142.88,
+   "end": 1147.28,
+   "text": "heart and"
+  },
+  {
+   "start": 1145.52,
+   "end": 1149.6,
+   "text": "do have a shorter duration to return a"
+  },
+  {
+   "start": 1147.28,
+   "end": 1152.4,
+   "text": "spontaneous circulation when compared to"
+  },
+  {
+   "start": 1149.6,
+   "end": 1154.48,
+   "text": "other ventilatory rates"
+  },
+  {
+   "start": 1152.4,
+   "end": 1157.04,
+   "text": "and studies in pigs have demonstrated"
+  },
+  {
+   "start": 1154.48,
+   "end": 1159.6,
+   "text": "the inferiority of both hyperventilation"
+  },
+  {
+   "start": 1157.04,
+   "end": 1161.68,
+   "text": "defined as 20 to 30 breaths per minute"
+  },
+  {
+   "start": 1159.6,
+   "end": 1163.44,
+   "text": "and hypoventilation defined as three"
+  },
+  {
+   "start": 1161.68,
+   "end": 1166.96,
+   "text": "breaths per minute"
+  },
+  {
+   "start": 1163.44,
+   "end": 1168.72,
+   "text": "so therefore it is important to aim for"
+  },
+  {
+   "start": 1166.96,
+   "end": 1172.48,
+   "text": "about 10 breaths per minute or one"
+  },
+  {
+   "start": 1168.72,
+   "end": 1172.48,
+   "text": "breath every six seconds"
+  },
+  {
+   "start": 1174.24,
+   "end": 1177.44,
+   "text": "again"
+  },
+  {
+   "start": 1175.68,
+   "end": 1179.2,
+   "text": "in human medicine the debate occurs"
+  },
+  {
+   "start": 1177.44,
+   "end": 1180.64,
+   "text": "largely because of the difficulty and"
+  },
+  {
+   "start": 1179.2,
+   "end": 1182.32,
+   "text": "intubation"
+  },
+  {
+   "start": 1180.64,
+   "end": 1184.72,
+   "text": "of people however"
+  },
+  {
+   "start": 1182.32,
+   "end": 1186.8,
+   "text": "since our patients are easily intubated"
+  },
+  {
+   "start": 1184.72,
+   "end": 1189.52,
+   "text": "we can easily intubate them hook them up"
+  },
+  {
+   "start": 1186.8,
+   "end": 1192.48,
+   "text": "to an end tidal co2 and then the ambu"
+  },
+  {
+   "start": 1189.52,
+   "end": 1194.88,
+   "text": "bag on the other end hook up"
+  },
+  {
+   "start": 1192.48,
+   "end": 1200.24,
+   "text": "oxygen to the ambu bag and give our"
+  },
+  {
+   "start": 1194.88,
+   "end": 1200.24,
+   "text": "patients 100 oxygen via an ambu bag"
+  },
+  {
+   "start": 1201.2,
+   "end": 1205.2,
+   "text": "the aim for tidal volume is usually"
+  },
+  {
+   "start": 1203.68,
+   "end": 1208.48,
+   "text": "recommended"
+  },
+  {
+   "start": 1205.2,
+   "end": 1210.16,
+   "text": "about 10 milliliters per kilogram"
+  },
+  {
+   "start": 1208.48,
+   "end": 1211.76,
+   "text": "however one study in pigs did"
+  },
+  {
+   "start": 1210.16,
+   "end": 1212.72,
+   "text": "demonstrate that there is no difference"
+  },
+  {
+   "start": 1211.76,
+   "end": 1215.04,
+   "text": "between"
+  },
+  {
+   "start": 1212.72,
+   "end": 1218.16,
+   "text": "12 milliliters per kilogram and 6"
+  },
+  {
+   "start": 1215.04,
+   "end": 1220.88,
+   "text": "milliliters per kilogram in assessing"
+  },
+  {
+   "start": 1218.16,
+   "end": 1223.2,
+   "text": "when they obtained return of spontaneous"
+  },
+  {
+   "start": 1220.88,
+   "end": 1225.6,
+   "text": "circulation so respiratory rate is"
+  },
+  {
+   "start": 1223.2,
+   "end": 1227.76,
+   "text": "probably the more"
+  },
+  {
+   "start": 1225.6,
+   "end": 1231.04,
+   "text": "important factor when ventilating your"
+  },
+  {
+   "start": 1227.76,
+   "end": 1231.04,
+   "text": "your arrest patients"
+  },
+  {
+   "start": 1232.08,
+   "end": 1237.6,
+   "text": "let's now move on to advanced life"
+  },
+  {
+   "start": 1234.56,
+   "end": 1239.04,
+   "text": "support so after obtaining venous access"
+  },
+  {
+   "start": 1237.6,
+   "end": 1241.44,
+   "text": "you may"
+  },
+  {
+   "start": 1239.04,
+   "end": 1243.84,
+   "text": "want to decide to administer various"
+  },
+  {
+   "start": 1241.44,
+   "end": 1246.24,
+   "text": "drugs"
+  },
+  {
+   "start": 1243.84,
+   "end": 1248.64,
+   "text": "the aim of many drugs is to optimize"
+  },
+  {
+   "start": 1246.24,
+   "end": 1252.16,
+   "text": "coronary profusion pressure which is the"
+  },
+  {
+   "start": 1248.64,
+   "end": 1254.16,
+   "text": "difference between the diastolic aortic"
+  },
+  {
+   "start": 1252.16,
+   "end": 1256.4,
+   "text": "and the right atrial pressure"
+  },
+  {
+   "start": 1254.16,
+   "end": 1259.36,
+   "text": "maximizing this aids in restoring"
+  },
+  {
+   "start": 1256.4,
+   "end": 1264.16,
+   "text": "myocardial function"
+  },
+  {
+   "start": 1259.36,
+   "end": 1266.4,
+   "text": "most studies for drugs look at"
+  },
+  {
+   "start": 1264.16,
+   "end": 1269.68,
+   "text": "vasopressors epinephrine being the"
+  },
+  {
+   "start": 1266.4,
+   "end": 1269.68,
+   "text": "primary vasopressor"
+  },
+  {
+   "start": 1271.12,
+   "end": 1275.84,
+   "text": "there are rare studies in humans that"
+  },
+  {
+   "start": 1273.68,
+   "end": 1276.56,
+   "text": "have shown improved survival"
+  },
+  {
+   "start": 1275.84,
+   "end": 1278.72,
+   "text": "for"
+  },
+  {
+   "start": 1276.56,
+   "end": 1279.84,
+   "text": "after epinephrine use after prolonged"
+  },
+  {
+   "start": 1278.72,
+   "end": 1282.0,
+   "text": "cpr"
+  },
+  {
+   "start": 1279.84,
+   "end": 1284.32,
+   "text": "most studies are neutral"
+  },
+  {
+   "start": 1282.0,
+   "end": 1286.64,
+   "text": "or equivocal although some studies also"
+  },
+  {
+   "start": 1284.32,
+   "end": 1290.32,
+   "text": "show worse outcomes"
+  },
+  {
+   "start": 1286.64,
+   "end": 1292.96,
+   "text": "after epinephrine administration"
+  },
+  {
+   "start": 1290.32,
+   "end": 1296.08,
+   "text": "studies in dogs showed"
+  },
+  {
+   "start": 1292.96,
+   "end": 1297.52,
+   "text": "um with pulseless electrical activity"
+  },
+  {
+   "start": 1296.08,
+   "end": 1299.28,
+   "text": "showed no difference between low and"
+  },
+  {
+   "start": 1297.52,
+   "end": 1301.12,
+   "text": "high dose epinephrine after 10 minutes"
+  },
+  {
+   "start": 1299.28,
+   "end": 1302.4,
+   "text": "of arrest"
+  },
+  {
+   "start": 1301.12,
+   "end": 1305.2,
+   "text": "and"
+  },
+  {
+   "start": 1302.4,
+   "end": 1307.52,
+   "text": "no difference for dogs with ventricular"
+  },
+  {
+   "start": 1305.2,
+   "end": 1309.28,
+   "text": "fibrillation in return of spontaneous"
+  },
+  {
+   "start": 1307.52,
+   "end": 1312.08,
+   "text": "circulation although low dose"
+  },
+  {
+   "start": 1309.28,
+   "end": 1313.84,
+   "text": "epinephrine took longer to resuscitate"
+  },
+  {
+   "start": 1312.08,
+   "end": 1316.32,
+   "text": "those patients"
+  },
+  {
+   "start": 1313.84,
+   "end": 1318.96,
+   "text": "generally the consensus is that low dose"
+  },
+  {
+   "start": 1316.32,
+   "end": 1321.44,
+   "text": "should be administered um every other"
+  },
+  {
+   "start": 1318.96,
+   "end": 1322.8,
+   "text": "cycle so every four minutes"
+  },
+  {
+   "start": 1321.44,
+   "end": 1325.04,
+   "text": "um"
+  },
+  {
+   "start": 1322.8,
+   "end": 1327.44,
+   "text": "it for the in the first 10 minutes and"
+  },
+  {
+   "start": 1325.04,
+   "end": 1328.96,
+   "text": "then after that"
+  },
+  {
+   "start": 1327.44,
+   "end": 1331.44,
+   "text": "consider switching to high dose"
+  },
+  {
+   "start": 1328.96,
+   "end": 1334.08,
+   "text": "epinephrine with high dose epinephrine"
+  },
+  {
+   "start": 1331.44,
+   "end": 1336.64,
+   "text": "there is a greater risk of"
+  },
+  {
+   "start": 1334.08,
+   "end": 1339.28,
+   "text": "worse outcomes such as severe"
+  },
+  {
+   "start": 1336.64,
+   "end": 1341.04,
+   "text": "tachycardia and tech arrhythmias"
+  },
+  {
+   "start": 1339.28,
+   "end": 1343.68,
+   "text": "hypertension and neurologic"
+  },
+  {
+   "start": 1341.04,
+   "end": 1345.68,
+   "text": "abnormalities"
+  },
+  {
+   "start": 1343.68,
+   "end": 1347.36,
+   "text": "epinephrine can also be administered"
+  },
+  {
+   "start": 1345.68,
+   "end": 1348.4,
+   "text": "intratracheal"
+  },
+  {
+   "start": 1347.36,
+   "end": 1350.72,
+   "text": "although"
+  },
+  {
+   "start": 1348.4,
+   "end": 1353.2,
+   "text": "it does have unknown absorption during"
+  },
+  {
+   "start": 1350.72,
+   "end": 1355.28,
+   "text": "cardiopulmonary arrest"
+  },
+  {
+   "start": 1353.2,
+   "end": 1358.4,
+   "text": "the way that this is done is you take a"
+  },
+  {
+   "start": 1355.28,
+   "end": 1359.44,
+   "text": "long red rubber catheter"
+  },
+  {
+   "start": 1358.4,
+   "end": 1361.92,
+   "text": "and"
+  },
+  {
+   "start": 1359.44,
+   "end": 1364.56,
+   "text": "insert it through the endotracheal tube"
+  },
+  {
+   "start": 1361.92,
+   "end": 1366.72,
+   "text": "flush high-dose epinephrine and five"
+  },
+  {
+   "start": 1364.56,
+   "end": 1369.36,
+   "text": "milliliters of sterile water that will"
+  },
+  {
+   "start": 1366.72,
+   "end": 1374.52,
+   "text": "ideally be absorbed by the"
+  },
+  {
+   "start": 1369.36,
+   "end": 1374.52,
+   "text": "um epithelium respiratory epithelium"
+  },
+  {
+   "start": 1375.6,
+   "end": 1381.36,
+   "text": "other vasopressors such as vasopressin"
+  },
+  {
+   "start": 1377.84,
+   "end": 1383.76,
+   "text": "have been looked at for resuscitation"
+  },
+  {
+   "start": 1381.36,
+   "end": 1385.12,
+   "text": "most human studies develop demonstrate a"
+  },
+  {
+   "start": 1383.76,
+   "end": 1387.44,
+   "text": "mixed report"
+  },
+  {
+   "start": 1385.12,
+   "end": 1390.8,
+   "text": "the largest veterinary study showed no"
+  },
+  {
+   "start": 1387.44,
+   "end": 1392.8,
+   "text": "benefit in dogs compared to epinephrine"
+  },
+  {
+   "start": 1390.8,
+   "end": 1394.96,
+   "text": "and there's some thought that"
+  },
+  {
+   "start": 1392.8,
+   "end": 1398.24,
+   "text": "its effectiveness may depend on arrest"
+  },
+  {
+   "start": 1394.96,
+   "end": 1398.24,
+   "text": "rhythm in human medicine"
+  },
+  {
+   "start": 1398.96,
+   "end": 1402.24,
+   "text": "atropine"
+  },
+  {
+   "start": 1400.4,
+   "end": 1404.64,
+   "text": "there is very little evidence for its"
+  },
+  {
+   "start": 1402.24,
+   "end": 1407.12,
+   "text": "use uh but it may have a theoretical"
+  },
+  {
+   "start": 1404.64,
+   "end": 1409.2,
+   "text": "benefit in our patients especially since"
+  },
+  {
+   "start": 1407.12,
+   "end": 1411.36,
+   "text": "veterinary patients may have more vagal"
+  },
+  {
+   "start": 1409.2,
+   "end": 1413.12,
+   "text": "arrest episodes than human human"
+  },
+  {
+   "start": 1411.36,
+   "end": 1414.96,
+   "text": "patients"
+  },
+  {
+   "start": 1413.12,
+   "end": 1416.8,
+   "text": "atropine may also get be given"
+  },
+  {
+   "start": 1414.96,
+   "end": 1419.28,
+   "text": "intratracheally"
+  },
+  {
+   "start": 1416.8,
+   "end": 1421.12,
+   "text": "and for these drugs for vasopressors and"
+  },
+  {
+   "start": 1419.28,
+   "end": 1423.04,
+   "text": "atropine as well as the reversals that"
+  },
+  {
+   "start": 1421.12,
+   "end": 1424.72,
+   "text": "i'll get to in a moment it's important"
+  },
+  {
+   "start": 1423.04,
+   "end": 1427.92,
+   "text": "to remember"
+  },
+  {
+   "start": 1424.72,
+   "end": 1431.44,
+   "text": "to flush a significant amount of saline"
+  },
+  {
+   "start": 1427.92,
+   "end": 1432.48,
+   "text": "after administration of these drugs"
+  },
+  {
+   "start": 1431.44,
+   "end": 1434.56,
+   "text": "if you think"
+  },
+  {
+   "start": 1432.48,
+   "end": 1437.2,
+   "text": "of our arrest patients their venous"
+  },
+  {
+   "start": 1434.56,
+   "end": 1438.72,
+   "text": "system is not functioning properly and"
+  },
+  {
+   "start": 1437.2,
+   "end": 1440.8,
+   "text": "so you need to"
+  },
+  {
+   "start": 1438.72,
+   "end": 1442.08,
+   "text": "be able to flush the"
+  },
+  {
+   "start": 1440.8,
+   "end": 1444.8,
+   "text": "um"
+  },
+  {
+   "start": 1442.08,
+   "end": 1447.68,
+   "text": "the drug from its peripheral vein into"
+  },
+  {
+   "start": 1444.8,
+   "end": 1449.36,
+   "text": "its heart um and need to use more than"
+  },
+  {
+   "start": 1447.68,
+   "end": 1452.08,
+   "text": "like a three milliliter flush that would"
+  },
+  {
+   "start": 1449.36,
+   "end": 1453.76,
+   "text": "you would normally um use in a patient"
+  },
+  {
+   "start": 1452.08,
+   "end": 1456.8,
+   "text": "you may need to use"
+  },
+  {
+   "start": 1453.76,
+   "end": 1459.84,
+   "text": "um 10 to 15 mls depending on the size of"
+  },
+  {
+   "start": 1456.8,
+   "end": 1459.84,
+   "text": "the patient"
+  },
+  {
+   "start": 1460.32,
+   "end": 1465.52,
+   "text": "oxygen is"
+  },
+  {
+   "start": 1462.0,
+   "end": 1467.36,
+   "text": "a necessary component of"
+  },
+  {
+   "start": 1465.52,
+   "end": 1469.6,
+   "text": "cpr and should be"
+  },
+  {
+   "start": 1467.36,
+   "end": 1471.84,
+   "text": "administered immediately to patients"
+  },
+  {
+   "start": 1469.6,
+   "end": 1473.92,
+   "text": "although there is a risk of hyperoxia"
+  },
+  {
+   "start": 1471.84,
+   "end": 1475.92,
+   "text": "due to the formation of"
+  },
+  {
+   "start": 1473.92,
+   "end": 1479.2,
+   "text": "free oxygen radicals the risk of"
+  },
+  {
+   "start": 1475.92,
+   "end": 1480.8,
+   "text": "hypoxemia is probably greater as we'll"
+  },
+  {
+   "start": 1479.2,
+   "end": 1482.96,
+   "text": "discuss later you can monitor blood"
+  },
+  {
+   "start": 1480.8,
+   "end": 1485.96,
+   "text": "gases to check for"
+  },
+  {
+   "start": 1482.96,
+   "end": 1485.96,
+   "text": "hyperoxia"
+  },
+  {
+   "start": 1487.12,
+   "end": 1491.04,
+   "text": "may be of benefit in"
+  },
+  {
+   "start": 1491.44,
+   "end": 1494.24,
+   "text": "patients who have"
+  },
+  {
+   "start": 1493.12,
+   "end": 1496.0,
+   "text": "um"
+  },
+  {
+   "start": 1494.24,
+   "end": 1498.08,
+   "text": "an arrest rhythm that could respond to"
+  },
+  {
+   "start": 1496.0,
+   "end": 1499.92,
+   "text": "an antiarrhythmic"
+  },
+  {
+   "start": 1498.08,
+   "end": 1503.36,
+   "text": "such as pulseless ventricular"
+  },
+  {
+   "start": 1499.92,
+   "end": 1504.72,
+   "text": "tachycardia or ventricular fibrillation"
+  },
+  {
+   "start": 1503.36,
+   "end": 1506.72,
+   "text": "if they are not responding to"
+  },
+  {
+   "start": 1504.72,
+   "end": 1508.16,
+   "text": "defibrillation"
+  },
+  {
+   "start": 1506.72,
+   "end": 1510.08,
+   "text": "in human medicine it's thought that"
+  },
+  {
+   "start": 1508.16,
+   "end": 1512.72,
+   "text": "amiodarone may show the most promise for"
+  },
+  {
+   "start": 1510.08,
+   "end": 1514.88,
+   "text": "shock resistant v-fib and pulseless"
+  },
+  {
+   "start": 1512.72,
+   "end": 1516.48,
+   "text": "ventricular tachycardia"
+  },
+  {
+   "start": 1514.88,
+   "end": 1518.96,
+   "text": "although lidocaine can also be"
+  },
+  {
+   "start": 1516.48,
+   "end": 1518.96,
+   "text": "considered"
+  },
+  {
+   "start": 1519.12,
+   "end": 1523.76,
+   "text": "you should have reversals for any of"
+  },
+  {
+   "start": 1520.88,
+   "end": 1523.76,
+   "text": "your possible"
+  },
+  {
+   "start": 1525.12,
+   "end": 1530.48,
+   "text": "sedatives"
+  },
+  {
+   "start": 1526.84,
+   "end": 1532.48,
+   "text": "um and if you are uncertain if a patient"
+  },
+  {
+   "start": 1530.48,
+   "end": 1534.4,
+   "text": "has received them"
+  },
+  {
+   "start": 1532.48,
+   "end": 1535.68,
+   "text": "they should be administered so this"
+  },
+  {
+   "start": 1534.4,
+   "end": 1538.32,
+   "text": "includes"
+  },
+  {
+   "start": 1535.68,
+   "end": 1542.32,
+   "text": "um adaptamizol for"
+  },
+  {
+   "start": 1538.32,
+   "end": 1544.56,
+   "text": "dexmeditomidine and remember in most you"
+  },
+  {
+   "start": 1542.32,
+   "end": 1547.28,
+   "text": "probably most commonly administer this"
+  },
+  {
+   "start": 1544.56,
+   "end": 1550.64,
+   "text": "drug intramuscularly but in a an arrest"
+  },
+  {
+   "start": 1547.28,
+   "end": 1553.52,
+   "text": "situation it should be administered iv"
+  },
+  {
+   "start": 1550.64,
+   "end": 1557.84,
+   "text": "flamazanil for your benzodiazepines"
+  },
+  {
+   "start": 1553.52,
+   "end": 1560.0,
+   "text": "and naloxone for your opioids"
+  },
+  {
+   "start": 1557.84,
+   "end": 1562.96,
+   "text": "intravenous fluids are"
+  },
+  {
+   "start": 1560.0,
+   "end": 1567.04,
+   "text": "only really indicated for a patient who"
+  },
+  {
+   "start": 1562.96,
+   "end": 1569.28,
+   "text": "is arrested due to hypovolemia"
+  },
+  {
+   "start": 1567.04,
+   "end": 1571.84,
+   "text": "as administering them to a normal"
+  },
+  {
+   "start": 1569.28,
+   "end": 1573.6,
+   "text": "bulimic or hypovolemic patient will"
+  },
+  {
+   "start": 1571.84,
+   "end": 1575.52,
+   "text": "increase your central venous pressure"
+  },
+  {
+   "start": 1573.6,
+   "end": 1578.16,
+   "text": "and can decrease coronary perfusion"
+  },
+  {
+   "start": 1575.52,
+   "end": 1580.24,
+   "text": "secondary to that"
+  },
+  {
+   "start": 1578.16,
+   "end": 1582.4,
+   "text": "steroids have been postulated on an"
+  },
+  {
+   "start": 1580.24,
+   "end": 1585.68,
+   "text": "experimental level but have not shown"
+  },
+  {
+   "start": 1582.4,
+   "end": 1587.6,
+   "text": "benefit in any clinical studies"
+  },
+  {
+   "start": 1585.68,
+   "end": 1589.36,
+   "text": "in humans or veterinary patients and"
+  },
+  {
+   "start": 1587.6,
+   "end": 1592.96,
+   "text": "thus are"
+  },
+  {
+   "start": 1589.36,
+   "end": 1592.96,
+   "text": "probably should not be administered"
+  },
+  {
+   "start": 1593.36,
+   "end": 1598.32,
+   "text": "bicarbonate can be considered"
+  },
+  {
+   "start": 1596.08,
+   "end": 1602.56,
+   "text": "two veterinary studies found that with"
+  },
+  {
+   "start": 1598.32,
+   "end": 1605.44,
+   "text": "prolonged ventricular fibrillation so"
+  },
+  {
+   "start": 1602.56,
+   "end": 1607.92,
+   "text": "arrests greater than 10 minutes dogs"
+  },
+  {
+   "start": 1605.44,
+   "end": 1610.32,
+   "text": "receiving cpr with bicarbonate had a"
+  },
+  {
+   "start": 1607.92,
+   "end": 1612.4,
+   "text": "higher rate and shorter interval of"
+  },
+  {
+   "start": 1610.32,
+   "end": 1615.12,
+   "text": "retain return of spontaneous circulation"
+  },
+  {
+   "start": 1612.4,
+   "end": 1618.08,
+   "text": "than those without however other studies"
+  },
+  {
+   "start": 1615.12,
+   "end": 1620.96,
+   "text": "have found no positive effect"
+  },
+  {
+   "start": 1618.08,
+   "end": 1620.96,
+   "text": "the most common"
+  },
+  {
+   "start": 1621.6,
+   "end": 1629.2,
+   "text": "method for bicarbonate administration is"
+  },
+  {
+   "start": 1625.6,
+   "end": 1631.28,
+   "text": "consider it after 10 minutes of cpr"
+  },
+  {
+   "start": 1629.2,
+   "end": 1632.96,
+   "text": "and you can also base this"
+  },
+  {
+   "start": 1631.28,
+   "end": 1635.12,
+   "text": "on your blood gas and if your patient is"
+  },
+  {
+   "start": 1632.96,
+   "end": 1637.2,
+   "text": "severely acidemic with a ph of less than"
+  },
+  {
+   "start": 1635.12,
+   "end": 1639.04,
+   "text": "seven you may consider bicarbonate"
+  },
+  {
+   "start": 1637.2,
+   "end": 1640.8,
+   "text": "administration"
+  },
+  {
+   "start": 1639.04,
+   "end": 1642.56,
+   "text": "um"
+  },
+  {
+   "start": 1640.8,
+   "end": 1644.4,
+   "text": "it's important that to note that"
+  },
+  {
+   "start": 1642.56,
+   "end": 1647.36,
+   "text": "bicarbonate cannot be given"
+  },
+  {
+   "start": 1644.4,
+   "end": 1647.36,
+   "text": "intratracheally"
+  },
+  {
+   "start": 1647.84,
+   "end": 1653.36,
+   "text": "it's important to"
+  },
+  {
+   "start": 1650.16,
+   "end": 1655.6,
+   "text": "note the role of defibrillation in"
+  },
+  {
+   "start": 1653.36,
+   "end": 1657.6,
+   "text": "patients with cardiopulmonary arrest so"
+  },
+  {
+   "start": 1655.6,
+   "end": 1659.92,
+   "text": "here we have our four rest rhythms going"
+  },
+  {
+   "start": 1657.6,
+   "end": 1661.12,
+   "text": "from top to bottom pulses electrical"
+  },
+  {
+   "start": 1659.92,
+   "end": 1664.16,
+   "text": "activity"
+  },
+  {
+   "start": 1661.12,
+   "end": 1667.36,
+   "text": "um asystole pulseless ventricular"
+  },
+  {
+   "start": 1664.16,
+   "end": 1669.28,
+   "text": "tachycardia and ventricular fibrillation"
+  },
+  {
+   "start": 1667.36,
+   "end": 1672.24,
+   "text": "and"
+  },
+  {
+   "start": 1669.28,
+   "end": 1674.96,
+   "text": "again only the bottom two are responsive"
+  },
+  {
+   "start": 1672.24,
+   "end": 1676.96,
+   "text": "to defibrillation"
+  },
+  {
+   "start": 1674.96,
+   "end": 1678.88,
+   "text": "it's now thought that biphasic"
+  },
+  {
+   "start": 1676.96,
+   "end": 1681.04,
+   "text": "defibrillators are safer and more"
+  },
+  {
+   "start": 1678.88,
+   "end": 1683.12,
+   "text": "efficacious than monophasic"
+  },
+  {
+   "start": 1681.04,
+   "end": 1686.4,
+   "text": "defibrillators and so most are"
+  },
+  {
+   "start": 1683.12,
+   "end": 1688.56,
+   "text": "transitioning over the biphasic route"
+  },
+  {
+   "start": 1686.4,
+   "end": 1690.72,
+   "text": "the current recommendation in human"
+  },
+  {
+   "start": 1688.56,
+   "end": 1692.72,
+   "text": "medicine is to avoid stacked shocks so"
+  },
+  {
+   "start": 1690.72,
+   "end": 1694.96,
+   "text": "multiple shocks in a row"
+  },
+  {
+   "start": 1692.72,
+   "end": 1698.32,
+   "text": "to minimize interrupt interruptions and"
+  },
+  {
+   "start": 1694.96,
+   "end": 1700.16,
+   "text": "chest compressions so if you do shock a"
+  },
+  {
+   "start": 1698.32,
+   "end": 1701.84,
+   "text": "patient you would"
+  },
+  {
+   "start": 1700.16,
+   "end": 1703.52,
+   "text": "defibrillate them"
+  },
+  {
+   "start": 1701.84,
+   "end": 1705.84,
+   "text": "and then"
+  },
+  {
+   "start": 1703.52,
+   "end": 1709.28,
+   "text": "immediately begin compressions again you"
+  },
+  {
+   "start": 1705.84,
+   "end": 1711.52,
+   "text": "would not do multiple in a row"
+  },
+  {
+   "start": 1709.28,
+   "end": 1714.32,
+   "text": "um as we discussed if you have a"
+  },
+  {
+   "start": 1711.52,
+   "end": 1716.24,
+   "text": "shockable rhythm if the arrest has been"
+  },
+  {
+   "start": 1714.32,
+   "end": 1718.48,
+   "text": "less than four minutes so if it's a"
+  },
+  {
+   "start": 1716.24,
+   "end": 1720.96,
+   "text": "witnessed arrest then you me it may"
+  },
+  {
+   "start": 1718.48,
+   "end": 1722.24,
+   "text": "immediately defibrillate and then begin"
+  },
+  {
+   "start": 1720.96,
+   "end": 1724.56,
+   "text": "compressions"
+  },
+  {
+   "start": 1722.24,
+   "end": 1726.56,
+   "text": "however if the arrest is longer than"
+  },
+  {
+   "start": 1724.56,
+   "end": 1729.28,
+   "text": "four minutes you should do a cycle of"
+  },
+  {
+   "start": 1726.56,
+   "end": 1730.32,
+   "text": "compressions before defibrillating the"
+  },
+  {
+   "start": 1729.28,
+   "end": 1732.96,
+   "text": "patient"
+  },
+  {
+   "start": 1730.32,
+   "end": 1734.88,
+   "text": "um and that's due to the myocardial"
+  },
+  {
+   "start": 1732.96,
+   "end": 1736.24,
+   "text": "ischemia that has occurred in greater"
+  },
+  {
+   "start": 1734.88,
+   "end": 1738.0,
+   "text": "than four minutes and so you want to"
+  },
+  {
+   "start": 1736.24,
+   "end": 1740.16,
+   "text": "better perfuse a heart before shocking"
+  },
+  {
+   "start": 1738.0,
+   "end": 1740.16,
+   "text": "it"
+  },
+  {
+   "start": 1742.08,
+   "end": 1744.72,
+   "text": "now let's discuss"
+  },
+  {
+   "start": 1743.44,
+   "end": 1746.64,
+   "text": "begin our discussion about the"
+  },
+  {
+   "start": 1744.72,
+   "end": 1748.96,
+   "text": "monitoring that can occur"
+  },
+  {
+   "start": 1746.64,
+   "end": 1751.04,
+   "text": "during an arrest situation"
+  },
+  {
+   "start": 1748.96,
+   "end": 1754.48,
+   "text": "first it's important to note there is no"
+  },
+  {
+   "start": 1751.04,
+   "end": 1757.76,
+   "text": "benefit for obtaining a pulse ox"
+  },
+  {
+   "start": 1754.48,
+   "end": 1760.32,
+   "text": "or a blood pressure during"
+  },
+  {
+   "start": 1757.76,
+   "end": 1763.52,
+   "text": "cardiopulmonary resuscitation"
+  },
+  {
+   "start": 1760.32,
+   "end": 1765.36,
+   "text": "and there have been no studies on"
+  },
+  {
+   "start": 1763.52,
+   "end": 1768.08,
+   "text": "corneal"
+  },
+  {
+   "start": 1765.36,
+   "end": 1769.6,
+   "text": "doppler flow"
+  },
+  {
+   "start": 1768.08,
+   "end": 1771.92,
+   "text": "and there is the warning in the"
+  },
+  {
+   "start": 1769.6,
+   "end": 1773.52,
+   "text": "recovered guidelines that placing the"
+  },
+  {
+   "start": 1771.92,
+   "end": 1776.88,
+   "text": "doppler on the cornea may detect"
+  },
+  {
+   "start": 1773.52,
+   "end": 1780.48,
+   "text": "retrograde venous flow and may not um"
+  },
+  {
+   "start": 1776.88,
+   "end": 1783.84,
+   "text": "and therefore may trick you that um"
+  },
+  {
+   "start": 1780.48,
+   "end": 1786.4,
+   "text": "adequate pulses are being detected"
+  },
+  {
+   "start": 1783.84,
+   "end": 1789.6,
+   "text": "monitoring usually"
+  },
+  {
+   "start": 1786.4,
+   "end": 1790.72,
+   "text": "revolves around three components"
+  },
+  {
+   "start": 1789.6,
+   "end": 1792.4,
+   "text": "ecg"
+  },
+  {
+   "start": 1790.72,
+   "end": 1795.84,
+   "text": "end-tidal co2"
+  },
+  {
+   "start": 1792.4,
+   "end": 1795.84,
+   "text": "and blood gas sampling"
+  },
+  {
+   "start": 1795.92,
+   "end": 1802.0,
+   "text": "for electrocardiogram this can be"
+  },
+  {
+   "start": 1798.4,
+   "end": 1803.68,
+   "text": "helpful by identifying the arrest rhythm"
+  },
+  {
+   "start": 1802.0,
+   "end": 1806.72,
+   "text": "it's important that this is only"
+  },
+  {
+   "start": 1803.68,
+   "end": 1808.64,
+   "text": "examined between the time it"
+  },
+  {
+   "start": 1806.72,
+   "end": 1810.64,
+   "text": "between cycle changes and the time that"
+  },
+  {
+   "start": 1808.64,
+   "end": 1812.88,
+   "text": "it changes for a compressor"
+  },
+  {
+   "start": 1810.64,
+   "end": 1814.32,
+   "text": "as it may take up to two minutes of cpr"
+  },
+  {
+   "start": 1812.88,
+   "end": 1817.04,
+   "text": "to re-establish"
+  },
+  {
+   "start": 1814.32,
+   "end": 1819.2,
+   "text": "um adequate blood flow to the brain"
+  },
+  {
+   "start": 1817.04,
+   "end": 1821.04,
+   "text": "following interruptions so when you"
+  },
+  {
+   "start": 1819.2,
+   "end": 1822.72,
+   "text": "trade out your compressor people should"
+  },
+  {
+   "start": 1821.04,
+   "end": 1823.84,
+   "text": "be looking at the ecg"
+  },
+  {
+   "start": 1822.72,
+   "end": 1826.08,
+   "text": "and"
+  },
+  {
+   "start": 1823.84,
+   "end": 1827.92,
+   "text": "saying what rhythm they see and"
+  },
+  {
+   "start": 1826.08,
+   "end": 1829.84,
+   "text": "identifying whether everyone agrees with"
+  },
+  {
+   "start": 1827.92,
+   "end": 1832.24,
+   "text": "that assessment and compression should"
+  },
+  {
+   "start": 1829.84,
+   "end": 1836.16,
+   "text": "immediately be re-initiated no pause"
+  },
+  {
+   "start": 1832.24,
+   "end": 1838.24,
+   "text": "should occur to be examining the ecg"
+  },
+  {
+   "start": 1836.16,
+   "end": 1840.88,
+   "text": "i think it's easy to get disheartened"
+  },
+  {
+   "start": 1838.24,
+   "end": 1841.92,
+   "text": "with cpr since the mortality rate is so"
+  },
+  {
+   "start": 1840.88,
+   "end": 1844.24,
+   "text": "high"
+  },
+  {
+   "start": 1841.92,
+   "end": 1847.36,
+   "text": "but it's important to remember that most"
+  },
+  {
+   "start": 1844.24,
+   "end": 1849.28,
+   "text": "of our patients suffer asystole or"
+  },
+  {
+   "start": 1847.36,
+   "end": 1851.2,
+   "text": "pulseless electrical activity as arrest"
+  },
+  {
+   "start": 1849.28,
+   "end": 1853.68,
+   "text": "rhythms and even in human medicine"
+  },
+  {
+   "start": 1851.2,
+   "end": 1856.0,
+   "text": "there's a dismal prognosis for asystole"
+  },
+  {
+   "start": 1853.68,
+   "end": 1858.24,
+   "text": "and a very poor prognosis for pulseless"
+  },
+  {
+   "start": 1856.0,
+   "end": 1860.16,
+   "text": "electrical activity so it's therefore"
+  },
+  {
+   "start": 1858.24,
+   "end": 1862.48,
+   "text": "not things that we are doing incorrectly"
+  },
+  {
+   "start": 1860.16,
+   "end": 1864.4,
+   "text": "but the nature of our patients arrests"
+  },
+  {
+   "start": 1862.48,
+   "end": 1865.68,
+   "text": "who usually have systemic diseases"
+  },
+  {
+   "start": 1864.4,
+   "end": 1869.84,
+   "text": "causing arrest"
+  },
+  {
+   "start": 1865.68,
+   "end": 1869.84,
+   "text": "rather than primary myocardial disease"
+  },
+  {
+   "start": 1870.08,
+   "end": 1876.32,
+   "text": "the end tidal co2 is extremely helpful"
+  },
+  {
+   "start": 1873.76,
+   "end": 1878.08,
+   "text": "for monitoring your patient"
+  },
+  {
+   "start": 1876.32,
+   "end": 1880.08,
+   "text": "um"
+  },
+  {
+   "start": 1878.08,
+   "end": 1881.92,
+   "text": "it can be an indicator of proper"
+  },
+  {
+   "start": 1880.08,
+   "end": 1884.32,
+   "text": "endotracheal"
+  },
+  {
+   "start": 1881.92,
+   "end": 1886.64,
+   "text": "tube placement so to note that you are"
+  },
+  {
+   "start": 1884.32,
+   "end": 1888.88,
+   "text": "not in the patient's esophagus it can be"
+  },
+  {
+   "start": 1886.64,
+   "end": 1890.8,
+   "text": "a prognostic indicator and it can"
+  },
+  {
+   "start": 1888.88,
+   "end": 1893.68,
+   "text": "indicate when return of spontaneous"
+  },
+  {
+   "start": 1890.8,
+   "end": 1896.64,
+   "text": "circulation occurs"
+  },
+  {
+   "start": 1893.68,
+   "end": 1898.16,
+   "text": "a few notes a low end title co2 may be"
+  },
+  {
+   "start": 1896.64,
+   "end": 1900.48,
+   "text": "encountered despite appropriate"
+  },
+  {
+   "start": 1898.16,
+   "end": 1902.32,
+   "text": "endotracheal tube placement however a"
+  },
+  {
+   "start": 1900.48,
+   "end": 1904.24,
+   "text": "study in dogs"
+  },
+  {
+   "start": 1902.32,
+   "end": 1906.56,
+   "text": "showed that no dogs with esophageal"
+  },
+  {
+   "start": 1904.24,
+   "end": 1909.52,
+   "text": "intubation achieved an end title"
+  },
+  {
+   "start": 1906.56,
+   "end": 1911.36,
+   "text": "above 11 while all properly intubated"
+  },
+  {
+   "start": 1909.52,
+   "end": 1913.92,
+   "text": "dogs achieved an end title of greater"
+  },
+  {
+   "start": 1911.36,
+   "end": 1917.04,
+   "text": "than 13."
+  },
+  {
+   "start": 1913.92,
+   "end": 1919.04,
+   "text": "in dogs also the mean highest recorded"
+  },
+  {
+   "start": 1917.04,
+   "end": 1921.04,
+   "text": "end title was higher in dogs that"
+  },
+  {
+   "start": 1919.04,
+   "end": 1922.88,
+   "text": "received that achieved return of"
+  },
+  {
+   "start": 1921.04,
+   "end": 1926.64,
+   "text": "spontaneous circulation"
+  },
+  {
+   "start": 1922.88,
+   "end": 1927.68,
+   "text": "um it was 36 than those that did not"
+  },
+  {
+   "start": 1926.64,
+   "end": 1930.0,
+   "text": "um"
+  },
+  {
+   "start": 1927.68,
+   "end": 1933.28,
+   "text": "importantly 86"
+  },
+  {
+   "start": 1930.0,
+   "end": 1935.36,
+   "text": "of dogs with values of an end title of"
+  },
+  {
+   "start": 1933.28,
+   "end": 1938.08,
+   "text": "greater than 15 during chest"
+  },
+  {
+   "start": 1935.36,
+   "end": 1941.36,
+   "text": "compressions achieved retrain a return"
+  },
+  {
+   "start": 1938.08,
+   "end": 1944.64,
+   "text": "of spontaneous circulation where 94 of"
+  },
+  {
+   "start": 1941.36,
+   "end": 1948.08,
+   "text": "dogs with an end title of less than 15"
+  },
+  {
+   "start": 1944.64,
+   "end": 1950.16,
+   "text": "did not achieve rosk"
+  },
+  {
+   "start": 1948.08,
+   "end": 1952.08,
+   "text": "similarly"
+  },
+  {
+   "start": 1950.16,
+   "end": 1954.16,
+   "text": "90 percent of cats with an end title of"
+  },
+  {
+   "start": 1952.08,
+   "end": 1957.44,
+   "text": "greater than 20 achieved return of"
+  },
+  {
+   "start": 1954.16,
+   "end": 1957.44,
+   "text": "spontaneous circulation"
+  },
+  {
+   "start": 1959.6,
+   "end": 1963.76,
+   "text": "a study looking at pediatric dogs"
+  },
+  {
+   "start": 1961.68,
+   "end": 1965.52,
+   "text": "undergoing cpr"
+  },
+  {
+   "start": 1963.76,
+   "end": 1968.08,
+   "text": "their mean end title"
+  },
+  {
+   "start": 1965.52,
+   "end": 1970.48,
+   "text": "during cpr was 12 which increased"
+  },
+  {
+   "start": 1968.08,
+   "end": 1972.96,
+   "text": "suddenly to 27"
+  },
+  {
+   "start": 1970.48,
+   "end": 1976.08,
+   "text": "just prior to or at the return of"
+  },
+  {
+   "start": 1972.96,
+   "end": 1979.68,
+   "text": "spontaneous circulation"
+  },
+  {
+   "start": 1976.08,
+   "end": 1982.96,
+   "text": "palpation may also be done between"
+  },
+  {
+   "start": 1979.68,
+   "end": 1985.12,
+   "text": "cycles when you're swapping out"
+  },
+  {
+   "start": 1982.96,
+   "end": 1987.44,
+   "text": "compressors to see if there is an"
+  },
+  {
+   "start": 1985.12,
+   "end": 1988.88,
+   "text": "identifiable pulse however it's"
+  },
+  {
+   "start": 1987.44,
+   "end": 1990.56,
+   "text": "important to note that this is a"
+  },
+  {
+   "start": 1988.88,
+   "end": 1993.36,
+   "text": "notoriously unreliable"
+  },
+  {
+   "start": 1990.56,
+   "end": 1996.16,
+   "text": "and it can be very hard to truly detect"
+  },
+  {
+   "start": 1993.36,
+   "end": 1996.16,
+   "text": "pulse pressure"
+  },
+  {
+   "start": 1996.32,
+   "end": 1999.36,
+   "text": "in"
+  },
+  {
+   "start": 1997.2,
+   "end": 2002.48,
+   "text": "patients that have"
+  },
+  {
+   "start": 1999.36,
+   "end": 2002.48,
+   "text": "undergoing cpr"
+  },
+  {
+   "start": 2003.12,
+   "end": 2008.48,
+   "text": "now let's discuss blood gas sampling in"
+  },
+  {
+   "start": 2005.76,
+   "end": 2010.16,
+   "text": "patients with cardiopulmonary arrest"
+  },
+  {
+   "start": 2008.48,
+   "end": 2012.8,
+   "text": "it's important to note that blood gases"
+  },
+  {
+   "start": 2010.16,
+   "end": 2014.72,
+   "text": "may be normal in early cardiopulmonary"
+  },
+  {
+   "start": 2012.8,
+   "end": 2017.52,
+   "text": "arrests and so delayed sampling might be"
+  },
+  {
+   "start": 2014.72,
+   "end": 2020.08,
+   "text": "best and these samples can be examined"
+  },
+  {
+   "start": 2017.52,
+   "end": 2020.08,
+   "text": "not only for"
+  },
+  {
+   "start": 2020.32,
+   "end": 2026.88,
+   "text": "ph status but also for electrolytes"
+  },
+  {
+   "start": 2023.04,
+   "end": 2028.96,
+   "text": "ventilatory status and hyperoxemia"
+  },
+  {
+   "start": 2026.88,
+   "end": 2031.44,
+   "text": "there's a long-standing debate"
+  },
+  {
+   "start": 2028.96,
+   "end": 2033.6,
+   "text": "in human medicine about whether arterial"
+  },
+  {
+   "start": 2031.44,
+   "end": 2034.72,
+   "text": "or venous sampling is best for a blood"
+  },
+  {
+   "start": 2033.6,
+   "end": 2036.72,
+   "text": "gas"
+  },
+  {
+   "start": 2034.72,
+   "end": 2039.76,
+   "text": "certainly in our patients especially"
+  },
+  {
+   "start": 2036.72,
+   "end": 2041.68,
+   "text": "when they're dead a venous sample is far"
+  },
+  {
+   "start": 2039.76,
+   "end": 2043.44,
+   "text": "easier to obtain unless you have a"
+  },
+  {
+   "start": 2041.68,
+   "end": 2045.44,
+   "text": "patient who is already under anesthesia"
+  },
+  {
+   "start": 2043.44,
+   "end": 2048.88,
+   "text": "with an arterial line in place which"
+  },
+  {
+   "start": 2045.44,
+   "end": 2051.04,
+   "text": "doesn't happen all too frequently"
+  },
+  {
+   "start": 2048.88,
+   "end": 2053.68,
+   "text": "venous samples are"
+  },
+  {
+   "start": 2051.04,
+   "end": 2056.16,
+   "text": "a more reliable indicator of tissue"
+  },
+  {
+   "start": 2053.68,
+   "end": 2057.68,
+   "text": "oxygenation status than an arterial"
+  },
+  {
+   "start": 2056.16,
+   "end": 2060.96,
+   "text": "sample is"
+  },
+  {
+   "start": 2057.68,
+   "end": 2063.12,
+   "text": "this a venous sample will more"
+  },
+  {
+   "start": 2060.96,
+   "end": 2064.88,
+   "text": "accurately reflect tissue tissue"
+  },
+  {
+   "start": 2063.12,
+   "end": 2066.72,
+   "text": "acid-base balance than the arterial"
+  },
+  {
+   "start": 2064.88,
+   "end": 2069.2,
+   "text": "value"
+  },
+  {
+   "start": 2066.72,
+   "end": 2072.64,
+   "text": "and studies in human medicines"
+  },
+  {
+   "start": 2069.2,
+   "end": 2072.64,
+   "text": "and human medicine have"
+  },
+  {
+   "start": 2072.8,
+   "end": 2078.08,
+   "text": "looked at defibrillation response um in"
+  },
+  {
+   "start": 2076.08,
+   "end": 2079.6,
+   "text": "experimental studies for venous versus"
+  },
+  {
+   "start": 2078.08,
+   "end": 2081.92,
+   "text": "arterial ph"
+  },
+  {
+   "start": 2079.6,
+   "end": 2086.08,
+   "text": "and it seems like governing them based"
+  },
+  {
+   "start": 2081.92,
+   "end": 2088.4,
+   "text": "on venous ph is more successful"
+  },
+  {
+   "start": 2086.08,
+   "end": 2090.72,
+   "text": "studies in humans have demonstrated"
+  },
+  {
+   "start": 2088.4,
+   "end": 2094.08,
+   "text": "increased survival for patients who have"
+  },
+  {
+   "start": 2090.72,
+   "end": 2096.48,
+   "text": "a higher pao2 and a higher ph"
+  },
+  {
+   "start": 2094.08,
+   "end": 2096.48,
+   "text": "during"
+  },
+  {
+   "start": 2096.88,
+   "end": 2101.52,
+   "text": "cardiopulmonary resuscitation and"
+  },
+  {
+   "start": 2098.8,
+   "end": 2102.4,
+   "text": "therefore you may use your blood gases"
+  },
+  {
+   "start": 2101.52,
+   "end": 2104.32,
+   "text": "to"
+  },
+  {
+   "start": 2102.4,
+   "end": 2108.4,
+   "text": "adjust those values by increasing your"
+  },
+  {
+   "start": 2104.32,
+   "end": 2110.96,
+   "text": "pao2 or increasing your ph"
+  },
+  {
+   "start": 2108.4,
+   "end": 2114.84,
+   "text": "it's important to remember that a high"
+  },
+  {
+   "start": 2110.96,
+   "end": 2117.36,
+   "text": "co2 in these patients does not indicate"
+  },
+  {
+   "start": 2114.84,
+   "end": 2119.92,
+   "text": "hypoventilation in patients undergoing"
+  },
+  {
+   "start": 2117.36,
+   "end": 2122.32,
+   "text": "cpr so if you have a patient with a high"
+  },
+  {
+   "start": 2119.92,
+   "end": 2125.92,
+   "text": "co2 you do not increase their"
+  },
+  {
+   "start": 2122.32,
+   "end": 2128.84,
+   "text": "respiratory rate based on that pvco2 it"
+  },
+  {
+   "start": 2125.92,
+   "end": 2132.32,
+   "text": "instead indicates tissue accumulation"
+  },
+  {
+   "start": 2128.84,
+   "end": 2134.88,
+   "text": "of carbon dioxide and a lack of"
+  },
+  {
+   "start": 2132.32,
+   "end": 2137.2,
+   "text": "cardiac output and therefore you should"
+  },
+  {
+   "start": 2134.88,
+   "end": 2138.48,
+   "text": "increase your cardiac output most likely"
+  },
+  {
+   "start": 2137.2,
+   "end": 2140.0,
+   "text": "by increasing the rate of your"
+  },
+  {
+   "start": 2138.48,
+   "end": 2142.72,
+   "text": "compressions in the depth of your"
+  },
+  {
+   "start": 2140.0,
+   "end": 2142.72,
+   "text": "compressions"
+  },
+  {
+   "start": 2142.96,
+   "end": 2148.32,
+   "text": "studies in humans looking at venous"
+  },
+  {
+   "start": 2145.6,
+   "end": 2150.64,
+   "text": "blood gases at er admin admission"
+  },
+  {
+   "start": 2148.32,
+   "end": 2154.48,
+   "text": "demonstrated that um"
+  },
+  {
+   "start": 2150.64,
+   "end": 2156.24,
+   "text": "patients with a co2 of less than 75 were"
+  },
+  {
+   "start": 2154.48,
+   "end": 2158.32,
+   "text": "almost three and a half times more"
+  },
+  {
+   "start": 2156.24,
+   "end": 2163.44,
+   "text": "likely to achieve return of spontaneous"
+  },
+  {
+   "start": 2158.32,
+   "end": 2165.44,
+   "text": "circulation than those with ones over 75"
+  },
+  {
+   "start": 2163.44,
+   "end": 2167.36,
+   "text": "and also importantly none of the"
+  },
+  {
+   "start": 2165.44,
+   "end": 2173.4,
+   "text": "neurologically intact patients who are"
+  },
+  {
+   "start": 2167.36,
+   "end": 2173.4,
+   "text": "resuscitated at ph levels below 6.8"
+  },
+  {
+   "start": 2173.52,
+   "end": 2178.72,
+   "text": "intraosseous"
+  },
+  {
+   "start": 2175.44,
+   "end": 2180.4,
+   "text": "blood gases can also be performed"
+  },
+  {
+   "start": 2178.72,
+   "end": 2183.6,
+   "text": "studies have looked at the use of"
+  },
+  {
+   "start": 2180.4,
+   "end": 2185.12,
+   "text": "intraosseous blood gases in"
+  },
+  {
+   "start": 2183.6,
+   "end": 2186.96,
+   "text": "people"
+  },
+  {
+   "start": 2185.12,
+   "end": 2188.08,
+   "text": "and they can be used for certain values"
+  },
+  {
+   "start": 2186.96,
+   "end": 2190.24,
+   "text": "so"
+  },
+  {
+   "start": 2188.08,
+   "end": 2193.24,
+   "text": "intraosseous blood gases can likely be"
+  },
+  {
+   "start": 2190.24,
+   "end": 2196.08,
+   "text": "used to exclude significant hypocalcemia"
+  },
+  {
+   "start": 2193.24,
+   "end": 2198.96,
+   "text": "hyponatremia or hypoxemia and they're"
+  },
+  {
+   "start": 2196.08,
+   "end": 2203.6,
+   "text": "reliable for"
+  },
+  {
+   "start": 2198.96,
+   "end": 2205.76,
+   "text": "ph lactate and blood glucose however the"
+  },
+  {
+   "start": 2203.6,
+   "end": 2207.12,
+   "text": "potassium and hematocrit are completely"
+  },
+  {
+   "start": 2205.76,
+   "end": 2208.16,
+   "text": "unreliable"
+  },
+  {
+   "start": 2207.12,
+   "end": 2209.2,
+   "text": "um"
+  },
+  {
+   "start": 2208.16,
+   "end": 2212.24,
+   "text": "for"
+  },
+  {
+   "start": 2209.2,
+   "end": 2213.36,
+   "text": "uh obvious intraosseous samples again"
+  },
+  {
+   "start": 2212.24,
+   "end": 2215.44,
+   "text": "these studies were done in human"
+  },
+  {
+   "start": 2213.36,
+   "end": 2216.8,
+   "text": "medicine not veterinary medicine so"
+  },
+  {
+   "start": 2215.44,
+   "end": 2219.36,
+   "text": "further studies would be needed to"
+  },
+  {
+   "start": 2216.8,
+   "end": 2221.2,
+   "text": "confirm that"
+  },
+  {
+   "start": 2219.36,
+   "end": 2223.68,
+   "text": "there is one clinical clinical"
+  },
+  {
+   "start": 2221.2,
+   "end": 2226.32,
+   "text": "veterinary study looking at"
+  },
+  {
+   "start": 2223.68,
+   "end": 2228.48,
+   "text": "blood gas sampling during cpr"
+  },
+  {
+   "start": 2226.32,
+   "end": 2229.84,
+   "text": "they did not notice a difference in"
+  },
+  {
+   "start": 2228.48,
+   "end": 2232.24,
+   "text": "those that achieved return of"
+  },
+  {
+   "start": 2229.84,
+   "end": 2233.04,
+   "text": "spontaneous circulation and those that"
+  },
+  {
+   "start": 2232.24,
+   "end": 2235.52,
+   "text": "did"
+  },
+  {
+   "start": 2233.04,
+   "end": 2238.56,
+   "text": "achieve it"
+  },
+  {
+   "start": 2235.52,
+   "end": 2240.64,
+   "text": "before or after 15 minutes of cpr based"
+  },
+  {
+   "start": 2238.56,
+   "end": 2244.16,
+   "text": "on any of the blood gas values that they"
+  },
+  {
+   "start": 2240.64,
+   "end": 2244.16,
+   "text": "looked at other than"
+  },
+  {
+   "start": 2244.32,
+   "end": 2250.64,
+   "text": "and only the ph and venus po2 were"
+  },
+  {
+   "start": 2247.76,
+   "end": 2252.96,
+   "text": "different between cpr patients and"
+  },
+  {
+   "start": 2250.64,
+   "end": 2254.64,
+   "text": "immediately post return of spontaneous"
+  },
+  {
+   "start": 2252.96,
+   "end": 2256.24,
+   "text": "circulation"
+  },
+  {
+   "start": 2254.64,
+   "end": 2258.4,
+   "text": "in this study they noted that all"
+  },
+  {
+   "start": 2256.24,
+   "end": 2260.64,
+   "text": "patients had a metabolic acidosis"
+  },
+  {
+   "start": 2258.4,
+   "end": 2262.56,
+   "text": "secondary to a hyperlactimia and the"
+  },
+  {
+   "start": 2260.64,
+   "end": 2267.0,
+   "text": "vast majority also had a respiratory"
+  },
+  {
+   "start": 2262.56,
+   "end": 2267.0,
+   "text": "acidosis and a hyperkalemia"
+  },
+  {
+   "start": 2268.04,
+   "end": 2272.72,
+   "text": "carboxyhemoglobin may be a point of"
+  },
+  {
+   "start": 2270.72,
+   "end": 2274.16,
+   "text": "further study in veterinary patients and"
+  },
+  {
+   "start": 2272.72,
+   "end": 2276.08,
+   "text": "in human medicine"
+  },
+  {
+   "start": 2274.16,
+   "end": 2278.32,
+   "text": "for those who have co-oximeters in their"
+  },
+  {
+   "start": 2276.08,
+   "end": 2279.76,
+   "text": "blood gas units"
+  },
+  {
+   "start": 2278.32,
+   "end": 2281.68,
+   "text": "studies in human medicine have"
+  },
+  {
+   "start": 2279.76,
+   "end": 2283.68,
+   "text": "demonstrated that carboxy hemoglobin was"
+  },
+  {
+   "start": 2281.68,
+   "end": 2286.32,
+   "text": "significantly increased and survive in"
+  },
+  {
+   "start": 2283.68,
+   "end": 2288.16,
+   "text": "humans compared to non-surviving humans"
+  },
+  {
+   "start": 2286.32,
+   "end": 2290.4,
+   "text": "and this is likely due to carboxy"
+  },
+  {
+   "start": 2288.16,
+   "end": 2293.2,
+   "text": "hemoglobin's ability to attenuate"
+  },
+  {
+   "start": 2290.4,
+   "end": 2296.64,
+   "text": "ischemia reperfusion injury post-return"
+  },
+  {
+   "start": 2293.2,
+   "end": 2296.64,
+   "text": "of spontaneous circulation"
+  },
+  {
+   "start": 2296.8,
+   "end": 2301.52,
+   "text": "and finally lactate may be a prognostic"
+  },
+  {
+   "start": 2298.88,
+   "end": 2304.08,
+   "text": "indicator in humans a serum lactate"
+  },
+  {
+   "start": 2301.52,
+   "end": 2306.56,
+   "text": "measured during cpr does correlate with"
+  },
+  {
+   "start": 2304.08,
+   "end": 2308.0,
+   "text": "survival outcomes and a lactate level of"
+  },
+  {
+   "start": 2306.56,
+   "end": 2310.64,
+   "text": "nine"
+  },
+  {
+   "start": 2308.0,
+   "end": 2313.28,
+   "text": "is used to identify patients with"
+  },
+  {
+   "start": 2310.64,
+   "end": 2316.16,
+   "text": "different survival probabilities"
+  },
+  {
+   "start": 2313.28,
+   "end": 2319.12,
+   "text": "and determine the optimal cpr"
+  },
+  {
+   "start": 2316.16,
+   "end": 2321.28,
+   "text": "duration so a first serum lactate of"
+  },
+  {
+   "start": 2319.12,
+   "end": 2323.44,
+   "text": "greater than 9 is associated with a"
+  },
+  {
+   "start": 2321.28,
+   "end": 2325.36,
+   "text": "higher mortality this was not"
+  },
+  {
+   "start": 2323.44,
+   "end": 2328.72,
+   "text": "demonstrated in that"
+  },
+  {
+   "start": 2325.36,
+   "end": 2330.16,
+   "text": "clinical veterinary study"
+  },
+  {
+   "start": 2328.72,
+   "end": 2332.24,
+   "text": "um"
+  },
+  {
+   "start": 2330.16,
+   "end": 2334.4,
+   "text": "an experimental study in dogs did"
+  },
+  {
+   "start": 2332.24,
+   "end": 2338.64,
+   "text": "demonstrate that five minutes of cpr was"
+  },
+  {
+   "start": 2334.4,
+   "end": 2339.52,
+   "text": "needed um before reliable lactate values"
+  },
+  {
+   "start": 2338.64,
+   "end": 2340.8,
+   "text": "were"
+  },
+  {
+   "start": 2339.52,
+   "end": 2343.28,
+   "text": "obtained"
+  },
+  {
+   "start": 2340.8,
+   "end": 2345.04,
+   "text": "as prior to that they indicate"
+  },
+  {
+   "start": 2343.28,
+   "end": 2347.12,
+   "text": "non-circulating blood lactate"
+  },
+  {
+   "start": 2345.04,
+   "end": 2350.32,
+   "text": "concentrations and could be"
+  },
+  {
+   "start": 2347.12,
+   "end": 2352.24,
+   "text": "normal or barely elevated"
+  },
+  {
+   "start": 2350.32,
+   "end": 2354.48,
+   "text": "and then finally one human study didn't"
+  },
+  {
+   "start": 2352.24,
+   "end": 2357.04,
+   "text": "demonstrate a significant increase"
+  },
+  {
+   "start": 2354.48,
+   "end": 2359.44,
+   "text": "in lactate and non-survivors which"
+  },
+  {
+   "start": 2357.04,
+   "end": 2361.44,
+   "text": "increase linearly with"
+  },
+  {
+   "start": 2359.44,
+   "end": 2365.0,
+   "text": "the duration of cpr"
+  },
+  {
+   "start": 2361.44,
+   "end": 2365.0,
+   "text": "compared to non-survivors"
+  },
+  {
+   "start": 2368.08,
+   "end": 2375.04,
+   "text": "electrolytes may all be examined also be"
+  },
+  {
+   "start": 2371.04,
+   "end": 2378.0,
+   "text": "examined during a blood gas analysis"
+  },
+  {
+   "start": 2375.04,
+   "end": 2380.72,
+   "text": "and this may demonstrate"
+  },
+  {
+   "start": 2378.0,
+   "end": 2382.88,
+   "text": "changes in mainly these three"
+  },
+  {
+   "start": 2380.72,
+   "end": 2384.88,
+   "text": "items so potassium ionized calcium and"
+  },
+  {
+   "start": 2382.88,
+   "end": 2387.36,
+   "text": "blood glucose"
+  },
+  {
+   "start": 2384.88,
+   "end": 2389.12,
+   "text": "but it may also identify causes of the"
+  },
+  {
+   "start": 2387.36,
+   "end": 2390.92,
+   "text": "rest of the arrest such as a"
+  },
+  {
+   "start": 2389.12,
+   "end": 2394.0,
+   "text": "hypoglycemia"
+  },
+  {
+   "start": 2390.92,
+   "end": 2398.0,
+   "text": "hypocalcemia or hyperkalemia which may"
+  },
+  {
+   "start": 2394.0,
+   "end": 2400.24,
+   "text": "allow you to treat for those disorders"
+  },
+  {
+   "start": 2398.0,
+   "end": 2401.92,
+   "text": "let's touch on potassium first"
+  },
+  {
+   "start": 2400.24,
+   "end": 2404.08,
+   "text": "potassium levels may increase"
+  },
+  {
+   "start": 2401.92,
+   "end": 2405.2,
+   "text": "significantly during cpr"
+  },
+  {
+   "start": 2404.08,
+   "end": 2407.6,
+   "text": "due to"
+  },
+  {
+   "start": 2405.2,
+   "end": 2408.84,
+   "text": "cell rupture"
+  },
+  {
+   "start": 2407.6,
+   "end": 2410.72,
+   "text": "secondary to"
+  },
+  {
+   "start": 2408.84,
+   "end": 2413.04,
+   "text": "ischemia and a"
+  },
+  {
+   "start": 2410.72,
+   "end": 2414.64,
+   "text": "potassium of greater than eight has been"
+  },
+  {
+   "start": 2413.04,
+   "end": 2416.96,
+   "text": "associated with a lack of return of"
+  },
+  {
+   "start": 2414.64,
+   "end": 2417.92,
+   "text": "spontaneous circulation in both dogs and"
+  },
+  {
+   "start": 2416.96,
+   "end": 2419.76,
+   "text": "people"
+  },
+  {
+   "start": 2417.92,
+   "end": 2422.48,
+   "text": "therefore treatment"
+  },
+  {
+   "start": 2419.76,
+   "end": 2424.56,
+   "text": "um with a potassium over eight may"
+  },
+  {
+   "start": 2422.48,
+   "end": 2427.68,
+   "text": "improve outcome"
+  },
+  {
+   "start": 2424.56,
+   "end": 2429.12,
+   "text": "serum potassium increases by nearly 10"
+  },
+  {
+   "start": 2427.68,
+   "end": 2431.2,
+   "text": "per minute"
+  },
+  {
+   "start": 2429.12,
+   "end": 2433.28,
+   "text": "of a rest with cpr"
+  },
+  {
+   "start": 2431.2,
+   "end": 2436.32,
+   "text": "and a respiratory acidosis will also"
+  },
+  {
+   "start": 2433.28,
+   "end": 2437.92,
+   "text": "worsen hyperkalemia"
+  },
+  {
+   "start": 2436.32,
+   "end": 2440.24,
+   "text": "it's important to know that in studies"
+  },
+  {
+   "start": 2437.92,
+   "end": 2441.92,
+   "text": "in humans none of the neurology"
+  },
+  {
+   "start": 2440.24,
+   "end": 2444.64,
+   "text": "neurologically intact patients at"
+  },
+  {
+   "start": 2441.92,
+   "end": 2448.88,
+   "text": "discharge had excessive potassium levels"
+  },
+  {
+   "start": 2444.64,
+   "end": 2448.88,
+   "text": "greater than eight and a half during cpr"
+  },
+  {
+   "start": 2449.6,
+   "end": 2454.8,
+   "text": "ionized hypocalcemia is very common in"
+  },
+  {
+   "start": 2452.4,
+   "end": 2456.16,
+   "text": "people people secondary to arrest and"
+  },
+  {
+   "start": 2454.8,
+   "end": 2459.68,
+   "text": "it's recommended that severe"
+  },
+  {
+   "start": 2456.16,
+   "end": 2461.6,
+   "text": "hypocalcemia should be treated however"
+  },
+  {
+   "start": 2459.68,
+   "end": 2464.72,
+   "text": "that clinical study that i mentioned did"
+  },
+  {
+   "start": 2461.6,
+   "end": 2466.4,
+   "text": "not document um severe hypocalcemia in"
+  },
+  {
+   "start": 2464.72,
+   "end": 2468.72,
+   "text": "dogs"
+  },
+  {
+   "start": 2466.4,
+   "end": 2471.2,
+   "text": "also administration of calcium"
+  },
+  {
+   "start": 2468.72,
+   "end": 2472.96,
+   "text": "automatically can be helpful and there's"
+  },
+  {
+   "start": 2471.2,
+   "end": 2475.2,
+   "text": "very little"
+  },
+  {
+   "start": 2472.96,
+   "end": 2476.24,
+   "text": "research in human or veterinary medicine"
+  },
+  {
+   "start": 2475.2,
+   "end": 2479.52,
+   "text": "for its"
+  },
+  {
+   "start": 2476.24,
+   "end": 2481.92,
+   "text": "prophylactic or empiric use"
+  },
+  {
+   "start": 2479.52,
+   "end": 2484.4,
+   "text": "in one study in pigs administration of"
+  },
+  {
+   "start": 2481.92,
+   "end": 2486.48,
+   "text": "calcium in hypocalcemic pigs did improve"
+  },
+  {
+   "start": 2484.4,
+   "end": 2488.72,
+   "text": "myocardial function so in those that are"
+  },
+  {
+   "start": 2486.48,
+   "end": 2490.96,
+   "text": "hypocalcemic administration of calcium"
+  },
+  {
+   "start": 2488.72,
+   "end": 2492.48,
+   "text": "is indicated"
+  },
+  {
+   "start": 2490.96,
+   "end": 2494.96,
+   "text": "finally"
+  },
+  {
+   "start": 2492.48,
+   "end": 2497.12,
+   "text": "blood glucose"
+  },
+  {
+   "start": 2494.96,
+   "end": 2500.72,
+   "text": "in humans usually"
+  },
+  {
+   "start": 2497.12,
+   "end": 2502.88,
+   "text": "a significant hyperglycemia is noted um"
+  },
+  {
+   "start": 2500.72,
+   "end": 2504.8,
+   "text": "and blood glucose"
+  },
+  {
+   "start": 2502.88,
+   "end": 2508.0,
+   "text": "in these studies increases from a normal"
+  },
+  {
+   "start": 2504.8,
+   "end": 2510.64,
+   "text": "level pre-arrest to a mean of 230 after"
+  },
+  {
+   "start": 2508.0,
+   "end": 2511.76,
+   "text": "eight to 12 minutes of cpr"
+  },
+  {
+   "start": 2510.64,
+   "end": 2514.72,
+   "text": "in"
+  },
+  {
+   "start": 2511.76,
+   "end": 2517.28,
+   "text": "people tight glucose control post return"
+  },
+  {
+   "start": 2514.72,
+   "end": 2519.52,
+   "text": "of spontaneous circulation is important"
+  },
+  {
+   "start": 2517.28,
+   "end": 2521.44,
+   "text": "its role is unknown in veterinary"
+  },
+  {
+   "start": 2519.52,
+   "end": 2524.08,
+   "text": "patients"
+  },
+  {
+   "start": 2521.44,
+   "end": 2526.48,
+   "text": "the clinical study that i mentioned"
+  },
+  {
+   "start": 2524.08,
+   "end": 2528.4,
+   "text": "in dogs did show a high number of return"
+  },
+  {
+   "start": 2526.48,
+   "end": 2530.48,
+   "text": "of spontaneous circulation and"
+  },
+  {
+   "start": 2528.4,
+   "end": 2535.56,
+   "text": "hypoglycemic patients in this study"
+  },
+  {
+   "start": 2530.48,
+   "end": 2535.56,
+   "text": "which is in contrast to human medicine"
+  },
+  {
+   "start": 2536.8,
+   "end": 2540.56,
+   "text": "there have been a number of updates"
+  },
+  {
+   "start": 2538.56,
+   "end": 2542.24,
+   "text": "since the recover guidelines came out a"
+  },
+  {
+   "start": 2540.56,
+   "end": 2544.72,
+   "text": "number of new studies that i briefly"
+  },
+  {
+   "start": 2542.24,
+   "end": 2547.2,
+   "text": "want to touch on a recent study out of"
+  },
+  {
+   "start": 2544.72,
+   "end": 2550.16,
+   "text": "uc davis showed that orotracheal"
+  },
+  {
+   "start": 2547.2,
+   "end": 2552.08,
+   "text": "intubation in dogs is"
+  },
+  {
+   "start": 2550.16,
+   "end": 2554.4,
+   "text": "likely the best form of providing"
+  },
+  {
+   "start": 2552.08,
+   "end": 2557.28,
+   "text": "ventilation"
+  },
+  {
+   "start": 2554.4,
+   "end": 2562.48,
+   "text": "and after that face mask a tight face"
+  },
+  {
+   "start": 2557.28,
+   "end": 2562.48,
+   "text": "mask mouth to smout and compression only"
+  },
+  {
+   "start": 2562.8,
+   "end": 2566.96,
+   "text": "are in order of decreasing the most"
+  },
+  {
+   "start": 2565.68,
+   "end": 2569.44,
+   "text": "efficacious"
+  },
+  {
+   "start": 2566.96,
+   "end": 2571.36,
+   "text": "ways of providing ventilation"
+  },
+  {
+   "start": 2569.44,
+   "end": 2572.4,
+   "text": "um it's thought that"
+  },
+  {
+   "start": 2571.36,
+   "end": 2574.32,
+   "text": "the"
+  },
+  {
+   "start": 2572.4,
+   "end": 2575.12,
+   "text": "face mask mouth to smile and compression"
+  },
+  {
+   "start": 2574.32,
+   "end": 2577.28,
+   "text": "only"
+  },
+  {
+   "start": 2575.12,
+   "end": 2580.24,
+   "text": "are potentially worse due to the lower"
+  },
+  {
+   "start": 2577.28,
+   "end": 2583.2,
+   "text": "pao2 levels and the greater number of"
+  },
+  {
+   "start": 2580.24,
+   "end": 2587.04,
+   "text": "side effects such as"
+  },
+  {
+   "start": 2583.2,
+   "end": 2588.72,
+   "text": "gastric distension regurgitation"
+  },
+  {
+   "start": 2587.04,
+   "end": 2590.24,
+   "text": "a japanese study"
+  },
+  {
+   "start": 2588.72,
+   "end": 2591.76,
+   "text": "in veterinary medicine compared"
+  },
+  {
+   "start": 2590.24,
+   "end": 2594.64,
+   "text": "traditional"
+  },
+  {
+   "start": 2591.76,
+   "end": 2594.64,
+   "text": "cpr so"
+  },
+  {
+   "start": 2594.96,
+   "end": 2599.84,
+   "text": "providing airway breathing and then"
+  },
+  {
+   "start": 2597.68,
+   "end": 2601.36,
+   "text": "compressions to the new recover"
+  },
+  {
+   "start": 2599.84,
+   "end": 2604.4,
+   "text": "guidelines where compressions are"
+  },
+  {
+   "start": 2601.36,
+   "end": 2607.04,
+   "text": "initiated immediately and then"
+  },
+  {
+   "start": 2604.4,
+   "end": 2609.28,
+   "text": "ventilation has begun after"
+  },
+  {
+   "start": 2607.04,
+   "end": 2610.48,
+   "text": "and in these patients they noted"
+  },
+  {
+   "start": 2609.28,
+   "end": 2611.6,
+   "text": "17"
+  },
+  {
+   "start": 2610.48,
+   "end": 2613.28,
+   "text": "um"
+  },
+  {
+   "start": 2611.6,
+   "end": 2615.28,
+   "text": "had return of spontaneous circulation"
+  },
+  {
+   "start": 2613.28,
+   "end": 2618.72,
+   "text": "for the traditional recommendations and"
+  },
+  {
+   "start": 2615.28,
+   "end": 2620.72,
+   "text": "43 percent um achieved rosk"
+  },
+  {
+   "start": 2618.72,
+   "end": 2623.2,
+   "text": "using the recover guidelines"
+  },
+  {
+   "start": 2620.72,
+   "end": 2625.28,
+   "text": "with a difference of zero surviving for"
+  },
+  {
+   "start": 2623.2,
+   "end": 2629.36,
+   "text": "the traditional and five percent"
+  },
+  {
+   "start": 2625.28,
+   "end": 2630.8,
+   "text": "surviving to discharge any in the other"
+  },
+  {
+   "start": 2629.36,
+   "end": 2632.72,
+   "text": "again those are not"
+  },
+  {
+   "start": 2630.8,
+   "end": 2634.88,
+   "text": "great numbers but they're they are"
+  },
+  {
+   "start": 2632.72,
+   "end": 2637.44,
+   "text": "consistent with and of the five to ten"
+  },
+  {
+   "start": 2634.88,
+   "end": 2641.6,
+   "text": "percent survival to discharge for"
+  },
+  {
+   "start": 2637.44,
+   "end": 2641.6,
+   "text": "patients who suffer uh an arrest"
+  },
+  {
+   "start": 2642.16,
+   "end": 2648.32,
+   "text": "um a study in jvac also did show that a"
+  },
+  {
+   "start": 2645.68,
+   "end": 2650.16,
+   "text": "higher end title corresponded to return"
+  },
+  {
+   "start": 2648.32,
+   "end": 2652.96,
+   "text": "of spontaneous circulation in dogs and"
+  },
+  {
+   "start": 2650.16,
+   "end": 2655.6,
+   "text": "cats with an end title of greater than"
+  },
+  {
+   "start": 2652.96,
+   "end": 2658.24,
+   "text": "18 very sensitive for return of"
+  },
+  {
+   "start": 2655.6,
+   "end": 2660.4,
+   "text": "spontaneous circulation and one greater"
+  },
+  {
+   "start": 2658.24,
+   "end": 2663.2,
+   "text": "than 10 as a reasonable cutoff so those"
+  },
+  {
+   "start": 2660.4,
+   "end": 2665.04,
+   "text": "below 10 are very unlikely to receive or"
+  },
+  {
+   "start": 2663.2,
+   "end": 2666.4,
+   "text": "achieve return of spontaneous"
+  },
+  {
+   "start": 2665.04,
+   "end": 2668.8,
+   "text": "circulation"
+  },
+  {
+   "start": 2666.4,
+   "end": 2670.72,
+   "text": "four minutes three through eight"
+  },
+  {
+   "start": 2668.8,
+   "end": 2671.68,
+   "text": "um so it's important those first two"
+  },
+  {
+   "start": 2670.72,
+   "end": 2673.36,
+   "text": "minutes"
+  },
+  {
+   "start": 2671.68,
+   "end": 2675.28,
+   "text": "um it's harder to interpret the end"
+  },
+  {
+   "start": 2673.36,
+   "end": 2677.28,
+   "text": "title during those first two minutes you"
+  },
+  {
+   "start": 2675.28,
+   "end": 2678.96,
+   "text": "should wait until the third minute to"
+  },
+  {
+   "start": 2677.28,
+   "end": 2681.68,
+   "text": "assess"
+  },
+  {
+   "start": 2678.96,
+   "end": 2683.52,
+   "text": "interestingly this study demonstrated"
+  },
+  {
+   "start": 2681.68,
+   "end": 2687.44,
+   "text": "that the median time to return of"
+  },
+  {
+   "start": 2683.52,
+   "end": 2688.64,
+   "text": "spontaneous circulation was nine minutes"
+  },
+  {
+   "start": 2687.44,
+   "end": 2690.16,
+   "text": "so"
+  },
+  {
+   "start": 2688.64,
+   "end": 2691.6,
+   "text": "potentially don't give up on your"
+  },
+  {
+   "start": 2690.16,
+   "end": 2693.92,
+   "text": "patients too"
+  },
+  {
+   "start": 2691.6,
+   "end": 2696.4,
+   "text": "early um"
+  },
+  {
+   "start": 2693.92,
+   "end": 2700.08,
+   "text": "i i think that's a common thing that"
+  },
+  {
+   "start": 2696.4,
+   "end": 2700.08,
+   "text": "that we that we do even here"
+  },
+  {
+   "start": 2700.8,
+   "end": 2703.68,
+   "text": "continued studies have looked at"
+  },
+  {
+   "start": 2702.16,
+   "end": 2707.92,
+   "text": "different vasopressors so that"
+  },
+  {
+   "start": 2703.68,
+   "end": 2707.92,
+   "text": "epinephrine versus vasopressin debates"
+  },
+  {
+   "start": 2708.08,
+   "end": 2713.6,
+   "text": "one study in china demonstrated that"
+  },
+  {
+   "start": 2711.6,
+   "end": 2715.12,
+   "text": "administration of epinephrine improved"
+  },
+  {
+   "start": 2713.6,
+   "end": 2717.36,
+   "text": "short-term survival in return of"
+  },
+  {
+   "start": 2715.12,
+   "end": 2719.6,
+   "text": "spontaneous circulation however there"
+  },
+  {
+   "start": 2717.36,
+   "end": 2721.92,
+   "text": "was no benefit on survival to discharge"
+  },
+  {
+   "start": 2719.6,
+   "end": 2722.88,
+   "text": "or those with a favorable neurologic"
+  },
+  {
+   "start": 2721.92,
+   "end": 2724.0,
+   "text": "outcome"
+  },
+  {
+   "start": 2722.88,
+   "end": 2725.6,
+   "text": "after"
+  },
+  {
+   "start": 2724.0,
+   "end": 2728.24,
+   "text": "out of hospital administration of"
+  },
+  {
+   "start": 2725.6,
+   "end": 2728.24,
+   "text": "epinephrine"
+  },
+  {
+   "start": 2728.32,
+   "end": 2731.68,
+   "text": "and a study in pigs looking at"
+  },
+  {
+   "start": 2729.68,
+   "end": 2733.28,
+   "text": "vasopressin administration showed that"
+  },
+  {
+   "start": 2731.68,
+   "end": 2735.2,
+   "text": "only epinephrine increased return of"
+  },
+  {
+   "start": 2733.28,
+   "end": 2737.12,
+   "text": "spontaneous circulation although"
+  },
+  {
+   "start": 2735.2,
+   "end": 2740.16,
+   "text": "vasopressin did maintain a prolonged"
+  },
+  {
+   "start": 2737.12,
+   "end": 2741.44,
+   "text": "pressure effect after administration"
+  },
+  {
+   "start": 2740.16,
+   "end": 2744.4,
+   "text": "and it also"
+  },
+  {
+   "start": 2741.44,
+   "end": 2746.64,
+   "text": "inhibited neuronal apoptosis during cpr"
+  },
+  {
+   "start": 2744.4,
+   "end": 2749.28,
+   "text": "whether with epinephrine in conjunction"
+  },
+  {
+   "start": 2746.64,
+   "end": 2751.2,
+   "text": "with epinephrine or alone so it may have"
+  },
+  {
+   "start": 2749.28,
+   "end": 2753.92,
+   "text": "beneficial"
+  },
+  {
+   "start": 2751.2,
+   "end": 2755.84,
+   "text": "effects for the brain"
+  },
+  {
+   "start": 2753.92,
+   "end": 2757.84,
+   "text": "lastly"
+  },
+  {
+   "start": 2755.84,
+   "end": 2760.64,
+   "text": "studies in humans looking at out of"
+  },
+  {
+   "start": 2757.84,
+   "end": 2761.44,
+   "text": "hospital cardiopulmonary arrest showed"
+  },
+  {
+   "start": 2760.64,
+   "end": 2763.6,
+   "text": "for"
+  },
+  {
+   "start": 2761.44,
+   "end": 2766.4,
+   "text": "compression rate return of spontaneous"
+  },
+  {
+   "start": 2763.6,
+   "end": 2769.36,
+   "text": "circulation peaked at 125 compressions"
+  },
+  {
+   "start": 2766.4,
+   "end": 2772.16,
+   "text": "per minute and then"
+  },
+  {
+   "start": 2769.36,
+   "end": 2774.64,
+   "text": "at compression rates higher than that"
+  },
+  {
+   "start": 2772.16,
+   "end": 2776.64,
+   "text": "return of spot spontaneous circulation"
+  },
+  {
+   "start": 2774.64,
+   "end": 2778.8,
+   "text": "declined so something to keep in mind"
+  },
+  {
+   "start": 2776.64,
+   "end": 2781.12,
+   "text": "about potentially not"
+  },
+  {
+   "start": 2778.8,
+   "end": 2783.44,
+   "text": "going for faster rates than 120"
+  },
+  {
+   "start": 2781.12,
+   "end": 2784.4,
+   "text": "compressions per minute as this may"
+  },
+  {
+   "start": 2783.44,
+   "end": 2786.4,
+   "text": "um"
+  },
+  {
+   "start": 2784.4,
+   "end": 2789.12,
+   "text": "decrease your chest compression depth"
+  },
+  {
+   "start": 2786.4,
+   "end": 2793.28,
+   "text": "lead to earlier fatigue or allow"
+  },
+  {
+   "start": 2789.12,
+   "end": 2793.28,
+   "text": "disallow the chest from fully recoiling"
+  },
+  {
+   "start": 2793.44,
+   "end": 2797.76,
+   "text": "so what can you do in your own hospitals"
+  },
+  {
+   "start": 2796.08,
+   "end": 2798.88,
+   "text": "to be ready for an arrest when it"
+  },
+  {
+   "start": 2797.76,
+   "end": 2801.68,
+   "text": "happens"
+  },
+  {
+   "start": 2798.88,
+   "end": 2804.32,
+   "text": "first having a crash car or a crash"
+  },
+  {
+   "start": 2801.68,
+   "end": 2806.8,
+   "text": "drawer can be"
+  },
+  {
+   "start": 2804.32,
+   "end": 2807.92,
+   "text": "important so every all staff knows where"
+  },
+  {
+   "start": 2806.8,
+   "end": 2809.52,
+   "text": "to go"
+  },
+  {
+   "start": 2807.92,
+   "end": 2811.76,
+   "text": "when there is an arrest knows where"
+  },
+  {
+   "start": 2809.52,
+   "end": 2813.6,
+   "text": "supplies are and to give you a central"
+  },
+  {
+   "start": 2811.76,
+   "end": 2815.12,
+   "text": "location for trying to get your patient"
+  },
+  {
+   "start": 2813.6,
+   "end": 2817.36,
+   "text": "back"
+  },
+  {
+   "start": 2815.12,
+   "end": 2819.44,
+   "text": "possible supplies to include in your"
+  },
+  {
+   "start": 2817.36,
+   "end": 2822.64,
+   "text": "crash car include endotracheal tubes of"
+  },
+  {
+   "start": 2819.44,
+   "end": 2826.08,
+   "text": "all sizes laryngoscopes again multiple"
+  },
+  {
+   "start": 2822.64,
+   "end": 2827.92,
+   "text": "size blades endotracheal tube ties a"
+  },
+  {
+   "start": 2826.08,
+   "end": 2830.56,
+   "text": "cuff syringe"
+  },
+  {
+   "start": 2827.92,
+   "end": 2832.56,
+   "text": "drugs including reversals atropine"
+  },
+  {
+   "start": 2830.56,
+   "end": 2835.44,
+   "text": "epinephrine lidocaine"
+  },
+  {
+   "start": 2832.56,
+   "end": 2838.16,
+   "text": "and ambu bags are all important to have"
+  },
+  {
+   "start": 2835.44,
+   "end": 2839.2,
+   "text": "readily available"
+  },
+  {
+   "start": 2838.16,
+   "end": 2841.28,
+   "text": "it's also"
+  },
+  {
+   "start": 2839.2,
+   "end": 2843.76,
+   "text": "important to have a clear delineation of"
+  },
+  {
+   "start": 2841.28,
+   "end": 2844.96,
+   "text": "roles especially leadership roles during"
+  },
+  {
+   "start": 2843.76,
+   "end": 2847.36,
+   "text": "cpr"
+  },
+  {
+   "start": 2844.96,
+   "end": 2849.68,
+   "text": "so usually the most experienced person"
+  },
+  {
+   "start": 2847.36,
+   "end": 2851.84,
+   "text": "whether that's a veterinary nurse or a"
+  },
+  {
+   "start": 2849.68,
+   "end": 2854.08,
+   "text": "veterinarian will take on the leadership"
+  },
+  {
+   "start": 2851.84,
+   "end": 2856.32,
+   "text": "role and give instructions to everyone"
+  },
+  {
+   "start": 2854.08,
+   "end": 2858.24,
+   "text": "else and it's important that they that"
+  },
+  {
+   "start": 2856.32,
+   "end": 2860.56,
+   "text": "everyone looks to that individual for"
+  },
+  {
+   "start": 2858.24,
+   "end": 2861.84,
+   "text": "what the next steps are for that person"
+  },
+  {
+   "start": 2860.56,
+   "end": 2864.32,
+   "text": "and gives people"
+  },
+  {
+   "start": 2861.84,
+   "end": 2866.4,
+   "text": "um roles such as the compressor the"
+  },
+  {
+   "start": 2864.32,
+   "end": 2869.12,
+   "text": "ventilator"
+  },
+  {
+   "start": 2866.4,
+   "end": 2871.04,
+   "text": "a recorder someone to get drugs someone"
+  },
+  {
+   "start": 2869.12,
+   "end": 2873.2,
+   "text": "getting iv access"
+  },
+  {
+   "start": 2871.04,
+   "end": 2875.44,
+   "text": "um"
+  },
+  {
+   "start": 2873.2,
+   "end": 2877.2,
+   "text": "the"
+  },
+  {
+   "start": 2875.44,
+   "end": 2879.44,
+   "text": "individual should"
+  },
+  {
+   "start": 2877.2,
+   "end": 2882.08,
+   "text": "also"
+  },
+  {
+   "start": 2879.44,
+   "end": 2884.84,
+   "text": "keep track of time to let people know"
+  },
+  {
+   "start": 2882.08,
+   "end": 2887.68,
+   "text": "when switches will"
+  },
+  {
+   "start": 2884.84,
+   "end": 2889.36,
+   "text": "occur periodic recovery training for all"
+  },
+  {
+   "start": 2887.68,
+   "end": 2890.64,
+   "text": "those involved using"
+  },
+  {
+   "start": 2889.36,
+   "end": 2893.44,
+   "text": "um"
+  },
+  {
+   "start": 2890.64,
+   "end": 2895.12,
+   "text": "a dummy may be helpful"
+  },
+  {
+   "start": 2893.44,
+   "end": 2898.64,
+   "text": "as long as they are evidence-based"
+  },
+  {
+   "start": 2895.12,
+   "end": 2900.48,
+   "text": "scenarios um and and are using mock"
+  },
+  {
+   "start": 2898.64,
+   "end": 2902.64,
+   "text": "arrest scenarios"
+  },
+  {
+   "start": 2900.48,
+   "end": 2905.04,
+   "text": "this training may be especially"
+  },
+  {
+   "start": 2902.64,
+   "end": 2908.0,
+   "text": "important for new employees since people"
+  },
+  {
+   "start": 2905.04,
+   "end": 2909.44,
+   "text": "do tend to gravitate to cpr and it's"
+  },
+  {
+   "start": 2908.0,
+   "end": 2915.0,
+   "text": "important that they know what they're"
+  },
+  {
+   "start": 2909.44,
+   "end": 2915.0,
+   "text": "doing and are utilized properly properly"
+  },
+  {
+   "start": 2915.6,
+   "end": 2918.8,
+   "text": "additionally training for the use of"
+  },
+  {
+   "start": 2917.44,
+   "end": 2921.92,
+   "text": "specific instruments such as a"
+  },
+  {
+   "start": 2918.8,
+   "end": 2924.24,
+   "text": "defibrillator or the ecg or an end title"
+  },
+  {
+   "start": 2921.92,
+   "end": 2925.76,
+   "text": "is important so that someone during the"
+  },
+  {
+   "start": 2924.24,
+   "end": 2927.44,
+   "text": "arrest will know how to use each of"
+  },
+  {
+   "start": 2925.76,
+   "end": 2929.44,
+   "text": "those instruments"
+  },
+  {
+   "start": 2927.44,
+   "end": 2931.68,
+   "text": "and to minimize kind of fumbling around"
+  },
+  {
+   "start": 2929.44,
+   "end": 2934.0,
+   "text": "and delay of of treatments during that"
+  },
+  {
+   "start": 2931.68,
+   "end": 2935.92,
+   "text": "time"
+  },
+  {
+   "start": 2934.0,
+   "end": 2938.56,
+   "text": "and then finally following an arrest"
+  },
+  {
+   "start": 2935.92,
+   "end": 2939.76,
+   "text": "it's important to debrief so to gather"
+  },
+  {
+   "start": 2938.56,
+   "end": 2942.0,
+   "text": "together"
+  },
+  {
+   "start": 2939.76,
+   "end": 2944.56,
+   "text": "and kind of go over what as a group you"
+  },
+  {
+   "start": 2942.0,
+   "end": 2945.92,
+   "text": "think went well for the arrest and what"
+  },
+  {
+   "start": 2944.56,
+   "end": 2947.2,
+   "text": "things could be worked on for the"
+  },
+  {
+   "start": 2945.92,
+   "end": 2948.72,
+   "text": "following arrest and to take that"
+  },
+  {
+   "start": 2947.2,
+   "end": 2949.92,
+   "text": "feedback"
+  },
+  {
+   "start": 2948.72,
+   "end": 2952.08,
+   "text": "to heart"
+  },
+  {
+   "start": 2949.92,
+   "end": 2956.16,
+   "text": "to make corrections to improve outcomes"
+  },
+  {
+   "start": 2952.08,
+   "end": 2959.04,
+   "text": "for for further patients"
+  },
+  {
+   "start": 2956.16,
+   "end": 2961.2,
+   "text": "these are my references thank you very"
+  },
+  {
+   "start": 2959.04,
+   "end": 2963.36,
+   "text": "much for listening to this presentation"
+  },
+  {
+   "start": 2961.2,
+   "end": 2965.92,
+   "text": "and i will now gladly take any questions"
+  },
+  {
+   "start": 2963.36,
+   "end": 2965.92,
+   "text": "you may have"
+  },
+  {
+   "start": 2969.28,
+   "end": 2974.8,
+   "text": "thank you dr wolf for your presentation"
+  },
+  {
+   "start": 2972.16,
+   "end": 2977.12,
+   "text": "uh a couple things first of all people"
+  },
+  {
+   "start": 2974.8,
+   "end": 2979.92,
+   "text": "who are interested in asking questions"
+  },
+  {
+   "start": 2977.12,
+   "end": 2982.16,
+   "text": "uh there's a q a"
+  },
+  {
+   "start": 2979.92,
+   "end": 2983.92,
+   "text": "button at the bottom of your screen uh"
+  },
+  {
+   "start": 2982.16,
+   "end": 2986.32,
+   "text": "type the questions in and we'll read the"
+  },
+  {
+   "start": 2983.92,
+   "end": 2987.76,
+   "text": "questions and dr wolf and then answer"
+  },
+  {
+   "start": 2986.32,
+   "end": 2990.4,
+   "text": "them"
+  },
+  {
+   "start": 2987.76,
+   "end": 2993.6,
+   "text": "in the meantime just as a reminder a"
+  },
+  {
+   "start": 2990.4,
+   "end": 2995.28,
+   "text": "follow-up email will be sent to you"
+  },
+  {
+   "start": 2993.6,
+   "end": 2997.2,
+   "text": "as a registrant"
+  },
+  {
+   "start": 2995.28,
+   "end": 2999.2,
+   "text": "and that follow-up email will have all"
+  },
+  {
+   "start": 2997.2,
+   "end": 3000.88,
+   "text": "the information you need regarding the"
+  },
+  {
+   "start": 2999.2,
+   "end": 3002.48,
+   "text": "education credits"
+  },
+  {
+   "start": 3000.88,
+   "end": 3006.16,
+   "text": "linked to a survey"
+  },
+  {
+   "start": 3002.48,
+   "end": 3006.16,
+   "text": "that also then links to a"
+  },
+  {
+   "start": 3006.64,
+   "end": 3010.4,
+   "text": "certificate of participation"
+  },
+  {
+   "start": 3009.52,
+   "end": 3012.24,
+   "text": "so"
+  },
+  {
+   "start": 3010.4,
+   "end": 3014.56,
+   "text": "so far there's been two questions so"
+  },
+  {
+   "start": 3012.24,
+   "end": 3016.0,
+   "text": "i'll read those questions to dr wolfe"
+  },
+  {
+   "start": 3014.56,
+   "end": 3018.88,
+   "text": "and"
+  },
+  {
+   "start": 3016.0,
+   "end": 3019.68,
+   "text": "feel free to ask questions"
+  },
+  {
+   "start": 3018.88,
+   "end": 3021.68,
+   "text": "get"
+  },
+  {
+   "start": 3019.68,
+   "end": 3024.24,
+   "text": "many as we can"
+  },
+  {
+   "start": 3021.68,
+   "end": 3026.32,
+   "text": "so the first question is do you have any"
+  },
+  {
+   "start": 3024.24,
+   "end": 3029.6,
+   "text": "staff training recommendations for blood"
+  },
+  {
+   "start": 3026.32,
+   "end": 3029.6,
+   "text": "gas use with cpr"
+  },
+  {
+   "start": 3030.4,
+   "end": 3032.4,
+   "text": "um"
+  },
+  {
+   "start": 3031.44,
+   "end": 3035.84,
+   "text": "so"
+  },
+  {
+   "start": 3032.4,
+   "end": 3037.92,
+   "text": "i would say it's um"
+  },
+  {
+   "start": 3035.84,
+   "end": 3040.4,
+   "text": "at our institution we run a lot pretty"
+  },
+  {
+   "start": 3037.92,
+   "end": 3042.64,
+   "text": "much every patient who comes to the er"
+  },
+  {
+   "start": 3040.4,
+   "end": 3044.88,
+   "text": "will receive a blood gas"
+  },
+  {
+   "start": 3042.64,
+   "end": 3044.88,
+   "text": "and"
+  },
+  {
+   "start": 3045.2,
+   "end": 3050.72,
+   "text": "most patients in the icu will receive"
+  },
+  {
+   "start": 3047.44,
+   "end": 3053.76,
+   "text": "one one or more blood gases per day"
+  },
+  {
+   "start": 3050.72,
+   "end": 3055.36,
+   "text": "so we run them pretty frequently um and"
+  },
+  {
+   "start": 3053.76,
+   "end": 3058.0,
+   "text": "don't do any"
+  },
+  {
+   "start": 3055.36,
+   "end": 3059.04,
+   "text": "uh i guess regular training for"
+  },
+  {
+   "start": 3058.0,
+   "end": 3061.36,
+   "text": "um"
+  },
+  {
+   "start": 3059.04,
+   "end": 3062.8,
+   "text": "interpretation i'm at an academic"
+  },
+  {
+   "start": 3061.36,
+   "end": 3064.4,
+   "text": "institution and so"
+  },
+  {
+   "start": 3062.8,
+   "end": 3066.72,
+   "text": "um other than with the students and"
+  },
+  {
+   "start": 3064.4,
+   "end": 3069.28,
+   "text": "running on those we we don't do any"
+  },
+  {
+   "start": 3066.72,
+   "end": 3071.84,
+   "text": "active training for it um i think if you"
+  },
+  {
+   "start": 3069.28,
+   "end": 3074.0,
+   "text": "don't do them often enough it"
+  },
+  {
+   "start": 3071.84,
+   "end": 3076.56,
+   "text": "the big things to remind your staff and"
+  },
+  {
+   "start": 3074.0,
+   "end": 3078.32,
+   "text": "remind yourself are of is um"
+  },
+  {
+   "start": 3076.56,
+   "end": 3080.64,
+   "text": "processing them"
+  },
+  {
+   "start": 3078.32,
+   "end": 3082.64,
+   "text": "quickly um not letting them sit"
+  },
+  {
+   "start": 3080.64,
+   "end": 3084.88,
+   "text": "especially uncapped so that you don't"
+  },
+  {
+   "start": 3082.64,
+   "end": 3086.64,
+   "text": "get um false"
+  },
+  {
+   "start": 3084.88,
+   "end": 3089.92,
+   "text": "readings due to the mixing with"
+  },
+  {
+   "start": 3086.64,
+   "end": 3091.36,
+   "text": "atmospheric air um and"
+  },
+  {
+   "start": 3089.92,
+   "end": 3093.28,
+   "text": "um"
+  },
+  {
+   "start": 3091.36,
+   "end": 3095.6,
+   "text": "and knowing what sort of tube you need"
+  },
+  {
+   "start": 3093.28,
+   "end": 3098.32,
+   "text": "to have them in um which is dependent on"
+  },
+  {
+   "start": 3095.6,
+   "end": 3101.2,
+   "text": "what analyzer you're you're using"
+  },
+  {
+   "start": 3098.32,
+   "end": 3103.04,
+   "text": "um we did do a previous arterial blood"
+  },
+  {
+   "start": 3101.2,
+   "end": 3105.36,
+   "text": "gas sampling webinar that's on nova's"
+  },
+  {
+   "start": 3103.04,
+   "end": 3107.92,
+   "text": "website um that you guys can take a look"
+  },
+  {
+   "start": 3105.36,
+   "end": 3110.0,
+   "text": "at um for like a further discussion of"
+  },
+  {
+   "start": 3107.92,
+   "end": 3111.12,
+   "text": "both arterial and venous blood gas"
+  },
+  {
+   "start": 3110.0,
+   "end": 3112.24,
+   "text": "sampling"
+  },
+  {
+   "start": 3111.12,
+   "end": 3114.0,
+   "text": "but we don't"
+  },
+  {
+   "start": 3112.24,
+   "end": 3116.0,
+   "text": "in our institution do any active"
+  },
+  {
+   "start": 3114.0,
+   "end": 3118.4,
+   "text": "training on processing it i would say"
+  },
+  {
+   "start": 3116.0,
+   "end": 3119.2,
+   "text": "our normal protocol for patients who"
+  },
+  {
+   "start": 3118.4,
+   "end": 3122.08,
+   "text": "have"
+  },
+  {
+   "start": 3119.2,
+   "end": 3122.96,
+   "text": "undergo cardiopulmonary arrest"
+  },
+  {
+   "start": 3122.08,
+   "end": 3124.8,
+   "text": "is"
+  },
+  {
+   "start": 3122.96,
+   "end": 3126.56,
+   "text": "um as someone is beginning chest"
+  },
+  {
+   "start": 3124.8,
+   "end": 3129.12,
+   "text": "compressions and then as a different"
+  },
+  {
+   "start": 3126.56,
+   "end": 3131.04,
+   "text": "person is intubating um the third person"
+  },
+  {
+   "start": 3129.12,
+   "end": 3133.6,
+   "text": "will work on venous access if that"
+  },
+  {
+   "start": 3131.04,
+   "end": 3134.64,
+   "text": "patient doesn't have it already"
+  },
+  {
+   "start": 3133.6,
+   "end": 3136.72,
+   "text": "um"
+  },
+  {
+   "start": 3134.64,
+   "end": 3139.44,
+   "text": "and if the patient does not initially"
+  },
+  {
+   "start": 3136.72,
+   "end": 3141.44,
+   "text": "have venous access as soon as it gained"
+  },
+  {
+   "start": 3139.44,
+   "end": 3143.28,
+   "text": "will draw"
+  },
+  {
+   "start": 3141.44,
+   "end": 3144.4,
+   "text": "a sample and run a blood gas at the time"
+  },
+  {
+   "start": 3143.28,
+   "end": 3146.16,
+   "text": "of a rest"
+  },
+  {
+   "start": 3144.4,
+   "end": 3149.2,
+   "text": "and then we'll usually do so about 10"
+  },
+  {
+   "start": 3146.16,
+   "end": 3150.96,
+   "text": "minutes later if we're continuing cpr"
+  },
+  {
+   "start": 3149.2,
+   "end": 3153.12,
+   "text": "if the patient does already have a"
+  },
+  {
+   "start": 3150.96,
+   "end": 3155.2,
+   "text": "sample it does already have a catheter"
+  },
+  {
+   "start": 3153.12,
+   "end": 3156.48,
+   "text": "then we'll try to bleed back from that"
+  },
+  {
+   "start": 3155.2,
+   "end": 3158.48,
+   "text": "and if that does not bleed back then"
+  },
+  {
+   "start": 3156.48,
+   "end": 3160.08,
+   "text": "we'll draw a new sample usually again at"
+  },
+  {
+   "start": 3158.48,
+   "end": 3162.16,
+   "text": "the time of a rest and then 10 to 15"
+  },
+  {
+   "start": 3160.08,
+   "end": 3166.36,
+   "text": "minutes later if we're continuing"
+  },
+  {
+   "start": 3162.16,
+   "end": 3166.36,
+   "text": "a long cpr scenario"
+  },
+  {
+   "start": 3167.36,
+   "end": 3171.2,
+   "text": "uh next question"
+  },
+  {
+   "start": 3168.96,
+   "end": 3173.6,
+   "text": "do you have any do you have specific"
+  },
+  {
+   "start": 3171.2,
+   "end": 3176.32,
+   "text": "values on venous blood gases that you"
+  },
+  {
+   "start": 3173.6,
+   "end": 3176.32,
+   "text": "feel are key"
+  },
+  {
+   "start": 3177.44,
+   "end": 3181.52,
+   "text": "um"
+  },
+  {
+   "start": 3179.04,
+   "end": 3182.96,
+   "text": "is that um specific"
+  },
+  {
+   "start": 3181.52,
+   "end": 3185.04,
+   "text": "like the specific readings or the"
+  },
+  {
+   "start": 3182.96,
+   "end": 3185.92,
+   "text": "specific ranges sorry what was that"
+  },
+  {
+   "start": 3185.04,
+   "end": 3188.16,
+   "text": "question"
+  },
+  {
+   "start": 3185.92,
+   "end": 3189.28,
+   "text": "do you have specific values on venus"
+  },
+  {
+   "start": 3188.16,
+   "end": 3192.32,
+   "text": "blood gas"
+  },
+  {
+   "start": 3189.28,
+   "end": 3192.32,
+   "text": "that you feel are key"
+  },
+  {
+   "start": 3192.84,
+   "end": 3197.84,
+   "text": "um i guess"
+  },
+  {
+   "start": 3195.68,
+   "end": 3200.72,
+   "text": "the the main values that i"
+  },
+  {
+   "start": 3197.84,
+   "end": 3203.36,
+   "text": "look for look at in a"
+  },
+  {
+   "start": 3200.72,
+   "end": 3204.88,
+   "text": "venous blood gas and an arrest scenario"
+  },
+  {
+   "start": 3203.36,
+   "end": 3207.68,
+   "text": "are the"
+  },
+  {
+   "start": 3204.88,
+   "end": 3208.96,
+   "text": "pvco2"
+  },
+  {
+   "start": 3207.68,
+   "end": 3211.84,
+   "text": "which"
+  },
+  {
+   "start": 3208.96,
+   "end": 3214.24,
+   "text": "we would expect to be elevated"
+  },
+  {
+   "start": 3211.84,
+   "end": 3216.16,
+   "text": "and the best prognosis is usually in"
+  },
+  {
+   "start": 3214.24,
+   "end": 3220.32,
+   "text": "human medicine at least between 60 and"
+  },
+  {
+   "start": 3216.16,
+   "end": 3222.24,
+   "text": "70 is what i've seen for venus blood gas"
+  },
+  {
+   "start": 3220.32,
+   "end": 3224.08,
+   "text": "certainly significantly higher that"
+  },
+  {
+   "start": 3222.24,
+   "end": 3226.08,
+   "text": "gives me gives me pause"
+  },
+  {
+   "start": 3224.08,
+   "end": 3228.4,
+   "text": "um and in a lot of patients we of course"
+  },
+  {
+   "start": 3226.08,
+   "end": 3230.72,
+   "text": "want those right around 40."
+  },
+  {
+   "start": 3228.4,
+   "end": 3233.04,
+   "text": "um we usually pay pretty close attention"
+  },
+  {
+   "start": 3230.72,
+   "end": 3236.24,
+   "text": "to lactate um"
+  },
+  {
+   "start": 3233.04,
+   "end": 3238.64,
+   "text": "with ideal levels in in most situations"
+  },
+  {
+   "start": 3236.24,
+   "end": 3240.48,
+   "text": "less than two and a half but in either"
+  },
+  {
+   "start": 3238.64,
+   "end": 3242.64,
+   "text": "arrest or"
+  },
+  {
+   "start": 3240.48,
+   "end": 3244.72,
+   "text": "in resuscitation we at least want to see"
+  },
+  {
+   "start": 3242.64,
+   "end": 3247.68,
+   "text": "a decrease"
+  },
+  {
+   "start": 3244.72,
+   "end": 3249.36,
+   "text": "during resuscitation um in lactate"
+  },
+  {
+   "start": 3247.68,
+   "end": 3251.12,
+   "text": "um and then kind of the other ones that"
+  },
+  {
+   "start": 3249.36,
+   "end": 3254.4,
+   "text": "i mentioned so certainly your your blood"
+  },
+  {
+   "start": 3251.12,
+   "end": 3256.4,
+   "text": "glucose um your potassium as i mentioned"
+  },
+  {
+   "start": 3254.4,
+   "end": 3258.8,
+   "text": "i'm in an arrest situation higher or"
+  },
+  {
+   "start": 3256.4,
+   "end": 3260.0,
+   "text": "lower than eight in human medicine can"
+  },
+  {
+   "start": 3258.8,
+   "end": 3264.64,
+   "text": "um"
+  },
+  {
+   "start": 3260.0,
+   "end": 3264.64,
+   "text": "give prognosis prognostic information"
+  },
+  {
+   "start": 3265.28,
+   "end": 3269.28,
+   "text": "i would say in a"
+  },
+  {
+   "start": 3267.44,
+   "end": 3272.4,
+   "text": "in an arrest patient those are the most"
+  },
+  {
+   "start": 3269.28,
+   "end": 3272.4,
+   "text": "common ones we look at"
+  },
+  {
+   "start": 3272.64,
+   "end": 3276.56,
+   "text": "certainly in in other patients if we're"
+  },
+  {
+   "start": 3274.4,
+   "end": 3278.88,
+   "text": "doing an arterial sample it's great to"
+  },
+  {
+   "start": 3276.56,
+   "end": 3281.44,
+   "text": "get a pao2 and a patient off of oxygen"
+  },
+  {
+   "start": 3278.88,
+   "end": 3282.88,
+   "text": "having it between 80 and 100 i'm usually"
+  },
+  {
+   "start": 3281.44,
+   "end": 3285.28,
+   "text": "pretty comfortable with that even if a"
+  },
+  {
+   "start": 3282.88,
+   "end": 3287.52,
+   "text": "patient's recovering from anesthesia"
+  },
+  {
+   "start": 3285.28,
+   "end": 3289.28,
+   "text": "i'm i'm okay with a 70 and might just"
+  },
+  {
+   "start": 3287.52,
+   "end": 3290.8,
+   "text": "put them on some flow by"
+  },
+  {
+   "start": 3289.28,
+   "end": 3292.88,
+   "text": "um"
+  },
+  {
+   "start": 3290.8,
+   "end": 3294.24,
+   "text": "if they have some atelectasis or"
+  },
+  {
+   "start": 3292.88,
+   "end": 3296.08,
+   "text": "something like that"
+  },
+  {
+   "start": 3294.24,
+   "end": 3296.88,
+   "text": "um"
+  },
+  {
+   "start": 3296.08,
+   "end": 3298.96,
+   "text": "and"
+  },
+  {
+   "start": 3296.88,
+   "end": 3301.28,
+   "text": "then we do pay close attention to"
+  },
+  {
+   "start": 3298.96,
+   "end": 3302.88,
+   "text": "electrolyte monitoring for uh in"
+  },
+  {
+   "start": 3301.28,
+   "end": 3304.56,
+   "text": "hospital patients so the sodium"
+  },
+  {
+   "start": 3302.88,
+   "end": 3305.68,
+   "text": "potassium and chloride"
+  },
+  {
+   "start": 3304.56,
+   "end": 3307.36,
+   "text": "um"
+  },
+  {
+   "start": 3305.68,
+   "end": 3309.36,
+   "text": "and uh"
+  },
+  {
+   "start": 3307.36,
+   "end": 3312.64,
+   "text": "and that's a nice benefit of running"
+  },
+  {
+   "start": 3309.36,
+   "end": 3312.64,
+   "text": "repeated or daily ones"
+  },
+  {
+   "start": 3312.8,
+   "end": 3316.96,
+   "text": "i hope that follows the question if not"
+  },
+  {
+   "start": 3315.36,
+   "end": 3320.08,
+   "text": "well the follow-up question is do you"
+  },
+  {
+   "start": 3316.96,
+   "end": 3322.88,
+   "text": "examine bicarb or base excess or ph in"
+  },
+  {
+   "start": 3320.08,
+   "end": 3326.72,
+   "text": "the venous or gas"
+  },
+  {
+   "start": 3322.88,
+   "end": 3327.76,
+   "text": "um we usually use base excess here um"
+  },
+  {
+   "start": 3326.72,
+   "end": 3331.12,
+   "text": "since it's"
+  },
+  {
+   "start": 3327.76,
+   "end": 3335.12,
+   "text": "it should be less influenced by"
+  },
+  {
+   "start": 3331.12,
+   "end": 3336.72,
+   "text": "co2 levels as opposed to bicarb which"
+  },
+  {
+   "start": 3335.12,
+   "end": 3338.64,
+   "text": "because of the henderson-hasselbalch"
+  },
+  {
+   "start": 3336.72,
+   "end": 3341.04,
+   "text": "equation will be somewhat dependent on"
+  },
+  {
+   "start": 3338.64,
+   "end": 3343.84,
+   "text": "co2 and so basexs tries to correct for"
+  },
+  {
+   "start": 3341.04,
+   "end": 3346.48,
+   "text": "that um so i would say i and most of the"
+  },
+  {
+   "start": 3343.84,
+   "end": 3349.68,
+   "text": "people here use base excess and rely"
+  },
+  {
+   "start": 3346.48,
+   "end": 3351.52,
+   "text": "more on that"
+  },
+  {
+   "start": 3349.68,
+   "end": 3354.72,
+   "text": "i'm in certainly monitoring the ph to"
+  },
+  {
+   "start": 3351.52,
+   "end": 3356.32,
+   "text": "see the primary disturbance"
+  },
+  {
+   "start": 3354.72,
+   "end": 3359.04,
+   "text": "uh next question is what is the"
+  },
+  {
+   "start": 3356.32,
+   "end": 3360.8,
+   "text": "appropriate time during cpr to consider"
+  },
+  {
+   "start": 3359.04,
+   "end": 3365.08,
+   "text": "the patient will be neurologically"
+  },
+  {
+   "start": 3360.8,
+   "end": 3365.08,
+   "text": "stable if rosc"
+  },
+  {
+   "start": 3366.0,
+   "end": 3369.52,
+   "text": "i think we we don't exactly know that"
+  },
+  {
+   "start": 3368.16,
+   "end": 3372.24,
+   "text": "and that's not really"
+  },
+  {
+   "start": 3369.52,
+   "end": 3373.28,
+   "text": "known in human medicine either one of"
+  },
+  {
+   "start": 3372.24,
+   "end": 3374.72,
+   "text": "the recent"
+  },
+  {
+   "start": 3373.28,
+   "end": 3376.56,
+   "text": "interesting papers that i read out of"
+  },
+  {
+   "start": 3374.72,
+   "end": 3379.04,
+   "text": "the"
+  },
+  {
+   "start": 3376.56,
+   "end": 3379.92,
+   "text": "resuscitation journal in human medicine"
+  },
+  {
+   "start": 3379.04,
+   "end": 3381.84,
+   "text": "um"
+  },
+  {
+   "start": 3379.92,
+   "end": 3383.76,
+   "text": "there may be some promise looking at"
+  },
+  {
+   "start": 3381.84,
+   "end": 3385.52,
+   "text": "pupillary"
+  },
+  {
+   "start": 3383.76,
+   "end": 3388.08,
+   "text": "light reflex"
+  },
+  {
+   "start": 3385.52,
+   "end": 3392.24,
+   "text": "in determining neurologic outcome"
+  },
+  {
+   "start": 3388.08,
+   "end": 3395.12,
+   "text": "immediately after cpr patients who"
+  },
+  {
+   "start": 3392.24,
+   "end": 3396.72,
+   "text": "had a plr had an excellent prognosis i"
+  },
+  {
+   "start": 3395.12,
+   "end": 3399.2,
+   "text": "think six or seven of them made it to"
+  },
+  {
+   "start": 3396.72,
+   "end": 3400.32,
+   "text": "discharge with neurologically functional"
+  },
+  {
+   "start": 3399.2,
+   "end": 3401.6,
+   "text": "outcomes"
+  },
+  {
+   "start": 3400.32,
+   "end": 3404.96,
+   "text": "um"
+  },
+  {
+   "start": 3401.6,
+   "end": 3407.36,
+   "text": "and those during cpr who had a decreased"
+  },
+  {
+   "start": 3404.96,
+   "end": 3409.92,
+   "text": "pupillary size compared to normal or"
+  },
+  {
+   "start": 3407.36,
+   "end": 3411.68,
+   "text": "increased also had a better prognosis so"
+  },
+  {
+   "start": 3409.92,
+   "end": 3414.56,
+   "text": "i think that's something"
+  },
+  {
+   "start": 3411.68,
+   "end": 3416.4,
+   "text": "either plr or pupillography"
+  },
+  {
+   "start": 3414.56,
+   "end": 3418.48,
+   "text": "is a direction that veterinary medicine"
+  },
+  {
+   "start": 3416.4,
+   "end": 3420.08,
+   "text": "could go to give us a better idea of"
+  },
+  {
+   "start": 3418.48,
+   "end": 3422.72,
+   "text": "neurologic outcome"
+  },
+  {
+   "start": 3420.08,
+   "end": 3423.52,
+   "text": "um but other than that i i don't think"
+  },
+  {
+   "start": 3422.72,
+   "end": 3425.04,
+   "text": "we"
+  },
+  {
+   "start": 3423.52,
+   "end": 3426.64,
+   "text": "we really know a lot of the time what"
+  },
+  {
+   "start": 3425.04,
+   "end": 3428.8,
+   "text": "the neurologic outcome is going to be"
+  },
+  {
+   "start": 3426.64,
+   "end": 3430.0,
+   "text": "for our patients and i certainly warn"
+  },
+  {
+   "start": 3428.8,
+   "end": 3430.8,
+   "text": "owners"
+  },
+  {
+   "start": 3430.0,
+   "end": 3432.56,
+   "text": "um"
+  },
+  {
+   "start": 3430.8,
+   "end": 3434.48,
+   "text": "you know we give kind of a"
+  },
+  {
+   "start": 3432.56,
+   "end": 3438.16,
+   "text": "we don't require our dogs and cats to do"
+  },
+  {
+   "start": 3434.48,
+   "end": 3440.48,
+   "text": "math or or drive a car um so some"
+  },
+  {
+   "start": 3438.16,
+   "end": 3442.88,
+   "text": "neurologic dysfunction is tolerable but"
+  },
+  {
+   "start": 3440.48,
+   "end": 3444.96,
+   "text": "we don't know what that will be um"
+  },
+  {
+   "start": 3442.88,
+   "end": 3446.4,
+   "text": "following cpr um what their level of"
+  },
+  {
+   "start": 3444.96,
+   "end": 3449.52,
+   "text": "recovery will be"
+  },
+  {
+   "start": 3446.4,
+   "end": 3453.04,
+   "text": "and with the high number of re-arrests"
+  },
+  {
+   "start": 3449.52,
+   "end": 3454.88,
+   "text": "within 24 hours um"
+  },
+  {
+   "start": 3453.04,
+   "end": 3455.6,
+   "text": "i think even if you have an animal come"
+  },
+  {
+   "start": 3454.88,
+   "end": 3458.16,
+   "text": "back"
+  },
+  {
+   "start": 3455.6,
+   "end": 3460.96,
+   "text": "that's neurologically capable following"
+  },
+  {
+   "start": 3458.16,
+   "end": 3464.72,
+   "text": "its arrest it certainly may not um"
+  },
+  {
+   "start": 3460.96,
+   "end": 3464.72,
+   "text": "that way over the course of the 20 years"
+  },
+  {
+   "start": 3465.76,
+   "end": 3468.96,
+   "text": "okay it looks like there's one more"
+  },
+  {
+   "start": 3467.2,
+   "end": 3471.2,
+   "text": "question"
+  },
+  {
+   "start": 3468.96,
+   "end": 3473.52,
+   "text": "would you mind just reviewing the four"
+  },
+  {
+   "start": 3471.2,
+   "end": 3475.76,
+   "text": "different rhythms on the"
+  },
+  {
+   "start": 3473.52,
+   "end": 3478.16,
+   "text": "g slide with the bottom two being"
+  },
+  {
+   "start": 3475.76,
+   "end": 3480.72,
+   "text": "shockable rhythm"
+  },
+  {
+   "start": 3478.16,
+   "end": 3482.48,
+   "text": "yeah um so on the"
+  },
+  {
+   "start": 3480.72,
+   "end": 3484.16,
+   "text": "um"
+  },
+  {
+   "start": 3482.48,
+   "end": 3487.12,
+   "text": "on the"
+  },
+  {
+   "start": 3484.16,
+   "end": 3489.44,
+   "text": "uh defibrillation one here um going from"
+  },
+  {
+   "start": 3487.12,
+   "end": 3491.76,
+   "text": "top to bottom the top we have pulseless"
+  },
+  {
+   "start": 3489.44,
+   "end": 3493.68,
+   "text": "electrical activity um and so this can"
+  },
+  {
+   "start": 3491.76,
+   "end": 3495.84,
+   "text": "be variable in its presentation it can"
+  },
+  {
+   "start": 3493.68,
+   "end": 3499.12,
+   "text": "look like ventricular beats it can look"
+  },
+  {
+   "start": 3495.84,
+   "end": 3500.64,
+   "text": "like normal science sinus beats um"
+  },
+  {
+   "start": 3499.12,
+   "end": 3502.88,
+   "text": "but the difference is there's no"
+  },
+  {
+   "start": 3500.64,
+   "end": 3504.72,
+   "text": "palpable pulse in these patients so the"
+  },
+  {
+   "start": 3502.88,
+   "end": 3506.56,
+   "text": "heart has some electrical activity but"
+  },
+  {
+   "start": 3504.72,
+   "end": 3508.96,
+   "text": "it's not"
+  },
+  {
+   "start": 3506.56,
+   "end": 3511.44,
+   "text": "consistent enough to create a pulse that"
+  },
+  {
+   "start": 3508.96,
+   "end": 3514.0,
+   "text": "one is not shockable"
+  },
+  {
+   "start": 3511.44,
+   "end": 3516.96,
+   "text": "the next one is asystole so your classic"
+  },
+  {
+   "start": 3514.0,
+   "end": 3518.48,
+   "text": "flat line and again that one is not a"
+  },
+  {
+   "start": 3516.96,
+   "end": 3520.72,
+   "text": "shockable rhythm"
+  },
+  {
+   "start": 3518.48,
+   "end": 3523.2,
+   "text": "and then the bottom two are"
+  },
+  {
+   "start": 3520.72,
+   "end": 3526.32,
+   "text": "um our shockable rhythms so the first"
+  },
+  {
+   "start": 3523.2,
+   "end": 3527.36,
+   "text": "one is pulseless ventricular tachycardia"
+  },
+  {
+   "start": 3526.32,
+   "end": 3530.0,
+   "text": "and you can"
+  },
+  {
+   "start": 3527.36,
+   "end": 3532.48,
+   "text": "see that this kind of looks like a"
+  },
+  {
+   "start": 3530.0,
+   "end": 3534.0,
+   "text": "patient who has rnt ventricular"
+  },
+  {
+   "start": 3532.48,
+   "end": 3535.6,
+   "text": "tachycardia"
+  },
+  {
+   "start": 3534.0,
+   "end": 3537.6,
+   "text": "but the difference here is there's again"
+  },
+  {
+   "start": 3535.6,
+   "end": 3539.04,
+   "text": "no palpable pulses"
+  },
+  {
+   "start": 3537.6,
+   "end": 3540.96,
+   "text": "and so that is considered an arrest"
+  },
+  {
+   "start": 3539.04,
+   "end": 3543.36,
+   "text": "rhythm and then the last one is"
+  },
+  {
+   "start": 3540.96,
+   "end": 3545.84,
+   "text": "ventricular fibrillation and again both"
+  },
+  {
+   "start": 3543.36,
+   "end": 3545.84,
+   "text": "of those are"
+  },
+  {
+   "start": 3546.0,
+   "end": 3549.84,
+   "text": "indications for defibrillation"
+  },
+  {
+   "start": 3553.6,
+   "end": 3558.64,
+   "text": "that's all the questions we have"
+  },
+  {
+   "start": 3556.32,
+   "end": 3560.72,
+   "text": "okay"
+  },
+  {
+   "start": 3558.64,
+   "end": 3564.08,
+   "text": "uh thank you guys"
+  },
+  {
+   "start": 3560.72,
+   "end": 3566.4,
+   "text": "uh just a couple comments uh"
+  },
+  {
+   "start": 3564.08,
+   "end": 3568.72,
+   "text": "reminding that the ce credits will be"
+  },
+  {
+   "start": 3566.4,
+   "end": 3569.68,
+   "text": "you'll receive a survey uh returning the"
+  },
+  {
+   "start": 3568.72,
+   "end": 3572.4,
+   "text": "survey"
+  },
+  {
+   "start": 3569.68,
+   "end": 3573.76,
+   "text": "i will give you the ceu credits i'd also"
+  },
+  {
+   "start": 3572.4,
+   "end": 3575.28,
+   "text": "like to alert people to know that if"
+  },
+  {
+   "start": 3573.76,
+   "end": 3577.28,
+   "text": "you're interested in an additional or"
+  },
+  {
+   "start": 3575.28,
+   "end": 3580.08,
+   "text": "being invited to additional"
+  },
+  {
+   "start": 3577.28,
+   "end": 3583.12,
+   "text": "webinar content if you visit the nova"
+  },
+  {
+   "start": 3580.08,
+   "end": 3586.0,
+   "text": "biomedical dash webinar website"
+  },
+  {
+   "start": 3583.12,
+   "end": 3587.2,
+   "text": "we have both upcoming and on-demand"
+  },
+  {
+   "start": 3586.0,
+   "end": 3589.36,
+   "text": "webinars"
+  },
+  {
+   "start": 3587.2,
+   "end": 3590.64,
+   "text": "uh listed there so you could listen to"
+  },
+  {
+   "start": 3589.36,
+   "end": 3593.76,
+   "text": "at any time"
+  },
+  {
+   "start": 3590.64,
+   "end": 3596.48,
+   "text": "including a webinar that was presented a"
+  },
+  {
+   "start": 3593.76,
+   "end": 3598.08,
+   "text": "couple months ago by dr wolfe on blood"
+  },
+  {
+   "start": 3596.48,
+   "end": 3601.04,
+   "text": "gas sampling"
+  },
+  {
+   "start": 3598.08,
+   "end": 3602.8,
+   "text": "uh in all companion animals so"
+  },
+  {
+   "start": 3601.04,
+   "end": 3607.36,
+   "text": "that concludes our"
+  },
+  {
+   "start": 3602.8,
+   "end": 3610.76,
+   "text": "program thank you all for participating"
+  },
+  {
+   "start": 3607.36,
+   "end": 3610.76,
+   "text": "thank you guys"
+  },
+  {
+   "start": 3652.0,
+   "end": 3654.08,
+   "text": "you"
+  }
+ ]
+}

@@ -1,0 +1,4628 @@
+{
+ "video_id": "2xh0JWOaP5g",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 924,
+ "cues": [
+  {
+   "start": 3.12,
+   "end": 8.24,
+   "text": "thank you for that introduction"
+  },
+  {
+   "start": 5.36,
+   "end": 9.92,
+   "text": "as you heard my name is jake wolf and i"
+  },
+  {
+   "start": 8.24,
+   "end": 13.04,
+   "text": "am presenting"
+  },
+  {
+   "start": 9.92,
+   "end": 14.4,
+   "text": "uh the topic for today entitled arterial"
+  },
+  {
+   "start": 13.04,
+   "end": 16.36,
+   "text": "blood gases"
+  },
+  {
+   "start": 14.4,
+   "end": 19.84,
+   "text": "obtaining a sample and avoiding"
+  },
+  {
+   "start": 16.36,
+   "end": 19.84,
+   "text": "pre-analytical errors"
+  },
+  {
+   "start": 19.92,
+   "end": 24.56,
+   "text": "when thinking about"
+  },
+  {
+   "start": 21.68,
+   "end": 26.64,
+   "text": "the term pre-analytical errors"
+  },
+  {
+   "start": 24.56,
+   "end": 28.16,
+   "text": "a number of studies have"
+  },
+  {
+   "start": 26.64,
+   "end": 32.16,
+   "text": "explained this quite nicely and"
+  },
+  {
+   "start": 28.16,
+   "end": 33.44,
+   "text": "describing a brain to brain loop concept"
+  },
+  {
+   "start": 32.16,
+   "end": 36.8,
+   "text": "where"
+  },
+  {
+   "start": 33.44,
+   "end": 38.32,
+   "text": "an initial test is ordered"
+  },
+  {
+   "start": 36.8,
+   "end": 43.2,
+   "text": "for spraying"
+  },
+  {
+   "start": 38.32,
+   "end": 46.16,
+   "text": "and then it is evaluated later on"
+  },
+  {
+   "start": 43.2,
+   "end": 49.76,
+   "text": "the second brain concept and in between"
+  },
+  {
+   "start": 46.16,
+   "end": 52.56,
+   "text": "we have the pre-analytical portion"
+  },
+  {
+   "start": 49.76,
+   "end": 53.76,
+   "text": "which marks the time from the ordering"
+  },
+  {
+   "start": 52.56,
+   "end": 54.64,
+   "text": "of the test"
+  },
+  {
+   "start": 53.76,
+   "end": 58.72,
+   "text": "to"
+  },
+  {
+   "start": 54.64,
+   "end": 61.04,
+   "text": "inserting the sample into a machine"
+  },
+  {
+   "start": 58.72,
+   "end": 63.68,
+   "text": "the analytical period"
+  },
+  {
+   "start": 61.04,
+   "end": 66.88,
+   "text": "which involves the"
+  },
+  {
+   "start": 63.68,
+   "end": 69.04,
+   "text": "machine's analysis of the sample"
+  },
+  {
+   "start": 66.88,
+   "end": 71.04,
+   "text": "and then the post-analytical period or"
+  },
+  {
+   "start": 69.04,
+   "end": 74.72,
+   "text": "the physician's interpretation of the"
+  },
+  {
+   "start": 71.04,
+   "end": 76.64,
+   "text": "results produced by the machine"
+  },
+  {
+   "start": 74.72,
+   "end": 79.28,
+   "text": "importantly"
+  },
+  {
+   "start": 76.64,
+   "end": 82.96,
+   "text": "when look at studies in human medicine"
+  },
+  {
+   "start": 79.28,
+   "end": 86.32,
+   "text": "have shown that pre-analytical errors"
+  },
+  {
+   "start": 82.96,
+   "end": 89.2,
+   "text": "account for approximately 75 percent of"
+  },
+  {
+   "start": 86.32,
+   "end": 91.2,
+   "text": "the errors in blood gas analysis"
+  },
+  {
+   "start": 89.2,
+   "end": 93.68,
+   "text": "therefore it's very important to think"
+  },
+  {
+   "start": 91.2,
+   "end": 96.56,
+   "text": "about the possible"
+  },
+  {
+   "start": 93.68,
+   "end": 100.92,
+   "text": "causes of these pre-analytical"
+  },
+  {
+   "start": 96.56,
+   "end": 100.92,
+   "text": "errors when obtaining a sample"
+  },
+  {
+   "start": 101.36,
+   "end": 107.44,
+   "text": "first let's remind ourselves on why we"
+  },
+  {
+   "start": 103.2,
+   "end": 109.52,
+   "text": "may perform a blood gas"
+  },
+  {
+   "start": 107.44,
+   "end": 111.44,
+   "text": "we usually receive these results"
+  },
+  {
+   "start": 109.52,
+   "end": 113.12,
+   "text": "immediately within"
+  },
+  {
+   "start": 111.44,
+   "end": 115.52,
+   "text": "a few minutes"
+  },
+  {
+   "start": 113.12,
+   "end": 117.68,
+   "text": "and thus they can be an essential"
+  },
+  {
+   "start": 115.52,
+   "end": 121.6,
+   "text": "tool in both in"
+  },
+  {
+   "start": 117.68,
+   "end": 124.0,
+   "text": "an emergency room or in a busy icu"
+  },
+  {
+   "start": 121.6,
+   "end": 125.36,
+   "text": "blood gases give us an acid-base"
+  },
+  {
+   "start": 124.0,
+   "end": 127.6,
+   "text": "assessment"
+  },
+  {
+   "start": 125.36,
+   "end": 130.32,
+   "text": "and if they're an arterial sample they"
+  },
+  {
+   "start": 127.6,
+   "end": 132.96,
+   "text": "also allow us to evaluate a patient's"
+  },
+  {
+   "start": 130.32,
+   "end": 134.96,
+   "text": "oxygenation and ventilation"
+  },
+  {
+   "start": 132.96,
+   "end": 135.92,
+   "text": "and studies in human medicine have shown"
+  },
+  {
+   "start": 134.96,
+   "end": 139.04,
+   "text": "that"
+  },
+  {
+   "start": 135.92,
+   "end": 141.84,
+   "text": "blood gases are more likely to identify"
+  },
+  {
+   "start": 139.04,
+   "end": 144.88,
+   "text": "hypoxemia in patients especially amongst"
+  },
+  {
+   "start": 141.84,
+   "end": 147.92,
+   "text": "outpatients than a physical exam or"
+  },
+  {
+   "start": 144.88,
+   "end": 147.92,
+   "text": "pulse oximetry"
+  },
+  {
+   "start": 148.16,
+   "end": 152.48,
+   "text": "a number of blood gas machines also"
+  },
+  {
+   "start": 150.24,
+   "end": 155.36,
+   "text": "allow us to assess other clinical"
+  },
+  {
+   "start": 152.48,
+   "end": 158.0,
+   "text": "pathologic variables and have added in"
+  },
+  {
+   "start": 155.36,
+   "end": 160.64,
+   "text": "analysis of electrolytes kidney values"
+  },
+  {
+   "start": 158.0,
+   "end": 165.04,
+   "text": "such as bun and creatinine and blood"
+  },
+  {
+   "start": 160.64,
+   "end": 165.04,
+   "text": "glucose expanding their utility"
+  },
+  {
+   "start": 166.8,
+   "end": 172.8,
+   "text": "our first focus is going to be on"
+  },
+  {
+   "start": 169.6,
+   "end": 176.08,
+   "text": "arterial blood gas specimen collection"
+  },
+  {
+   "start": 172.8,
+   "end": 176.08,
+   "text": "in dogs and cats"
+  },
+  {
+   "start": 177.6,
+   "end": 182.56,
+   "text": "there are a number of sites available"
+  },
+  {
+   "start": 179.68,
+   "end": 185.36,
+   "text": "for arterial blood sampling"
+  },
+  {
+   "start": 182.56,
+   "end": 187.04,
+   "text": "sites include the dorsal pedal artery"
+  },
+  {
+   "start": 185.36,
+   "end": 190.88,
+   "text": "which is probably the most common"
+  },
+  {
+   "start": 187.04,
+   "end": 193.6,
+   "text": "location in conscious dogs and cath"
+  },
+  {
+   "start": 190.88,
+   "end": 196.08,
+   "text": "the auricular artery"
+  },
+  {
+   "start": 193.6,
+   "end": 200.96,
+   "text": "the coccygeal artery which is more"
+  },
+  {
+   "start": 196.08,
+   "end": 203.6,
+   "text": "commonly performed in anesthetized cats"
+  },
+  {
+   "start": 200.96,
+   "end": 205.68,
+   "text": "and then less commonly performed areas"
+  },
+  {
+   "start": 203.6,
+   "end": 207.68,
+   "text": "include the femoral artery and the"
+  },
+  {
+   "start": 205.68,
+   "end": 209.36,
+   "text": "lingual artery the latter of which you"
+  },
+  {
+   "start": 207.68,
+   "end": 212.84,
+   "text": "would expect those animals need to be"
+  },
+  {
+   "start": 209.36,
+   "end": 212.84,
+   "text": "heavily sedated"
+  },
+  {
+   "start": 217.36,
+   "end": 223.92,
+   "text": "arterial catheterization is another way"
+  },
+  {
+   "start": 220.24,
+   "end": 226.0,
+   "text": "to obtain arterial blood gas samples and"
+  },
+  {
+   "start": 223.92,
+   "end": 228.64,
+   "text": "this is especially helpful if you are"
+  },
+  {
+   "start": 226.0,
+   "end": 230.0,
+   "text": "planning on obtaining repeated arterial"
+  },
+  {
+   "start": 228.64,
+   "end": 232.64,
+   "text": "samples"
+  },
+  {
+   "start": 230.0,
+   "end": 235.04,
+   "text": "whether it's under anesthesia or for a"
+  },
+  {
+   "start": 232.64,
+   "end": 237.28,
+   "text": "more critical patient"
+  },
+  {
+   "start": 235.04,
+   "end": 240.64,
+   "text": "the most common artery to"
+  },
+  {
+   "start": 237.28,
+   "end": 242.48,
+   "text": "catheterize is the dorsal pedal artery"
+  },
+  {
+   "start": 240.64,
+   "end": 246.56,
+   "text": "on the medial aspect"
+  },
+  {
+   "start": 242.48,
+   "end": 246.56,
+   "text": "of the distal hind limb"
+  },
+  {
+   "start": 246.64,
+   "end": 251.68,
+   "text": "while the video on this webinar"
+  },
+  {
+   "start": 249.44,
+   "end": 254.32,
+   "text": "will not play the slide sent to you"
+  },
+  {
+   "start": 251.68,
+   "end": 255.68,
+   "text": "after will showing catheterization of"
+  },
+  {
+   "start": 254.32,
+   "end": 257.36,
+   "text": "this artery"
+  },
+  {
+   "start": 255.68,
+   "end": 259.92,
+   "text": "the area should be"
+  },
+  {
+   "start": 257.36,
+   "end": 261.28,
+   "text": "clipped and then prepped in sterile"
+  },
+  {
+   "start": 259.92,
+   "end": 263.84,
+   "text": "fashion"
+  },
+  {
+   "start": 261.28,
+   "end": 265.6,
+   "text": "and then the artery is palpated usually"
+  },
+  {
+   "start": 263.84,
+   "end": 267.92,
+   "text": "with two fingers the middle finger and"
+  },
+  {
+   "start": 265.6,
+   "end": 271.12,
+   "text": "the index finger to get an idea of the"
+  },
+  {
+   "start": 267.92,
+   "end": 274.08,
+   "text": "pathway that the artery travels usually"
+  },
+  {
+   "start": 271.12,
+   "end": 275.44,
+   "text": "between the third and fourth digits"
+  },
+  {
+   "start": 274.08,
+   "end": 278.56,
+   "text": "the"
+  },
+  {
+   "start": 275.44,
+   "end": 282.08,
+   "text": "artery is then categorized"
+  },
+  {
+   "start": 278.56,
+   "end": 285.76,
+   "text": "by placing a small gauge catheter"
+  },
+  {
+   "start": 282.08,
+   "end": 287.6,
+   "text": "from distal to proximal into the artery"
+  },
+  {
+   "start": 285.76,
+   "end": 289.04,
+   "text": "the auricular artery also may be"
+  },
+  {
+   "start": 287.6,
+   "end": 291.36,
+   "text": "considered as a location for"
+  },
+  {
+   "start": 289.04,
+   "end": 294.56,
+   "text": "catheterization especially in hound dogs"
+  },
+  {
+   "start": 291.36,
+   "end": 294.56,
+   "text": "such as acetones"
+  },
+  {
+   "start": 294.72,
+   "end": 299.04,
+   "text": "the coccygeal artery can be a common"
+  },
+  {
+   "start": 296.8,
+   "end": 302.24,
+   "text": "location to catheterize especially in"
+  },
+  {
+   "start": 299.04,
+   "end": 304.0,
+   "text": "cats under anesthesia although this is"
+  },
+  {
+   "start": 302.24,
+   "end": 306.24,
+   "text": "not an option for"
+  },
+  {
+   "start": 304.0,
+   "end": 308.72,
+   "text": "awake animals"
+  },
+  {
+   "start": 306.24,
+   "end": 310.4,
+   "text": "much less commonly the femoral radial"
+  },
+  {
+   "start": 308.72,
+   "end": 313.2,
+   "text": "and brachial arteries may be"
+  },
+  {
+   "start": 310.4,
+   "end": 313.2,
+   "text": "catheterized"
+  },
+  {
+   "start": 313.44,
+   "end": 316.56,
+   "text": "there are a number of potential"
+  },
+  {
+   "start": 314.72,
+   "end": 319.84,
+   "text": "complications of arterial"
+  },
+  {
+   "start": 316.56,
+   "end": 322.4,
+   "text": "catheterization or sampling"
+  },
+  {
+   "start": 319.84,
+   "end": 323.52,
+   "text": "these can include hemorrhage from the"
+  },
+  {
+   "start": 322.4,
+   "end": 325.92,
+   "text": "artery"
+  },
+  {
+   "start": 323.52,
+   "end": 328.12,
+   "text": "and it may be best to avoid arterial"
+  },
+  {
+   "start": 325.92,
+   "end": 331.12,
+   "text": "sticks in bravocitopenic or"
+  },
+  {
+   "start": 328.12,
+   "end": 333.52,
+   "text": "coagulopathic animals"
+  },
+  {
+   "start": 331.12,
+   "end": 334.8,
+   "text": "hematoma formation is probably the most"
+  },
+  {
+   "start": 333.52,
+   "end": 337.28,
+   "text": "common"
+  },
+  {
+   "start": 334.8,
+   "end": 339.92,
+   "text": "complication found in"
+  },
+  {
+   "start": 337.28,
+   "end": 342.16,
+   "text": "our domestic species and therefore"
+  },
+  {
+   "start": 339.92,
+   "end": 344.08,
+   "text": "applying a tight bandage for a prolonged"
+  },
+  {
+   "start": 342.16,
+   "end": 346.0,
+   "text": "period of time is necessary post"
+  },
+  {
+   "start": 344.08,
+   "end": 349.04,
+   "text": "sampling"
+  },
+  {
+   "start": 346.0,
+   "end": 350.8,
+   "text": "thrombosis and distal ischemia"
+  },
+  {
+   "start": 349.04,
+   "end": 351.76,
+   "text": "infection"
+  },
+  {
+   "start": 350.8,
+   "end": 354.24,
+   "text": "pain"
+  },
+  {
+   "start": 351.76,
+   "end": 356.56,
+   "text": "and distant thrombi have also been"
+  },
+  {
+   "start": 354.24,
+   "end": 359.12,
+   "text": "reported"
+  },
+  {
+   "start": 356.56,
+   "end": 361.84,
+   "text": "anemia with repeated sampling is also"
+  },
+  {
+   "start": 359.12,
+   "end": 364.4,
+   "text": "common and studies in humans have shown"
+  },
+  {
+   "start": 361.84,
+   "end": 366.56,
+   "text": "that sampling can account for"
+  },
+  {
+   "start": 364.4,
+   "end": 369.2,
+   "text": "repeated sampling can account for 12 to"
+  },
+  {
+   "start": 366.56,
+   "end": 371.6,
+   "text": "21 percent of a patient's blood loss"
+  },
+  {
+   "start": 369.2,
+   "end": 375.44,
+   "text": "while in hospital with arterial blood"
+  },
+  {
+   "start": 371.6,
+   "end": 378.24,
+   "text": "gases themselves totaling 24 to 57"
+  },
+  {
+   "start": 375.44,
+   "end": 380.16,
+   "text": "milliliters per day removed from a"
+  },
+  {
+   "start": 378.24,
+   "end": 381.84,
+   "text": "patient"
+  },
+  {
+   "start": 380.16,
+   "end": 383.6,
+   "text": "and in many of our sickest patients who"
+  },
+  {
+   "start": 381.84,
+   "end": 385.12,
+   "text": "we may be performing arterial blood"
+  },
+  {
+   "start": 383.6,
+   "end": 387.36,
+   "text": "gases in"
+  },
+  {
+   "start": 385.12,
+   "end": 391.52,
+   "text": "this is especially important to remember"
+  },
+  {
+   "start": 387.36,
+   "end": 394.0,
+   "text": "as they may already be anemic coming in"
+  },
+  {
+   "start": 391.52,
+   "end": 397.68,
+   "text": "following sampling it's not uncommon for"
+  },
+  {
+   "start": 394.0,
+   "end": 400.24,
+   "text": "the artery to spasm after being"
+  },
+  {
+   "start": 397.68,
+   "end": 401.36,
+   "text": "catheterized or sampled from"
+  },
+  {
+   "start": 400.24,
+   "end": 403.68,
+   "text": "and"
+  },
+  {
+   "start": 401.36,
+   "end": 406.16,
+   "text": "that may make future draws from that"
+  },
+  {
+   "start": 403.68,
+   "end": 410.64,
+   "text": "artery more challenging as you will not"
+  },
+  {
+   "start": 406.16,
+   "end": 410.64,
+   "text": "be able to palpate the artery as easily"
+  },
+  {
+   "start": 414.64,
+   "end": 418.96,
+   "text": "there are a number of carrier options"
+  },
+  {
+   "start": 417.36,
+   "end": 423.28,
+   "text": "when"
+  },
+  {
+   "start": 418.96,
+   "end": 426.16,
+   "text": "attaining a blood gas sample"
+  },
+  {
+   "start": 423.28,
+   "end": 427.36,
+   "text": "gas tight syringes are probably the most"
+  },
+  {
+   "start": 426.16,
+   "end": 431.44,
+   "text": "common"
+  },
+  {
+   "start": 427.36,
+   "end": 433.36,
+   "text": "carrier to use for an arterial blood gas"
+  },
+  {
+   "start": 431.44,
+   "end": 434.4,
+   "text": "there is a long-standing debate within"
+  },
+  {
+   "start": 433.36,
+   "end": 438.24,
+   "text": "medicine"
+  },
+  {
+   "start": 434.4,
+   "end": 440.24,
+   "text": "about the use of glass versus plastic"
+  },
+  {
+   "start": 438.24,
+   "end": 442.56,
+   "text": "syringes"
+  },
+  {
+   "start": 440.24,
+   "end": 445.52,
+   "text": "glass syringes were previously"
+  },
+  {
+   "start": 442.56,
+   "end": 448.16,
+   "text": "preferentially used as plastic syringes"
+  },
+  {
+   "start": 445.52,
+   "end": 452.88,
+   "text": "are partially permeable to oxygen"
+  },
+  {
+   "start": 448.16,
+   "end": 454.8,
+   "text": "and therefore can alter your"
+  },
+  {
+   "start": 452.88,
+   "end": 456.56,
+   "text": "uh"
+  },
+  {
+   "start": 454.8,
+   "end": 458.16,
+   "text": "partial pressure of oxygen in the"
+  },
+  {
+   "start": 456.56,
+   "end": 460.72,
+   "text": "arterial sample"
+  },
+  {
+   "start": 458.16,
+   "end": 463.12,
+   "text": "however if samples are analyzed in under"
+  },
+  {
+   "start": 460.72,
+   "end": 466.24,
+   "text": "15 minutes these values should be"
+  },
+  {
+   "start": 463.12,
+   "end": 468.72,
+   "text": "acceptable in a plastic syringe"
+  },
+  {
+   "start": 466.24,
+   "end": 472.64,
+   "text": "it's important to note that oxygen"
+  },
+  {
+   "start": 468.72,
+   "end": 473.92,
+   "text": "permeability may worsen with decreased"
+  },
+  {
+   "start": 472.64,
+   "end": 475.2,
+   "text": "temperature"
+  },
+  {
+   "start": 473.92,
+   "end": 478.32,
+   "text": "so a"
+  },
+  {
+   "start": 475.2,
+   "end": 480.96,
+   "text": "plastic syringe that's placed on ice"
+  },
+  {
+   "start": 478.32,
+   "end": 484.08,
+   "text": "will be more permeable to oxygen and"
+  },
+  {
+   "start": 480.96,
+   "end": 486.96,
+   "text": "therefore may falsely increase your"
+  },
+  {
+   "start": 484.08,
+   "end": 489.2,
+   "text": "oxygen levels"
+  },
+  {
+   "start": 486.96,
+   "end": 491.6,
+   "text": "additionally specialized syringes with a"
+  },
+  {
+   "start": 489.2,
+   "end": 493.52,
+   "text": "vent do exist to allow for"
+  },
+  {
+   "start": 491.6,
+   "end": 495.44,
+   "text": "automatic filling of the syringe with"
+  },
+  {
+   "start": 493.52,
+   "end": 498.0,
+   "text": "the arterial pulse"
+  },
+  {
+   "start": 495.44,
+   "end": 500.32,
+   "text": "which is a good way to note that you"
+  },
+  {
+   "start": 498.0,
+   "end": 502.64,
+   "text": "have entered an artery rather than a"
+  },
+  {
+   "start": 500.32,
+   "end": 504.8,
+   "text": "vein"
+  },
+  {
+   "start": 502.64,
+   "end": 507.04,
+   "text": "tight-fitting plungers or stoppers are"
+  },
+  {
+   "start": 504.8,
+   "end": 508.0,
+   "text": "essential for these syringes"
+  },
+  {
+   "start": 507.04,
+   "end": 509.92,
+   "text": "to"
+  },
+  {
+   "start": 508.0,
+   "end": 511.04,
+   "text": "prevent"
+  },
+  {
+   "start": 509.92,
+   "end": 514.72,
+   "text": "the"
+  },
+  {
+   "start": 511.04,
+   "end": 518.4,
+   "text": "equal equilibriation with"
+  },
+  {
+   "start": 514.72,
+   "end": 518.4,
+   "text": "atmospheric oxygen and"
+  },
+  {
+   "start": 518.84,
+   "end": 525.44,
+   "text": "co2 you may also draw arterial samples"
+  },
+  {
+   "start": 522.96,
+   "end": 528.48,
+   "text": "up in a syringe and then place them in"
+  },
+  {
+   "start": 525.44,
+   "end": 531.84,
+   "text": "an anticoagulated"
+  },
+  {
+   "start": 528.48,
+   "end": 535.28,
+   "text": "test uh blood tube"
+  },
+  {
+   "start": 531.84,
+   "end": 537.52,
+   "text": "or draw them up into draw them up into a"
+  },
+  {
+   "start": 535.28,
+   "end": 541.04,
+   "text": "syringe and place them in a capillary"
+  },
+  {
+   "start": 537.52,
+   "end": 541.04,
+   "text": "tube as seen on the right"
+  },
+  {
+   "start": 541.2,
+   "end": 545.52,
+   "text": "which carrier option you use may be"
+  },
+  {
+   "start": 543.44,
+   "end": 546.56,
+   "text": "governed by the type of analyzer you"
+  },
+  {
+   "start": 545.52,
+   "end": 549.84,
+   "text": "have"
+  },
+  {
+   "start": 546.56,
+   "end": 553.04,
+   "text": "and most analyzers require at least .3"
+  },
+  {
+   "start": 549.84,
+   "end": 555.36,
+   "text": "milliliters of whole anticoagulated"
+  },
+  {
+   "start": 553.04,
+   "end": 555.36,
+   "text": "blood"
+  },
+  {
+   "start": 558.64,
+   "end": 563.36,
+   "text": "as alluded to in the previous slide"
+  },
+  {
+   "start": 561.32,
+   "end": 565.6,
+   "text": "anticoagulation is"
+  },
+  {
+   "start": 563.36,
+   "end": 569.68,
+   "text": "essential for"
+  },
+  {
+   "start": 565.6,
+   "end": 572.56,
+   "text": "evaluation of arterial blood gases"
+  },
+  {
+   "start": 569.68,
+   "end": 576.72,
+   "text": "heparin is the anticoagulant of choice"
+  },
+  {
+   "start": 572.56,
+   "end": 578.64,
+   "text": "as edta will chelate cations and prevent"
+  },
+  {
+   "start": 576.72,
+   "end": 580.48,
+   "text": "evaluation of"
+  },
+  {
+   "start": 578.64,
+   "end": 582.72,
+   "text": "your"
+  },
+  {
+   "start": 580.48,
+   "end": 584.96,
+   "text": "sodium potassium as well as your"
+  },
+  {
+   "start": 582.72,
+   "end": 587.76,
+   "text": "chloride and therefore your acid-base"
+  },
+  {
+   "start": 584.96,
+   "end": 587.76,
+   "text": "status as well"
+  },
+  {
+   "start": 588.64,
+   "end": 593.92,
+   "text": "there are two options for heparinization"
+  },
+  {
+   "start": 594.16,
+   "end": 599.76,
+   "text": "sodium heparin which is most commonly"
+  },
+  {
+   "start": 597.52,
+   "end": 602.64,
+   "text": "found in its liquid form"
+  },
+  {
+   "start": 599.76,
+   "end": 606.72,
+   "text": "and lithium heparin"
+  },
+  {
+   "start": 602.64,
+   "end": 608.48,
+   "text": "sodium heparin may bind cations"
+  },
+  {
+   "start": 606.72,
+   "end": 612.24,
+   "text": "and therefore will affect your sodium"
+  },
+  {
+   "start": 608.48,
+   "end": 612.24,
+   "text": "potassium and chloride levels"
+  },
+  {
+   "start": 612.32,
+   "end": 618.8,
+   "text": "it may also cause a decreased paco2 and"
+  },
+  {
+   "start": 616.08,
+   "end": 621.36,
+   "text": "bicarbonate if diluted to more than 10"
+  },
+  {
+   "start": 618.8,
+   "end": 621.36,
+   "text": "percent"
+  },
+  {
+   "start": 621.76,
+   "end": 628.24,
+   "text": "60 units per milliliter of sodium"
+  },
+  {
+   "start": 625.44,
+   "end": 629.28,
+   "text": "heparin has been shown to significantly"
+  },
+  {
+   "start": 628.24,
+   "end": 632.88,
+   "text": "decrease"
+  },
+  {
+   "start": 629.28,
+   "end": 637.2,
+   "text": "the aforementioned values so your pa co2"
+  },
+  {
+   "start": 632.88,
+   "end": 637.2,
+   "text": "your bicarbonate and your electrolytes"
+  },
+  {
+   "start": 637.28,
+   "end": 643.6,
+   "text": "as well as your pao2"
+  },
+  {
+   "start": 641.28,
+   "end": 647.36,
+   "text": "however"
+  },
+  {
+   "start": 643.6,
+   "end": 649.68,
+   "text": "that quantity of sodium heparin"
+  },
+  {
+   "start": 647.36,
+   "end": 653.12,
+   "text": "may not cause clinically significant"
+  },
+  {
+   "start": 649.68,
+   "end": 655.76,
+   "text": "changes in your ph"
+  },
+  {
+   "start": 653.12,
+   "end": 656.96,
+   "text": "a study performed in client-owned"
+  },
+  {
+   "start": 655.76,
+   "end": 660.48,
+   "text": "dogs"
+  },
+  {
+   "start": 656.96,
+   "end": 661.6,
+   "text": "showed significant changes in co2 base"
+  },
+  {
+   "start": 660.48,
+   "end": 665.2,
+   "text": "excess"
+  },
+  {
+   "start": 661.6,
+   "end": 668.24,
+   "text": "and lactate calcium and potassium levels"
+  },
+  {
+   "start": 665.2,
+   "end": 669.76,
+   "text": "all decreased using liquid sodium"
+  },
+  {
+   "start": 668.24,
+   "end": 672.08,
+   "text": "heparin"
+  },
+  {
+   "start": 669.76,
+   "end": 674.4,
+   "text": "this was especially pronounced with 0.1"
+  },
+  {
+   "start": 672.08,
+   "end": 677.04,
+   "text": "milliliters of heparin used per"
+  },
+  {
+   "start": 674.4,
+   "end": 677.04,
+   "text": "milliliter"
+  },
+  {
+   "start": 677.6,
+   "end": 682.32,
+   "text": "there have been conflicting study"
+  },
+  {
+   "start": 679.68,
+   "end": 684.4,
+   "text": "results on whether ph and po2 are more"
+  },
+  {
+   "start": 682.32,
+   "end": 687.28,
+   "text": "significantly affected"
+  },
+  {
+   "start": 684.4,
+   "end": 689.04,
+   "text": "however sodium heparin solution has a ph"
+  },
+  {
+   "start": 687.28,
+   "end": 689.68,
+   "text": "of 6.4"
+  },
+  {
+   "start": 689.04,
+   "end": 693.32,
+   "text": "a"
+  },
+  {
+   "start": 689.68,
+   "end": 694.88,
+   "text": "pco2 of seven and a half and a po2 of"
+  },
+  {
+   "start": 693.32,
+   "end": 698.64,
+   "text": "160."
+  },
+  {
+   "start": 694.88,
+   "end": 702.24,
+   "text": "so it would not be surprising that"
+  },
+  {
+   "start": 698.64,
+   "end": 703.6,
+   "text": "overusing the amount of sodium heparin"
+  },
+  {
+   "start": 702.24,
+   "end": 706.4,
+   "text": "via"
+  },
+  {
+   "start": 703.6,
+   "end": 708.96,
+   "text": "dilution could cause significant changes"
+  },
+  {
+   "start": 706.4,
+   "end": 712.16,
+   "text": "in those values"
+  },
+  {
+   "start": 708.96,
+   "end": 714.96,
+   "text": "many people when drawing up an arterial"
+  },
+  {
+   "start": 712.16,
+   "end": 717.36,
+   "text": "blood gas will use an evacuated syringe"
+  },
+  {
+   "start": 714.96,
+   "end": 718.56,
+   "text": "technique where you will draw up sodium"
+  },
+  {
+   "start": 717.36,
+   "end": 721.52,
+   "text": "heparin"
+  },
+  {
+   "start": 718.56,
+   "end": 723.52,
+   "text": "several times line the syringe and then"
+  },
+  {
+   "start": 721.52,
+   "end": 726.0,
+   "text": "inject back into the bottle of sodium"
+  },
+  {
+   "start": 723.52,
+   "end": 726.0,
+   "text": "heparin"
+  },
+  {
+   "start": 726.16,
+   "end": 731.12,
+   "text": "this technique may be acceptable for"
+  },
+  {
+   "start": 729.6,
+   "end": 736.0,
+   "text": "all"
+  },
+  {
+   "start": 731.12,
+   "end": 736.0,
+   "text": "evaluations except ionized calcium"
+  },
+  {
+   "start": 737.2,
+   "end": 741.68,
+   "text": "when using sodium heparin you should"
+  },
+  {
+   "start": 739.92,
+   "end": 745.28,
+   "text": "dilute the"
+  },
+  {
+   "start": 741.68,
+   "end": 748.48,
+   "text": "sample no more than 3.8 percent which is"
+  },
+  {
+   "start": 745.28,
+   "end": 750.56,
+   "text": "essentially 40 units for one milliliter"
+  },
+  {
+   "start": 748.48,
+   "end": 752.24,
+   "text": "however if you acquire"
+  },
+  {
+   "start": 750.56,
+   "end": 753.12,
+   "text": "less blood than that"
+  },
+  {
+   "start": 752.24,
+   "end": 756.48,
+   "text": "on"
+  },
+  {
+   "start": 753.12,
+   "end": 758.4,
+   "text": "your sample during your sampling"
+  },
+  {
+   "start": 756.48,
+   "end": 761.12,
+   "text": "this will further dilute and may affect"
+  },
+  {
+   "start": 758.4,
+   "end": 761.12,
+   "text": "your values"
+  },
+  {
+   "start": 761.36,
+   "end": 764.72,
+   "text": "truly"
+  },
+  {
+   "start": 762.4,
+   "end": 766.24,
+   "text": "one unit per milliliter"
+  },
+  {
+   "start": 764.72,
+   "end": 769.92,
+   "text": "of heparin"
+  },
+  {
+   "start": 766.24,
+   "end": 773.84,
+   "text": "is all that is likely necessary to"
+  },
+  {
+   "start": 769.92,
+   "end": 773.84,
+   "text": "anticoagulate your sample"
+  },
+  {
+   "start": 774.4,
+   "end": 778.16,
+   "text": "lithium heparin"
+  },
+  {
+   "start": 775.92,
+   "end": 780.4,
+   "text": "is probably more commonly used in its"
+  },
+  {
+   "start": 778.16,
+   "end": 782.48,
+   "text": "lyophilized form"
+  },
+  {
+   "start": 780.4,
+   "end": 784.56,
+   "text": "in pre-purchased syringes that have"
+  },
+  {
+   "start": 782.48,
+   "end": 787.04,
+   "text": "already been anticoagulated"
+  },
+  {
+   "start": 784.56,
+   "end": 790.08,
+   "text": "and you must use this form if your"
+  },
+  {
+   "start": 787.04,
+   "end": 794.16,
+   "text": "analyzer has an ionized calcium and you"
+  },
+  {
+   "start": 790.08,
+   "end": 794.16,
+   "text": "are analyzing the ionized calcium"
+  },
+  {
+   "start": 797.76,
+   "end": 804.08,
+   "text": "it is important to confirm that you have"
+  },
+  {
+   "start": 800.88,
+   "end": 806.08,
+   "text": "drawn an arterial sample"
+  },
+  {
+   "start": 804.08,
+   "end": 809.52,
+   "text": "when"
+  },
+  {
+   "start": 806.08,
+   "end": 812.4,
+   "text": "evaluating your arterial blood gas"
+  },
+  {
+   "start": 809.52,
+   "end": 815.44,
+   "text": "this is especially true because"
+  },
+  {
+   "start": 812.4,
+   "end": 818.32,
+   "text": "in hypoxamic patients the"
+  },
+  {
+   "start": 815.44,
+   "end": 819.76,
+   "text": "pao2 may be significantly low"
+  },
+  {
+   "start": 818.32,
+   "end": 821.44,
+   "text": "and therefore"
+  },
+  {
+   "start": 819.76,
+   "end": 824.8,
+   "text": "it can be confusing whether this is a"
+  },
+  {
+   "start": 821.44,
+   "end": 826.8,
+   "text": "venous or arterial sample"
+  },
+  {
+   "start": 824.8,
+   "end": 830.08,
+   "text": "the best way to do this is to draw a"
+  },
+  {
+   "start": 826.8,
+   "end": 833.04,
+   "text": "concurrent venous sample"
+  },
+  {
+   "start": 830.08,
+   "end": 834.48,
+   "text": "evaluation of the two samples will show"
+  },
+  {
+   "start": 833.04,
+   "end": 835.44,
+   "text": "a"
+  },
+  {
+   "start": 834.48,
+   "end": 838.56,
+   "text": "lower"
+  },
+  {
+   "start": 835.44,
+   "end": 840.4,
+   "text": "p po2 for the venous sample than the"
+  },
+  {
+   "start": 838.56,
+   "end": 842.88,
+   "text": "pao2"
+  },
+  {
+   "start": 840.4,
+   "end": 844.48,
+   "text": "and the pvco2 will be higher than the"
+  },
+  {
+   "start": 842.88,
+   "end": 846.32,
+   "text": "paco2"
+  },
+  {
+   "start": 844.48,
+   "end": 850.16,
+   "text": "usually by about"
+  },
+  {
+   "start": 846.32,
+   "end": 853.2,
+   "text": "5 millimeters of mercury"
+  },
+  {
+   "start": 850.16,
+   "end": 856.4,
+   "text": "because the co2 will be higher in the"
+  },
+  {
+   "start": 853.2,
+   "end": 859.12,
+   "text": "venous rather than the arterial co2 the"
+  },
+  {
+   "start": 856.4,
+   "end": 863.52,
+   "text": "ph of the venous sample will also be"
+  },
+  {
+   "start": 859.12,
+   "end": 863.52,
+   "text": "lower than the arterial sample"
+  },
+  {
+   "start": 867.6,
+   "end": 875.52,
+   "text": "let us now briefly touch on acquiring"
+  },
+  {
+   "start": 871.84,
+   "end": 879.04,
+   "text": "arterial samples in exotic species"
+  },
+  {
+   "start": 875.52,
+   "end": 881.28,
+   "text": "as it is not uncommon to have exotic"
+  },
+  {
+   "start": 879.04,
+   "end": 882.4,
+   "text": "animals present through the emergency"
+  },
+  {
+   "start": 881.28,
+   "end": 885.52,
+   "text": "service"
+  },
+  {
+   "start": 882.4,
+   "end": 888.96,
+   "text": "or through your icu"
+  },
+  {
+   "start": 885.52,
+   "end": 891.28,
+   "text": "i've included only two"
+  },
+  {
+   "start": 888.96,
+   "end": 893.2,
+   "text": "groups of exotic species rabbits and"
+  },
+  {
+   "start": 891.28,
+   "end": 894.64,
+   "text": "citizens"
+  },
+  {
+   "start": 893.2,
+   "end": 896.56,
+   "text": "as"
+  },
+  {
+   "start": 894.64,
+   "end": 898.4,
+   "text": "studies evaluating"
+  },
+  {
+   "start": 896.56,
+   "end": 901.44,
+   "text": "samples in other species"
+  },
+  {
+   "start": 898.4,
+   "end": 904.32,
+   "text": "such as guinea pigs ferrets rats and"
+  },
+  {
+   "start": 901.44,
+   "end": 905.68,
+   "text": "mice have been performed either only on"
+  },
+  {
+   "start": 904.32,
+   "end": 906.88,
+   "text": "laboratory"
+  },
+  {
+   "start": 905.68,
+   "end": 909.28,
+   "text": "animals"
+  },
+  {
+   "start": 906.88,
+   "end": 910.56,
+   "text": "or on"
+  },
+  {
+   "start": 909.28,
+   "end": 912.64,
+   "text": "patients who are under general"
+  },
+  {
+   "start": 910.56,
+   "end": 915.04,
+   "text": "anesthesia due to the difficulty in"
+  },
+  {
+   "start": 912.64,
+   "end": 918.08,
+   "text": "acquiring an arterial sample"
+  },
+  {
+   "start": 915.04,
+   "end": 919.6,
+   "text": "therefore those results may not be as"
+  },
+  {
+   "start": 918.08,
+   "end": 922.32,
+   "text": "applicable to the ones that we see"
+  },
+  {
+   "start": 919.6,
+   "end": 925.6,
+   "text": "through our services"
+  },
+  {
+   "start": 922.32,
+   "end": 927.28,
+   "text": "let us start with rabbits"
+  },
+  {
+   "start": 925.6,
+   "end": 928.88,
+   "text": "most"
+  },
+  {
+   "start": 927.28,
+   "end": 931.6,
+   "text": "important study"
+  },
+  {
+   "start": 928.88,
+   "end": 934.72,
+   "text": "evaluating rabbit arterial blood gases"
+  },
+  {
+   "start": 931.6,
+   "end": 938.64,
+   "text": "was performed in conscious dwarf lops"
+  },
+  {
+   "start": 934.72,
+   "end": 938.64,
+   "text": "that presented for castration"
+  },
+  {
+   "start": 939.2,
+   "end": 943.2,
+   "text": "this arterial blood gases may be"
+  },
+  {
+   "start": 941.36,
+   "end": 945.36,
+   "text": "important as rabbits often"
+  },
+  {
+   "start": 943.2,
+   "end": 948.08,
+   "text": "hyperventilate or have altered"
+  },
+  {
+   "start": 945.36,
+   "end": 950.88,
+   "text": "respiratory status due to pain or"
+  },
+  {
+   "start": 948.08,
+   "end": 953.04,
+   "text": "abdominal diseases"
+  },
+  {
+   "start": 950.88,
+   "end": 955.04,
+   "text": "blood gases may also be important"
+  },
+  {
+   "start": 953.04,
+   "end": 956.96,
+   "text": "because rabbits may"
+  },
+  {
+   "start": 955.04,
+   "end": 960.24,
+   "text": "breath hold when nervous which can"
+  },
+  {
+   "start": 956.96,
+   "end": 963.04,
+   "text": "complicate your your findings"
+  },
+  {
+   "start": 960.24,
+   "end": 965.68,
+   "text": "and pulse oximetry is often unreliable"
+  },
+  {
+   "start": 963.04,
+   "end": 965.68,
+   "text": "in rabbits"
+  },
+  {
+   "start": 966.08,
+   "end": 970.8,
+   "text": "the central auricular artery"
+  },
+  {
+   "start": 968.4,
+   "end": 972.96,
+   "text": "is the artery of choice"
+  },
+  {
+   "start": 970.8,
+   "end": 974.96,
+   "text": "for sampling from"
+  },
+  {
+   "start": 972.96,
+   "end": 978.4,
+   "text": "domestic rabbits"
+  },
+  {
+   "start": 974.96,
+   "end": 981.92,
+   "text": "it is recommended that lidocaine gel is"
+  },
+  {
+   "start": 978.4,
+   "end": 983.52,
+   "text": "applied 60 minutes prior to sampling"
+  },
+  {
+   "start": 981.92,
+   "end": 984.64,
+   "text": "from the artery"
+  },
+  {
+   "start": 983.52,
+   "end": 986.48,
+   "text": "to"
+  },
+  {
+   "start": 984.64,
+   "end": 990.48,
+   "text": "decrease the pain associated with"
+  },
+  {
+   "start": 986.48,
+   "end": 990.48,
+   "text": "drawing from this dislocation"
+  },
+  {
+   "start": 990.8,
+   "end": 996.16,
+   "text": "hematoma formation is the most"
+  },
+  {
+   "start": 993.84,
+   "end": 998.32,
+   "text": "common risk associated with sampling the"
+  },
+  {
+   "start": 996.16,
+   "end": 1001.28,
+   "text": "auricular artery"
+  },
+  {
+   "start": 998.32,
+   "end": 1004.0,
+   "text": "importantly no ear tip necrosis was"
+  },
+  {
+   "start": 1001.28,
+   "end": 1005.92,
+   "text": "noted in rabbits that had arterial"
+  },
+  {
+   "start": 1004.0,
+   "end": 1008.92,
+   "text": "samples drawn from their auricular"
+  },
+  {
+   "start": 1005.92,
+   "end": 1008.92,
+   "text": "artery"
+  },
+  {
+   "start": 1010.08,
+   "end": 1014.4,
+   "text": "when sampling from rabbits it is"
+  },
+  {
+   "start": 1011.76,
+   "end": 1018.0,
+   "text": "important to note that the mean a"
+  },
+  {
+   "start": 1014.4,
+   "end": 1019.6,
+   "text": "gradient for rabbits is higher than for"
+  },
+  {
+   "start": 1018.0,
+   "end": 1024.52,
+   "text": "other species"
+  },
+  {
+   "start": 1019.6,
+   "end": 1024.52,
+   "text": "as amine was found in the mid-20s"
+  },
+  {
+   "start": 1025.12,
+   "end": 1029.68,
+   "text": "rabbits also have a higher dead space"
+  },
+  {
+   "start": 1027.44,
+   "end": 1032.08,
+   "text": "fraction than other species"
+  },
+  {
+   "start": 1029.68,
+   "end": 1033.72,
+   "text": "and therefore are less able to ventilate"
+  },
+  {
+   "start": 1032.08,
+   "end": 1035.44,
+   "text": "properly with higher"
+  },
+  {
+   "start": 1033.72,
+   "end": 1037.28,
+   "text": "hyperventilation"
+  },
+  {
+   "start": 1035.44,
+   "end": 1039.52,
+   "text": "due to the rebreathing of co2 that"
+  },
+  {
+   "start": 1037.28,
+   "end": 1041.68,
+   "text": "occurs"
+  },
+  {
+   "start": 1039.52,
+   "end": 1044.8,
+   "text": "if calculating your"
+  },
+  {
+   "start": 1041.68,
+   "end": 1046.88,
+   "text": "alveolar arterial gradient"
+  },
+  {
+   "start": 1044.8,
+   "end": 1048.56,
+   "text": "using an alternative respiratory"
+  },
+  {
+   "start": 1046.88,
+   "end": 1050.8,
+   "text": "quotient is"
+  },
+  {
+   "start": 1048.56,
+   "end": 1053.28,
+   "text": "essential due to rabbits"
+  },
+  {
+   "start": 1050.8,
+   "end": 1058.2,
+   "text": "herbivorous diet and it's recommended"
+  },
+  {
+   "start": 1053.28,
+   "end": 1058.2,
+   "text": "using an rq of 0.755"
+  },
+  {
+   "start": 1058.72,
+   "end": 1064.16,
+   "text": "a lower"
+  },
+  {
+   "start": 1060.48,
+   "end": 1066.4,
+   "text": "arterial partial pressure of co2 was"
+  },
+  {
+   "start": 1064.16,
+   "end": 1069.2,
+   "text": "noted for rabbits in this study than for"
+  },
+  {
+   "start": 1066.4,
+   "end": 1069.2,
+   "text": "other species"
+  },
+  {
+   "start": 1072.64,
+   "end": 1078.4,
+   "text": "in sampling from parrots"
+  },
+  {
+   "start": 1075.68,
+   "end": 1082.24,
+   "text": "the deep radial artery is the most"
+  },
+  {
+   "start": 1078.4,
+   "end": 1083.28,
+   "text": "common site for birds larger than 200"
+  },
+  {
+   "start": 1082.24,
+   "end": 1085.44,
+   "text": "grams"
+  },
+  {
+   "start": 1083.28,
+   "end": 1087.84,
+   "text": "and the superficial ulnar artery was the"
+  },
+  {
+   "start": 1085.44,
+   "end": 1091.52,
+   "text": "most common site for"
+  },
+  {
+   "start": 1087.84,
+   "end": 1094.64,
+   "text": "birds less than 200 grams"
+  },
+  {
+   "start": 1091.52,
+   "end": 1096.64,
+   "text": "you may also consider the cranial tarsal"
+  },
+  {
+   "start": 1094.64,
+   "end": 1099.2,
+   "text": "or dorsal metatarsal"
+  },
+  {
+   "start": 1096.64,
+   "end": 1102.88,
+   "text": "arteries especially for long-legged"
+  },
+  {
+   "start": 1099.2,
+   "end": 1102.88,
+   "text": "birds and water birds"
+  },
+  {
+   "start": 1103.44,
+   "end": 1110.56,
+   "text": "studies evaluating amazon parents"
+  },
+  {
+   "start": 1106.56,
+   "end": 1111.84,
+   "text": "showed that this species has a lower pa"
+  },
+  {
+   "start": 1110.56,
+   "end": 1114.96,
+   "text": "co2"
+  },
+  {
+   "start": 1111.84,
+   "end": 1118.16,
+   "text": "ionized calcium and bicarbonate than we"
+  },
+  {
+   "start": 1114.96,
+   "end": 1118.16,
+   "text": "see with our mammals"
+  },
+  {
+   "start": 1118.24,
+   "end": 1125.6,
+   "text": "most species of birds also have a higher"
+  },
+  {
+   "start": 1120.72,
+   "end": 1129.52,
+   "text": "ph up in the mid 7.4"
+  },
+  {
+   "start": 1125.6,
+   "end": 1131.44,
+   "text": "up to 7.5 as their mean ph"
+  },
+  {
+   "start": 1129.52,
+   "end": 1132.72,
+   "text": "which is important to keep in mind when"
+  },
+  {
+   "start": 1131.44,
+   "end": 1134.48,
+   "text": "evaluating"
+  },
+  {
+   "start": 1132.72,
+   "end": 1137.84,
+   "text": "against"
+  },
+  {
+   "start": 1134.48,
+   "end": 1137.84,
+   "text": "mammal species"
+  },
+  {
+   "start": 1140.56,
+   "end": 1144.8,
+   "text": "this slide nicely demonstrates the most"
+  },
+  {
+   "start": 1142.64,
+   "end": 1146.32,
+   "text": "common site for arterial sampling or"
+  },
+  {
+   "start": 1144.8,
+   "end": 1148.72,
+   "text": "catheterization"
+  },
+  {
+   "start": 1146.32,
+   "end": 1151.52,
+   "text": "in cytosines"
+  },
+  {
+   "start": 1148.72,
+   "end": 1152.64,
+   "text": "circled arteries include the deep radial"
+  },
+  {
+   "start": 1151.52,
+   "end": 1155.04,
+   "text": "artery"
+  },
+  {
+   "start": 1152.64,
+   "end": 1156.96,
+   "text": "and the superficial ulnar artery with"
+  },
+  {
+   "start": 1155.04,
+   "end": 1160.76,
+   "text": "the deep radial artery being the more"
+  },
+  {
+   "start": 1156.96,
+   "end": 1160.76,
+   "text": "common site of sampling"
+  },
+  {
+   "start": 1164.16,
+   "end": 1170.72,
+   "text": "let us next move on to"
+  },
+  {
+   "start": 1166.16,
+   "end": 1170.72,
+   "text": "arterial blood gas sample handling"
+  },
+  {
+   "start": 1175.52,
+   "end": 1181.04,
+   "text": "arterial samples should be evaluated as"
+  },
+  {
+   "start": 1177.92,
+   "end": 1183.44,
+   "text": "soon as possible to avoid any changes to"
+  },
+  {
+   "start": 1181.04,
+   "end": 1185.12,
+   "text": "metabolic or respiratory status for a"
+  },
+  {
+   "start": 1183.44,
+   "end": 1188.4,
+   "text": "patient"
+  },
+  {
+   "start": 1185.12,
+   "end": 1190.64,
+   "text": "if immediate evaluation is not possible"
+  },
+  {
+   "start": 1188.4,
+   "end": 1192.96,
+   "text": "then samples should be evaluated"
+  },
+  {
+   "start": 1190.64,
+   "end": 1194.24,
+   "text": "in less than 15 minutes and this should"
+  },
+  {
+   "start": 1192.96,
+   "end": 1197.28,
+   "text": "preserve"
+  },
+  {
+   "start": 1194.24,
+   "end": 1198.88,
+   "text": "most analytes"
+  },
+  {
+   "start": 1197.28,
+   "end": 1201.68,
+   "text": "the sample should be"
+  },
+  {
+   "start": 1198.88,
+   "end": 1204.24,
+   "text": "inverted several times before analysis"
+  },
+  {
+   "start": 1201.68,
+   "end": 1207.36,
+   "text": "to prevent clot formation"
+  },
+  {
+   "start": 1204.24,
+   "end": 1209.92,
+   "text": "it is also essential to evacuate any air"
+  },
+  {
+   "start": 1207.36,
+   "end": 1211.52,
+   "text": "bubbles that may have been acquired"
+  },
+  {
+   "start": 1209.92,
+   "end": 1215.2,
+   "text": "during sampling as this will"
+  },
+  {
+   "start": 1211.52,
+   "end": 1215.2,
+   "text": "significantly affect results"
+  },
+  {
+   "start": 1218.24,
+   "end": 1221.52,
+   "text": "whether to ice or not is one of the"
+  },
+  {
+   "start": 1219.92,
+   "end": 1222.96,
+   "text": "biggest debates"
+  },
+  {
+   "start": 1221.52,
+   "end": 1226.32,
+   "text": "in"
+  },
+  {
+   "start": 1222.96,
+   "end": 1228.64,
+   "text": "medicine regarding arterial blood gases"
+  },
+  {
+   "start": 1226.32,
+   "end": 1231.04,
+   "text": "as we discussed previously if the sample"
+  },
+  {
+   "start": 1228.64,
+   "end": 1234.64,
+   "text": "is in a plastic syringe icing may"
+  },
+  {
+   "start": 1231.04,
+   "end": 1237.68,
+   "text": "falsely increase your pao2"
+  },
+  {
+   "start": 1234.64,
+   "end": 1240.24,
+   "text": "indeed icing is probably unnecessary if"
+  },
+  {
+   "start": 1237.68,
+   "end": 1242.56,
+   "text": "the sample is analyzed within"
+  },
+  {
+   "start": 1240.24,
+   "end": 1245.76,
+   "text": "30 minutes"
+  },
+  {
+   "start": 1242.56,
+   "end": 1245.76,
+   "text": "as you can see from the chart"
+  },
+  {
+   "start": 1246.84,
+   "end": 1251.76,
+   "text": "below icing"
+  },
+  {
+   "start": 1249.84,
+   "end": 1253.6,
+   "text": "may be indicated depending on the time"
+  },
+  {
+   "start": 1251.76,
+   "end": 1255.28,
+   "text": "course of the sample"
+  },
+  {
+   "start": 1253.6,
+   "end": 1258.48,
+   "text": "as you can see"
+  },
+  {
+   "start": 1255.28,
+   "end": 1261.12,
+   "text": "pao2 and paco2 are equally affected"
+  },
+  {
+   "start": 1258.48,
+   "end": 1262.96,
+   "text": "within 15 minutes whether you ice or not"
+  },
+  {
+   "start": 1261.12,
+   "end": 1264.96,
+   "text": "however icing can prolong your"
+  },
+  {
+   "start": 1262.96,
+   "end": 1268.88,
+   "text": "evaluation of ph"
+  },
+  {
+   "start": 1264.96,
+   "end": 1268.88,
+   "text": "base excess and lactate"
+  },
+  {
+   "start": 1269.2,
+   "end": 1273.68,
+   "text": "there are statistically significant but"
+  },
+  {
+   "start": 1271.84,
+   "end": 1276.24,
+   "text": "clinically insignificant changes in"
+  },
+  {
+   "start": 1273.68,
+   "end": 1277.6,
+   "text": "electrolytes that occur"
+  },
+  {
+   "start": 1276.24,
+   "end": 1279.28,
+   "text": "when"
+  },
+  {
+   "start": 1277.6,
+   "end": 1281.6,
+   "text": "when there are delays in icing and"
+  },
+  {
+   "start": 1279.28,
+   "end": 1284.0,
+   "text": "evaluation"
+  },
+  {
+   "start": 1281.6,
+   "end": 1285.92,
+   "text": "importantly lactate increases rapidly"
+  },
+  {
+   "start": 1284.0,
+   "end": 1289.12,
+   "text": "when not cooled"
+  },
+  {
+   "start": 1285.92,
+   "end": 1291.6,
+   "text": "it increases on average by about"
+  },
+  {
+   "start": 1289.12,
+   "end": 1294.16,
+   "text": "point three 0.0.36 millimoles per liter"
+  },
+  {
+   "start": 1291.6,
+   "end": 1296.8,
+   "text": "over thirty minutes or point zero one"
+  },
+  {
+   "start": 1294.16,
+   "end": 1298.56,
+   "text": "millimoles per liter per minute"
+  },
+  {
+   "start": 1296.8,
+   "end": 1301.28,
+   "text": "indeed a significant difference was"
+  },
+  {
+   "start": 1298.56,
+   "end": 1303.76,
+   "text": "noted within five minutes between icing"
+  },
+  {
+   "start": 1301.28,
+   "end": 1306.56,
+   "text": "and not icing and therefore evaluation"
+  },
+  {
+   "start": 1303.76,
+   "end": 1307.68,
+   "text": "of un-iced lactate concentrate lactates"
+  },
+  {
+   "start": 1306.56,
+   "end": 1311.28,
+   "text": "should be"
+  },
+  {
+   "start": 1307.68,
+   "end": 1311.28,
+   "text": "processed as quickly as possible"
+  },
+  {
+   "start": 1312.96,
+   "end": 1317.84,
+   "text": "another common debate in blood gas"
+  },
+  {
+   "start": 1315.6,
+   "end": 1320.8,
+   "text": "analysis is whether temperature"
+  },
+  {
+   "start": 1317.84,
+   "end": 1323.2,
+   "text": "correction is whether is necessary for"
+  },
+  {
+   "start": 1320.8,
+   "end": 1325.28,
+   "text": "either arterial or venous blood gas"
+  },
+  {
+   "start": 1323.2,
+   "end": 1327.76,
+   "text": "analysis"
+  },
+  {
+   "start": 1325.28,
+   "end": 1332.96,
+   "text": "with a decreasing temperature the"
+  },
+  {
+   "start": 1327.76,
+   "end": 1334.4,
+   "text": "solubility of oxygen and co2 increases"
+  },
+  {
+   "start": 1332.96,
+   "end": 1337.6,
+   "text": "this results"
+  },
+  {
+   "start": 1334.4,
+   "end": 1340.4,
+   "text": "in a higher affinity for oxygen"
+  },
+  {
+   "start": 1337.6,
+   "end": 1341.6,
+   "text": "to hemoglobin"
+  },
+  {
+   "start": 1340.4,
+   "end": 1344.0,
+   "text": "this"
+  },
+  {
+   "start": 1341.6,
+   "end": 1346.08,
+   "text": "causes increased binding between the two"
+  },
+  {
+   "start": 1344.0,
+   "end": 1350.24,
+   "text": "of these and therefore decrease"
+  },
+  {
+   "start": 1346.08,
+   "end": 1352.72,
+   "text": "diffusion of oxygen to the tissues"
+  },
+  {
+   "start": 1350.24,
+   "end": 1355.12,
+   "text": "therefore a decreased temperature will"
+  },
+  {
+   "start": 1352.72,
+   "end": 1361.16,
+   "text": "result in a decreased co2"
+  },
+  {
+   "start": 1355.12,
+   "end": 1361.16,
+   "text": "a decreased oxygen and an increased ph"
+  },
+  {
+   "start": 1361.6,
+   "end": 1365.76,
+   "text": "therefore temperature correction would"
+  },
+  {
+   "start": 1363.36,
+   "end": 1366.88,
+   "text": "likely be ideal"
+  },
+  {
+   "start": 1365.76,
+   "end": 1368.88,
+   "text": "however"
+  },
+  {
+   "start": 1366.88,
+   "end": 1371.44,
+   "text": "we do not know the normal partial"
+  },
+  {
+   "start": 1368.88,
+   "end": 1373.28,
+   "text": "pressures for various temperatures and"
+  },
+  {
+   "start": 1371.44,
+   "end": 1375.28,
+   "text": "therefore this makes temperature"
+  },
+  {
+   "start": 1373.28,
+   "end": 1376.64,
+   "text": "correction difficult to interpret"
+  },
+  {
+   "start": 1375.28,
+   "end": 1378.24,
+   "text": "because we do not know the true"
+  },
+  {
+   "start": 1376.64,
+   "end": 1380.32,
+   "text": "reference ranges for various"
+  },
+  {
+   "start": 1378.24,
+   "end": 1382.48,
+   "text": "temperatures"
+  },
+  {
+   "start": 1380.32,
+   "end": 1384.24,
+   "text": "additionally we are using rectal"
+  },
+  {
+   "start": 1382.48,
+   "end": 1386.72,
+   "text": "temperatures rather than pulmonary"
+  },
+  {
+   "start": 1384.24,
+   "end": 1389.68,
+   "text": "arterial temperatures"
+  },
+  {
+   "start": 1386.72,
+   "end": 1390.88,
+   "text": "because of the air blood interface in"
+  },
+  {
+   "start": 1389.68,
+   "end": 1392.64,
+   "text": "the lungs"
+  },
+  {
+   "start": 1390.88,
+   "end": 1395.28,
+   "text": "pulmonary arterial temperatures are"
+  },
+  {
+   "start": 1392.64,
+   "end": 1396.96,
+   "text": "likely lower than rectal temperatures"
+  },
+  {
+   "start": 1395.28,
+   "end": 1401.28,
+   "text": "and therefore this may also affect"
+  },
+  {
+   "start": 1396.96,
+   "end": 1403.76,
+   "text": "results and studies in horses and ox"
+  },
+  {
+   "start": 1401.28,
+   "end": 1405.84,
+   "text": "supported these findings"
+  },
+  {
+   "start": 1403.76,
+   "end": 1408.8,
+   "text": "there is no consensus on whether"
+  },
+  {
+   "start": 1405.84,
+   "end": 1410.8,
+   "text": "temperature correction should occur"
+  },
+  {
+   "start": 1408.8,
+   "end": 1413.6,
+   "text": "for"
+  },
+  {
+   "start": 1410.8,
+   "end": 1415.6,
+   "text": "arterial blood gas analysis"
+  },
+  {
+   "start": 1413.6,
+   "end": 1417.76,
+   "text": "therefore the most important thing is to"
+  },
+  {
+   "start": 1415.6,
+   "end": 1420.48,
+   "text": "probably be consistent in either"
+  },
+  {
+   "start": 1417.76,
+   "end": 1423.84,
+   "text": "temperature correcting or not"
+  },
+  {
+   "start": 1420.48,
+   "end": 1423.84,
+   "text": "when evaluating your sample"
+  },
+  {
+   "start": 1425.36,
+   "end": 1429.6,
+   "text": "let us now move on to the most important"
+  },
+  {
+   "start": 1427.44,
+   "end": 1434.56,
+   "text": "part of the talk discussing"
+  },
+  {
+   "start": 1429.6,
+   "end": 1434.56,
+   "text": "arterial blood gas pre-analytical errors"
+  },
+  {
+   "start": 1437.04,
+   "end": 1442.84,
+   "text": "first we'll discuss errors with the"
+  },
+  {
+   "start": 1439.36,
+   "end": 1446.56,
+   "text": "partial pressure of arterial"
+  },
+  {
+   "start": 1442.84,
+   "end": 1450.16,
+   "text": "oxygen if you draw a sample and"
+  },
+  {
+   "start": 1446.56,
+   "end": 1452.56,
+   "text": "there are air bubbles within the sample"
+  },
+  {
+   "start": 1450.16,
+   "end": 1454.8,
+   "text": "even if they occupy only one to two"
+  },
+  {
+   "start": 1452.56,
+   "end": 1459.52,
+   "text": "percent of the blood volume this may"
+  },
+  {
+   "start": 1454.8,
+   "end": 1461.36,
+   "text": "artificially increase your pao2"
+  },
+  {
+   "start": 1459.52,
+   "end": 1464.08,
+   "text": "if your sample is allowed to mix with"
+  },
+  {
+   "start": 1461.36,
+   "end": 1467.12,
+   "text": "room air whether it sits too long is"
+  },
+  {
+   "start": 1464.08,
+   "end": 1469.92,
+   "text": "iced or is untapped this will often"
+  },
+  {
+   "start": 1467.12,
+   "end": 1472.24,
+   "text": "cause the pao2 to increase"
+  },
+  {
+   "start": 1469.92,
+   "end": 1474.88,
+   "text": "to greater than 100 millimeters of"
+  },
+  {
+   "start": 1472.24,
+   "end": 1474.88,
+   "text": "mercury"
+  },
+  {
+   "start": 1476.88,
+   "end": 1483.68,
+   "text": "severe leukocytosis may also cause"
+  },
+  {
+   "start": 1480.32,
+   "end": 1487.64,
+   "text": "consumption of oxygen and artifactually"
+  },
+  {
+   "start": 1483.68,
+   "end": 1487.64,
+   "text": "lower your pao2"
+  },
+  {
+   "start": 1491.12,
+   "end": 1494.24,
+   "text": "there are also a number of errors that"
+  },
+  {
+   "start": 1492.72,
+   "end": 1496.4,
+   "text": "we can see with the"
+  },
+  {
+   "start": 1494.24,
+   "end": 1498.48,
+   "text": "arterial partial pressure of carbon"
+  },
+  {
+   "start": 1496.4,
+   "end": 1501.44,
+   "text": "dioxide"
+  },
+  {
+   "start": 1498.48,
+   "end": 1504.88,
+   "text": "as we discussed before modest increases"
+  },
+  {
+   "start": 1501.44,
+   "end": 1507.2,
+   "text": "occur after 30 and 60 minutes at room"
+  },
+  {
+   "start": 1504.88,
+   "end": 1509.28,
+   "text": "temperature"
+  },
+  {
+   "start": 1507.2,
+   "end": 1514.56,
+   "text": "because atmospheric"
+  },
+  {
+   "start": 1509.28,
+   "end": 1516.72,
+   "text": "co2 is less than arterial co2 if mixing"
+  },
+  {
+   "start": 1514.56,
+   "end": 1522.48,
+   "text": "with room air is allowed this will"
+  },
+  {
+   "start": 1516.72,
+   "end": 1522.48,
+   "text": "falsely decrease your arterial co2"
+  },
+  {
+   "start": 1523.52,
+   "end": 1528.88,
+   "text": "with an increase in your arterial oxygen"
+  },
+  {
+   "start": 1526.64,
+   "end": 1530.0,
+   "text": "you may also have a concurrent decrease"
+  },
+  {
+   "start": 1528.88,
+   "end": 1532.16,
+   "text": "in your"
+  },
+  {
+   "start": 1530.0,
+   "end": 1535.52,
+   "text": "co2"
+  },
+  {
+   "start": 1532.16,
+   "end": 1537.2,
+   "text": "when this occurs your since your co2 is"
+  },
+  {
+   "start": 1535.52,
+   "end": 1539.44,
+   "text": "an acid"
+  },
+  {
+   "start": 1537.2,
+   "end": 1542.44,
+   "text": "your ph will"
+  },
+  {
+   "start": 1539.44,
+   "end": 1542.44,
+   "text": "increase"
+  },
+  {
+   "start": 1545.04,
+   "end": 1550.24,
+   "text": "the errors with bicarbonate and base"
+  },
+  {
+   "start": 1547.28,
+   "end": 1553.6,
+   "text": "excess are often less significant than"
+  },
+  {
+   "start": 1550.24,
+   "end": 1553.6,
+   "text": "those of other analytes"
+  },
+  {
+   "start": 1553.92,
+   "end": 1558.16,
+   "text": "as we mentioned before"
+  },
+  {
+   "start": 1556.4,
+   "end": 1560.72,
+   "text": "there may be"
+  },
+  {
+   "start": 1558.16,
+   "end": 1562.8,
+   "text": "dilutional changes in bicarbonate and"
+  },
+  {
+   "start": 1560.72,
+   "end": 1564.56,
+   "text": "therefore base excess"
+  },
+  {
+   "start": 1562.8,
+   "end": 1568.88,
+   "text": "with"
+  },
+  {
+   "start": 1564.56,
+   "end": 1568.88,
+   "text": "increased levels of sodium heparin"
+  },
+  {
+   "start": 1568.96,
+   "end": 1572.56,
+   "text": "increased lactate levels"
+  },
+  {
+   "start": 1571.36,
+   "end": 1574.88,
+   "text": "due to"
+  },
+  {
+   "start": 1572.56,
+   "end": 1577.44,
+   "text": "altered sampling time may cause a"
+  },
+  {
+   "start": 1574.88,
+   "end": 1580.48,
+   "text": "worsening metabolic acidosis as"
+  },
+  {
+   "start": 1577.44,
+   "end": 1583.88,
+   "text": "reflected with decreased bicarbonate or"
+  },
+  {
+   "start": 1580.48,
+   "end": 1583.88,
+   "text": "base excess"
+  },
+  {
+   "start": 1584.08,
+   "end": 1590.16,
+   "text": "bicarbonate levels may also drastically"
+  },
+  {
+   "start": 1586.64,
+   "end": 1594.32,
+   "text": "change depending on the co2 levels which"
+  },
+  {
+   "start": 1590.16,
+   "end": 1598.28,
+   "text": "are dependent on the listed variables in"
+  },
+  {
+   "start": 1594.32,
+   "end": 1598.28,
+   "text": "the previous slide"
+  },
+  {
+   "start": 1600.64,
+   "end": 1606.32,
+   "text": "there are also a number of"
+  },
+  {
+   "start": 1603.04,
+   "end": 1607.6,
+   "text": "pre-analytical errors that can occur"
+  },
+  {
+   "start": 1606.32,
+   "end": 1608.4,
+   "text": "with"
+  },
+  {
+   "start": 1607.6,
+   "end": 1610.72,
+   "text": "the"
+  },
+  {
+   "start": 1608.4,
+   "end": 1613.76,
+   "text": "electrolytes that we evaluate on the"
+  },
+  {
+   "start": 1610.72,
+   "end": 1617.84,
+   "text": "blood gas"
+  },
+  {
+   "start": 1613.76,
+   "end": 1620.48,
+   "text": "an alkalinia from a decreased co2 may"
+  },
+  {
+   "start": 1617.84,
+   "end": 1622.4,
+   "text": "cause an increased affinity of calcium"
+  },
+  {
+   "start": 1620.48,
+   "end": 1624.88,
+   "text": "for albumin"
+  },
+  {
+   "start": 1622.4,
+   "end": 1627.6,
+   "text": "this will result in a decreased ionized"
+  },
+  {
+   "start": 1624.88,
+   "end": 1629.04,
+   "text": "calcium and therefore"
+  },
+  {
+   "start": 1627.6,
+   "end": 1631.2,
+   "text": "if your"
+  },
+  {
+   "start": 1629.04,
+   "end": 1633.84,
+   "text": "sample has sat out too long"
+  },
+  {
+   "start": 1631.2,
+   "end": 1635.36,
+   "text": "and causes a decreased co2"
+  },
+  {
+   "start": 1633.84,
+   "end": 1639.12,
+   "text": "we're going to have a"
+  },
+  {
+   "start": 1635.36,
+   "end": 1641.76,
+   "text": "concurrent decrease to ionize calcium"
+  },
+  {
+   "start": 1639.12,
+   "end": 1644.32,
+   "text": "as we mentioned before liquid heparin"
+  },
+  {
+   "start": 1641.76,
+   "end": 1646.88,
+   "text": "will also cause calcium binding and"
+  },
+  {
+   "start": 1644.32,
+   "end": 1649.52,
+   "text": "therefore if you use sodium heparin"
+  },
+  {
+   "start": 1646.88,
+   "end": 1654.12,
+   "text": "in your syringe you cannot evalua"
+  },
+  {
+   "start": 1649.52,
+   "end": 1654.12,
+   "text": "evaluate your ionized calcium"
+  },
+  {
+   "start": 1655.84,
+   "end": 1659.6,
+   "text": "there are a number of errors that can"
+  },
+  {
+   "start": 1657.44,
+   "end": 1663.2,
+   "text": "occur with sodium"
+  },
+  {
+   "start": 1659.6,
+   "end": 1665.84,
+   "text": "analysis on arterial blood gases"
+  },
+  {
+   "start": 1663.2,
+   "end": 1669.52,
+   "text": "a study looking at pre-term infants in"
+  },
+  {
+   "start": 1665.84,
+   "end": 1672.72,
+   "text": "pediatrics noted that sodium levels were"
+  },
+  {
+   "start": 1669.52,
+   "end": 1675.44,
+   "text": "significantly lower on arterial blood"
+  },
+  {
+   "start": 1672.72,
+   "end": 1678.96,
+   "text": "gases than on a central analyzer"
+  },
+  {
+   "start": 1675.44,
+   "end": 1680.16,
+   "text": "with a mean difference of 4.2 millimole"
+  },
+  {
+   "start": 1678.96,
+   "end": 1683.12,
+   "text": "per liter"
+  },
+  {
+   "start": 1680.16,
+   "end": 1685.84,
+   "text": "between the two analyzers"
+  },
+  {
+   "start": 1683.12,
+   "end": 1689.56,
+   "text": "this difference was even more pronounced"
+  },
+  {
+   "start": 1685.84,
+   "end": 1689.56,
+   "text": "in patients with hypernatremia"
+  },
+  {
+   "start": 1690.12,
+   "end": 1696.16,
+   "text": "hypoalbuminemia may also exacerbate"
+  },
+  {
+   "start": 1693.04,
+   "end": 1698.32,
+   "text": "sodium changes"
+  },
+  {
+   "start": 1696.16,
+   "end": 1700.08,
+   "text": "also the phenomenon of"
+  },
+  {
+   "start": 1698.32,
+   "end": 1703.92,
+   "text": "pseudohyponatremia"
+  },
+  {
+   "start": 1700.08,
+   "end": 1707.28,
+   "text": "to consider with sodium analysis"
+  },
+  {
+   "start": 1703.92,
+   "end": 1710.64,
+   "text": "blood gas analyzers use the percent of"
+  },
+  {
+   "start": 1707.28,
+   "end": 1713.52,
+   "text": "water compared to non-aqueous components"
+  },
+  {
+   "start": 1710.64,
+   "end": 1715.28,
+   "text": "to construct the sodium concentration in"
+  },
+  {
+   "start": 1713.52,
+   "end": 1716.64,
+   "text": "a sample"
+  },
+  {
+   "start": 1715.28,
+   "end": 1719.6,
+   "text": "the normal"
+  },
+  {
+   "start": 1716.64,
+   "end": 1720.8,
+   "text": "percent of water to non-aqueous"
+  },
+  {
+   "start": 1719.6,
+   "end": 1725.68,
+   "text": "component"
+  },
+  {
+   "start": 1720.8,
+   "end": 1728.64,
+   "text": "is 93 to 7 percent"
+  },
+  {
+   "start": 1725.68,
+   "end": 1731.12,
+   "text": "if a patient has hyperlipidemia or"
+  },
+  {
+   "start": 1728.64,
+   "end": 1733.44,
+   "text": "hyperprotinemia as seen with multiple"
+  },
+  {
+   "start": 1731.12,
+   "end": 1735.92,
+   "text": "myeloma"
+  },
+  {
+   "start": 1733.44,
+   "end": 1739.2,
+   "text": "this may alter the water to non-aqueous"
+  },
+  {
+   "start": 1735.92,
+   "end": 1743.28,
+   "text": "ratio by increasing"
+  },
+  {
+   "start": 1739.2,
+   "end": 1743.28,
+   "text": "the non-aqueous component"
+  },
+  {
+   "start": 1743.52,
+   "end": 1748.08,
+   "text": "this will artifactually decrease the"
+  },
+  {
+   "start": 1745.92,
+   "end": 1749.6,
+   "text": "sodium on your"
+  },
+  {
+   "start": 1748.08,
+   "end": 1752.4,
+   "text": "analyzer"
+  },
+  {
+   "start": 1749.6,
+   "end": 1755.52,
+   "text": "since they are still using the 93 to 7"
+  },
+  {
+   "start": 1752.4,
+   "end": 1755.52,
+   "text": "percent comparison"
+  },
+  {
+   "start": 1759.36,
+   "end": 1764.56,
+   "text": "a number of errors can also occur with"
+  },
+  {
+   "start": 1761.76,
+   "end": 1768.72,
+   "text": "potassium evaluation"
+  },
+  {
+   "start": 1764.56,
+   "end": 1770.96,
+   "text": "hemolysis may cause modest changes in"
+  },
+  {
+   "start": 1768.72,
+   "end": 1772.16,
+   "text": "a variety of parameters"
+  },
+  {
+   "start": 1770.96,
+   "end": 1774.96,
+   "text": "however"
+  },
+  {
+   "start": 1772.16,
+   "end": 1777.92,
+   "text": "hemolysis can cause a significantly"
+  },
+  {
+   "start": 1774.96,
+   "end": 1780.4,
+   "text": "increased potassium"
+  },
+  {
+   "start": 1777.92,
+   "end": 1783.4,
+   "text": "due to the high potassium concentration"
+  },
+  {
+   "start": 1780.4,
+   "end": 1783.4,
+   "text": "intracellularly"
+  },
+  {
+   "start": 1783.44,
+   "end": 1789.6,
+   "text": "there is no reliable indicator of"
+  },
+  {
+   "start": 1786.16,
+   "end": 1790.88,
+   "text": "hemolysis on most blood gas machines"
+  },
+  {
+   "start": 1789.6,
+   "end": 1793.52,
+   "text": "and therefore"
+  },
+  {
+   "start": 1790.88,
+   "end": 1795.44,
+   "text": "either measuring cell-free hemoglobin on"
+  },
+  {
+   "start": 1793.52,
+   "end": 1798.72,
+   "text": "the analyzer"
+  },
+  {
+   "start": 1795.44,
+   "end": 1801.28,
+   "text": "or spinning down a micro-hematocrit tube"
+  },
+  {
+   "start": 1798.72,
+   "end": 1804.08,
+   "text": "could allow you to evaluate for levels"
+  },
+  {
+   "start": 1801.28,
+   "end": 1804.08,
+   "text": "of hemolysis"
+  },
+  {
+   "start": 1805.68,
+   "end": 1811.12,
+   "text": "this is especially important in patients"
+  },
+  {
+   "start": 1807.68,
+   "end": 1815.04,
+   "text": "who may have difficult blood draws or"
+  },
+  {
+   "start": 1811.12,
+   "end": 1817.04,
+   "text": "in patients in which the artery was"
+  },
+  {
+   "start": 1815.04,
+   "end": 1818.64,
+   "text": "stuck repeatedly"
+  },
+  {
+   "start": 1817.04,
+   "end": 1820.84,
+   "text": "causing"
+  },
+  {
+   "start": 1818.64,
+   "end": 1823.96,
+   "text": "altered"
+  },
+  {
+   "start": 1820.84,
+   "end": 1827.36,
+   "text": "sampling marked thrombocytosis or"
+  },
+  {
+   "start": 1823.96,
+   "end": 1830.4,
+   "text": "leukocytosis may also cause increased"
+  },
+  {
+   "start": 1827.36,
+   "end": 1830.4,
+   "text": "potassium levels"
+  },
+  {
+   "start": 1834.08,
+   "end": 1838.08,
+   "text": "there are a number of errors we can see"
+  },
+  {
+   "start": 1835.76,
+   "end": 1840.8,
+   "text": "with blood glucose on the arterial blood"
+  },
+  {
+   "start": 1838.08,
+   "end": 1842.88,
+   "text": "gas machine as well"
+  },
+  {
+   "start": 1840.8,
+   "end": 1845.04,
+   "text": "a prolonged pre-analytical time may"
+  },
+  {
+   "start": 1842.88,
+   "end": 1847.12,
+   "text": "allow for metabolism of glucose by"
+  },
+  {
+   "start": 1845.04,
+   "end": 1850.64,
+   "text": "erythrocytes and therefore falsely"
+  },
+  {
+   "start": 1847.12,
+   "end": 1852.64,
+   "text": "decrease your blood glucose"
+  },
+  {
+   "start": 1850.64,
+   "end": 1856.72,
+   "text": "there is great variability between"
+  },
+  {
+   "start": 1852.64,
+   "end": 1860.08,
+   "text": "arterial blood gas devices in their"
+  },
+  {
+   "start": 1856.72,
+   "end": 1862.48,
+   "text": "reliability for measurement of glucose"
+  },
+  {
+   "start": 1860.08,
+   "end": 1866.08,
+   "text": "and indeed arterial blood gases may have"
+  },
+  {
+   "start": 1862.48,
+   "end": 1870.16,
+   "text": "up to 42 variability compared to a"
+  },
+  {
+   "start": 1866.08,
+   "end": 1871.6,
+   "text": "central laboratory in some studies"
+  },
+  {
+   "start": 1870.16,
+   "end": 1873.44,
+   "text": "however"
+  },
+  {
+   "start": 1871.6,
+   "end": 1875.76,
+   "text": "human studies also found that arterial"
+  },
+  {
+   "start": 1873.44,
+   "end": 1879.64,
+   "text": "blood gases were likely more accurate"
+  },
+  {
+   "start": 1875.76,
+   "end": 1879.64,
+   "text": "than a bedside glucometer"
+  },
+  {
+   "start": 1880.72,
+   "end": 1885.68,
+   "text": "arterial blood gas machines also have"
+  },
+  {
+   "start": 1883.36,
+   "end": 1888.32,
+   "text": "often have unknown accuracy for patients"
+  },
+  {
+   "start": 1885.68,
+   "end": 1893.08,
+   "text": "with severe hypoglycemia and therefore"
+  },
+  {
+   "start": 1888.32,
+   "end": 1893.08,
+   "text": "these results should be double checked"
+  },
+  {
+   "start": 1894.48,
+   "end": 1901.28,
+   "text": "let us now evaluate a few cases to"
+  },
+  {
+   "start": 1897.6,
+   "end": 1901.28,
+   "text": "reinforce these ideas"
+  },
+  {
+   "start": 1902.24,
+   "end": 1906.64,
+   "text": "our first patient is arthur"
+  },
+  {
+   "start": 1904.72,
+   "end": 1910.4,
+   "text": "he is a one-year-old male castrated"
+  },
+  {
+   "start": 1906.64,
+   "end": 1913.12,
+   "text": "french bulldog who presented to your"
+  },
+  {
+   "start": 1910.4,
+   "end": 1916.24,
+   "text": "emergency service for an acute history"
+  },
+  {
+   "start": 1913.12,
+   "end": 1919.76,
+   "text": "of respiratory distress"
+  },
+  {
+   "start": 1916.24,
+   "end": 1922.64,
+   "text": "on your triaging exam he is orthopedic"
+  },
+  {
+   "start": 1919.76,
+   "end": 1926.56,
+   "text": "with a respiratory rate of 30 and"
+  },
+  {
+   "start": 1922.64,
+   "end": 1929.84,
+   "text": "markedly increased respiratory effort"
+  },
+  {
+   "start": 1926.56,
+   "end": 1932.56,
+   "text": "you perform an arterial blood draw"
+  },
+  {
+   "start": 1929.84,
+   "end": 1935.2,
+   "text": "however the machine was calibrating so"
+  },
+  {
+   "start": 1932.56,
+   "end": 1936.96,
+   "text": "it sat for 20 minutes"
+  },
+  {
+   "start": 1935.2,
+   "end": 1939.76,
+   "text": "you get your results"
+  },
+  {
+   "start": 1936.96,
+   "end": 1942.24,
+   "text": "on the arterial blood gas your ph is"
+  },
+  {
+   "start": 1939.76,
+   "end": 1945.52,
+   "text": "7.53"
+  },
+  {
+   "start": 1942.24,
+   "end": 1949.2,
+   "text": "your co2 is 20"
+  },
+  {
+   "start": 1945.52,
+   "end": 1950.72,
+   "text": "and your ox po2 is 95 millimeters of"
+  },
+  {
+   "start": 1949.2,
+   "end": 1953.84,
+   "text": "mercury"
+  },
+  {
+   "start": 1950.72,
+   "end": 1956.4,
+   "text": "your base excess is negative 4.7"
+  },
+  {
+   "start": 1953.84,
+   "end": 1958.8,
+   "text": "your lactate is 2.5"
+  },
+  {
+   "start": 1956.4,
+   "end": 1963.48,
+   "text": "your blood glucose is 50 and your"
+  },
+  {
+   "start": 1958.8,
+   "end": 1963.48,
+   "text": "ionized calcium is 0.79"
+  },
+  {
+   "start": 1965.04,
+   "end": 1969.44,
+   "text": "pretty clearly"
+  },
+  {
+   "start": 1966.72,
+   "end": 1972.4,
+   "text": "sitting for 20 minutes probably altered"
+  },
+  {
+   "start": 1969.44,
+   "end": 1974.96,
+   "text": "a number of these variables"
+  },
+  {
+   "start": 1972.4,
+   "end": 1977.84,
+   "text": "first as we discussed"
+  },
+  {
+   "start": 1974.96,
+   "end": 1979.92,
+   "text": "with the acid-base status"
+  },
+  {
+   "start": 1977.84,
+   "end": 1982.56,
+   "text": "for every minute that"
+  },
+  {
+   "start": 1979.92,
+   "end": 1984.56,
+   "text": "a sample sits the lactate may increase"
+  },
+  {
+   "start": 1982.56,
+   "end": 1986.32,
+   "text": "by 0.01"
+  },
+  {
+   "start": 1984.56,
+   "end": 1988.0,
+   "text": "millimoles per liter"
+  },
+  {
+   "start": 1986.32,
+   "end": 1990.4,
+   "text": "and therefore sitting for 20 minutes"
+  },
+  {
+   "start": 1988.0,
+   "end": 1991.52,
+   "text": "probably decreased our increased our"
+  },
+  {
+   "start": 1990.4,
+   "end": 1994.96,
+   "text": "lactate"
+  },
+  {
+   "start": 1991.52,
+   "end": 1996.48,
+   "text": "from 2.3 to 2.5"
+  },
+  {
+   "start": 1994.96,
+   "end": 1997.92,
+   "text": "and also would have caused a similar"
+  },
+  {
+   "start": 1996.48,
+   "end": 2001.6,
+   "text": "change"
+  },
+  {
+   "start": 1997.92,
+   "end": 2003.12,
+   "text": "and a decrease for our base access"
+  },
+  {
+   "start": 2001.6,
+   "end": 2005.2,
+   "text": "sitting for that long may have also"
+  },
+  {
+   "start": 2003.12,
+   "end": 2007.12,
+   "text": "allowed for metabolism of"
+  },
+  {
+   "start": 2005.2,
+   "end": 2009.04,
+   "text": "our"
+  },
+  {
+   "start": 2007.12,
+   "end": 2012.0,
+   "text": "glucose in the sample so that should be"
+  },
+  {
+   "start": 2009.04,
+   "end": 2014.16,
+   "text": "interpreted with caution"
+  },
+  {
+   "start": 2012.0,
+   "end": 2016.56,
+   "text": "my main concern for the oxygenation"
+  },
+  {
+   "start": 2014.16,
+   "end": 2019.28,
+   "text": "ventilation status for this patient is"
+  },
+  {
+   "start": 2016.56,
+   "end": 2020.32,
+   "text": "that the tube was probably not capped"
+  },
+  {
+   "start": 2019.28,
+   "end": 2022.72,
+   "text": "and this"
+  },
+  {
+   "start": 2020.32,
+   "end": 2024.32,
+   "text": "would have artifactually increased the"
+  },
+  {
+   "start": 2022.72,
+   "end": 2027.44,
+   "text": "po2"
+  },
+  {
+   "start": 2024.32,
+   "end": 2030.08,
+   "text": "artifactually decreased the co2"
+  },
+  {
+   "start": 2027.44,
+   "end": 2033.04,
+   "text": "and because of the decrease in the co2"
+  },
+  {
+   "start": 2030.08,
+   "end": 2035.36,
+   "text": "increase the ph making the sample"
+  },
+  {
+   "start": 2033.04,
+   "end": 2037.68,
+   "text": "alkalinic"
+  },
+  {
+   "start": 2035.36,
+   "end": 2041.84,
+   "text": "this alkalinia would have also caused"
+  },
+  {
+   "start": 2037.68,
+   "end": 2041.84,
+   "text": "the decreased ionized calcium"
+  },
+  {
+   "start": 2041.92,
+   "end": 2046.32,
+   "text": "therefore this sample does not allow us"
+  },
+  {
+   "start": 2044.4,
+   "end": 2049.36,
+   "text": "to truly"
+  },
+  {
+   "start": 2046.32,
+   "end": 2051.52,
+   "text": "address the patient's oxygenation"
+  },
+  {
+   "start": 2049.36,
+   "end": 2054.64,
+   "text": "ventilation"
+  },
+  {
+   "start": 2051.52,
+   "end": 2058.0,
+   "text": "acid-base status or electrolyte status"
+  },
+  {
+   "start": 2054.64,
+   "end": 2058.0,
+   "text": "and a new sample would need to be"
+  },
+  {
+   "start": 2058.84,
+   "end": 2064.48,
+   "text": "drawn our next patient is loki"
+  },
+  {
+   "start": 2062.4,
+   "end": 2065.84,
+   "text": "he is a six-year-old male castrated"
+  },
+  {
+   "start": 2064.48,
+   "end": 2068.48,
+   "text": "sphynx cat"
+  },
+  {
+   "start": 2065.84,
+   "end": 2072.88,
+   "text": "presented to us for a one day history of"
+  },
+  {
+   "start": 2068.48,
+   "end": 2075.44,
+   "text": "strangereal and urea and vomiting"
+  },
+  {
+   "start": 2072.88,
+   "end": 2078.64,
+   "text": "on your physical examination you know a"
+  },
+  {
+   "start": 2075.44,
+   "end": 2081.44,
+   "text": "large firm non-expressible bladder and"
+  },
+  {
+   "start": 2078.64,
+   "end": 2083.04,
+   "text": "an increased respiratory rate"
+  },
+  {
+   "start": 2081.44,
+   "end": 2084.88,
+   "text": "because if you do you do not know"
+  },
+  {
+   "start": 2083.04,
+   "end": 2086.88,
+   "text": "whether the increased respiratory rate"
+  },
+  {
+   "start": 2084.88,
+   "end": 2089.92,
+   "text": "is due to"
+  },
+  {
+   "start": 2086.88,
+   "end": 2092.16,
+   "text": "pain anxiety or"
+  },
+  {
+   "start": 2089.92,
+   "end": 2094.96,
+   "text": "an altered respiratory status"
+  },
+  {
+   "start": 2092.16,
+   "end": 2097.44,
+   "text": "you obtain an arterial blood gas"
+  },
+  {
+   "start": 2094.96,
+   "end": 2099.2,
+   "text": "unfortunately loki is not the most"
+  },
+  {
+   "start": 2097.44,
+   "end": 2101.04,
+   "text": "pleasant patient and you have a"
+  },
+  {
+   "start": 2099.2,
+   "end": 2103.44,
+   "text": "difficult blood draw from his femoral"
+  },
+  {
+   "start": 2101.04,
+   "end": 2106.16,
+   "text": "artery"
+  },
+  {
+   "start": 2103.44,
+   "end": 2108.08,
+   "text": "on your arterial blood gas you have a ph"
+  },
+  {
+   "start": 2106.16,
+   "end": 2109.6,
+   "text": "of 7.28"
+  },
+  {
+   "start": 2108.08,
+   "end": 2113.76,
+   "text": "a pco2"
+  },
+  {
+   "start": 2109.6,
+   "end": 2116.96,
+   "text": "of 37 millimeters of mercury and a po2"
+  },
+  {
+   "start": 2113.76,
+   "end": 2119.92,
+   "text": "of 88 millimeters of mercury"
+  },
+  {
+   "start": 2116.96,
+   "end": 2122.72,
+   "text": "your base excess is negative seven"
+  },
+  {
+   "start": 2119.92,
+   "end": 2125.68,
+   "text": "your lactate is 3.2"
+  },
+  {
+   "start": 2122.72,
+   "end": 2129.12,
+   "text": "your potassium is 6.7"
+  },
+  {
+   "start": 2125.68,
+   "end": 2132.08,
+   "text": "and your creatinine is 1.9"
+  },
+  {
+   "start": 2129.12,
+   "end": 2134.4,
+   "text": "therefore you have a mild acetamia with"
+  },
+  {
+   "start": 2132.08,
+   "end": 2137.96,
+   "text": "moderate hyperkalemia"
+  },
+  {
+   "start": 2134.4,
+   "end": 2137.96,
+   "text": "and a mild hyperlactitemia"
+  },
+  {
+   "start": 2139.04,
+   "end": 2143.84,
+   "text": "my suspicion is the hyperlactemia is"
+  },
+  {
+   "start": 2142.16,
+   "end": 2146.4,
+   "text": "probably due to the difficulty of the"
+  },
+  {
+   "start": 2143.84,
+   "end": 2146.4,
+   "text": "blood draw"
+  },
+  {
+   "start": 2146.8,
+   "end": 2150.96,
+   "text": "your creatinine should go up before your"
+  },
+  {
+   "start": 2149.44,
+   "end": 2153.2,
+   "text": "potassium"
+  },
+  {
+   "start": 2150.96,
+   "end": 2155.76,
+   "text": "in a patient with a"
+  },
+  {
+   "start": 2153.2,
+   "end": 2158.24,
+   "text": "post renal aesateemia"
+  },
+  {
+   "start": 2155.76,
+   "end": 2160.24,
+   "text": "and therefore this"
+  },
+  {
+   "start": 2158.24,
+   "end": 2163.12,
+   "text": "more significant increase in potassium"
+  },
+  {
+   "start": 2160.24,
+   "end": 2165.68,
+   "text": "than creatinine is suspicious"
+  },
+  {
+   "start": 2163.12,
+   "end": 2167.12,
+   "text": "i would worry that there could be"
+  },
+  {
+   "start": 2165.68,
+   "end": 2168.08,
+   "text": "hemolysis"
+  },
+  {
+   "start": 2167.12,
+   "end": 2169.12,
+   "text": "of"
+  },
+  {
+   "start": 2168.08,
+   "end": 2172.08,
+   "text": "the"
+  },
+  {
+   "start": 2169.12,
+   "end": 2173.6,
+   "text": "sample due to the difficult blood draw"
+  },
+  {
+   "start": 2172.08,
+   "end": 2176.4,
+   "text": "and i would recommend"
+  },
+  {
+   "start": 2173.6,
+   "end": 2178.64,
+   "text": "spinning a sample down to see if there"
+  },
+  {
+   "start": 2176.4,
+   "end": 2182.96,
+   "text": "is evidence of"
+  },
+  {
+   "start": 2178.64,
+   "end": 2182.96,
+   "text": "hemolysis when examining the plasma"
+  },
+  {
+   "start": 2185.52,
+   "end": 2189.76,
+   "text": "our next patient is ichabod"
+  },
+  {
+   "start": 2187.92,
+   "end": 2191.92,
+   "text": "he's a nine-year-old male castrated"
+  },
+  {
+   "start": 2189.76,
+   "end": 2194.96,
+   "text": "greyhound who's actually sitting right"
+  },
+  {
+   "start": 2191.92,
+   "end": 2197.2,
+   "text": "next to me as i'm recording this"
+  },
+  {
+   "start": 2194.96,
+   "end": 2199.04,
+   "text": "he was hit by a car and presents to you"
+  },
+  {
+   "start": 2197.2,
+   "end": 2201.6,
+   "text": "laterally recumbent"
+  },
+  {
+   "start": 2199.04,
+   "end": 2203.2,
+   "text": "on your physical examination"
+  },
+  {
+   "start": 2201.6,
+   "end": 2206.48,
+   "text": "and"
+  },
+  {
+   "start": 2203.2,
+   "end": 2208.48,
+   "text": "on a fest you suspect a hemoabdomen he"
+  },
+  {
+   "start": 2206.48,
+   "end": 2210.72,
+   "text": "also has an increased respiratory rate"
+  },
+  {
+   "start": 2208.48,
+   "end": 2214.08,
+   "text": "and effort and you are worried about"
+  },
+  {
+   "start": 2210.72,
+   "end": 2216.08,
+   "text": "about pulmonary contusions"
+  },
+  {
+   "start": 2214.08,
+   "end": 2218.88,
+   "text": "you quickly grab a syringe and"
+  },
+  {
+   "start": 2216.08,
+   "end": 2220.64,
+   "text": "heparinize it via an evacuated syringe"
+  },
+  {
+   "start": 2218.88,
+   "end": 2222.64,
+   "text": "technique"
+  },
+  {
+   "start": 2220.64,
+   "end": 2225.44,
+   "text": "and acquire a sample from the dorsal"
+  },
+  {
+   "start": 2222.64,
+   "end": 2225.44,
+   "text": "fetal artery"
+  },
+  {
+   "start": 2225.76,
+   "end": 2229.84,
+   "text": "your arterial blood gas reveals a ph of"
+  },
+  {
+   "start": 2228.24,
+   "end": 2233.2,
+   "text": "7.3"
+  },
+  {
+   "start": 2229.84,
+   "end": 2236.24,
+   "text": "a co2 of 25 millimeters of mercury"
+  },
+  {
+   "start": 2233.2,
+   "end": 2237.52,
+   "text": "and a oxygen of 65 millimeters of"
+  },
+  {
+   "start": 2236.24,
+   "end": 2240.32,
+   "text": "mercury"
+  },
+  {
+   "start": 2237.52,
+   "end": 2245.96,
+   "text": "your sodium is 180 your ionized calcium"
+  },
+  {
+   "start": 2240.32,
+   "end": 2245.96,
+   "text": "is 0.3 and your bicarbonate is 17.3"
+  },
+  {
+   "start": 2247.28,
+   "end": 2251.36,
+   "text": "pretty clearly the first thing that you"
+  },
+  {
+   "start": 2249.12,
+   "end": 2253.76,
+   "text": "may worry about is that your sodium is"
+  },
+  {
+   "start": 2251.36,
+   "end": 2254.8,
+   "text": "falsely elevated from you using sodium"
+  },
+  {
+   "start": 2253.76,
+   "end": 2257.44,
+   "text": "heparin"
+  },
+  {
+   "start": 2254.8,
+   "end": 2259.68,
+   "text": "and that your ionized calcium"
+  },
+  {
+   "start": 2257.44,
+   "end": 2262.48,
+   "text": "must be discarded because you cannot"
+  },
+  {
+   "start": 2259.68,
+   "end": 2264.96,
+   "text": "evaluate and ionize calcium when using"
+  },
+  {
+   "start": 2262.48,
+   "end": 2268.0,
+   "text": "sodium heparin only lyophilized lithium"
+  },
+  {
+   "start": 2264.96,
+   "end": 2270.96,
+   "text": "heparin can be used"
+  },
+  {
+   "start": 2268.0,
+   "end": 2272.32,
+   "text": "as we discussed before a dilutional"
+  },
+  {
+   "start": 2270.96,
+   "end": 2275.04,
+   "text": "effect may also"
+  },
+  {
+   "start": 2272.32,
+   "end": 2278.72,
+   "text": "occur when using sodium heparin this may"
+  },
+  {
+   "start": 2275.04,
+   "end": 2281.52,
+   "text": "cause abnormal co2 results which can"
+  },
+  {
+   "start": 2278.72,
+   "end": 2284.56,
+   "text": "also affect your bicarbonate results"
+  },
+  {
+   "start": 2281.52,
+   "end": 2287.2,
+   "text": "as well as oxygen results and it would"
+  },
+  {
+   "start": 2284.56,
+   "end": 2290.96,
+   "text": "probably be recommended"
+  },
+  {
+   "start": 2287.2,
+   "end": 2296.28,
+   "text": "to redraw a sample using only one"
+  },
+  {
+   "start": 2290.96,
+   "end": 2296.28,
+   "text": "to five units of heparin"
+  },
+  {
+   "start": 2299.04,
+   "end": 2304.08,
+   "text": "let us now consider our last case"
+  },
+  {
+   "start": 2301.68,
+   "end": 2307.04,
+   "text": "we have athena a 12 year old female"
+  },
+  {
+   "start": 2304.08,
+   "end": 2309.6,
+   "text": "spade persian cat who presented to us"
+  },
+  {
+   "start": 2307.04,
+   "end": 2311.04,
+   "text": "for a carpal fracture after a mousetrap"
+  },
+  {
+   "start": 2309.6,
+   "end": 2313.68,
+   "text": "injury"
+  },
+  {
+   "start": 2311.04,
+   "end": 2315.68,
+   "text": "she was sedated for radiographs and 10"
+  },
+  {
+   "start": 2313.68,
+   "end": 2319.2,
+   "text": "minutes later developed an increased"
+  },
+  {
+   "start": 2315.68,
+   "end": 2321.36,
+   "text": "respiratory rate and respiratory effort"
+  },
+  {
+   "start": 2319.2,
+   "end": 2323.92,
+   "text": "you decide to perform an arterial blood"
+  },
+  {
+   "start": 2321.36,
+   "end": 2326.64,
+   "text": "gas and obtain a sample from her"
+  },
+  {
+   "start": 2323.92,
+   "end": 2329.04,
+   "text": "coccygeal artery"
+  },
+  {
+   "start": 2326.64,
+   "end": 2331.04,
+   "text": "the arterial blood gas reveals a ph of"
+  },
+  {
+   "start": 2329.04,
+   "end": 2336.32,
+   "text": "7.45"
+  },
+  {
+   "start": 2331.04,
+   "end": 2338.84,
+   "text": "a co2 of 35 and a po2 of 50."
+  },
+  {
+   "start": 2336.32,
+   "end": 2340.64,
+   "text": "her lactate on the sample is"
+  },
+  {
+   "start": 2338.84,
+   "end": 2343.12,
+   "text": "1.9"
+  },
+  {
+   "start": 2340.64,
+   "end": 2345.52,
+   "text": "due to the markedly decreased"
+  },
+  {
+   "start": 2343.12,
+   "end": 2347.52,
+   "text": "po2 you're concerned that this could"
+  },
+  {
+   "start": 2345.52,
+   "end": 2350.24,
+   "text": "potentially be a venous sample or a"
+  },
+  {
+   "start": 2347.52,
+   "end": 2352.72,
+   "text": "mixed arteriovenous sample"
+  },
+  {
+   "start": 2350.24,
+   "end": 2356.0,
+   "text": "and decide to obtain"
+  },
+  {
+   "start": 2352.72,
+   "end": 2356.88,
+   "text": "a second arterial sample"
+  },
+  {
+   "start": 2356.0,
+   "end": 2360.32,
+   "text": "from"
+  },
+  {
+   "start": 2356.88,
+   "end": 2360.32,
+   "text": "a dorsal pedil artery"
+  },
+  {
+   "start": 2361.04,
+   "end": 2368.56,
+   "text": "on this sample the ph is 7.48"
+  },
+  {
+   "start": 2365.04,
+   "end": 2371.04,
+   "text": "the co2 is 30 millimeters of mercury and"
+  },
+  {
+   "start": 2368.56,
+   "end": 2374.56,
+   "text": "the po2 is 90."
+  },
+  {
+   "start": 2371.04,
+   "end": 2376.96,
+   "text": "the lactate is 1.7"
+  },
+  {
+   "start": 2374.56,
+   "end": 2379.04,
+   "text": "as you can see these findings are"
+  },
+  {
+   "start": 2376.96,
+   "end": 2381.76,
+   "text": "consistent with"
+  },
+  {
+   "start": 2379.04,
+   "end": 2384.0,
+   "text": "the first sample being a venous sample"
+  },
+  {
+   "start": 2381.76,
+   "end": 2385.92,
+   "text": "and the second sample being an arterial"
+  },
+  {
+   "start": 2384.0,
+   "end": 2388.8,
+   "text": "sample"
+  },
+  {
+   "start": 2385.92,
+   "end": 2391.84,
+   "text": "as the lactate is"
+  },
+  {
+   "start": 2388.8,
+   "end": 2394.16,
+   "text": "lower on the arterial sample"
+  },
+  {
+   "start": 2391.84,
+   "end": 2396.56,
+   "text": "the po2 is"
+  },
+  {
+   "start": 2394.16,
+   "end": 2397.84,
+   "text": "significantly higher on the arterial"
+  },
+  {
+   "start": 2396.56,
+   "end": 2401.04,
+   "text": "sample"
+  },
+  {
+   "start": 2397.84,
+   "end": 2402.56,
+   "text": "and the pco2 is higher on the venous"
+  },
+  {
+   "start": 2401.04,
+   "end": 2404.72,
+   "text": "sample"
+  },
+  {
+   "start": 2402.56,
+   "end": 2405.84,
+   "text": "because the co2 is higher on the venous"
+  },
+  {
+   "start": 2404.72,
+   "end": 2408.64,
+   "text": "sample"
+  },
+  {
+   "start": 2405.84,
+   "end": 2411.84,
+   "text": "the ph is also slightly lower on the"
+  },
+  {
+   "start": 2408.64,
+   "end": 2411.84,
+   "text": "venous sample"
+  },
+  {
+   "start": 2412.8,
+   "end": 2417.6,
+   "text": "with that the lecture portion of our"
+  },
+  {
+   "start": 2415.44,
+   "end": 2419.04,
+   "text": "webinar has concluded"
+  },
+  {
+   "start": 2417.6,
+   "end": 2421.28,
+   "text": "i would like to thank you all for"
+  },
+  {
+   "start": 2419.04,
+   "end": 2424.16,
+   "text": "joining us this evening"
+  },
+  {
+   "start": 2421.28,
+   "end": 2427.12,
+   "text": "and i would also like to thank my mentor"
+  },
+  {
+   "start": 2424.16,
+   "end": 2429.36,
+   "text": "dr deb silverstein for all her help as"
+  },
+  {
+   "start": 2427.12,
+   "end": 2431.52,
+   "text": "well as ron and julia and all those at"
+  },
+  {
+   "start": 2429.36,
+   "end": 2435.12,
+   "text": "bio nova biomedical"
+  },
+  {
+   "start": 2431.52,
+   "end": 2437.04,
+   "text": "for assisting with this presentation"
+  },
+  {
+   "start": 2435.12,
+   "end": 2439.84,
+   "text": "i will now happily take any questions"
+  },
+  {
+   "start": 2437.04,
+   "end": 2439.84,
+   "text": "that you might have"
+  },
+  {
+   "start": 2442.08,
+   "end": 2445.36,
+   "text": "and here are my listed references should"
+  },
+  {
+   "start": 2444.32,
+   "end": 2447.52,
+   "text": "you need"
+  },
+  {
+   "start": 2445.36,
+   "end": 2450.76,
+   "text": "any further sources to go for any of"
+  },
+  {
+   "start": 2447.52,
+   "end": 2450.76,
+   "text": "this material"
+  },
+  {
+   "start": 2455.28,
+   "end": 2459.76,
+   "text": "okay thank you everyone for"
+  },
+  {
+   "start": 2458.0,
+   "end": 2460.56,
+   "text": "again listening to"
+  },
+  {
+   "start": 2459.76,
+   "end": 2462.16,
+   "text": "um"
+  },
+  {
+   "start": 2460.56,
+   "end": 2465.36,
+   "text": "to this webinar"
+  },
+  {
+   "start": 2462.16,
+   "end": 2466.88,
+   "text": "um this is jake i'm happy to take any"
+  },
+  {
+   "start": 2465.36,
+   "end": 2468.8,
+   "text": "questions you may"
+  },
+  {
+   "start": 2466.88,
+   "end": 2469.68,
+   "text": "you may have you can just type them into"
+  },
+  {
+   "start": 2468.8,
+   "end": 2472.64,
+   "text": "the"
+  },
+  {
+   "start": 2469.68,
+   "end": 2473.76,
+   "text": "the q a box um there and i'll read the"
+  },
+  {
+   "start": 2472.64,
+   "end": 2475.6,
+   "text": "question out to the rest of our"
+  },
+  {
+   "start": 2473.76,
+   "end": 2479.0,
+   "text": "listeners and do my best to answer it"
+  },
+  {
+   "start": 2475.6,
+   "end": 2479.0,
+   "text": "for you guys"
+  },
+  {
+   "start": 2605.04,
+   "end": 2607.12,
+   "text": "you"
+  }
+ ]
+}

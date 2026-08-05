@@ -1,0 +1,1383 @@
+{
+ "video_id": "bpJcMudyMlQ",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 275,
+ "cues": [
+  {
+   "start": 0.64,
+   "end": 4.24,
+   "text": "Thank you for joining me for this"
+  },
+  {
+   "start": 2.08,
+   "end": 6.96,
+   "text": "tutorial focused on managing users in"
+  },
+  {
+   "start": 4.24,
+   "end": 8.72,
+   "text": "the ArtelWare application. I have lots"
+  },
+  {
+   "start": 6.96,
+   "end": 11.28,
+   "text": "of great information to share with you."
+  },
+  {
+   "start": 8.72,
+   "end": 13.28,
+   "text": "So, let's go ahead and get started."
+  },
+  {
+   "start": 11.28,
+   "end": 15.28,
+   "text": "Before we begin exploring how to manage"
+  },
+  {
+   "start": 13.28,
+   "end": 17.92,
+   "text": "users in ArtelWare, there are a couple"
+  },
+  {
+   "start": 15.28,
+   "end": 20.32,
+   "text": "of important items to note. This"
+  },
+  {
+   "start": 17.92,
+   "end": 22.48,
+   "text": "tutorial outlines the user management"
+  },
+  {
+   "start": 20.32,
+   "end": 24.4,
+   "text": "for an ArtelWare installation that does"
+  },
+  {
+   "start": 22.48,
+   "end": 27.04,
+   "text": "not have the Windows Active Directory"
+  },
+  {
+   "start": 24.4,
+   "end": 29.44,
+   "text": "function enabled. If you are using the"
+  },
+  {
+   "start": 27.04,
+   "end": 31.68,
+   "text": "Windows Active Directory feature, please"
+  },
+  {
+   "start": 29.44,
+   "end": 33.2,
+   "text": "consult with your IT team for all user"
+  },
+  {
+   "start": 31.68,
+   "end": 35.04,
+   "text": "management."
+  },
+  {
+   "start": 33.2,
+   "end": 37.12,
+   "text": "Secondly, only individuals that have"
+  },
+  {
+   "start": 35.04,
+   "end": 39.12,
+   "text": "permissions to create users will be able"
+  },
+  {
+   "start": 37.12,
+   "end": 42.08,
+   "text": "to perform the tasks outlined in this"
+  },
+  {
+   "start": 39.12,
+   "end": 44.48,
+   "text": "video. We'll talk about how to identify"
+  },
+  {
+   "start": 42.08,
+   "end": 47.36,
+   "text": "who has those specific permissions and"
+  },
+  {
+   "start": 44.48,
+   "end": 49.04,
+   "text": "what permission set they'll need."
+  },
+  {
+   "start": 47.36,
+   "end": 51.52,
+   "text": "Lastly, we need to answer the question"
+  },
+  {
+   "start": 49.04,
+   "end": 53.52,
+   "text": "of who needs to be created as a user in"
+  },
+  {
+   "start": 51.52,
+   "end": 56.16,
+   "text": "our Telware. There's a two-part answer"
+  },
+  {
+   "start": 53.52,
+   "end": 58.48,
+   "text": "to that question. The first part of the"
+  },
+  {
+   "start": 56.16,
+   "end": 61.28,
+   "text": "answer is anyone using the RTOWware"
+  },
+  {
+   "start": 58.48,
+   "end": 63.44,
+   "text": "application should be created as a user."
+  },
+  {
+   "start": 61.28,
+   "end": 66.64,
+   "text": "And secondly, individuals who are listed"
+  },
+  {
+   "start": 63.44,
+   "end": 69.12,
+   "text": "as owners of devices such as pipettes,"
+  },
+  {
+   "start": 66.64,
+   "end": 72.08,
+   "text": "liquid handlers, or instruments should"
+  },
+  {
+   "start": 69.12,
+   "end": 74.4,
+   "text": "also be created as users."
+  },
+  {
+   "start": 72.08,
+   "end": 75.6,
+   "text": "Prior to creating all of your users, the"
+  },
+  {
+   "start": 74.4,
+   "end": 78.32,
+   "text": "first thing that you'll want to do"
+  },
+  {
+   "start": 75.6,
+   "end": 80.08,
+   "text": "within the ArtelWare application is to"
+  },
+  {
+   "start": 78.32,
+   "end": 82.24,
+   "text": "confirm that you have the proper user"
+  },
+  {
+   "start": 80.08,
+   "end": 84.88,
+   "text": "groups with the correct permissions"
+  },
+  {
+   "start": 82.24,
+   "end": 87.44,
+   "text": "assigned to those user groups. User"
+  },
+  {
+   "start": 84.88,
+   "end": 90.24,
+   "text": "groups are located in the administration"
+  },
+  {
+   "start": 87.44,
+   "end": 92.64,
+   "text": "section of the software"
+  },
+  {
+   "start": 90.24,
+   "end": 94.88,
+   "text": "in the groups area."
+  },
+  {
+   "start": 92.64,
+   "end": 98.32,
+   "text": "Now, by default, our Telware comes with"
+  },
+  {
+   "start": 94.88,
+   "end": 100.4,
+   "text": "these six default user groups. And then"
+  },
+  {
+   "start": 98.32,
+   "end": 102.48,
+   "text": "you can navigate and see the members and"
+  },
+  {
+   "start": 100.4,
+   "end": 104.72,
+   "text": "the permissions of each respective user"
+  },
+  {
+   "start": 102.48,
+   "end": 107.44,
+   "text": "group by clicking on the tabs on the"
+  },
+  {
+   "start": 104.72,
+   "end": 109.12,
+   "text": "right hand side. So for example, if we"
+  },
+  {
+   "start": 107.44,
+   "end": 111.36,
+   "text": "click on the permissions tab for the"
+  },
+  {
+   "start": 109.12,
+   "end": 113.44,
+   "text": "administrators user group, you'll see"
+  },
+  {
+   "start": 111.36,
+   "end": 115.84,
+   "text": "that administrators, they have"
+  },
+  {
+   "start": 113.44,
+   "end": 117.68,
+   "text": "permissions to perform every task within"
+  },
+  {
+   "start": 115.84,
+   "end": 120.56,
+   "text": "the software."
+  },
+  {
+   "start": 117.68,
+   "end": 122.08,
+   "text": "If I click on the operators user group,"
+  },
+  {
+   "start": 120.56,
+   "end": 124.48,
+   "text": "you'll see that operators have"
+  },
+  {
+   "start": 122.08,
+   "end": 127.44,
+   "text": "permissions to perform calibrations and"
+  },
+  {
+   "start": 124.48,
+   "end": 129.44,
+   "text": "verifications."
+  },
+  {
+   "start": 127.44,
+   "end": 131.44,
+   "text": "If I click on the pipeet owners user"
+  },
+  {
+   "start": 129.44,
+   "end": 132.8,
+   "text": "group, you'll notice that they don't"
+  },
+  {
+   "start": 131.44,
+   "end": 136.56,
+   "text": "have any permissions within our"
+  },
+  {
+   "start": 132.8,
+   "end": 139.6,
+   "text": "Telawware at all. pipette owners as well"
+  },
+  {
+   "start": 136.56,
+   "end": 141.36,
+   "text": "as liquid handler owners. Their role"
+  },
+  {
+   "start": 139.6,
+   "end": 143.6,
+   "text": "within the software is to receive"
+  },
+  {
+   "start": 141.36,
+   "end": 145.52,
+   "text": "automated emails from the software"
+  },
+  {
+   "start": 143.6,
+   "end": 148.8,
+   "text": "indicating that a device is due for"
+  },
+  {
+   "start": 145.52,
+   "end": 150.88,
+   "text": "verification or calibration or simply to"
+  },
+  {
+   "start": 148.8,
+   "end": 153.2,
+   "text": "be listed as owners that are associated"
+  },
+  {
+   "start": 150.88,
+   "end": 155.76,
+   "text": "with that particular device which might"
+  },
+  {
+   "start": 153.2,
+   "end": 158.0,
+   "text": "be a pipette or an automated liquid"
+  },
+  {
+   "start": 155.76,
+   "end": 160.72,
+   "text": "handler."
+  },
+  {
+   "start": 158.0,
+   "end": 162.56,
+   "text": "You can edit these user groups by simply"
+  },
+  {
+   "start": 160.72,
+   "end": 165.68,
+   "text": "clicking on the user group you wish to"
+  },
+  {
+   "start": 162.56,
+   "end": 167.68,
+   "text": "add permissions to and then clicking on"
+  },
+  {
+   "start": 165.68,
+   "end": 170.72,
+   "text": "the edit icon which is this little"
+  },
+  {
+   "start": 167.68,
+   "end": 172.96,
+   "text": "pencil to paper icon at the top center"
+  },
+  {
+   "start": 170.72,
+   "end": 174.48,
+   "text": "left of the screen. From there you can"
+  },
+  {
+   "start": 172.96,
+   "end": 176.8,
+   "text": "highlight the permission that you wish"
+  },
+  {
+   "start": 174.48,
+   "end": 179.44,
+   "text": "to add and then click on this single"
+  },
+  {
+   "start": 176.8,
+   "end": 181.12,
+   "text": "right side carrot to add the permission"
+  },
+  {
+   "start": 179.44,
+   "end": 182.72,
+   "text": "or if you wish to add all the"
+  },
+  {
+   "start": 181.12,
+   "end": 184.8,
+   "text": "permissions you can click on the double"
+  },
+  {
+   "start": 182.72,
+   "end": 186.64,
+   "text": "right side carrot. Selecting a"
+  },
+  {
+   "start": 184.8,
+   "end": 188.56,
+   "text": "permission that's within a group and"
+  },
+  {
+   "start": 186.64,
+   "end": 191.28,
+   "text": "then clicking on the single left side"
+  },
+  {
+   "start": 188.56,
+   "end": 193.36,
+   "text": "carrot or clicking on the double left"
+  },
+  {
+   "start": 191.28,
+   "end": 195.52,
+   "text": "side carrot will help you manage all of"
+  },
+  {
+   "start": 193.36,
+   "end": 197.44,
+   "text": "the permissions that are already in that"
+  },
+  {
+   "start": 195.52,
+   "end": 199.44,
+   "text": "particular group. Once you've confirmed"
+  },
+  {
+   "start": 197.44,
+   "end": 201.84,
+   "text": "that all of your user groups have the"
+  },
+  {
+   "start": 199.44,
+   "end": 204.4,
+   "text": "proper permissions, you're all set to go"
+  },
+  {
+   "start": 201.84,
+   "end": 206.16,
+   "text": "ahead and start adding your users. So,"
+  },
+  {
+   "start": 204.4,
+   "end": 208.48,
+   "text": "let's go ahead and navigate back to the"
+  },
+  {
+   "start": 206.16,
+   "end": 210.24,
+   "text": "home screen. Now, there's two different"
+  },
+  {
+   "start": 208.48,
+   "end": 212.88,
+   "text": "ways to create users within the"
+  },
+  {
+   "start": 210.24,
+   "end": 214.88,
+   "text": "software. The first way is to use the"
+  },
+  {
+   "start": 212.88,
+   "end": 216.88,
+   "text": "get started bar by clicking on this add"
+  },
+  {
+   "start": 214.88,
+   "end": 219.52,
+   "text": "user shortcut."
+  },
+  {
+   "start": 216.88,
+   "end": 224.12,
+   "text": "The second way is to navigate to the"
+  },
+  {
+   "start": 219.52,
+   "end": 224.12,
+   "text": "administration section of the software."
+  },
+  {
+   "start": 224.56,
+   "end": 227.6,
+   "text": "Make sure that you're on the user"
+  },
+  {
+   "start": 226.0,
+   "end": 229.76,
+   "text": "section"
+  },
+  {
+   "start": 227.6,
+   "end": 232.96,
+   "text": "and then click on the plus sign to"
+  },
+  {
+   "start": 229.76,
+   "end": 234.8,
+   "text": "create the new user. In this particular"
+  },
+  {
+   "start": 232.96,
+   "end": 237.04,
+   "text": "video, I'm going to go ahead and use the"
+  },
+  {
+   "start": 234.8,
+   "end": 239.76,
+   "text": "add user icon that's on the get started"
+  },
+  {
+   "start": 237.04,
+   "end": 242.4,
+   "text": "bar. That's really the easiest way. So"
+  },
+  {
+   "start": 239.76,
+   "end": 244.0,
+   "text": "I'll go ahead and click on add user. And"
+  },
+  {
+   "start": 242.4,
+   "end": 246.64,
+   "text": "from here I'll go ahead and add the"
+  },
+  {
+   "start": 244.0,
+   "end": 250.0,
+   "text": "username. So for today I'm going to call"
+  },
+  {
+   "start": 246.64,
+   "end": 252.0,
+   "text": "this user operator 1."
+  },
+  {
+   "start": 250.0,
+   "end": 253.92,
+   "text": "I'm going to enter in a test email"
+  },
+  {
+   "start": 252.0,
+   "end": 255.68,
+   "text": "address."
+  },
+  {
+   "start": 253.92,
+   "end": 258.32,
+   "text": "But normally you would enter in a valid"
+  },
+  {
+   "start": 255.68,
+   "end": 260.48,
+   "text": "email address. Now the email address is"
+  },
+  {
+   "start": 258.32,
+   "end": 262.32,
+   "text": "entered in the event that you have the"
+  },
+  {
+   "start": 260.48,
+   "end": 264.8,
+   "text": "email functionality of our Telware"
+  },
+  {
+   "start": 262.32,
+   "end": 266.24,
+   "text": "software enabled. Even if you don't"
+  },
+  {
+   "start": 264.8,
+   "end": 268.4,
+   "text": "choose to be using the email"
+  },
+  {
+   "start": 266.24,
+   "end": 270.72,
+   "text": "functionality, an email address is still"
+  },
+  {
+   "start": 268.4,
+   "end": 272.24,
+   "text": "required. One thing to note as you're"
+  },
+  {
+   "start": 270.72,
+   "end": 275.36,
+   "text": "navigating through our Telware is"
+  },
+  {
+   "start": 272.24,
+   "end": 277.28,
+   "text": "anytime that you see a red asterisk next"
+  },
+  {
+   "start": 275.36,
+   "end": 279.28,
+   "text": "to a field, that means that that's a"
+  },
+  {
+   "start": 277.28,
+   "end": 280.88,
+   "text": "required field. So, it's important to"
+  },
+  {
+   "start": 279.28,
+   "end": 282.8,
+   "text": "make sure that you complete those fields"
+  },
+  {
+   "start": 280.88,
+   "end": 284.4,
+   "text": "as appropriate. Now that I've added the"
+  },
+  {
+   "start": 282.8,
+   "end": 286.24,
+   "text": "full name and email address of this"
+  },
+  {
+   "start": 284.4,
+   "end": 288.72,
+   "text": "user, I need to add them to an initial"
+  },
+  {
+   "start": 286.24,
+   "end": 290.8,
+   "text": "group. I'll click on the group dropdown"
+  },
+  {
+   "start": 288.72,
+   "end": 293.44,
+   "text": "and select the operators group in this"
+  },
+  {
+   "start": 290.8,
+   "end": 296.8,
+   "text": "case as this is operator one. Next, what"
+  },
+  {
+   "start": 293.44,
+   "end": 298.72,
+   "text": "I'll need to do is enter the username"
+  },
+  {
+   "start": 296.8,
+   "end": 300.56,
+   "text": "that I want this user to use when"
+  },
+  {
+   "start": 298.72,
+   "end": 302.0,
+   "text": "they're logging into the software."
+  },
+  {
+   "start": 300.56,
+   "end": 304.08,
+   "text": "You'll notice that there's a box that"
+  },
+  {
+   "start": 302.0,
+   "end": 306.64,
+   "text": "says account already exists on database"
+  },
+  {
+   "start": 304.08,
+   "end": 308.32,
+   "text": "server. That's reserved for when you're"
+  },
+  {
+   "start": 306.64,
+   "end": 310.64,
+   "text": "transferring the RTLware application"
+  },
+  {
+   "start": 308.32,
+   "end": 312.16,
+   "text": "from one computer to another. And in"
+  },
+  {
+   "start": 310.64,
+   "end": 315.28,
+   "text": "this case, it's not applicable because"
+  },
+  {
+   "start": 312.16,
+   "end": 316.8,
+   "text": "this user doesn't exist yet. The next"
+  },
+  {
+   "start": 315.28,
+   "end": 319.36,
+   "text": "thing that the software wants us to do"
+  },
+  {
+   "start": 316.8,
+   "end": 321.28,
+   "text": "is enter the password. So, I'll go ahead"
+  },
+  {
+   "start": 319.36,
+   "end": 322.96,
+   "text": "and enter a temporary password because"
+  },
+  {
+   "start": 321.28,
+   "end": 325.12,
+   "text": "when this user goes to log in a little"
+  },
+  {
+   "start": 322.96,
+   "end": 327.36,
+   "text": "bit later on, they'll be asked to change"
+  },
+  {
+   "start": 325.12,
+   "end": 328.96,
+   "text": "that temporary password to a more"
+  },
+  {
+   "start": 327.36,
+   "end": 332.08,
+   "text": "permanent password that they'd like to"
+  },
+  {
+   "start": 328.96,
+   "end": 333.52,
+   "text": "use. I can click on the I icon to reveal"
+  },
+  {
+   "start": 332.08,
+   "end": 335.92,
+   "text": "the temporary password that I've"
+  },
+  {
+   "start": 333.52,
+   "end": 337.12,
+   "text": "assigned. And then if I scroll down a"
+  },
+  {
+   "start": 335.92,
+   "end": 339.52,
+   "text": "little bit, you'll see that there are"
+  },
+  {
+   "start": 337.12,
+   "end": 341.6,
+   "text": "additional fields that are not required,"
+  },
+  {
+   "start": 339.52,
+   "end": 343.52,
+   "text": "such as title, department, and phone"
+  },
+  {
+   "start": 341.6,
+   "end": 346.4,
+   "text": "number. So, I'm going to go ahead and"
+  },
+  {
+   "start": 343.52,
+   "end": 349.92,
+   "text": "select save and commit this user to the"
+  },
+  {
+   "start": 346.4,
+   "end": 351.92,
+   "text": "database. You now see that operator 1 is"
+  },
+  {
+   "start": 349.92,
+   "end": 354.24,
+   "text": "officially added as a user to the"
+  },
+  {
+   "start": 351.92,
+   "end": 356.56,
+   "text": "software. Also with this in within this"
+  },
+  {
+   "start": 354.24,
+   "end": 358.96,
+   "text": "screen are some additional icons just"
+  },
+  {
+   "start": 356.56,
+   "end": 364.08,
+   "text": "for management. There's a filtering"
+  },
+  {
+   "start": 358.96,
+   "end": 365.92,
+   "text": "icon, a refresh icon, a clone icon, and"
+  },
+  {
+   "start": 364.08,
+   "end": 368.08,
+   "text": "then over to the far right there's a"
+  },
+  {
+   "start": 365.92,
+   "end": 370.8,
+   "text": "deactivate icon as well as another"
+  },
+  {
+   "start": 368.08,
+   "end": 372.64,
+   "text": "refresh icon. And so that refresh icon"
+  },
+  {
+   "start": 370.8,
+   "end": 375.28,
+   "text": "that you see over in the far right just"
+  },
+  {
+   "start": 372.64,
+   "end": 378.0,
+   "text": "refreshes the screen for this specific"
+  },
+  {
+   "start": 375.28,
+   "end": 380.24,
+   "text": "user. Let's say that you wanted to clone"
+  },
+  {
+   "start": 378.0,
+   "end": 382.96,
+   "text": "a couple of users. So, I want to clone a"
+  },
+  {
+   "start": 380.24,
+   "end": 386.0,
+   "text": "user based on operator one, which is"
+  },
+  {
+   "start": 382.96,
+   "end": 387.68,
+   "text": "this user that I just created. So, I'll"
+  },
+  {
+   "start": 386.0,
+   "end": 391.44,
+   "text": "go ahead and make sure that operator one"
+  },
+  {
+   "start": 387.68,
+   "end": 395.04,
+   "text": "is selected. And I'll select the clone"
+  },
+  {
+   "start": 391.44,
+   "end": 396.88,
+   "text": "icon. And from there, I'll go ahead and"
+  },
+  {
+   "start": 395.04,
+   "end": 399.28,
+   "text": "make the edits to the screen that I"
+  },
+  {
+   "start": 396.88,
+   "end": 401.44,
+   "text": "want."
+  },
+  {
+   "start": 399.28,
+   "end": 405.36,
+   "text": "Okay. So now you can see that I have"
+  },
+  {
+   "start": 401.44,
+   "end": 407.84,
+   "text": "operator one and operator 2 listed on"
+  },
+  {
+   "start": 405.36,
+   "end": 409.68,
+   "text": "the screen. Now let's say that a user"
+  },
+  {
+   "start": 407.84,
+   "end": 412.64,
+   "text": "has changed their role or has left the"
+  },
+  {
+   "start": 409.68,
+   "end": 416.56,
+   "text": "organization and you want to deactivate"
+  },
+  {
+   "start": 412.64,
+   "end": 419.04,
+   "text": "them as a user within the software."
+  },
+  {
+   "start": 416.56,
+   "end": 421.28,
+   "text": "All of the user management again happens"
+  },
+  {
+   "start": 419.04,
+   "end": 423.04,
+   "text": "in the administration section of the"
+  },
+  {
+   "start": 421.28,
+   "end": 426.4,
+   "text": "software. So, we'll go ahead and"
+  },
+  {
+   "start": 423.04,
+   "end": 428.96,
+   "text": "navigate to the administration section."
+  },
+  {
+   "start": 426.4,
+   "end": 432.56,
+   "text": "And let's say that I want to deactivate"
+  },
+  {
+   "start": 428.96,
+   "end": 434.64,
+   "text": "operator 2 because operator 2 has left"
+  },
+  {
+   "start": 432.56,
+   "end": 438.56,
+   "text": "the organization."
+  },
+  {
+   "start": 434.64,
+   "end": 440.64,
+   "text": "I can select the operator 2 entry"
+  },
+  {
+   "start": 438.56,
+   "end": 443.52,
+   "text": "and then select on the deactivate"
+  },
+  {
+   "start": 440.64,
+   "end": 445.84,
+   "text": "selected user icon."
+  },
+  {
+   "start": 443.52,
+   "end": 448.96,
+   "text": "The software will prompt for a question"
+  },
+  {
+   "start": 445.84,
+   "end": 451.6,
+   "text": "of do I want to deactivate this user and"
+  },
+  {
+   "start": 448.96,
+   "end": 453.36,
+   "text": "I'll select yes."
+  },
+  {
+   "start": 451.6,
+   "end": 455.52,
+   "text": "Then you'll receive a message indicating"
+  },
+  {
+   "start": 453.36,
+   "end": 457.6,
+   "text": "that all sessions for that user have"
+  },
+  {
+   "start": 455.52,
+   "end": 460.0,
+   "text": "been terminated."
+  },
+  {
+   "start": 457.6,
+   "end": 462.72,
+   "text": "Now let's say the user changed roles"
+  },
+  {
+   "start": 460.0,
+   "end": 465.52,
+   "text": "again and they came back to the"
+  },
+  {
+   "start": 462.72,
+   "end": 469.76,
+   "text": "organization and you need to add them"
+  },
+  {
+   "start": 465.52,
+   "end": 472.96,
+   "text": "again. You can go to the filter icon and"
+  },
+  {
+   "start": 469.76,
+   "end": 476.88,
+   "text": "select show inactive items."
+  },
+  {
+   "start": 472.96,
+   "end": 479.12,
+   "text": "You can select the inactive user"
+  },
+  {
+   "start": 476.88,
+   "end": 483.28,
+   "text": "and then you can click on this activate"
+  },
+  {
+   "start": 479.12,
+   "end": 485.52,
+   "text": "selected user icon to reactivate them."
+  },
+  {
+   "start": 483.28,
+   "end": 488.48,
+   "text": "Now, one special thing to note about"
+  },
+  {
+   "start": 485.52,
+   "end": 491.84,
+   "text": "deactivating users. If a user is"
+  },
+  {
+   "start": 488.48,
+   "end": 494.48,
+   "text": "associated with a device or with an"
+  },
+  {
+   "start": 491.84,
+   "end": 496.24,
+   "text": "instrument, the software is going to let"
+  },
+  {
+   "start": 494.48,
+   "end": 499.28,
+   "text": "you know that and you'll need to"
+  },
+  {
+   "start": 496.24,
+   "end": 502.64,
+   "text": "reassign that device or that instrument"
+  },
+  {
+   "start": 499.28,
+   "end": 504.32,
+   "text": "to a different user slashowner."
+  },
+  {
+   "start": 502.64,
+   "end": 507.2,
+   "text": "So let's take a look and see what that"
+  },
+  {
+   "start": 504.32,
+   "end": 511.2,
+   "text": "would might look like. So for example,"
+  },
+  {
+   "start": 507.2,
+   "end": 513.76,
+   "text": "if I select this April 2024 user and I"
+  },
+  {
+   "start": 511.2,
+   "end": 517.6,
+   "text": "click on the deactivate selected user"
+  },
+  {
+   "start": 513.76,
+   "end": 519.52,
+   "text": "icon and I click on yes,"
+  },
+  {
+   "start": 517.6,
+   "end": 522.64,
+   "text": "the software then shows a message"
+  },
+  {
+   "start": 519.52,
+   "end": 524.96,
+   "text": "indicating that April 2024 this user"
+  },
+  {
+   "start": 522.64,
+   "end": 528.08,
+   "text": "cannot be deactivated because they're"
+  },
+  {
+   "start": 524.96,
+   "end": 530.56,
+   "text": "associated with an instrument or a pipette"
+  },
+  {
+   "start": 528.08,
+   "end": 532.88,
+   "text": "that has them listed as an owner. So,"
+  },
+  {
+   "start": 530.56,
+   "end": 534.96,
+   "text": "I'll need to go and resolve that. Let's"
+  },
+  {
+   "start": 532.88,
+   "end": 537.28,
+   "text": "go and take a quick look and see what"
+  },
+  {
+   "start": 534.96,
+   "end": 540.56,
+   "text": "items have been assigned to the April"
+  },
+  {
+   "start": 537.28,
+   "end": 542.64,
+   "text": "2024 user and get those reassigned."
+  },
+  {
+   "start": 540.56,
+   "end": 544.96,
+   "text": "First, we'll head to the configuration"
+  },
+  {
+   "start": 542.64,
+   "end": 547.28,
+   "text": "icon that's located on the left side"
+  },
+  {
+   "start": 544.96,
+   "end": 548.96,
+   "text": "navigation panel."
+  },
+  {
+   "start": 547.28,
+   "end": 551.84,
+   "text": "From there, let's go ahead and navigate"
+  },
+  {
+   "start": 548.96,
+   "end": 554.0,
+   "text": "to the pipettes section. Once here, we"
+  },
+  {
+   "start": 551.84,
+   "end": 556.72,
+   "text": "have a filter icon that can quickly help"
+  },
+  {
+   "start": 554.0,
+   "end": 560.16,
+   "text": "us identify which of these devices have"
+  },
+  {
+   "start": 556.72,
+   "end": 562.64,
+   "text": "the April 2024 owner. Let's go ahead and"
+  },
+  {
+   "start": 560.16,
+   "end": 565.44,
+   "text": "filter on owner. And let's go ahead and"
+  },
+  {
+   "start": 562.64,
+   "end": 567.12,
+   "text": "start typing in our username."
+  },
+  {
+   "start": 565.44,
+   "end": 570.24,
+   "text": "From here, we can see that this"
+  },
+  {
+   "start": 567.12,
+   "end": 573.52,
+   "text": "particular pipette has the owner of April"
+  },
+  {
+   "start": 570.24,
+   "end": 576.08,
+   "text": "2024 assigned to it. Let's go ahead and"
+  },
+  {
+   "start": 573.52,
+   "end": 578.4,
+   "text": "click on the edit icon. And let's go"
+  },
+  {
+   "start": 576.08,
+   "end": 581.36,
+   "text": "ahead and click on the ellipsus and"
+  },
+  {
+   "start": 578.4,
+   "end": 582.96,
+   "text": "let's assign a new owner. From here,"
+  },
+  {
+   "start": 581.36,
+   "end": 585.28,
+   "text": "let's go ahead and navigate to the"
+  },
+  {
+   "start": 582.96,
+   "end": 588.72,
+   "text": "instrument screen"
+  },
+  {
+   "start": 585.28,
+   "end": 590.64,
+   "text": "and click on the filter icon"
+  },
+  {
+   "start": 588.72,
+   "end": 593.76,
+   "text": "and let's go ahead and search for that"
+  },
+  {
+   "start": 590.64,
+   "end": 596.96,
+   "text": "April user. We can see that this PCS"
+  },
+  {
+   "start": 593.76,
+   "end": 599.2,
+   "text": "instrument has that April 2024 user"
+  },
+  {
+   "start": 596.96,
+   "end": 602.0,
+   "text": "listed as their owner. Let's go ahead"
+  },
+  {
+   "start": 599.2,
+   "end": 604.56,
+   "text": "and edit this instrument entry. Click on"
+  },
+  {
+   "start": 602.0,
+   "end": 606.48,
+   "text": "the ellipsus and let's reassign this"
+  },
+  {
+   "start": 604.56,
+   "end": 608.24,
+   "text": "instrument to a different owner and"
+  },
+  {
+   "start": 606.48,
+   "end": 610.56,
+   "text": "we'll click save. We'll go ahead and"
+  },
+  {
+   "start": 608.24,
+   "end": 612.32,
+   "text": "click on this remove filter icon so that"
+  },
+  {
+   "start": 610.56,
+   "end": 614.24,
+   "text": "way we can see our entire instruments"
+  },
+  {
+   "start": 612.32,
+   "end": 616.24,
+   "text": "list. Last but not least, if you're"
+  },
+  {
+   "start": 614.24,
+   "end": 620.0,
+   "text": "using the MBS system, you'll also want"
+  },
+  {
+   "start": 616.24,
+   "end": 622.56,
+   "text": "to check the liquid handlers list. Yet"
+  },
+  {
+   "start": 620.0,
+   "end": 624.96,
+   "text": "again, click on the filter, search for"
+  },
+  {
+   "start": 622.56,
+   "end": 626.48,
+   "text": "the April owner, and we can see that"
+  },
+  {
+   "start": 624.96,
+   "end": 630.08,
+   "text": "there are not any entries that are"
+  },
+  {
+   "start": 626.48,
+   "end": 632.0,
+   "text": "attached to that April 2024 user. Let's"
+  },
+  {
+   "start": 630.08,
+   "end": 633.68,
+   "text": "go ahead and clear the filter. So, I"
+  },
+  {
+   "start": 632.0,
+   "end": 635.36,
+   "text": "wanted to make sure that if you see that"
+  },
+  {
+   "start": 633.68,
+   "end": 638.56,
+   "text": "message, that means that you need to go"
+  },
+  {
+   "start": 635.36,
+   "end": 640.72,
+   "text": "to your device or instruments list and"
+  },
+  {
+   "start": 638.56,
+   "end": 643.44,
+   "text": "search for instruments or devices that"
+  },
+  {
+   "start": 640.72,
+   "end": 645.52,
+   "text": "this user might be associated with and"
+  },
+  {
+   "start": 643.44,
+   "end": 647.44,
+   "text": "reassign different owners to those"
+  },
+  {
+   "start": 645.52,
+   "end": 650.4,
+   "text": "devices and then you'll be able to"
+  },
+  {
+   "start": 647.44,
+   "end": 653.68,
+   "text": "deactivate that user."
+  },
+  {
+   "start": 650.4,
+   "end": 656.56,
+   "text": "Okay, that concludes our brief tutorial."
+  },
+  {
+   "start": 653.68,
+   "end": 660.68,
+   "text": "Do you have additional questions? Please"
+  },
+  {
+   "start": 656.56,
+   "end": 660.68,
+   "text": "contact us at 1 800-225434"
+  },
+  {
+   "start": 661.12,
+   "end": 669.28,
+   "text": "option3 or at support at aicmpies.com."
+  },
+  {
+   "start": 666.8,
+   "end": 669.28,
+   "text": "Thank you."
+  }
+ ]
+}

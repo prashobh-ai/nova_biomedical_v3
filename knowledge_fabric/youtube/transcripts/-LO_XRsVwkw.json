@@ -1,0 +1,33 @@
+{
+ "video_id": "-LO_XRsVwkw",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 5,
+ "cues": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "text": "Yeah,"
+  },
+  {
+   "start": 37.44,
+   "end": 40.44,
+   "text": "Heat."
+  },
+  {
+   "start": 46.16,
+   "end": 49.16,
+   "text": "Heat."
+  },
+  {
+   "start": 52.88,
+   "end": 55.88,
+   "text": "Yeah."
+  },
+  {
+   "start": 57.28,
+   "end": 60.28,
+   "text": "Yeah."
+  }
+ ]
+}

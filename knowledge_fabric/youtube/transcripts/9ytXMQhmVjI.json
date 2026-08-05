@@ -1,0 +1,9998 @@
+{
+ "video_id": "9ytXMQhmVjI",
+ "model": "youtube/captions (via transcript API)",
+ "transcribed_at": "2026-08-05T00:00:00+00:00",
+ "cue_count": 1998,
+ "cues": [
+  {
+   "start": 3.68,
+   "end": 8.16,
+   "text": "welcome everyone"
+  },
+  {
+   "start": 5.76,
+   "end": 10.56,
+   "text": "my name is federico relega culture and i"
+  },
+  {
+   "start": 8.16,
+   "end": 12.16,
+   "text": "will be the moderator today"
+  },
+  {
+   "start": 10.56,
+   "end": 13.28,
+   "text": "for"
+  },
+  {
+   "start": 12.16,
+   "end": 15.28,
+   "text": "the"
+  },
+  {
+   "start": 13.28,
+   "end": 16.72,
+   "text": "series on medical education by nova"
+  },
+  {
+   "start": 15.28,
+   "end": 17.84,
+   "text": "biomedical"
+  },
+  {
+   "start": 16.72,
+   "end": 20.16,
+   "text": "today"
+  },
+  {
+   "start": 17.84,
+   "end": 23.68,
+   "text": "we will be addressing"
+  },
+  {
+   "start": 20.16,
+   "end": 26.72,
+   "text": "treating and monitoring sirs and sepsis"
+  },
+  {
+   "start": 23.68,
+   "end": 26.72,
+   "text": "small animals"
+  },
+  {
+   "start": 28.08,
+   "end": 32.16,
+   "text": "our center will be dr deborah"
+  },
+  {
+   "start": 30.08,
+   "end": 34.24,
+   "text": "silverstein"
+  },
+  {
+   "start": 32.16,
+   "end": 36.8,
+   "text": "she is an associate professor at the"
+  },
+  {
+   "start": 34.24,
+   "end": 39.68,
+   "text": "department of clinical sciences"
+  },
+  {
+   "start": 36.8,
+   "end": 42.88,
+   "text": "at the university of pennsylvania school"
+  },
+  {
+   "start": 39.68,
+   "end": 42.88,
+   "text": "of veterinary medicine"
+  },
+  {
+   "start": 43.04,
+   "end": 48.16,
+   "text": "the silverstein currently is an"
+  },
+  {
+   "start": 45.12,
+   "end": 50.32,
+   "text": "associate professor of critical care at"
+  },
+  {
+   "start": 48.16,
+   "end": 52.64,
+   "text": "the university of pennsylvania"
+  },
+  {
+   "start": 50.32,
+   "end": 54.8,
+   "text": "she received her dvm"
+  },
+  {
+   "start": 52.64,
+   "end": 57.68,
+   "text": "from the university of georgia"
+  },
+  {
+   "start": 54.8,
+   "end": 59.76,
+   "text": "where she also completed a rotating"
+  },
+  {
+   "start": 57.68,
+   "end": 63.2,
+   "text": "small animal internship"
+  },
+  {
+   "start": 59.76,
+   "end": 64.56,
+   "text": "before her residency in animal emergency"
+  },
+  {
+   "start": 63.2,
+   "end": 68.24,
+   "text": "and critical care"
+  },
+  {
+   "start": 64.56,
+   "end": 70.96,
+   "text": "at the university of california in davis"
+  },
+  {
+   "start": 68.24,
+   "end": 73.44,
+   "text": "her research interests include the"
+  },
+  {
+   "start": 70.96,
+   "end": 74.72,
+   "text": "diagnosis and treatment of various shock"
+  },
+  {
+   "start": 73.44,
+   "end": 76.56,
+   "text": "states"
+  },
+  {
+   "start": 74.72,
+   "end": 79.52,
+   "text": "including sepsis"
+  },
+  {
+   "start": 76.56,
+   "end": 82.16,
+   "text": "and changes in the microcirculation of"
+  },
+  {
+   "start": 79.52,
+   "end": 85.12,
+   "text": "critically ill patients"
+  },
+  {
+   "start": 82.16,
+   "end": 88.64,
+   "text": "she co-edited a textbook small animal"
+  },
+  {
+   "start": 85.12,
+   "end": 89.76,
+   "text": "critical care medicine and just finished"
+  },
+  {
+   "start": 88.64,
+   "end": 93.04,
+   "text": "serving"
+  },
+  {
+   "start": 89.76,
+   "end": 95.76,
+   "text": "as a vice president and scientific chair"
+  },
+  {
+   "start": 93.04,
+   "end": 98.24,
+   "text": "for the american college of veterinary"
+  },
+  {
+   "start": 95.76,
+   "end": 98.24,
+   "text": "medicine"
+  },
+  {
+   "start": 99.28,
+   "end": 103.76,
+   "text": "we have approved for race"
+  },
+  {
+   "start": 101.92,
+   "end": 105.36,
+   "text": "continuing education credits this"
+  },
+  {
+   "start": 103.76,
+   "end": 109.2,
+   "text": "webinar"
+  },
+  {
+   "start": 105.36,
+   "end": 112.24,
+   "text": "and after it you will receive an email"
+  },
+  {
+   "start": 109.2,
+   "end": 114.48,
+   "text": "with a program survey link"
+  },
+  {
+   "start": 112.24,
+   "end": 116.96,
+   "text": "after completing the survey"
+  },
+  {
+   "start": 114.48,
+   "end": 120.08,
+   "text": "follow the link to download"
+  },
+  {
+   "start": 116.96,
+   "end": 121.92,
+   "text": "your continuous education certificate"
+  },
+  {
+   "start": 120.08,
+   "end": 124.56,
+   "text": "there will be a question and answer"
+  },
+  {
+   "start": 121.92,
+   "end": 126.64,
+   "text": "session after the webinar"
+  },
+  {
+   "start": 124.56,
+   "end": 130.88,
+   "text": "please type questions"
+  },
+  {
+   "start": 126.64,
+   "end": 133.68,
+   "text": "in the q a box located in your screen"
+  },
+  {
+   "start": 130.88,
+   "end": 133.68,
+   "text": "thank you very much"
+  },
+  {
+   "start": 135.92,
+   "end": 139.92,
+   "text": "thank you once again frederico for the"
+  },
+  {
+   "start": 138.0,
+   "end": 143.2,
+   "text": "kind introduction"
+  },
+  {
+   "start": 139.92,
+   "end": 145.2,
+   "text": "and welcome back to all of those who"
+  },
+  {
+   "start": 143.2,
+   "end": 148.08,
+   "text": "joined for part one"
+  },
+  {
+   "start": 145.2,
+   "end": 149.36,
+   "text": "uh for the recognition and diagnosis of"
+  },
+  {
+   "start": 148.08,
+   "end": 151.84,
+   "text": "sirs"
+  },
+  {
+   "start": 149.36,
+   "end": 154.88,
+   "text": "and sepsis and small animals"
+  },
+  {
+   "start": 151.84,
+   "end": 158.32,
+   "text": "we are now going to move on to part two"
+  },
+  {
+   "start": 154.88,
+   "end": 160.8,
+   "text": "which is again red hot and inflamed"
+  },
+  {
+   "start": 158.32,
+   "end": 163.52,
+   "text": "this time focusing on the treatment and"
+  },
+  {
+   "start": 160.8,
+   "end": 165.36,
+   "text": "monitoring of sirs and sepsis"
+  },
+  {
+   "start": 163.52,
+   "end": 168.72,
+   "text": "in small animals"
+  },
+  {
+   "start": 165.36,
+   "end": 170.96,
+   "text": "i'd like to once again thank nova for"
+  },
+  {
+   "start": 168.72,
+   "end": 173.76,
+   "text": "kindly inviting me to do these ce"
+  },
+  {
+   "start": 170.96,
+   "end": 175.2,
+   "text": "opportunities and and i hope you get"
+  },
+  {
+   "start": 173.76,
+   "end": 177.36,
+   "text": "a lot of good information out of the"
+  },
+  {
+   "start": 175.2,
+   "end": 179.2,
+   "text": "next hour"
+  },
+  {
+   "start": 177.36,
+   "end": 182.88,
+   "text": "so"
+  },
+  {
+   "start": 179.2,
+   "end": 186.72,
+   "text": "we talked about last time the fact that"
+  },
+  {
+   "start": 182.88,
+   "end": 190.96,
+   "text": "uh very timely recognition of sirs and"
+  },
+  {
+   "start": 186.72,
+   "end": 195.28,
+   "text": "sepsis as well as rapid diagnostics"
+  },
+  {
+   "start": 190.96,
+   "end": 198.4,
+   "text": "are of utmost importance in trying to"
+  },
+  {
+   "start": 195.28,
+   "end": 200.48,
+   "text": "quickly treat and maximize success"
+  },
+  {
+   "start": 198.4,
+   "end": 201.68,
+   "text": "in animals suffering from this disease"
+  },
+  {
+   "start": 200.48,
+   "end": 204.0,
+   "text": "process"
+  },
+  {
+   "start": 201.68,
+   "end": 205.04,
+   "text": "and although there really are no magic"
+  },
+  {
+   "start": 204.0,
+   "end": 207.2,
+   "text": "bullets"
+  },
+  {
+   "start": 205.04,
+   "end": 209.76,
+   "text": "for these animals we do know that"
+  },
+  {
+   "start": 207.2,
+   "end": 213.36,
+   "text": "aggressive empiric therapy as well as"
+  },
+  {
+   "start": 209.76,
+   "end": 215.36,
+   "text": "supportive care are the key to success"
+  },
+  {
+   "start": 213.36,
+   "end": 217.92,
+   "text": "with these patients so"
+  },
+  {
+   "start": 215.36,
+   "end": 220.24,
+   "text": "the next hour just a brief overview"
+  },
+  {
+   "start": 217.92,
+   "end": 223.36,
+   "text": "we'll start by talking a little bit"
+  },
+  {
+   "start": 220.24,
+   "end": 225.52,
+   "text": "about trying to prevent mods by"
+  },
+  {
+   "start": 223.36,
+   "end": 226.64,
+   "text": "maximizing oxygen delivery to the"
+  },
+  {
+   "start": 225.52,
+   "end": 229.68,
+   "text": "tissues"
+  },
+  {
+   "start": 226.64,
+   "end": 231.44,
+   "text": "the importance of goal-directed therapy"
+  },
+  {
+   "start": 229.68,
+   "end": 233.92,
+   "text": "in a timely manner"
+  },
+  {
+   "start": 231.44,
+   "end": 235.84,
+   "text": "and then more specifically the various"
+  },
+  {
+   "start": 233.92,
+   "end": 238.96,
+   "text": "treatment recommendations"
+  },
+  {
+   "start": 235.84,
+   "end": 242.0,
+   "text": "as well as monitoring parameters that"
+  },
+  {
+   "start": 238.96,
+   "end": 245.12,
+   "text": "we currently know to be useful in these"
+  },
+  {
+   "start": 242.0,
+   "end": 246.88,
+   "text": "patients based on the evidence available"
+  },
+  {
+   "start": 245.12,
+   "end": 249.12,
+   "text": "and then finally we'll finish up with a"
+  },
+  {
+   "start": 246.88,
+   "end": 251.04,
+   "text": "case presentation to go through"
+  },
+  {
+   "start": 249.12,
+   "end": 252.56,
+   "text": "a bit of what we've talked about over"
+  },
+  {
+   "start": 251.04,
+   "end": 255.76,
+   "text": "the last"
+  },
+  {
+   "start": 252.56,
+   "end": 259.2,
+   "text": "part of the webinar in part one as well"
+  },
+  {
+   "start": 255.76,
+   "end": 261.76,
+   "text": "as what we've talked about tonight"
+  },
+  {
+   "start": 259.2,
+   "end": 264.56,
+   "text": "so moving on to"
+  },
+  {
+   "start": 261.76,
+   "end": 267.12,
+   "text": "uh the first one management of serves or"
+  },
+  {
+   "start": 264.56,
+   "end": 269.84,
+   "text": "sepsis just again a little bit of a"
+  },
+  {
+   "start": 267.12,
+   "end": 272.4,
+   "text": "general overview of what we want to"
+  },
+  {
+   "start": 269.84,
+   "end": 274.64,
+   "text": "accomplish in these patients one is we"
+  },
+  {
+   "start": 272.4,
+   "end": 277.12,
+   "text": "really need to normalize oxygen delivery"
+  },
+  {
+   "start": 274.64,
+   "end": 279.92,
+   "text": "to the tissues we don't necessarily need"
+  },
+  {
+   "start": 277.12,
+   "end": 281.52,
+   "text": "to make the oxygen delivery above normal"
+  },
+  {
+   "start": 279.92,
+   "end": 283.6,
+   "text": "but we do want it to be as close to"
+  },
+  {
+   "start": 281.52,
+   "end": 284.96,
+   "text": "normal as possible"
+  },
+  {
+   "start": 283.6,
+   "end": 287.76,
+   "text": "in addition"
+  },
+  {
+   "start": 284.96,
+   "end": 290.88,
+   "text": "we want to provide hemodynamic support"
+  },
+  {
+   "start": 287.76,
+   "end": 292.32,
+   "text": "to maximize intravascular volume as well"
+  },
+  {
+   "start": 290.88,
+   "end": 295.52,
+   "text": "as pressure"
+  },
+  {
+   "start": 292.32,
+   "end": 296.96,
+   "text": "in order to keep oxygen circulating to"
+  },
+  {
+   "start": 295.52,
+   "end": 299.12,
+   "text": "the tissues"
+  },
+  {
+   "start": 296.96,
+   "end": 302.8,
+   "text": "we want to provide vasopressor and or"
+  },
+  {
+   "start": 299.12,
+   "end": 304.72,
+   "text": "ionotropic support when necessary"
+  },
+  {
+   "start": 302.8,
+   "end": 307.6,
+   "text": "we also want to administer oxygen"
+  },
+  {
+   "start": 304.72,
+   "end": 310.56,
+   "text": "therapy to animals who may benefit"
+  },
+  {
+   "start": 307.6,
+   "end": 313.6,
+   "text": "treat any infection that is suspected or"
+  },
+  {
+   "start": 310.56,
+   "end": 316.8,
+   "text": "present based on our diagnostics"
+  },
+  {
+   "start": 313.6,
+   "end": 319.12,
+   "text": "provide timely nutrition"
+  },
+  {
+   "start": 316.8,
+   "end": 321.84,
+   "text": "monitor these animals very closely"
+  },
+  {
+   "start": 319.12,
+   "end": 324.48,
+   "text": "generally 24 hours a day"
+  },
+  {
+   "start": 321.84,
+   "end": 327.36,
+   "text": "is ideal and if that's not available"
+  },
+  {
+   "start": 324.48,
+   "end": 330.48,
+   "text": "then referral to a 24-hour"
+  },
+  {
+   "start": 327.36,
+   "end": 332.4,
+   "text": "or overnight practice is advisable"
+  },
+  {
+   "start": 330.48,
+   "end": 334.8,
+   "text": "and then lastly we want to prevent"
+  },
+  {
+   "start": 332.4,
+   "end": 337.6,
+   "text": "multiple organ dysfunction syndrome"
+  },
+  {
+   "start": 334.8,
+   "end": 340.16,
+   "text": "we briefly touched upon mods in the last"
+  },
+  {
+   "start": 337.6,
+   "end": 342.08,
+   "text": "lecture but i wanted to see one more"
+  },
+  {
+   "start": 340.16,
+   "end": 344.0,
+   "text": "time the study that we looked at which"
+  },
+  {
+   "start": 342.08,
+   "end": 345.92,
+   "text": "is the association between outcome and"
+  },
+  {
+   "start": 344.0,
+   "end": 350.24,
+   "text": "organ system dysfunction"
+  },
+  {
+   "start": 345.92,
+   "end": 352.8,
+   "text": "in dogs with sepsis looking at 114 cases"
+  },
+  {
+   "start": 350.24,
+   "end": 354.32,
+   "text": "and this study actually was a"
+  },
+  {
+   "start": 352.8,
+   "end": 356.56,
+   "text": "multi-institutional"
+  },
+  {
+   "start": 354.32,
+   "end": 358.4,
+   "text": "study that included seven universities"
+  },
+  {
+   "start": 356.56,
+   "end": 360.88,
+   "text": "or private practices"
+  },
+  {
+   "start": 358.4,
+   "end": 363.28,
+   "text": "and included uh"
+  },
+  {
+   "start": 360.88,
+   "end": 364.84,
+   "text": "animals that had"
+  },
+  {
+   "start": 363.28,
+   "end": 367.92,
+   "text": "sepsis as a"
+  },
+  {
+   "start": 364.84,
+   "end": 371.12,
+   "text": "diagnosis and we took dogs specifically"
+  },
+  {
+   "start": 367.92,
+   "end": 373.52,
+   "text": "with septic peritonitis as a fairly"
+  },
+  {
+   "start": 371.12,
+   "end": 374.96,
+   "text": "standardized disease process"
+  },
+  {
+   "start": 373.52,
+   "end": 377.2,
+   "text": "and we"
+  },
+  {
+   "start": 374.96,
+   "end": 379.6,
+   "text": "categorized the organ dysfunction as"
+  },
+  {
+   "start": 377.2,
+   "end": 382.24,
+   "text": "either acute kidney injury defined as a"
+  },
+  {
+   "start": 379.6,
+   "end": 383.68,
+   "text": "creatinine greater than 0.5 milligrams"
+  },
+  {
+   "start": 382.24,
+   "end": 385.6,
+   "text": "per deciliter"
+  },
+  {
+   "start": 383.68,
+   "end": 387.84,
+   "text": "cardiovascular dysfunction defined as"
+  },
+  {
+   "start": 385.6,
+   "end": 391.04,
+   "text": "the need for vasopressor therapy"
+  },
+  {
+   "start": 387.84,
+   "end": 393.36,
+   "text": "respiratory dysfunction dysfunction is"
+  },
+  {
+   "start": 391.04,
+   "end": 396.08,
+   "text": "defined as the need for oxygen therapy"
+  },
+  {
+   "start": 393.36,
+   "end": 398.32,
+   "text": "or mechanical ventilation"
+  },
+  {
+   "start": 396.08,
+   "end": 400.8,
+   "text": "and hepatic dysfunction was defined as a"
+  },
+  {
+   "start": 398.32,
+   "end": 403.2,
+   "text": "bilirubin greater than 0.5"
+  },
+  {
+   "start": 400.8,
+   "end": 404.96,
+   "text": "and coagulation dysfunction a prolonged"
+  },
+  {
+   "start": 403.2,
+   "end": 407.12,
+   "text": "pt ptt"
+  },
+  {
+   "start": 404.96,
+   "end": 410.16,
+   "text": "or platelets that were less than 100"
+  },
+  {
+   "start": 407.12,
+   "end": 413.92,
+   "text": "thousand per microliter"
+  },
+  {
+   "start": 410.16,
+   "end": 416.0,
+   "text": "and what we found in this study"
+  },
+  {
+   "start": 413.92,
+   "end": 420.0,
+   "text": "so what we found in this study is that"
+  },
+  {
+   "start": 416.0,
+   "end": 420.84,
+   "text": "89 septic dogs had at least one organ"
+  },
+  {
+   "start": 420.0,
+   "end": 424.48,
+   "text": "that was"
+  },
+  {
+   "start": 420.84,
+   "end": 426.32,
+   "text": "dysfunctional and 57 or 50 percent of"
+  },
+  {
+   "start": 424.48,
+   "end": 428.88,
+   "text": "the dogs actually had moths which you"
+  },
+  {
+   "start": 426.32,
+   "end": 432.96,
+   "text": "may recall is defined as two or more"
+  },
+  {
+   "start": 428.88,
+   "end": 432.96,
+   "text": "organs that are dysfunctional"
+  },
+  {
+   "start": 433.04,
+   "end": 436.96,
+   "text": "the mortality rate increased as the"
+  },
+  {
+   "start": 435.04,
+   "end": 439.36,
+   "text": "number of dysfunctional organ systems"
+  },
+  {
+   "start": 436.96,
+   "end": 442.08,
+   "text": "increased as we might predict"
+  },
+  {
+   "start": 439.36,
+   "end": 445.76,
+   "text": "with the mortality rate at 70 percent in"
+  },
+  {
+   "start": 442.08,
+   "end": 447.92,
+   "text": "dogs with mods compared to only 25"
+  },
+  {
+   "start": 445.76,
+   "end": 450.08,
+   "text": "in dogs that did not have multiple organ"
+  },
+  {
+   "start": 447.92,
+   "end": 451.92,
+   "text": "dysfunction syndrome"
+  },
+  {
+   "start": 450.08,
+   "end": 453.76,
+   "text": "the overall mortality for sepsis and"
+  },
+  {
+   "start": 451.92,
+   "end": 455.84,
+   "text": "small animal medicine has historically"
+  },
+  {
+   "start": 453.76,
+   "end": 457.2,
+   "text": "been anywhere from about 20 to 68"
+  },
+  {
+   "start": 455.84,
+   "end": 460.32,
+   "text": "percent"
+  },
+  {
+   "start": 457.2,
+   "end": 463.04,
+   "text": "uh there's one more recent study in dogs"
+  },
+  {
+   "start": 460.32,
+   "end": 466.0,
+   "text": "with pyometra that was in the lower"
+  },
+  {
+   "start": 463.04,
+   "end": 469.04,
+   "text": "range at 36.7"
+  },
+  {
+   "start": 466.0,
+   "end": 471.2,
+   "text": "um with 91 of the dogs dying in that"
+  },
+  {
+   "start": 469.04,
+   "end": 475.52,
+   "text": "study had septic shock"
+  },
+  {
+   "start": 471.2,
+   "end": 478.32,
+   "text": "and then in 2013 and 2015 two additional"
+  },
+  {
+   "start": 475.52,
+   "end": 479.6,
+   "text": "studies finding anywhere from 30 to 43"
+  },
+  {
+   "start": 478.32,
+   "end": 482.0,
+   "text": "mortality"
+  },
+  {
+   "start": 479.6,
+   "end": 484.16,
+   "text": "uh so it depends a little on the study"
+  },
+  {
+   "start": 482.0,
+   "end": 485.44,
+   "text": "the the stage of the animals that are"
+  },
+  {
+   "start": 484.16,
+   "end": 488.8,
+   "text": "being studied"
+  },
+  {
+   "start": 485.44,
+   "end": 493.56,
+   "text": "but the mortality rate is high"
+  },
+  {
+   "start": 488.8,
+   "end": 493.56,
+   "text": "with this disease in veterinary medicine"
+  },
+  {
+   "start": 494.24,
+   "end": 501.2,
+   "text": "so the initial management of patients"
+  },
+  {
+   "start": 497.44,
+   "end": 504.16,
+   "text": "with possible sepsis or sirs"
+  },
+  {
+   "start": 501.2,
+   "end": 506.56,
+   "text": "is going to first include just a rapid"
+  },
+  {
+   "start": 504.16,
+   "end": 508.96,
+   "text": "assessment and stabilization of the"
+  },
+  {
+   "start": 506.56,
+   "end": 511.2,
+   "text": "patient as soon as possible we want to"
+  },
+  {
+   "start": 508.96,
+   "end": 513.6,
+   "text": "treat any cardiovascular shock if"
+  },
+  {
+   "start": 511.2,
+   "end": 515.68,
+   "text": "present most commonly due to either"
+  },
+  {
+   "start": 513.6,
+   "end": 517.6,
+   "text": "hypovolemic shock or potentially"
+  },
+  {
+   "start": 515.68,
+   "end": 519.84,
+   "text": "distributive shock which is"
+  },
+  {
+   "start": 517.6,
+   "end": 522.64,
+   "text": "inappropriate"
+  },
+  {
+   "start": 519.84,
+   "end": 525.04,
+   "text": "secondary to cytokines"
+  },
+  {
+   "start": 522.64,
+   "end": 526.56,
+   "text": "we want to obtain any diagnostic samples"
+  },
+  {
+   "start": 525.04,
+   "end": 529.6,
+   "text": "that we may need for culture and"
+  },
+  {
+   "start": 526.56,
+   "end": 531.92,
+   "text": "susceptibility testing or other types of"
+  },
+  {
+   "start": 529.6,
+   "end": 534.32,
+   "text": "infectious testing and go ahead and"
+  },
+  {
+   "start": 531.92,
+   "end": 536.56,
+   "text": "start empiric antimicrobial therapy as"
+  },
+  {
+   "start": 534.32,
+   "end": 538.4,
+   "text": "soon as possible if we do suspect an"
+  },
+  {
+   "start": 536.56,
+   "end": 540.48,
+   "text": "infectious process"
+  },
+  {
+   "start": 538.4,
+   "end": 542.0,
+   "text": "we want to maximize oxygen delivery to"
+  },
+  {
+   "start": 540.48,
+   "end": 545.12,
+   "text": "the tissues as we mentioned in the"
+  },
+  {
+   "start": 542.0,
+   "end": 547.36,
+   "text": "beginning because every hour of delay in"
+  },
+  {
+   "start": 545.12,
+   "end": 550.8,
+   "text": "increasing oxygen delivery is going to"
+  },
+  {
+   "start": 547.36,
+   "end": 552.84,
+   "text": "mean increases in mortality due to organ"
+  },
+  {
+   "start": 550.8,
+   "end": 554.64,
+   "text": "dysfunction from ischemia and"
+  },
+  {
+   "start": 552.84,
+   "end": 556.32,
+   "text": "hypoperfusion"
+  },
+  {
+   "start": 554.64,
+   "end": 558.56,
+   "text": "so let's look more specifically at what"
+  },
+  {
+   "start": 556.32,
+   "end": 560.96,
+   "text": "we can do to maximize oxygen delivery to"
+  },
+  {
+   "start": 558.56,
+   "end": 562.56,
+   "text": "the tissues this is an algorithm that i"
+  },
+  {
+   "start": 560.96,
+   "end": 566.4,
+   "text": "really like that"
+  },
+  {
+   "start": 562.56,
+   "end": 568.24,
+   "text": "breaks down oxygen delivery in an easy"
+  },
+  {
+   "start": 566.4,
+   "end": 570.08,
+   "text": "to understand way"
+  },
+  {
+   "start": 568.24,
+   "end": 573.44,
+   "text": "if you look on the right side you can"
+  },
+  {
+   "start": 570.08,
+   "end": 576.0,
+   "text": "see that cardiac output is is 50 percent"
+  },
+  {
+   "start": 573.44,
+   "end": 578.32,
+   "text": "of oxygen delivery in this model with"
+  },
+  {
+   "start": 576.0,
+   "end": 580.96,
+   "text": "heart rate and stroke volume making up"
+  },
+  {
+   "start": 578.32,
+   "end": 582.88,
+   "text": "cardiac output and then stroke volume is"
+  },
+  {
+   "start": 580.96,
+   "end": 585.52,
+   "text": "comprised of preload"
+  },
+  {
+   "start": 582.88,
+   "end": 587.76,
+   "text": "after loading contractility and when we"
+  },
+  {
+   "start": 585.52,
+   "end": 590.16,
+   "text": "give intravenous fluid therapy we're"
+  },
+  {
+   "start": 587.76,
+   "end": 592.08,
+   "text": "really working on the preload to"
+  },
+  {
+   "start": 590.16,
+   "end": 595.12,
+   "text": "increase stroke volume increase cardiac"
+  },
+  {
+   "start": 592.08,
+   "end": 596.96,
+   "text": "output and increase oxygen delivery"
+  },
+  {
+   "start": 595.12,
+   "end": 599.28,
+   "text": "on the other side on the left side of"
+  },
+  {
+   "start": 596.96,
+   "end": 602.56,
+   "text": "this picture you see blood oxygen"
+  },
+  {
+   "start": 599.28,
+   "end": 605.12,
+   "text": "content which is the combination of"
+  },
+  {
+   "start": 602.56,
+   "end": 605.92,
+   "text": "hemoglobin concentration"
+  },
+  {
+   "start": 605.12,
+   "end": 610.16,
+   "text": "the"
+  },
+  {
+   "start": 605.92,
+   "end": 612.96,
+   "text": "oxygen saturation of the hemoglobin and"
+  },
+  {
+   "start": 610.16,
+   "end": 614.12,
+   "text": "the partial pressure of oxygen"
+  },
+  {
+   "start": 612.96,
+   "end": 616.72,
+   "text": "in the"
+  },
+  {
+   "start": 614.12,
+   "end": 618.64,
+   "text": "microcirculatory blood so we want to"
+  },
+  {
+   "start": 616.72,
+   "end": 621.28,
+   "text": "make sure that all of these parameters"
+  },
+  {
+   "start": 618.64,
+   "end": 625.84,
+   "text": "are maximized in order to normalize"
+  },
+  {
+   "start": 621.28,
+   "end": 628.0,
+   "text": "oxygen delivery to the to the tissues"
+  },
+  {
+   "start": 625.84,
+   "end": 630.8,
+   "text": "so our general treatment goals and this"
+  },
+  {
+   "start": 628.0,
+   "end": 633.04,
+   "text": "is going to serve as the basis for a lot"
+  },
+  {
+   "start": 630.8,
+   "end": 634.96,
+   "text": "of what we speak about in the upcoming"
+  },
+  {
+   "start": 633.04,
+   "end": 635.92,
+   "text": "slides well we want to start with blood"
+  },
+  {
+   "start": 634.96,
+   "end": 637.92,
+   "text": "pressure"
+  },
+  {
+   "start": 635.92,
+   "end": 639.28,
+   "text": "easy to measure either oscillometric or"
+  },
+  {
+   "start": 637.92,
+   "end": 642.16,
+   "text": "doppler we want to keep the mean"
+  },
+  {
+   "start": 639.28,
+   "end": 644.0,
+   "text": "arterial pressure greater than 65 or the"
+  },
+  {
+   "start": 642.16,
+   "end": 645.2,
+   "text": "doppler greater than 90 millimeters of"
+  },
+  {
+   "start": 644.0,
+   "end": 647.04,
+   "text": "mercury"
+  },
+  {
+   "start": 645.2,
+   "end": 649.76,
+   "text": "we want to try and keep the pac cell"
+  },
+  {
+   "start": 647.04,
+   "end": 653.12,
+   "text": "volume at least 24"
+  },
+  {
+   "start": 649.76,
+   "end": 656.4,
+   "text": "if if not higher with acute anemia"
+  },
+  {
+   "start": 653.12,
+   "end": 658.72,
+   "text": "and we want the pao2 to be"
+  },
+  {
+   "start": 656.4,
+   "end": 661.28,
+   "text": "between 80 millimeters of mercury and"
+  },
+  {
+   "start": 658.72,
+   "end": 663.28,
+   "text": "120 millimeters of mercury"
+  },
+  {
+   "start": 661.28,
+   "end": 666.24,
+   "text": "which equates to a pulse oximetry"
+  },
+  {
+   "start": 663.28,
+   "end": 667.76,
+   "text": "reading of 95 percent or greater"
+  },
+  {
+   "start": 666.24,
+   "end": 670.32,
+   "text": "we want the heart rate to be within"
+  },
+  {
+   "start": 667.76,
+   "end": 672.8,
+   "text": "normal limits we want the temperature to"
+  },
+  {
+   "start": 670.32,
+   "end": 676.0,
+   "text": "be as close to normal as possible"
+  },
+  {
+   "start": 672.8,
+   "end": 678.8,
+   "text": "the central venous oxygen saturation of"
+  },
+  {
+   "start": 676.0,
+   "end": 681.44,
+   "text": "at least 65 to 70 percent we'll talk"
+  },
+  {
+   "start": 678.8,
+   "end": 683.92,
+   "text": "more about that in just a few minutes"
+  },
+  {
+   "start": 681.44,
+   "end": 686.48,
+   "text": "and lastly we want to try and"
+  },
+  {
+   "start": 683.92,
+   "end": 689.76,
+   "text": "get the lactate less than two millimoles"
+  },
+  {
+   "start": 686.48,
+   "end": 692.0,
+   "text": "per liter at all possible"
+  },
+  {
+   "start": 689.76,
+   "end": 693.92,
+   "text": "so the next question is you know how"
+  },
+  {
+   "start": 692.0,
+   "end": 694.56,
+   "text": "quickly does this need to be done these"
+  },
+  {
+   "start": 693.92,
+   "end": 697.52,
+   "text": "are"
+  },
+  {
+   "start": 694.56,
+   "end": 698.4,
+   "text": "some pretty hefty goals we have"
+  },
+  {
+   "start": 697.52,
+   "end": 700.16,
+   "text": "and"
+  },
+  {
+   "start": 698.4,
+   "end": 703.6,
+   "text": "should we use protocols to try and"
+  },
+  {
+   "start": 700.16,
+   "end": 704.96,
+   "text": "achieve this is it just common knowledge"
+  },
+  {
+   "start": 703.6,
+   "end": 707.84,
+   "text": "let's look a little bit at its"
+  },
+  {
+   "start": 704.96,
+   "end": 711.2,
+   "text": "literature this top article that you see"
+  },
+  {
+   "start": 707.84,
+   "end": 714.48,
+   "text": "is is an oldie but goodie by dr rivers"
+  },
+  {
+   "start": 711.2,
+   "end": 716.56,
+   "text": "in 2001 which really popularized the"
+  },
+  {
+   "start": 714.48,
+   "end": 719.36,
+   "text": "notion of using early goal directed"
+  },
+  {
+   "start": 716.56,
+   "end": 720.48,
+   "text": "therapy to treat sepsis"
+  },
+  {
+   "start": 719.36,
+   "end": 724.88,
+   "text": "and"
+  },
+  {
+   "start": 720.48,
+   "end": 726.44,
+   "text": "this study showed that the use of"
+  },
+  {
+   "start": 724.88,
+   "end": 728.8,
+   "text": "rapid"
+  },
+  {
+   "start": 726.44,
+   "end": 731.84,
+   "text": "stabilization techniques"
+  },
+  {
+   "start": 728.8,
+   "end": 733.76,
+   "text": "and aggressive monitoring to"
+  },
+  {
+   "start": 731.84,
+   "end": 735.36,
+   "text": "stabilize these patients in a shorter"
+  },
+  {
+   "start": 733.76,
+   "end": 736.32,
+   "text": "period of time than was traditionally"
+  },
+  {
+   "start": 735.36,
+   "end": 738.4,
+   "text": "done"
+  },
+  {
+   "start": 736.32,
+   "end": 740.88,
+   "text": "actually did seem to make a difference"
+  },
+  {
+   "start": 738.4,
+   "end": 743.36,
+   "text": "in terms of mortality"
+  },
+  {
+   "start": 740.88,
+   "end": 745.52,
+   "text": "and length of hospitalization"
+  },
+  {
+   "start": 743.36,
+   "end": 748.4,
+   "text": "subsequent studies however the next"
+  },
+  {
+   "start": 745.52,
+   "end": 751.28,
+   "text": "three that you see on this uh slide did"
+  },
+  {
+   "start": 748.4,
+   "end": 753.68,
+   "text": "not find similar results and you'll also"
+  },
+  {
+   "start": 751.28,
+   "end": 755.52,
+   "text": "see that these studies are in the last"
+  },
+  {
+   "start": 753.68,
+   "end": 757.28,
+   "text": "few years"
+  },
+  {
+   "start": 755.52,
+   "end": 760.08,
+   "text": "they're very well known studies because"
+  },
+  {
+   "start": 757.28,
+   "end": 761.68,
+   "text": "they looked at goal-directed therapy"
+  },
+  {
+   "start": 760.08,
+   "end": 764.0,
+   "text": "for the treatment of septic shock and"
+  },
+  {
+   "start": 761.68,
+   "end": 765.52,
+   "text": "that have not found any difference with"
+  },
+  {
+   "start": 764.0,
+   "end": 767.12,
+   "text": "standard of care"
+  },
+  {
+   "start": 765.52,
+   "end": 769.12,
+   "text": "so this is in contrast to the first"
+  },
+  {
+   "start": 767.12,
+   "end": 771.52,
+   "text": "study in 2001"
+  },
+  {
+   "start": 769.12,
+   "end": 772.88,
+   "text": "and what we've subsequently determined"
+  },
+  {
+   "start": 771.52,
+   "end": 775.44,
+   "text": "is that our standard of care has"
+  },
+  {
+   "start": 772.88,
+   "end": 778.32,
+   "text": "actually improved since 2001 and"
+  },
+  {
+   "start": 775.44,
+   "end": 780.96,
+   "text": "therefore the traditional therapy that"
+  },
+  {
+   "start": 778.32,
+   "end": 783.52,
+   "text": "we commonly use compared to these"
+  },
+  {
+   "start": 780.96,
+   "end": 786.48,
+   "text": "protocols actually are pretty similar"
+  },
+  {
+   "start": 783.52,
+   "end": 787.6,
+   "text": "and so a lot of these studies used good"
+  },
+  {
+   "start": 786.48,
+   "end": 789.52,
+   "text": "quality"
+  },
+  {
+   "start": 787.6,
+   "end": 791.52,
+   "text": "goal directed therapy even for the group"
+  },
+  {
+   "start": 789.52,
+   "end": 794.4,
+   "text": "that was not being studied"
+  },
+  {
+   "start": 791.52,
+   "end": 796.48,
+   "text": "in addition we probably have now learned"
+  },
+  {
+   "start": 794.4,
+   "end": 798.64,
+   "text": "that using advanced monitoring like"
+  },
+  {
+   "start": 796.48,
+   "end": 801.04,
+   "text": "central venous oxygen saturation or"
+  },
+  {
+   "start": 798.64,
+   "end": 802.24,
+   "text": "strict transfusion or vasopressor"
+  },
+  {
+   "start": 801.04,
+   "end": 805.76,
+   "text": "guidelines"
+  },
+  {
+   "start": 802.24,
+   "end": 808.4,
+   "text": "are not necessary to improve outcome and"
+  },
+  {
+   "start": 805.76,
+   "end": 810.0,
+   "text": "can be associated with more cost"
+  },
+  {
+   "start": 808.4,
+   "end": 811.44,
+   "text": "but we'll talk a little bit more about"
+  },
+  {
+   "start": 810.0,
+   "end": 814.32,
+   "text": "that as well"
+  },
+  {
+   "start": 811.44,
+   "end": 816.16,
+   "text": "so the idea of using bundle therapy is"
+  },
+  {
+   "start": 814.32,
+   "end": 817.92,
+   "text": "quite common in people and has actually"
+  },
+  {
+   "start": 816.16,
+   "end": 819.52,
+   "text": "been studied"
+  },
+  {
+   "start": 817.92,
+   "end": 821.04,
+   "text": "a little bit in veterinary medicine"
+  },
+  {
+   "start": 819.52,
+   "end": 823.6,
+   "text": "which we'll talk about but the human"
+  },
+  {
+   "start": 821.04,
+   "end": 827.6,
+   "text": "guidelines for bundle approach means"
+  },
+  {
+   "start": 823.6,
+   "end": 830.88,
+   "text": "what what are you going to do to try and"
+  },
+  {
+   "start": 827.6,
+   "end": 832.16,
+   "text": "meet your goals and in what time frame"
+  },
+  {
+   "start": 830.88,
+   "end": 834.56,
+   "text": "and these are the current guidelines"
+  },
+  {
+   "start": 832.16,
+   "end": 836.96,
+   "text": "based on the 2016 surviving sepsis"
+  },
+  {
+   "start": 834.56,
+   "end": 838.48,
+   "text": "guidelines that say if organ dysfunction"
+  },
+  {
+   "start": 836.96,
+   "end": 841.28,
+   "text": "is present then you want to use a"
+  },
+  {
+   "start": 838.48,
+   "end": 843.76,
+   "text": "three-hour bundle approach to treatment"
+  },
+  {
+   "start": 841.28,
+   "end": 845.92,
+   "text": "if infection hypotension and the lactate"
+  },
+  {
+   "start": 843.76,
+   "end": 848.24,
+   "text": "is greater than four then give a 30 ml"
+  },
+  {
+   "start": 845.92,
+   "end": 850.16,
+   "text": "per kilo isotonic crystalloid bolus"
+  },
+  {
+   "start": 848.24,
+   "end": 852.8,
+   "text": "reassess volume responsiveness and"
+  },
+  {
+   "start": 850.16,
+   "end": 854.64,
+   "text": "tissue perfusion afterwards"
+  },
+  {
+   "start": 852.8,
+   "end": 856.72,
+   "text": "and then the six hour bundle is to"
+  },
+  {
+   "start": 854.64,
+   "end": 859.84,
+   "text": "repeat all measurements and lactate if"
+  },
+  {
+   "start": 856.72,
+   "end": 861.92,
+   "text": "the initial lactate was greater than two"
+  },
+  {
+   "start": 859.84,
+   "end": 864.88,
+   "text": "but the new definitions that we talked"
+  },
+  {
+   "start": 861.92,
+   "end": 866.56,
+   "text": "about in part one of this series do not"
+  },
+  {
+   "start": 864.88,
+   "end": 868.0,
+   "text": "change the need for early sepsis"
+  },
+  {
+   "start": 866.56,
+   "end": 870.88,
+   "text": "identification"
+  },
+  {
+   "start": 868.0,
+   "end": 873.92,
+   "text": "and the initiation of therapy"
+  },
+  {
+   "start": 870.88,
+   "end": 876.64,
+   "text": "so rather we want to use our basic"
+  },
+  {
+   "start": 873.92,
+   "end": 878.4,
+   "text": "resuscitation and diagnostics as well as"
+  },
+  {
+   "start": 876.64,
+   "end": 879.28,
+   "text": "empiric therapy"
+  },
+  {
+   "start": 878.4,
+   "end": 882.08,
+   "text": "to"
+  },
+  {
+   "start": 879.28,
+   "end": 884.4,
+   "text": "try and get oxygen delivery as"
+  },
+  {
+   "start": 882.08,
+   "end": 885.68,
+   "text": "normalized as possible as quickly as"
+  },
+  {
+   "start": 884.4,
+   "end": 888.0,
+   "text": "possible"
+  },
+  {
+   "start": 885.68,
+   "end": 889.84,
+   "text": "so let's start with hemodynamic there's"
+  },
+  {
+   "start": 888.0,
+   "end": 891.52,
+   "text": "a lot of choices out there for what"
+  },
+  {
+   "start": 889.84,
+   "end": 893.84,
+   "text": "fluids to give"
+  },
+  {
+   "start": 891.52,
+   "end": 896.24,
+   "text": "we have isotonic crystalloids hypertonic"
+  },
+  {
+   "start": 893.84,
+   "end": 898.72,
+   "text": "crystalloid synthetic colloids"
+  },
+  {
+   "start": 896.24,
+   "end": 901.52,
+   "text": "a combination of these three products or"
+  },
+  {
+   "start": 898.72,
+   "end": 903.52,
+   "text": "potentially the use of blood products"
+  },
+  {
+   "start": 901.52,
+   "end": 905.76,
+   "text": "um and we're not going to focus as much"
+  },
+  {
+   "start": 903.52,
+   "end": 908.08,
+   "text": "on blood products in in this lecture"
+  },
+  {
+   "start": 905.76,
+   "end": 909.84,
+   "text": "just because of the time constraint but"
+  },
+  {
+   "start": 908.08,
+   "end": 911.2,
+   "text": "what i do want to mention is that"
+  },
+  {
+   "start": 909.84,
+   "end": 913.6,
+   "text": "although we have a lot of different"
+  },
+  {
+   "start": 911.2,
+   "end": 916.0,
+   "text": "choices and there's been quite a bit of"
+  },
+  {
+   "start": 913.6,
+   "end": 918.16,
+   "text": "research into what the best fluid is for"
+  },
+  {
+   "start": 916.0,
+   "end": 921.12,
+   "text": "initial resuscitation isotonic"
+  },
+  {
+   "start": 918.16,
+   "end": 924.48,
+   "text": "crystalline still appear to be as"
+  },
+  {
+   "start": 921.12,
+   "end": 927.2,
+   "text": "effective as any other initially"
+  },
+  {
+   "start": 924.48,
+   "end": 928.88,
+   "text": "and the the cost is less than those of"
+  },
+  {
+   "start": 927.2,
+   "end": 930.72,
+   "text": "the other fluids"
+  },
+  {
+   "start": 928.88,
+   "end": 932.56,
+   "text": "perhaps what's even more important than"
+  },
+  {
+   "start": 930.72,
+   "end": 935.52,
+   "text": "the type of fluid that's used is"
+  },
+  {
+   "start": 932.56,
+   "end": 938.32,
+   "text": "actually uh how much of the fluids we"
+  },
+  {
+   "start": 935.52,
+   "end": 940.08,
+   "text": "give and this is kind of using looking"
+  },
+  {
+   "start": 938.32,
+   "end": 941.44,
+   "text": "at all of the various studies i just"
+  },
+  {
+   "start": 940.08,
+   "end": 943.76,
+   "text": "showed you"
+  },
+  {
+   "start": 941.44,
+   "end": 946.0,
+   "text": "the process arise promise study as well"
+  },
+  {
+   "start": 943.76,
+   "end": 948.16,
+   "text": "as river study here on the lower left"
+  },
+  {
+   "start": 946.0,
+   "end": 950.4,
+   "text": "and when all of these were looked at"
+  },
+  {
+   "start": 948.16,
+   "end": 953.68,
+   "text": "together what was actually discovered is"
+  },
+  {
+   "start": 950.4,
+   "end": 956.72,
+   "text": "that the mortality rate"
+  },
+  {
+   "start": 953.68,
+   "end": 959.28,
+   "text": "was directly correlated with the total"
+  },
+  {
+   "start": 956.72,
+   "end": 962.08,
+   "text": "amount of fluids that were given in each"
+  },
+  {
+   "start": 959.28,
+   "end": 964.64,
+   "text": "of these studies in the first 72 hours"
+  },
+  {
+   "start": 962.08,
+   "end": 966.88,
+   "text": "and in a nutshell what has been"
+  },
+  {
+   "start": 964.64,
+   "end": 968.48,
+   "text": "discovered over the past 15 years of"
+  },
+  {
+   "start": 966.88,
+   "end": 970.8,
+   "text": "research is that"
+  },
+  {
+   "start": 968.48,
+   "end": 973.2,
+   "text": "judicious fluid therapy"
+  },
+  {
+   "start": 970.8,
+   "end": 975.84,
+   "text": "is more likely to improve survival as"
+  },
+  {
+   "start": 973.2,
+   "end": 978.72,
+   "text": "opposed to aggressive fluid therapy so"
+  },
+  {
+   "start": 975.84,
+   "end": 981.92,
+   "text": "we want to just titrate to effect"
+  },
+  {
+   "start": 978.72,
+   "end": 985.68,
+   "text": "in dogs that probably means no more than"
+  },
+  {
+   "start": 981.92,
+   "end": 988.08,
+   "text": "about 10 20 mils per kilo per bolus"
+  },
+  {
+   "start": 985.68,
+   "end": 991.04,
+   "text": "and in cats probably more like 5 to 10"
+  },
+  {
+   "start": 988.08,
+   "end": 994.08,
+   "text": "mils per kilo per bolus rather than the"
+  },
+  {
+   "start": 991.04,
+   "end": 996.48,
+   "text": "traditional shock volumes which were"
+  },
+  {
+   "start": 994.08,
+   "end": 1000.0,
+   "text": "approximately one blood volume"
+  },
+  {
+   "start": 996.48,
+   "end": 1002.88,
+   "text": "of 80 to 90 ml per kilo in a dog or 40"
+  },
+  {
+   "start": 1000.0,
+   "end": 1005.04,
+   "text": "to 60 ml per kilo in a cat"
+  },
+  {
+   "start": 1002.88,
+   "end": 1007.44,
+   "text": "and we want to try and"
+  },
+  {
+   "start": 1005.04,
+   "end": 1009.68,
+   "text": "titrate our ebola therapy"
+  },
+  {
+   "start": 1007.44,
+   "end": 1012.48,
+   "text": "as rapidly as possible"
+  },
+  {
+   "start": 1009.68,
+   "end": 1015.52,
+   "text": "in the first six hours if we can to"
+  },
+  {
+   "start": 1012.48,
+   "end": 1018.08,
+   "text": "normalize the cardiovascular perfusion"
+  },
+  {
+   "start": 1015.52,
+   "end": 1022.0,
+   "text": "parameters rather than stretching it out"
+  },
+  {
+   "start": 1018.08,
+   "end": 1024.8,
+   "text": "over 24-48 hours"
+  },
+  {
+   "start": 1022.0,
+   "end": 1026.96,
+   "text": "looking overall at fluid therapy the key"
+  },
+  {
+   "start": 1024.8,
+   "end": 1030.48,
+   "text": "point here is be cautious titrate to"
+  },
+  {
+   "start": 1026.96,
+   "end": 1032.24,
+   "text": "effect and give more fluids early on"
+  },
+  {
+   "start": 1030.48,
+   "end": 1033.68,
+   "text": "we don't want to give excessive fluid"
+  },
+  {
+   "start": 1032.24,
+   "end": 1035.52,
+   "text": "therapy because we know that that's"
+  },
+  {
+   "start": 1033.68,
+   "end": 1038.64,
+   "text": "associated with increased mortality"
+  },
+  {
+   "start": 1035.52,
+   "end": 1041.04,
+   "text": "rates and that we no longer will give 80"
+  },
+  {
+   "start": 1038.64,
+   "end": 1043.04,
+   "text": "mils per kilo to a dog that's in shock"
+  },
+  {
+   "start": 1041.04,
+   "end": 1045.6,
+   "text": "all at once"
+  },
+  {
+   "start": 1043.04,
+   "end": 1047.68,
+   "text": "we know now that the revised starling"
+  },
+  {
+   "start": 1045.6,
+   "end": 1050.64,
+   "text": "forces that take into account the"
+  },
+  {
+   "start": 1047.68,
+   "end": 1053.84,
+   "text": "importance of the endothelial glycocalyx"
+  },
+  {
+   "start": 1050.64,
+   "end": 1053.84,
+   "text": "as an actual"
+  },
+  {
+   "start": 1053.92,
+   "end": 1059.28,
+   "text": "compartment so there's fluid actually"
+  },
+  {
+   "start": 1056.56,
+   "end": 1062.4,
+   "text": "just below the endothelial glycocalyx"
+  },
+  {
+   "start": 1059.28,
+   "end": 1064.16,
+   "text": "that probably counteracts the effects of"
+  },
+  {
+   "start": 1062.4,
+   "end": 1065.36,
+   "text": "oncotic pressure changes in the"
+  },
+  {
+   "start": 1064.16,
+   "end": 1068.32,
+   "text": "bloodstream"
+  },
+  {
+   "start": 1065.36,
+   "end": 1071.2,
+   "text": "more than the ratio of intravascular to"
+  },
+  {
+   "start": 1068.32,
+   "end": 1073.04,
+   "text": "interstitial oncotic pressure so this"
+  },
+  {
+   "start": 1071.2,
+   "end": 1075.68,
+   "text": "basically means that the use of"
+  },
+  {
+   "start": 1073.04,
+   "end": 1078.24,
+   "text": "synthetic colloids for the purpose we've"
+  },
+  {
+   "start": 1075.68,
+   "end": 1081.6,
+   "text": "traditionally used them for is is not"
+  },
+  {
+   "start": 1078.24,
+   "end": 1084.24,
+   "text": "necessarily physiologically sound"
+  },
+  {
+   "start": 1081.6,
+   "end": 1086.16,
+   "text": "so again supporting the use of isotonic"
+  },
+  {
+   "start": 1084.24,
+   "end": 1088.84,
+   "text": "crystalloids as the initial fluid of"
+  },
+  {
+   "start": 1086.16,
+   "end": 1092.08,
+   "text": "choice based on the fact that"
+  },
+  {
+   "start": 1088.84,
+   "end": 1094.56,
+   "text": "intravascular volume is dependent not"
+  },
+  {
+   "start": 1092.08,
+   "end": 1097.12,
+   "text": "only on hydrostatic pressure but also on"
+  },
+  {
+   "start": 1094.56,
+   "end": 1099.2,
+   "text": "the ratio of oncotic pressure inside the"
+  },
+  {
+   "start": 1097.12,
+   "end": 1102.24,
+   "text": "vessel compared to the sub-endothelial"
+  },
+  {
+   "start": 1099.2,
+   "end": 1104.4,
+   "text": "glycocalyx space"
+  },
+  {
+   "start": 1102.24,
+   "end": 1106.8,
+   "text": "the use of synthetic colloids has also"
+  },
+  {
+   "start": 1104.4,
+   "end": 1108.88,
+   "text": "been associated with increased risk for"
+  },
+  {
+   "start": 1106.8,
+   "end": 1110.56,
+   "text": "acute kidney injury in people and"
+  },
+  {
+   "start": 1108.88,
+   "end": 1112.64,
+   "text": "possibly animals although i think"
+  },
+  {
+   "start": 1110.56,
+   "end": 1114.08,
+   "text": "further researches is ongoing and"
+  },
+  {
+   "start": 1112.64,
+   "end": 1117.6,
+   "text": "necessary"
+  },
+  {
+   "start": 1114.08,
+   "end": 1119.2,
+   "text": "the use of hypertonic saline is one that"
+  },
+  {
+   "start": 1117.6,
+   "end": 1122.4,
+   "text": "has been quite interesting over the"
+  },
+  {
+   "start": 1119.2,
+   "end": 1124.8,
+   "text": "years and i do think it's a fluid that"
+  },
+  {
+   "start": 1122.4,
+   "end": 1127.92,
+   "text": "especially for larger dogs or those with"
+  },
+  {
+   "start": 1124.8,
+   "end": 1129.76,
+   "text": "head trauma is is quite attractive it"
+  },
+  {
+   "start": 1127.92,
+   "end": 1132.48,
+   "text": "not only helps to pull fluid into the"
+  },
+  {
+   "start": 1129.76,
+   "end": 1135.04,
+   "text": "vascular space but can also help to"
+  },
+  {
+   "start": 1132.48,
+   "end": 1137.12,
+   "text": "increase cardiac contractility decrease"
+  },
+  {
+   "start": 1135.04,
+   "end": 1139.76,
+   "text": "endothelial swelling"
+  },
+  {
+   "start": 1137.12,
+   "end": 1142.0,
+   "text": "and potentially even immunomodulate"
+  },
+  {
+   "start": 1139.76,
+   "end": 1144.88,
+   "text": "in patients like those with sepsis and"
+  },
+  {
+   "start": 1142.0,
+   "end": 1147.2,
+   "text": "surge that might have dysfunction of"
+  },
+  {
+   "start": 1144.88,
+   "end": 1149.52,
+   "text": "the pro and anti-inflammatory response"
+  },
+  {
+   "start": 1147.2,
+   "end": 1152.8,
+   "text": "systems"
+  },
+  {
+   "start": 1149.52,
+   "end": 1155.04,
+   "text": "so what if fluids can't get our"
+  },
+  {
+   "start": 1152.8,
+   "end": 1157.12,
+   "text": "perfusion parameters to where we want"
+  },
+  {
+   "start": 1155.04,
+   "end": 1159.2,
+   "text": "them to be based on what we talked about"
+  },
+  {
+   "start": 1157.12,
+   "end": 1162.96,
+   "text": "our goals are well we may need to look"
+  },
+  {
+   "start": 1159.2,
+   "end": 1166.32,
+   "text": "at vasopressor and or inotropic support"
+  },
+  {
+   "start": 1162.96,
+   "end": 1168.88,
+   "text": "and this is going to primarily"
+  },
+  {
+   "start": 1166.32,
+   "end": 1170.8,
+   "text": "be either dopamine or norepinephrine as"
+  },
+  {
+   "start": 1168.88,
+   "end": 1172.56,
+   "text": "our first line treatment"
+  },
+  {
+   "start": 1170.8,
+   "end": 1175.04,
+   "text": "in humans they have stopped using"
+  },
+  {
+   "start": 1172.56,
+   "end": 1177.36,
+   "text": "dopamine for treatment of steroids and"
+  },
+  {
+   "start": 1175.04,
+   "end": 1179.12,
+   "text": "sepsis primarily due to an increased"
+  },
+  {
+   "start": 1177.36,
+   "end": 1180.96,
+   "text": "risk of arrhythmias"
+  },
+  {
+   "start": 1179.12,
+   "end": 1183.04,
+   "text": "some studies have also shown in"
+  },
+  {
+   "start": 1180.96,
+   "end": 1184.56,
+   "text": "increased mortality i i don't know that"
+  },
+  {
+   "start": 1183.04,
+   "end": 1186.32,
+   "text": "we have this information available in"
+  },
+  {
+   "start": 1184.56,
+   "end": 1189.36,
+   "text": "veterinary medicine so i think either"
+  },
+  {
+   "start": 1186.32,
+   "end": 1191.84,
+   "text": "drug at this point in time is acceptable"
+  },
+  {
+   "start": 1189.36,
+   "end": 1194.0,
+   "text": "phenylephrine is a pure vasoconstrictor"
+  },
+  {
+   "start": 1191.84,
+   "end": 1195.12,
+   "text": "drug and is less commonly used in these"
+  },
+  {
+   "start": 1194.0,
+   "end": 1197.76,
+   "text": "patients"
+  },
+  {
+   "start": 1195.12,
+   "end": 1199.92,
+   "text": "epinephrine at a lower dose that's"
+  },
+  {
+   "start": 1197.76,
+   "end": 1202.08,
+   "text": "titrated may be a drug that's used more"
+  },
+  {
+   "start": 1199.92,
+   "end": 1204.8,
+   "text": "commonly in the future"
+  },
+  {
+   "start": 1202.08,
+   "end": 1206.8,
+   "text": "not necessarily cpr doses but just"
+  },
+  {
+   "start": 1204.8,
+   "end": 1208.72,
+   "text": "enough to get a balanced alpha and beta"
+  },
+  {
+   "start": 1206.8,
+   "end": 1210.72,
+   "text": "adrenergic response"
+  },
+  {
+   "start": 1208.72,
+   "end": 1212.48,
+   "text": "and then for animals that are refractory"
+  },
+  {
+   "start": 1210.72,
+   "end": 1215.28,
+   "text": "to catecholamines"
+  },
+  {
+   "start": 1212.48,
+   "end": 1216.8,
+   "text": "and or very acidemic vasopressin may be"
+  },
+  {
+   "start": 1215.28,
+   "end": 1218.56,
+   "text": "another option"
+  },
+  {
+   "start": 1216.8,
+   "end": 1220.4,
+   "text": "unfortunately the cost of vasopressin"
+  },
+  {
+   "start": 1218.56,
+   "end": 1222.96,
+   "text": "has gone up in recent years"
+  },
+  {
+   "start": 1220.4,
+   "end": 1224.8,
+   "text": "so its use has subsequently declined but"
+  },
+  {
+   "start": 1222.96,
+   "end": 1227.36,
+   "text": "it might be useful as a second line"
+  },
+  {
+   "start": 1224.8,
+   "end": 1230.32,
+   "text": "agent in animals with a catecholamine"
+  },
+  {
+   "start": 1227.36,
+   "end": 1232.72,
+   "text": "refractory hypotension"
+  },
+  {
+   "start": 1230.32,
+   "end": 1234.88,
+   "text": "and then for animals that might have"
+  },
+  {
+   "start": 1232.72,
+   "end": 1237.04,
+   "text": "cardio"
+  },
+  {
+   "start": 1234.88,
+   "end": 1240.32,
+   "text": "i'm sorry cardiac contractility"
+  },
+  {
+   "start": 1237.04,
+   "end": 1243.12,
+   "text": "dysfunction so decreases in inotropy"
+  },
+  {
+   "start": 1240.32,
+   "end": 1246.0,
+   "text": "the use of a positive ionotrope such as"
+  },
+  {
+   "start": 1243.12,
+   "end": 1248.4,
+   "text": "dobutamine might be indicated as long as"
+  },
+  {
+   "start": 1246.0,
+   "end": 1251.28,
+   "text": "the patient is monitored closely for"
+  },
+  {
+   "start": 1248.4,
+   "end": 1253.04,
+   "text": "subsequent arrhythmias that may occur"
+  },
+  {
+   "start": 1251.28,
+   "end": 1256.0,
+   "text": "so what should our goal blood pressure"
+  },
+  {
+   "start": 1253.04,
+   "end": 1258.64,
+   "text": "be we mentioned 65 for a mean or maybe"
+  },
+  {
+   "start": 1256.0,
+   "end": 1260.32,
+   "text": "90 for a doppler and i just wanted to"
+  },
+  {
+   "start": 1258.64,
+   "end": 1263.12,
+   "text": "show a bit of evidence from small"
+  },
+  {
+   "start": 1260.32,
+   "end": 1265.6,
+   "text": "animals to support this this was a study"
+  },
+  {
+   "start": 1263.12,
+   "end": 1268.08,
+   "text": "done in in cats"
+  },
+  {
+   "start": 1265.6,
+   "end": 1270.64,
+   "text": "in our icu actually at penn where we"
+  },
+  {
+   "start": 1268.08,
+   "end": 1271.76,
+   "text": "looked at 83 cats in the intensive care"
+  },
+  {
+   "start": 1270.64,
+   "end": 1273.44,
+   "text": "unit"
+  },
+  {
+   "start": 1271.76,
+   "end": 1276.08,
+   "text": "that had one or more doppler reading"
+  },
+  {
+   "start": 1273.44,
+   "end": 1277.92,
+   "text": "less than 90 while in the icu and we"
+  },
+  {
+   "start": 1276.08,
+   "end": 1281.36,
+   "text": "found that they had a decrease in"
+  },
+  {
+   "start": 1277.92,
+   "end": 1282.24,
+   "text": "survival of about 64 percent"
+  },
+  {
+   "start": 1281.36,
+   "end": 1285.6,
+   "text": "uh"
+  },
+  {
+   "start": 1282.24,
+   "end": 1286.4,
+   "text": "versus 32 percent mortality in patients"
+  },
+  {
+   "start": 1285.6,
+   "end": 1288.64,
+   "text": "that"
+  },
+  {
+   "start": 1286.4,
+   "end": 1291.04,
+   "text": "had a blood pressure greater than 90"
+  },
+  {
+   "start": 1288.64,
+   "end": 1292.56,
+   "text": "during their entire stay"
+  },
+  {
+   "start": 1291.04,
+   "end": 1297.12,
+   "text": "if the doppler blood pressure was"
+  },
+  {
+   "start": 1292.56,
+   "end": 1298.8,
+   "text": "increased with our therapy by 20 or more"
+  },
+  {
+   "start": 1297.12,
+   "end": 1301.44,
+   "text": "millimeters of mercury then they were"
+  },
+  {
+   "start": 1298.8,
+   "end": 1304.08,
+   "text": "also more likely to survive to discharge"
+  },
+  {
+   "start": 1301.44,
+   "end": 1306.88,
+   "text": "again showing that we want to really try"
+  },
+  {
+   "start": 1304.08,
+   "end": 1308.88,
+   "text": "and maximize the parameters that we can"
+  },
+  {
+   "start": 1306.88,
+   "end": 1311.6,
+   "text": "measure like blood pressure and these"
+  },
+  {
+   "start": 1308.88,
+   "end": 1312.72,
+   "text": "animals to to increase their survival"
+  },
+  {
+   "start": 1311.6,
+   "end": 1315.92,
+   "text": "rates"
+  },
+  {
+   "start": 1312.72,
+   "end": 1317.84,
+   "text": "so in dogs we also found that in dogs"
+  },
+  {
+   "start": 1315.92,
+   "end": 1319.92,
+   "text": "presenting to the emergency room with a"
+  },
+  {
+   "start": 1317.84,
+   "end": 1322.0,
+   "text": "blood pressure less than 90 that were"
+  },
+  {
+   "start": 1319.92,
+   "end": 1323.68,
+   "text": "treated with intravenous fluids a large"
+  },
+  {
+   "start": 1322.0,
+   "end": 1325.04,
+   "text": "majority of them actually did respond to"
+  },
+  {
+   "start": 1323.68,
+   "end": 1328.56,
+   "text": "fluid therapy"
+  },
+  {
+   "start": 1325.04,
+   "end": 1330.96,
+   "text": "so 23 out of 35 had normalization of"
+  },
+  {
+   "start": 1328.56,
+   "end": 1332.88,
+   "text": "their blood pressure those that did not"
+  },
+  {
+   "start": 1330.96,
+   "end": 1335.44,
+   "text": "respond were more likely to be"
+  },
+  {
+   "start": 1332.88,
+   "end": 1336.8,
+   "text": "euthanized than those that did respond"
+  },
+  {
+   "start": 1335.44,
+   "end": 1338.32,
+   "text": "and had normalization of their"
+  },
+  {
+   "start": 1336.8,
+   "end": 1340.08,
+   "text": "parameters"
+  },
+  {
+   "start": 1338.32,
+   "end": 1342.4,
+   "text": "so again using our blood pressure"
+  },
+  {
+   "start": 1340.08,
+   "end": 1344.48,
+   "text": "targets and using fluid therapy and"
+  },
+  {
+   "start": 1342.4,
+   "end": 1347.04,
+   "text": "maybe vasopressor therapy to achieve"
+  },
+  {
+   "start": 1344.48,
+   "end": 1349.04,
+   "text": "those targets is evidence-based at this"
+  },
+  {
+   "start": 1347.04,
+   "end": 1350.96,
+   "text": "point in time"
+  },
+  {
+   "start": 1349.04,
+   "end": 1352.96,
+   "text": "so what about in therapy well it's"
+  },
+  {
+   "start": 1350.96,
+   "end": 1356.08,
+   "text": "indicated for animals that have a pulse"
+  },
+  {
+   "start": 1352.96,
+   "end": 1357.28,
+   "text": "ox less than 95 percent of cao2 less"
+  },
+  {
+   "start": 1356.08,
+   "end": 1359.76,
+   "text": "than 80"
+  },
+  {
+   "start": 1357.28,
+   "end": 1362.0,
+   "text": "perhaps even a hematocrit less than 25"
+  },
+  {
+   "start": 1359.76,
+   "end": 1364.88,
+   "text": "percent acutely that"
+  },
+  {
+   "start": 1362.0,
+   "end": 1367.68,
+   "text": "are pending getting blood transfusion"
+  },
+  {
+   "start": 1364.88,
+   "end": 1370.96,
+   "text": "or suspected hypoxemia even if a number"
+  },
+  {
+   "start": 1367.68,
+   "end": 1372.96,
+   "text": "cannot be obtained in in a given animal"
+  },
+  {
+   "start": 1370.96,
+   "end": 1375.44,
+   "text": "again i'm going to mention the central"
+  },
+  {
+   "start": 1372.96,
+   "end": 1376.88,
+   "text": "venous oxygen saturation less than 70"
+  },
+  {
+   "start": 1375.44,
+   "end": 1378.8,
+   "text": "percent which we'll talk a little bit"
+  },
+  {
+   "start": 1376.88,
+   "end": 1380.16,
+   "text": "more about just so everyone's aware of"
+  },
+  {
+   "start": 1378.8,
+   "end": 1383.2,
+   "text": "what this means"
+  },
+  {
+   "start": 1380.16,
+   "end": 1385.52,
+   "text": "but for now suffice to say that we will"
+  },
+  {
+   "start": 1383.2,
+   "end": 1387.68,
+   "text": "consider giving oxygen therapy to"
+  },
+  {
+   "start": 1385.52,
+   "end": 1389.52,
+   "text": "patients that meet these criteria"
+  },
+  {
+   "start": 1387.68,
+   "end": 1391.6,
+   "text": "we can use an oxygen cage that's"
+  },
+  {
+   "start": 1389.52,
+   "end": 1395.12,
+   "text": "temperature and humidity controlled"
+  },
+  {
+   "start": 1391.6,
+   "end": 1396.4,
+   "text": "potentially a mask flow by or even a"
+  },
+  {
+   "start": 1395.12,
+   "end": 1398.48,
+   "text": "hood"
+  },
+  {
+   "start": 1396.4,
+   "end": 1402.24,
+   "text": "i did want to mention that recently the"
+  },
+  {
+   "start": 1398.48,
+   "end": 1404.4,
+   "text": "use of high flow oxygen therapy which is"
+  },
+  {
+   "start": 1402.24,
+   "end": 1407.52,
+   "text": "what the picture on the lower right is"
+  },
+  {
+   "start": 1404.4,
+   "end": 1410.56,
+   "text": "has become more popular"
+  },
+  {
+   "start": 1407.52,
+   "end": 1413.52,
+   "text": "as a tool to help animals with apparent"
+  },
+  {
+   "start": 1410.56,
+   "end": 1416.4,
+   "text": "dysphemia and severe hypoxemia that may"
+  },
+  {
+   "start": 1413.52,
+   "end": 1419.2,
+   "text": "otherwise require mechanical ventilation"
+  },
+  {
+   "start": 1416.4,
+   "end": 1421.68,
+   "text": "to normalize their oxygen saturation and"
+  },
+  {
+   "start": 1419.2,
+   "end": 1424.88,
+   "text": "partial pressure of oxygen this is a"
+  },
+  {
+   "start": 1421.68,
+   "end": 1426.96,
+   "text": "high high oxygen flow therapy that's"
+  },
+  {
+   "start": 1424.88,
+   "end": 1428.08,
+   "text": "administered through nasal prongs or"
+  },
+  {
+   "start": 1426.96,
+   "end": 1430.0,
+   "text": "cannula"
+  },
+  {
+   "start": 1428.08,
+   "end": 1431.68,
+   "text": "and is temperature and humidity"
+  },
+  {
+   "start": 1430.0,
+   "end": 1434.88,
+   "text": "controlled so that we can get more"
+  },
+  {
+   "start": 1431.68,
+   "end": 1434.88,
+   "text": "comfortable high flows"
+  },
+  {
+   "start": 1434.96,
+   "end": 1440.24,
+   "text": "the risks of oxygen therapy at least in"
+  },
+  {
+   "start": 1437.84,
+   "end": 1442.64,
+   "text": "the initial stages of treatment are are"
+  },
+  {
+   "start": 1440.24,
+   "end": 1445.04,
+   "text": "not anything to worry about but with"
+  },
+  {
+   "start": 1442.64,
+   "end": 1447.2,
+   "text": "more than 12 to 24 hours of oxygen"
+  },
+  {
+   "start": 1445.04,
+   "end": 1450.4,
+   "text": "therapy we do want to try and keep the"
+  },
+  {
+   "start": 1447.2,
+   "end": 1452.88,
+   "text": "fio2 less than 60 percent and we also"
+  },
+  {
+   "start": 1450.4,
+   "end": 1455.44,
+   "text": "want to keep the pao2 in a normal range"
+  },
+  {
+   "start": 1452.88,
+   "end": 1459.4,
+   "text": "not a supranormal range to decrease the"
+  },
+  {
+   "start": 1455.44,
+   "end": 1459.4,
+   "text": "risk of oxygen toxicity"
+  },
+  {
+   "start": 1459.68,
+   "end": 1463.44,
+   "text": "so i've mentioned venous oxygen"
+  },
+  {
+   "start": 1461.36,
+   "end": 1466.16,
+   "text": "saturation a couple of times now what"
+  },
+  {
+   "start": 1463.44,
+   "end": 1469.36,
+   "text": "exactly is this well it's it's an"
+  },
+  {
+   "start": 1466.16,
+   "end": 1472.72,
+   "text": "attempt to detect abnormalities between"
+  },
+  {
+   "start": 1469.36,
+   "end": 1475.36,
+   "text": "oxygen delivery and oxygen consumption"
+  },
+  {
+   "start": 1472.72,
+   "end": 1477.84,
+   "text": "in the oxygen delivery dependent phase"
+  },
+  {
+   "start": 1475.36,
+   "end": 1481.28,
+   "text": "of the oxygen delivery curve"
+  },
+  {
+   "start": 1477.84,
+   "end": 1483.2,
+   "text": "so we found that animals with normal"
+  },
+  {
+   "start": 1481.28,
+   "end": 1485.76,
+   "text": "physical exam parameters can still have"
+  },
+  {
+   "start": 1483.2,
+   "end": 1487.36,
+   "text": "low venous oxygen saturation"
+  },
+  {
+   "start": 1485.76,
+   "end": 1489.76,
+   "text": "it's been shown to be a valuable"
+  },
+  {
+   "start": 1487.36,
+   "end": 1492.64,
+   "text": "predictor of survival and failure to"
+  },
+  {
+   "start": 1489.76,
+   "end": 1495.6,
+   "text": "increase the saturation of the venous"
+  },
+  {
+   "start": 1492.64,
+   "end": 1497.84,
+   "text": "blood within six hours of presentation"
+  },
+  {
+   "start": 1495.6,
+   "end": 1500.32,
+   "text": "has been shown to have about a 14"
+  },
+  {
+   "start": 1497.84,
+   "end": 1502.88,
+   "text": "increase in mortality in people and"
+  },
+  {
+   "start": 1500.32,
+   "end": 1505.76,
+   "text": "again it's telling us what is the oxygen"
+  },
+  {
+   "start": 1502.88,
+   "end": 1507.92,
+   "text": "supply to demand balance"
+  },
+  {
+   "start": 1505.76,
+   "end": 1509.6,
+   "text": "if it's low we should attempt to"
+  },
+  {
+   "start": 1507.92,
+   "end": 1512.0,
+   "text": "increase delivery because there's"
+  },
+  {
+   "start": 1509.6,
+   "end": 1515.28,
+   "text": "probably not enough oxygen delivered to"
+  },
+  {
+   "start": 1512.0,
+   "end": 1516.56,
+   "text": "the tissues to meet the demand so this"
+  },
+  {
+   "start": 1515.28,
+   "end": 1517.52,
+   "text": "is a"
+  },
+  {
+   "start": 1516.56,
+   "end": 1520.32,
+   "text": "little"
+  },
+  {
+   "start": 1517.52,
+   "end": 1523.44,
+   "text": "figure showing kind of what would cause"
+  },
+  {
+   "start": 1520.32,
+   "end": 1525.36,
+   "text": "potential decreases in oxygen saturation"
+  },
+  {
+   "start": 1523.44,
+   "end": 1528.96,
+   "text": "of the venous system and what might"
+  },
+  {
+   "start": 1525.36,
+   "end": 1531.44,
+   "text": "actually cause it to appear increased"
+  },
+  {
+   "start": 1528.96,
+   "end": 1533.92,
+   "text": "let's look at some of the evidence how"
+  },
+  {
+   "start": 1531.44,
+   "end": 1537.52,
+   "text": "first in 2011"
+  },
+  {
+   "start": 1533.92,
+   "end": 1539.52,
+   "text": "dr hayes at all looked at 126 dogs with"
+  },
+  {
+   "start": 1537.52,
+   "end": 1543.04,
+   "text": "a central venous catheter and an"
+  },
+  {
+   "start": 1539.52,
+   "end": 1544.96,
+   "text": "immortality risk in the icu of about 31"
+  },
+  {
+   "start": 1543.04,
+   "end": 1547.36,
+   "text": "they measured the central venous oxygen"
+  },
+  {
+   "start": 1544.96,
+   "end": 1550.08,
+   "text": "saturation and found that if it was less"
+  },
+  {
+   "start": 1547.36,
+   "end": 1552.56,
+   "text": "than 68 that was associated with a"
+  },
+  {
+   "start": 1550.08,
+   "end": 1555.84,
+   "text": "increase in mortality and every 10"
+  },
+  {
+   "start": 1552.56,
+   "end": 1560.08,
+   "text": "percent drop under 68 meant the odds of"
+  },
+  {
+   "start": 1555.84,
+   "end": 1562.4,
+   "text": "a poor outcome increased by 2.66 times"
+  },
+  {
+   "start": 1560.08,
+   "end": 1564.96,
+   "text": "other factors that predicted a low"
+  },
+  {
+   "start": 1562.4,
+   "end": 1568.56,
+   "text": "central venous oxygen saturation were"
+  },
+  {
+   "start": 1564.96,
+   "end": 1571.76,
+   "text": "pcb mean arterial pressure a fever or a"
+  },
+  {
+   "start": 1568.56,
+   "end": 1573.76,
+   "text": "low pulse oximetry reading"
+  },
+  {
+   "start": 1571.76,
+   "end": 1575.6,
+   "text": "one other set"
+  },
+  {
+   "start": 1573.76,
+   "end": 1578.24,
+   "text": "was was done by"
+  },
+  {
+   "start": 1575.6,
+   "end": 1580.16,
+   "text": "conti patara at all"
+  },
+  {
+   "start": 1578.24,
+   "end": 1582.08,
+   "text": "looked at changes in tissue perfusion"
+  },
+  {
+   "start": 1580.16,
+   "end": 1584.96,
+   "text": "parameters in dogs with severe sepsis"
+  },
+  {
+   "start": 1582.08,
+   "end": 1587.28,
+   "text": "and septic shock secondary to pyometra"
+  },
+  {
+   "start": 1584.96,
+   "end": 1589.84,
+   "text": "in response to goal-directed hemodynamic"
+  },
+  {
+   "start": 1587.28,
+   "end": 1591.52,
+   "text": "optimization at admission to icu and"
+  },
+  {
+   "start": 1589.84,
+   "end": 1593.36,
+   "text": "looked at the relationship to outcome"
+  },
+  {
+   "start": 1591.52,
+   "end": 1596.64,
+   "text": "and what they found was that"
+  },
+  {
+   "start": 1593.36,
+   "end": 1598.64,
+   "text": "using kind of a goal-directed therapy"
+  },
+  {
+   "start": 1596.64,
+   "end": 1601.04,
+   "text": "monitoring central venous oxygen"
+  },
+  {
+   "start": 1598.64,
+   "end": 1604.56,
+   "text": "saturation as well as lactate and base"
+  },
+  {
+   "start": 1601.04,
+   "end": 1606.24,
+   "text": "deficit in dogs that had come out of"
+  },
+  {
+   "start": 1604.56,
+   "end": 1607.44,
+   "text": "surgery for"
+  },
+  {
+   "start": 1606.24,
+   "end": 1610.32,
+   "text": "uh"
+  },
+  {
+   "start": 1607.44,
+   "end": 1612.56,
+   "text": "pyometra and septic shock they found"
+  },
+  {
+   "start": 1610.32,
+   "end": 1615.84,
+   "text": "that that was predictive of the outcome"
+  },
+  {
+   "start": 1612.56,
+   "end": 1618.8,
+   "text": "and if the scvo2 was 75"
+  },
+  {
+   "start": 1615.84,
+   "end": 1621.12,
+   "text": "the chance for survival was increased"
+  },
+  {
+   "start": 1618.8,
+   "end": 1623.84,
+   "text": "versus 62 percent was the average in"
+  },
+  {
+   "start": 1621.12,
+   "end": 1625.6,
+   "text": "those that that subsequently died"
+  },
+  {
+   "start": 1623.84,
+   "end": 1627.92,
+   "text": "so using"
+  },
+  {
+   "start": 1625.6,
+   "end": 1630.16,
+   "text": "machines to even just measure lactate"
+  },
+  {
+   "start": 1627.92,
+   "end": 1633.04,
+   "text": "like you see in the top right which is"
+  },
+  {
+   "start": 1630.16,
+   "end": 1635.28,
+   "text": "easy to do nova has a lactate meter that"
+  },
+  {
+   "start": 1633.04,
+   "end": 1637.2,
+   "text": "has been validated"
+  },
+  {
+   "start": 1635.28,
+   "end": 1640.64,
+   "text": "can be useful for monitoring and"
+  },
+  {
+   "start": 1637.2,
+   "end": 1641.6,
+   "text": "prognosticating in these patients"
+  },
+  {
+   "start": 1640.64,
+   "end": 1643.28,
+   "text": "so"
+  },
+  {
+   "start": 1641.6,
+   "end": 1646.24,
+   "text": "next i wanted to talk about"
+  },
+  {
+   "start": 1643.28,
+   "end": 1648.8,
+   "text": "antimicrobial therapy i think it's well"
+  },
+  {
+   "start": 1646.24,
+   "end": 1652.72,
+   "text": "known now that early antimicrobial"
+  },
+  {
+   "start": 1648.8,
+   "end": 1655.36,
+   "text": "therapy is recommended uh weighting can"
+  },
+  {
+   "start": 1652.72,
+   "end": 1656.88,
+   "text": "definitely increase mortality and so i"
+  },
+  {
+   "start": 1655.36,
+   "end": 1659.28,
+   "text": "wanted to just go through a few"
+  },
+  {
+   "start": 1656.88,
+   "end": 1662.48,
+   "text": "different possibilities for empiric"
+  },
+  {
+   "start": 1659.28,
+   "end": 1665.52,
+   "text": "antimicrobial therapy in patients that"
+  },
+  {
+   "start": 1662.48,
+   "end": 1667.68,
+   "text": "are suspected to have bacterial sepsis"
+  },
+  {
+   "start": 1665.52,
+   "end": 1669.52,
+   "text": "and these are either single or"
+  },
+  {
+   "start": 1667.68,
+   "end": 1672.64,
+   "text": "combination agents"
+  },
+  {
+   "start": 1669.52,
+   "end": 1676.08,
+   "text": "that show poor quadrant coverage"
+  },
+  {
+   "start": 1672.64,
+   "end": 1678.72,
+   "text": "obviously it also depends on the the"
+  },
+  {
+   "start": 1676.08,
+   "end": 1681.28,
+   "text": "bugs themselves that we suspect are"
+  },
+  {
+   "start": 1678.72,
+   "end": 1683.36,
+   "text": "present the tissues and penetration to"
+  },
+  {
+   "start": 1681.28,
+   "end": 1686.16,
+   "text": "those tissues and immunocompetency of"
+  },
+  {
+   "start": 1683.36,
+   "end": 1687.84,
+   "text": "the host but for severely affected"
+  },
+  {
+   "start": 1686.16,
+   "end": 1690.24,
+   "text": "patients"
+  },
+  {
+   "start": 1687.84,
+   "end": 1693.76,
+   "text": "one of these combinations or single"
+  },
+  {
+   "start": 1690.24,
+   "end": 1696.8,
+   "text": "agents is is often recommended and"
+  },
+  {
+   "start": 1693.76,
+   "end": 1698.64,
+   "text": "obviously if there's some sort of nidus"
+  },
+  {
+   "start": 1696.8,
+   "end": 1700.48,
+   "text": "for that infection then it should be"
+  },
+  {
+   "start": 1698.64,
+   "end": 1702.88,
+   "text": "addressed with surgical"
+  },
+  {
+   "start": 1700.48,
+   "end": 1705.6,
+   "text": "treatment debridement"
+  },
+  {
+   "start": 1702.88,
+   "end": 1708.32,
+   "text": "lavage as indicated pending the"
+  },
+  {
+   "start": 1705.6,
+   "end": 1708.32,
+   "text": "situation"
+  },
+  {
+   "start": 1708.8,
+   "end": 1714.0,
+   "text": "so early antimicrobial therapy for every"
+  },
+  {
+   "start": 1712.16,
+   "end": 1715.92,
+   "text": "hour of delay"
+  },
+  {
+   "start": 1714.0,
+   "end": 1717.68,
+   "text": "in people they found that there's an"
+  },
+  {
+   "start": 1715.92,
+   "end": 1719.44,
+   "text": "increased mortality of anywhere from"
+  },
+  {
+   "start": 1717.68,
+   "end": 1721.6,
+   "text": "about seven and a half to thirteen"
+  },
+  {
+   "start": 1719.44,
+   "end": 1723.52,
+   "text": "percent"
+  },
+  {
+   "start": 1721.6,
+   "end": 1726.32,
+   "text": "we also know that if the wrong"
+  },
+  {
+   "start": 1723.52,
+   "end": 1728.48,
+   "text": "antibiotic is chosen initially there's a"
+  },
+  {
+   "start": 1726.32,
+   "end": 1730.48,
+   "text": "five-fold increase in mortality again"
+  },
+  {
+   "start": 1728.48,
+   "end": 1733.04,
+   "text": "another reason to use those"
+  },
+  {
+   "start": 1730.48,
+   "end": 1736.72,
+   "text": "four-quadrant bacterial"
+  },
+  {
+   "start": 1733.04,
+   "end": 1738.64,
+   "text": "usually intravenous medications"
+  },
+  {
+   "start": 1736.72,
+   "end": 1740.64,
+   "text": "septic dogs that were prescribed the"
+  },
+  {
+   "start": 1738.64,
+   "end": 1742.88,
+   "text": "correct antibiotics"
+  },
+  {
+   "start": 1740.64,
+   "end": 1745.68,
+   "text": "were found to occur about 53 percent of"
+  },
+  {
+   "start": 1742.88,
+   "end": 1747.12,
+   "text": "the time in a study by dickinson"
+  },
+  {
+   "start": 1745.68,
+   "end": 1748.64,
+   "text": "and although"
+  },
+  {
+   "start": 1747.12,
+   "end": 1750.4,
+   "text": "looking at the numbers there might have"
+  },
+  {
+   "start": 1748.64,
+   "end": 1752.56,
+   "text": "been a relationship to outcome if the"
+  },
+  {
+   "start": 1750.4,
+   "end": 1754.4,
+   "text": "correct antibiotic was chosen"
+  },
+  {
+   "start": 1752.56,
+   "end": 1756.08,
+   "text": "um it did not reach statistical"
+  },
+  {
+   "start": 1754.4,
+   "end": 1757.84,
+   "text": "significance"
+  },
+  {
+   "start": 1756.08,
+   "end": 1760.0,
+   "text": "i think the moral of the story is you"
+  },
+  {
+   "start": 1757.84,
+   "end": 1761.76,
+   "text": "don't want to delay starting therapy to"
+  },
+  {
+   "start": 1760.0,
+   "end": 1764.16,
+   "text": "obtain cultures but you do want to try"
+  },
+  {
+   "start": 1761.76,
+   "end": 1767.36,
+   "text": "and get your cultures um as soon as"
+  },
+  {
+   "start": 1764.16,
+   "end": 1769.04,
+   "text": "possible and and definitely within"
+  },
+  {
+   "start": 1767.36,
+   "end": 1771.6,
+   "text": "administration of the first dose of"
+  },
+  {
+   "start": 1769.04,
+   "end": 1773.36,
+   "text": "antibiotics if you can"
+  },
+  {
+   "start": 1771.6,
+   "end": 1775.36,
+   "text": "we want to choose bactericidal"
+  },
+  {
+   "start": 1773.36,
+   "end": 1776.88,
+   "text": "intravenous antibiotics that target the"
+  },
+  {
+   "start": 1775.36,
+   "end": 1780.56,
+   "text": "suspected"
+  },
+  {
+   "start": 1776.88,
+   "end": 1781.76,
+   "text": "organism in the site of of infection and"
+  },
+  {
+   "start": 1780.56,
+   "end": 1784.4,
+   "text": "once we get our culture and"
+  },
+  {
+   "start": 1781.76,
+   "end": 1786.4,
+   "text": "susceptibility testing returned we want"
+  },
+  {
+   "start": 1784.4,
+   "end": 1788.48,
+   "text": "to make sure to de-escalate our"
+  },
+  {
+   "start": 1786.4,
+   "end": 1790.4,
+   "text": "antimicrobial therapy in an attempt to"
+  },
+  {
+   "start": 1788.48,
+   "end": 1792.8,
+   "text": "decrease the risk for antimicrobial"
+  },
+  {
+   "start": 1790.4,
+   "end": 1794.48,
+   "text": "resistance"
+  },
+  {
+   "start": 1792.8,
+   "end": 1796.32,
+   "text": "so what about nutrition this is an"
+  },
+  {
+   "start": 1794.48,
+   "end": 1798.88,
+   "text": "important part of treatment that i feel"
+  },
+  {
+   "start": 1796.32,
+   "end": 1801.2,
+   "text": "like sometimes is overlooked"
+  },
+  {
+   "start": 1798.88,
+   "end": 1802.88,
+   "text": "um we want to try and use enteral"
+  },
+  {
+   "start": 1801.2,
+   "end": 1804.56,
+   "text": "nutrition in these patients as soon as"
+  },
+  {
+   "start": 1802.88,
+   "end": 1807.24,
+   "text": "possible if we can"
+  },
+  {
+   "start": 1804.56,
+   "end": 1810.4,
+   "text": "either by nasal esophageal tube or"
+  },
+  {
+   "start": 1807.24,
+   "end": 1812.0,
+   "text": "nasogastric tube possibly esophagostomy"
+  },
+  {
+   "start": 1810.4,
+   "end": 1813.68,
+   "text": "tube if they're already under anesthesia"
+  },
+  {
+   "start": 1812.0,
+   "end": 1817.04,
+   "text": "or potentially a gastrostomy or"
+  },
+  {
+   "start": 1813.68,
+   "end": 1819.36,
+   "text": "jadenostomy tube depending on what the"
+  },
+  {
+   "start": 1817.04,
+   "end": 1821.44,
+   "text": "underlying disease is"
+  },
+  {
+   "start": 1819.36,
+   "end": 1823.44,
+   "text": "we know that the enteral route is"
+  },
+  {
+   "start": 1821.44,
+   "end": 1826.16,
+   "text": "preferred to provide nutrition to the"
+  },
+  {
+   "start": 1823.44,
+   "end": 1827.92,
+   "text": "enterocytes but only if the patient is"
+  },
+  {
+   "start": 1826.16,
+   "end": 1829.36,
+   "text": "able to tolerate it without vomiting"
+  },
+  {
+   "start": 1827.92,
+   "end": 1831.36,
+   "text": "regurgitation"
+  },
+  {
+   "start": 1829.36,
+   "end": 1832.72,
+   "text": "and of course if they are"
+  },
+  {
+   "start": 1831.36,
+   "end": 1835.44,
+   "text": "sternal"
+  },
+  {
+   "start": 1832.72,
+   "end": 1836.96,
+   "text": "for their feedings and have a gag reflex"
+  },
+  {
+   "start": 1835.44,
+   "end": 1840.4,
+   "text": "present to protect their airway in the"
+  },
+  {
+   "start": 1836.96,
+   "end": 1842.48,
+   "text": "event of vomiting regurgitation"
+  },
+  {
+   "start": 1840.4,
+   "end": 1844.4,
+   "text": "in addition we can consider parenteral"
+  },
+  {
+   "start": 1842.48,
+   "end": 1847.44,
+   "text": "therapy if enteral therapy is"
+  },
+  {
+   "start": 1844.4,
+   "end": 1850.0,
+   "text": "contraindicated using either a central"
+  },
+  {
+   "start": 1847.44,
+   "end": 1852.8,
+   "text": "or peripheral catheter to deliver either"
+  },
+  {
+   "start": 1850.0,
+   "end": 1854.88,
+   "text": "total or partial parenteral nutrition"
+  },
+  {
+   "start": 1852.8,
+   "end": 1857.92,
+   "text": "depending on what type of catheter we're"
+  },
+  {
+   "start": 1854.88,
+   "end": 1859.84,
+   "text": "able to place in the patient"
+  },
+  {
+   "start": 1857.92,
+   "end": 1862.4,
+   "text": "obviously total parental nutrition would"
+  },
+  {
+   "start": 1859.84,
+   "end": 1863.68,
+   "text": "be desirable until enteral nutrition is"
+  },
+  {
+   "start": 1862.4,
+   "end": 1866.48,
+   "text": "achieved"
+  },
+  {
+   "start": 1863.68,
+   "end": 1869.28,
+   "text": "but even partial and parental nutrition"
+  },
+  {
+   "start": 1866.48,
+   "end": 1871.28,
+   "text": "is is better than nothing"
+  },
+  {
+   "start": 1869.28,
+   "end": 1873.68,
+   "text": "so usually we're going to calculate the"
+  },
+  {
+   "start": 1871.28,
+   "end": 1875.12,
+   "text": "resting energy rate and we'll deliver"
+  },
+  {
+   "start": 1873.68,
+   "end": 1878.08,
+   "text": "that"
+  },
+  {
+   "start": 1875.12,
+   "end": 1880.64,
+   "text": "in incremental doses of maybe 50 percent"
+  },
+  {
+   "start": 1878.08,
+   "end": 1883.76,
+   "text": "of our er on day one and then either"
+  },
+  {
+   "start": 1880.64,
+   "end": 1885.52,
+   "text": "full or 75 percent on day two"
+  },
+  {
+   "start": 1883.76,
+   "end": 1888.56,
+   "text": "depending on how the animal is"
+  },
+  {
+   "start": 1885.52,
+   "end": 1890.56,
+   "text": "tolerating the the nutrition we"
+  },
+  {
+   "start": 1888.56,
+   "end": 1892.8,
+   "text": "generally do want to"
+  },
+  {
+   "start": 1890.56,
+   "end": 1894.4,
+   "text": "monitor them closely for any evidence of"
+  },
+  {
+   "start": 1892.8,
+   "end": 1895.68,
+   "text": "repeating"
+  },
+  {
+   "start": 1894.4,
+   "end": 1896.64,
+   "text": "nausea"
+  },
+  {
+   "start": 1895.68,
+   "end": 1898.56,
+   "text": "or"
+  },
+  {
+   "start": 1896.64,
+   "end": 1901.2,
+   "text": "potentially changes in things like"
+  },
+  {
+   "start": 1898.56,
+   "end": 1903.24,
+   "text": "electrolytes lipemia if they're getting"
+  },
+  {
+   "start": 1901.2,
+   "end": 1905.76,
+   "text": "parenteral nutrition"
+  },
+  {
+   "start": 1903.24,
+   "end": 1908.48,
+   "text": "hyperglycemia or other potential"
+  },
+  {
+   "start": 1905.76,
+   "end": 1910.64,
+   "text": "complications of parenteral oriental"
+  },
+  {
+   "start": 1908.48,
+   "end": 1912.56,
+   "text": "nutrition"
+  },
+  {
+   "start": 1910.64,
+   "end": 1915.12,
+   "text": "in addition we might want to consider"
+  },
+  {
+   "start": 1912.56,
+   "end": 1917.44,
+   "text": "gastrointestinal protectant therapy"
+  },
+  {
+   "start": 1915.12,
+   "end": 1920.08,
+   "text": "many of these patients have"
+  },
+  {
+   "start": 1917.44,
+   "end": 1922.24,
+   "text": "some sort of gastrointestinal ulcers due"
+  },
+  {
+   "start": 1920.08,
+   "end": 1924.56,
+   "text": "to either hypoperfusion"
+  },
+  {
+   "start": 1922.24,
+   "end": 1927.44,
+   "text": "increases in acidity decreases in"
+  },
+  {
+   "start": 1924.56,
+   "end": 1929.84,
+   "text": "mucosal defense mechanisms or possibly"
+  },
+  {
+   "start": 1927.44,
+   "end": 1932.4,
+   "text": "drugs such as steroids or disease"
+  },
+  {
+   "start": 1929.84,
+   "end": 1936.24,
+   "text": "processes like renal failure hepatic"
+  },
+  {
+   "start": 1932.4,
+   "end": 1938.56,
+   "text": "failure and even just prolonged anorexia"
+  },
+  {
+   "start": 1936.24,
+   "end": 1941.2,
+   "text": "if the patient is receiving any"
+  },
+  {
+   "start": 1938.56,
+   "end": 1944.8,
+   "text": "alias-inducing drugs such as opioids or"
+  },
+  {
+   "start": 1941.2,
+   "end": 1948.24,
+   "text": "has primary ilius prokinetics"
+  },
+  {
+   "start": 1944.8,
+   "end": 1950.64,
+   "text": "such as metacopramide might be indicated"
+  },
+  {
+   "start": 1948.24,
+   "end": 1952.64,
+   "text": "we also sometimes consider protective"
+  },
+  {
+   "start": 1950.64,
+   "end": 1954.8,
+   "text": "agents likes to crawl fate if the"
+  },
+  {
+   "start": 1952.64,
+   "end": 1956.88,
+   "text": "patient is able to tolerate and troll"
+  },
+  {
+   "start": 1954.8,
+   "end": 1958.96,
+   "text": "sucral fate without vomiting"
+  },
+  {
+   "start": 1956.88,
+   "end": 1961.68,
+   "text": "and then antiometics for those patients"
+  },
+  {
+   "start": 1958.96,
+   "end": 1964.4,
+   "text": "that are nauseated either"
+  },
+  {
+   "start": 1961.68,
+   "end": 1966.32,
+   "text": "moropotent or potentially on dance to"
+  },
+  {
+   "start": 1964.4,
+   "end": 1968.24,
+   "text": "tron or dilastotron"
+  },
+  {
+   "start": 1966.32,
+   "end": 1971.52,
+   "text": "as well as phenothiazines if they're"
+  },
+  {
+   "start": 1968.24,
+   "end": 1974.64,
+   "text": "cardiovascularly stable"
+  },
+  {
+   "start": 1971.52,
+   "end": 1976.96,
+   "text": "this is one study that was done at penn"
+  },
+  {
+   "start": 1974.64,
+   "end": 1980.0,
+   "text": "looking at the use of early nutritional"
+  },
+  {
+   "start": 1976.96,
+   "end": 1983.44,
+   "text": "support in dogs with septic peritonitis"
+  },
+  {
+   "start": 1980.0,
+   "end": 1985.6,
+   "text": "and in these 45 dogs it was found that"
+  },
+  {
+   "start": 1983.44,
+   "end": 1987.92,
+   "text": "those that receive consistent caloric"
+  },
+  {
+   "start": 1985.6,
+   "end": 1992.72,
+   "text": "support regardless of the route within"
+  },
+  {
+   "start": 1987.92,
+   "end": 1995.36,
+   "text": "24 hours of surgery had 1.6 days less of"
+  },
+  {
+   "start": 1992.72,
+   "end": 1996.48,
+   "text": "hospitalization compared to those that"
+  },
+  {
+   "start": 1995.36,
+   "end": 1998.48,
+   "text": "don't so"
+  },
+  {
+   "start": 1996.48,
+   "end": 2001.12,
+   "text": "for multiple reasons we want to try and"
+  },
+  {
+   "start": 1998.48,
+   "end": 2003.2,
+   "text": "encourage a quick"
+  },
+  {
+   "start": 2001.12,
+   "end": 2004.8,
+   "text": "feeding of these patients to help with"
+  },
+  {
+   "start": 2003.2,
+   "end": 2007.76,
+   "text": "their immune system help with their"
+  },
+  {
+   "start": 2004.8,
+   "end": 2010.4,
+   "text": "recovery uh and overall well-being of"
+  },
+  {
+   "start": 2007.76,
+   "end": 2012.08,
+   "text": "their gi tract"
+  },
+  {
+   "start": 2010.4,
+   "end": 2014.96,
+   "text": "so how about some additional"
+  },
+  {
+   "start": 2012.08,
+   "end": 2017.52,
+   "text": "interventions that are considered in"
+  },
+  {
+   "start": 2014.96,
+   "end": 2019.92,
+   "text": "patients with surgery sepsis well"
+  },
+  {
+   "start": 2017.52,
+   "end": 2022.56,
+   "text": "what about glucose control"
+  },
+  {
+   "start": 2019.92,
+   "end": 2024.88,
+   "text": "point of care analyzers to monitor blood"
+  },
+  {
+   "start": 2022.56,
+   "end": 2026.4,
+   "text": "glucose are so easily available and"
+  },
+  {
+   "start": 2024.88,
+   "end": 2028.48,
+   "text": "affordable now"
+  },
+  {
+   "start": 2026.4,
+   "end": 2030.4,
+   "text": "uh that we know"
+  },
+  {
+   "start": 2028.48,
+   "end": 2032.88,
+   "text": "we're going to monitor things like blood"
+  },
+  {
+   "start": 2030.4,
+   "end": 2035.76,
+   "text": "glucose frequently there were some"
+  },
+  {
+   "start": 2032.88,
+   "end": 2038.0,
+   "text": "earlier studies around 2003 showing that"
+  },
+  {
+   "start": 2035.76,
+   "end": 2040.48,
+   "text": "intensive insulin therapy"
+  },
+  {
+   "start": 2038.0,
+   "end": 2042.64,
+   "text": "in icu patients"
+  },
+  {
+   "start": 2040.48,
+   "end": 2044.96,
+   "text": "might be beneficial and this was again"
+  },
+  {
+   "start": 2042.64,
+   "end": 2047.28,
+   "text": "one of the earlier studies where they"
+  },
+  {
+   "start": 2044.96,
+   "end": 2050.4,
+   "text": "gave insulin to maintain euglycemia and"
+  },
+  {
+   "start": 2047.28,
+   "end": 2053.28,
+   "text": "found decreased mortality uh decreased"
+  },
+  {
+   "start": 2050.4,
+   "end": 2054.8,
+   "text": "bacteremia and less inflammation"
+  },
+  {
+   "start": 2053.28,
+   "end": 2057.2,
+   "text": "in these patients"
+  },
+  {
+   "start": 2054.8,
+   "end": 2059.52,
+   "text": "however subsequent study found that"
+  },
+  {
+   "start": 2057.2,
+   "end": 2062.08,
+   "text": "intensive glucose control"
+  },
+  {
+   "start": 2059.52,
+   "end": 2064.8,
+   "text": "may not be benign and this study here"
+  },
+  {
+   "start": 2062.08,
+   "end": 2067.04,
+   "text": "the nice sugar study in 2009"
+  },
+  {
+   "start": 2064.8,
+   "end": 2068.64,
+   "text": "looked at over 6 000 icu patients that"
+  },
+  {
+   "start": 2067.04,
+   "end": 2071.12,
+   "text": "were randomized to either stricter"
+  },
+  {
+   "start": 2068.64,
+   "end": 2072.4,
+   "text": "conventional glucose control and in"
+  },
+  {
+   "start": 2071.12,
+   "end": 2075.44,
+   "text": "people"
+  },
+  {
+   "start": 2072.4,
+   "end": 2077.36,
+   "text": "traditional is 180 to 200"
+  },
+  {
+   "start": 2075.44,
+   "end": 2079.76,
+   "text": "milligrams per deciliter compared to"
+  },
+  {
+   "start": 2077.36,
+   "end": 2082.8,
+   "text": "strict regulation which is keeping the"
+  },
+  {
+   "start": 2079.76,
+   "end": 2084.16,
+   "text": "blood sugar around 80 to 110"
+  },
+  {
+   "start": 2082.8,
+   "end": 2086.64,
+   "text": "uh"
+  },
+  {
+   "start": 2084.16,
+   "end": 2089.68,
+   "text": "millimoles per per liter so what they"
+  },
+  {
+   "start": 2086.64,
+   "end": 2091.68,
+   "text": "found is that in in patients that had"
+  },
+  {
+   "start": 2089.68,
+   "end": 2093.84,
+   "text": "intensive control of glucose they were"
+  },
+  {
+   "start": 2091.68,
+   "end": 2096.24,
+   "text": "more likely to develop hypoglycemia with"
+  },
+  {
+   "start": 2093.84,
+   "end": 2097.84,
+   "text": "a blood glucose less than 40."
+  },
+  {
+   "start": 2096.24,
+   "end": 2100.16,
+   "text": "and they did not see any difference in"
+  },
+  {
+   "start": 2097.84,
+   "end": 2102.56,
+   "text": "median icu stay hospital stay dazed"
+  },
+  {
+   "start": 2100.16,
+   "end": 2104.96,
+   "text": "mechanical ventilation or need for renal"
+  },
+  {
+   "start": 2102.56,
+   "end": 2107.2,
+   "text": "replacement therapy and actually the"
+  },
+  {
+   "start": 2104.96,
+   "end": 2109.68,
+   "text": "patients in the intensive blood glucose"
+  },
+  {
+   "start": 2107.2,
+   "end": 2112.72,
+   "text": "control group had a higher mortality so"
+  },
+  {
+   "start": 2109.68,
+   "end": 2114.56,
+   "text": "we no longer recommend really aggressive"
+  },
+  {
+   "start": 2112.72,
+   "end": 2116.4,
+   "text": "glucose control but we do want to"
+  },
+  {
+   "start": 2114.56,
+   "end": 2118.48,
+   "text": "monitor the glucose frequently and try"
+  },
+  {
+   "start": 2116.4,
+   "end": 2121.92,
+   "text": "to keep the glucose in veterinary"
+  },
+  {
+   "start": 2118.48,
+   "end": 2124.64,
+   "text": "patients probably less than about 250"
+  },
+  {
+   "start": 2121.92,
+   "end": 2127.6,
+   "text": "max of 300 because we do know that"
+  },
+  {
+   "start": 2124.64,
+   "end": 2130.0,
+   "text": "chronic hyperglycemia is going to have"
+  },
+  {
+   "start": 2127.6,
+   "end": 2132.64,
+   "text": "deleterious inflammatory effects as well"
+  },
+  {
+   "start": 2130.0,
+   "end": 2137.28,
+   "text": "as potentially make a good"
+  },
+  {
+   "start": 2132.64,
+   "end": 2137.28,
+   "text": "reservoir for infection production"
+  },
+  {
+   "start": 2137.76,
+   "end": 2141.92,
+   "text": "some additional"
+  },
+  {
+   "start": 2139.2,
+   "end": 2143.84,
+   "text": "interventions besides glucose control"
+  },
+  {
+   "start": 2141.92,
+   "end": 2145.6,
+   "text": "well i'm sure many of you have"
+  },
+  {
+   "start": 2143.84,
+   "end": 2147.92,
+   "text": "considered the use of physiologic"
+  },
+  {
+   "start": 2145.6,
+   "end": 2150.64,
+   "text": "steroid therapy especially in some of"
+  },
+  {
+   "start": 2147.92,
+   "end": 2152.16,
+   "text": "the really sick patients with severe"
+  },
+  {
+   "start": 2150.64,
+   "end": 2154.0,
+   "text": "inflammation"
+  },
+  {
+   "start": 2152.16,
+   "end": 2157.12,
+   "text": "there's a syndrome that is now"
+  },
+  {
+   "start": 2154.0,
+   "end": 2159.52,
+   "text": "recognized as circe which stands for"
+  },
+  {
+   "start": 2157.12,
+   "end": 2161.2,
+   "text": "critical illness-related corticosteroid"
+  },
+  {
+   "start": 2159.52,
+   "end": 2163.52,
+   "text": "insufficiency"
+  },
+  {
+   "start": 2161.2,
+   "end": 2167.36,
+   "text": "and we know that"
+  },
+  {
+   "start": 2163.52,
+   "end": 2169.88,
+   "text": "the steroids are a necessary part of"
+  },
+  {
+   "start": 2167.36,
+   "end": 2171.84,
+   "text": "physiologic function to maintain"
+  },
+  {
+   "start": 2169.88,
+   "end": 2173.36,
+   "text": "immunocompetence adrenergic"
+  },
+  {
+   "start": 2171.84,
+   "end": 2176.4,
+   "text": "responsiveness"
+  },
+  {
+   "start": 2173.36,
+   "end": 2178.32,
+   "text": "vascular tone and pressure"
+  },
+  {
+   "start": 2176.4,
+   "end": 2180.16,
+   "text": "as well as cardiac contractility and"
+  },
+  {
+   "start": 2178.32,
+   "end": 2183.28,
+   "text": "coronary blood flow"
+  },
+  {
+   "start": 2180.16,
+   "end": 2185.28,
+   "text": "and there was one study that showed not"
+  },
+  {
+   "start": 2183.28,
+   "end": 2187.44,
+   "text": "only that"
+  },
+  {
+   "start": 2185.28,
+   "end": 2188.56,
+   "text": "a baseline cortisol might be important"
+  },
+  {
+   "start": 2187.44,
+   "end": 2191.04,
+   "text": "but more"
+  },
+  {
+   "start": 2188.56,
+   "end": 2193.28,
+   "text": "probably more significantly is that we"
+  },
+  {
+   "start": 2191.04,
+   "end": 2195.2,
+   "text": "need to do an acth stimulation to"
+  },
+  {
+   "start": 2193.28,
+   "end": 2196.96,
+   "text": "determine whether or not this circuit"
+  },
+  {
+   "start": 2195.2,
+   "end": 2199.84,
+   "text": "might be present"
+  },
+  {
+   "start": 2196.96,
+   "end": 2202.48,
+   "text": "this study looked at 33 septic dogs that"
+  },
+  {
+   "start": 2199.84,
+   "end": 2203.92,
+   "text": "had an acth stimulation test and were"
+  },
+  {
+   "start": 2202.48,
+   "end": 2205.44,
+   "text": "critically ill"
+  },
+  {
+   "start": 2203.92,
+   "end": 2207.36,
+   "text": "and they found that if the change in"
+  },
+  {
+   "start": 2205.44,
+   "end": 2209.76,
+   "text": "cortisol was less than three mics per"
+  },
+  {
+   "start": 2207.36,
+   "end": 2211.2,
+   "text": "deciliter that that was predictive of"
+  },
+  {
+   "start": 2209.76,
+   "end": 2214.48,
+   "text": "hypotension"
+  },
+  {
+   "start": 2211.2,
+   "end": 2216.96,
+   "text": "survival to discharge and days survival"
+  },
+  {
+   "start": 2214.48,
+   "end": 2219.52,
+   "text": "and for patients that had a change in"
+  },
+  {
+   "start": 2216.96,
+   "end": 2220.64,
+   "text": "cortisol greater than three with an acth"
+  },
+  {
+   "start": 2219.52,
+   "end": 2224.16,
+   "text": "stem test"
+  },
+  {
+   "start": 2220.64,
+   "end": 2226.8,
+   "text": "the rate of death was 4.1 times less"
+  },
+  {
+   "start": 2224.16,
+   "end": 2228.48,
+   "text": "than those that had a change in cortisol"
+  },
+  {
+   "start": 2226.8,
+   "end": 2232.08,
+   "text": "of less than three"
+  },
+  {
+   "start": 2228.48,
+   "end": 2234.48,
+   "text": "so physiologic doses of steroids may be"
+  },
+  {
+   "start": 2232.08,
+   "end": 2236.8,
+   "text": "indicated in these patients that have"
+  },
+  {
+   "start": 2234.48,
+   "end": 2239.76,
+   "text": "either exhaustion of their adrenals or"
+  },
+  {
+   "start": 2236.8,
+   "end": 2242.56,
+   "text": "decreases in in the ability to mount a"
+  },
+  {
+   "start": 2239.76,
+   "end": 2245.2,
+   "text": "response to stress acth"
+  },
+  {
+   "start": 2242.56,
+   "end": 2246.64,
+   "text": "it can often lead to refractory"
+  },
+  {
+   "start": 2245.2,
+   "end": 2249.92,
+   "text": "hypotension"
+  },
+  {
+   "start": 2246.64,
+   "end": 2252.48,
+   "text": "despite the increases in catecholamine"
+  },
+  {
+   "start": 2249.92,
+   "end": 2255.2,
+   "text": "endogenously as well as potentially"
+  },
+  {
+   "start": 2252.48,
+   "end": 2256.4,
+   "text": "vasopressor administration"
+  },
+  {
+   "start": 2255.2,
+   "end": 2258.64,
+   "text": "2016"
+  },
+  {
+   "start": 2256.4,
+   "end": 2261.12,
+   "text": "surviving sepsis campaign guidelines in"
+  },
+  {
+   "start": 2258.64,
+   "end": 2263.12,
+   "text": "human medicine said to give steroids to"
+  },
+  {
+   "start": 2261.12,
+   "end": 2264.72,
+   "text": "patients with vasopressor refractory"
+  },
+  {
+   "start": 2263.12,
+   "end": 2267.04,
+   "text": "septic shock"
+  },
+  {
+   "start": 2264.72,
+   "end": 2269.04,
+   "text": "it seems to promote a more rapid shock"
+  },
+  {
+   "start": 2267.04,
+   "end": 2270.4,
+   "text": "reversal although there may be no change"
+  },
+  {
+   "start": 2269.04,
+   "end": 2271.84,
+   "text": "in mortality"
+  },
+  {
+   "start": 2270.4,
+   "end": 2273.52,
+   "text": "but patients"
+  },
+  {
+   "start": 2271.84,
+   "end": 2277.12,
+   "text": "went from"
+  },
+  {
+   "start": 2273.52,
+   "end": 2280.08,
+   "text": "either 13 to four days of shock or seven"
+  },
+  {
+   "start": 2277.12,
+   "end": 2282.96,
+   "text": "to three days of shock when supplemented"
+  },
+  {
+   "start": 2280.08,
+   "end": 2285.04,
+   "text": "with physiologic doses of steroids in"
+  },
+  {
+   "start": 2282.96,
+   "end": 2287.04,
+   "text": "human studies"
+  },
+  {
+   "start": 2285.04,
+   "end": 2289.68,
+   "text": "they recommend not basing the decision"
+  },
+  {
+   "start": 2287.04,
+   "end": 2293.2,
+   "text": "on an acth stem only because"
+  },
+  {
+   "start": 2289.68,
+   "end": 2294.72,
+   "text": "this prolongs or delays treatment"
+  },
+  {
+   "start": 2293.2,
+   "end": 2296.72,
+   "text": "and it may not be available for"
+  },
+  {
+   "start": 2294.72,
+   "end": 2298.88,
+   "text": "immediate testing"
+  },
+  {
+   "start": 2296.72,
+   "end": 2300.88,
+   "text": "and of course when you feel as though"
+  },
+  {
+   "start": 2298.88,
+   "end": 2303.36,
+   "text": "the steroids are no longer necessary it"
+  },
+  {
+   "start": 2300.88,
+   "end": 2306.88,
+   "text": "is important to wean them slowly"
+  },
+  {
+   "start": 2303.36,
+   "end": 2309.36,
+   "text": "the um drug of choice for people and for"
+  },
+  {
+   "start": 2306.88,
+   "end": 2313.04,
+   "text": "animals is hydrocortisone which can be"
+  },
+  {
+   "start": 2309.36,
+   "end": 2316.4,
+   "text": "given at 0.5 makes per gig id26 hours"
+  },
+  {
+   "start": 2313.04,
+   "end": 2318.8,
+   "text": "or potentially split up as a cri"
+  },
+  {
+   "start": 2316.4,
+   "end": 2321.36,
+   "text": "or sometimes if that's not available we"
+  },
+  {
+   "start": 2318.8,
+   "end": 2325.92,
+   "text": "will give dexamethasone sodium phosphate"
+  },
+  {
+   "start": 2321.36,
+   "end": 2328.16,
+   "text": "at a dose of 0.01 to 0.02 migs per kg 24"
+  },
+  {
+   "start": 2325.92,
+   "end": 2331.12,
+   "text": "hours iv which again is just a"
+  },
+  {
+   "start": 2328.16,
+   "end": 2333.6,
+   "text": "physiologic dose it's it's not meant to"
+  },
+  {
+   "start": 2331.12,
+   "end": 2335.84,
+   "text": "suppress the immune system or interfere"
+  },
+  {
+   "start": 2333.6,
+   "end": 2338.16,
+   "text": "with the inflammatory response but more"
+  },
+  {
+   "start": 2335.84,
+   "end": 2341.2,
+   "text": "just to help the patient's physiologic"
+  },
+  {
+   "start": 2338.16,
+   "end": 2343.6,
+   "text": "reserve to maintain normal tension and"
+  },
+  {
+   "start": 2341.2,
+   "end": 2345.76,
+   "text": "cardiac function"
+  },
+  {
+   "start": 2343.6,
+   "end": 2349.44,
+   "text": "so how are we going to monitor the"
+  },
+  {
+   "start": 2345.76,
+   "end": 2351.6,
+   "text": "patient with sirs or sepsis well we want"
+  },
+  {
+   "start": 2349.44,
+   "end": 2353.92,
+   "text": "to start by"
+  },
+  {
+   "start": 2351.6,
+   "end": 2355.12,
+   "text": "making sure that we do frequent physical"
+  },
+  {
+   "start": 2353.92,
+   "end": 2356.8,
+   "text": "exams"
+  },
+  {
+   "start": 2355.12,
+   "end": 2358.0,
+   "text": "and the physical examination is probably"
+  },
+  {
+   "start": 2356.8,
+   "end": 2360.72,
+   "text": "the most important tool that a"
+  },
+  {
+   "start": 2358.0,
+   "end": 2362.72,
+   "text": "veterinarian has and really paying close"
+  },
+  {
+   "start": 2360.72,
+   "end": 2363.84,
+   "text": "attention to the perfusion parameters"
+  },
+  {
+   "start": 2362.72,
+   "end": 2365.76,
+   "text": "like"
+  },
+  {
+   "start": 2363.84,
+   "end": 2368.88,
+   "text": "the warmth of the extremities and the"
+  },
+  {
+   "start": 2365.76,
+   "end": 2371.68,
+   "text": "pulse quality the mucous membrane color"
+  },
+  {
+   "start": 2368.88,
+   "end": 2373.68,
+   "text": "and the capillary refill time the level"
+  },
+  {
+   "start": 2371.68,
+   "end": 2374.88,
+   "text": "of mentation and how the patient appears"
+  },
+  {
+   "start": 2373.68,
+   "end": 2377.52,
+   "text": "to feel"
+  },
+  {
+   "start": 2374.88,
+   "end": 2379.44,
+   "text": "when you look at them as well as the the"
+  },
+  {
+   "start": 2377.52,
+   "end": 2382.08,
+   "text": "more objective parameters like heart"
+  },
+  {
+   "start": 2379.44,
+   "end": 2384.08,
+   "text": "rate and respiratory rate and blood"
+  },
+  {
+   "start": 2382.08,
+   "end": 2386.4,
+   "text": "pressure and lactate but starting with"
+  },
+  {
+   "start": 2384.08,
+   "end": 2388.8,
+   "text": "just the physical examination parameters"
+  },
+  {
+   "start": 2386.4,
+   "end": 2391.36,
+   "text": "and repeating those as often as possible"
+  },
+  {
+   "start": 2388.8,
+   "end": 2392.8,
+   "text": "is is about most important"
+  },
+  {
+   "start": 2391.36,
+   "end": 2394.88,
+   "text": "we also want to make sure to monitor"
+  },
+  {
+   "start": 2392.8,
+   "end": 2397.36,
+   "text": "body weight so that our patients are not"
+  },
+  {
+   "start": 2394.88,
+   "end": 2399.52,
+   "text": "increasing or decreasing"
+  },
+  {
+   "start": 2397.36,
+   "end": 2401.52,
+   "text": "without our awareness"
+  },
+  {
+   "start": 2399.52,
+   "end": 2403.44,
+   "text": "blood glucose as we mentioned as well as"
+  },
+  {
+   "start": 2401.52,
+   "end": 2404.96,
+   "text": "a pat cell volume and total solids"
+  },
+  {
+   "start": 2403.44,
+   "end": 2406.88,
+   "text": "measurement"
+  },
+  {
+   "start": 2404.96,
+   "end": 2409.12,
+   "text": "usually in critically ill patients every"
+  },
+  {
+   "start": 2406.88,
+   "end": 2411.12,
+   "text": "four hours if not more often"
+  },
+  {
+   "start": 2409.12,
+   "end": 2412.16,
+   "text": "venus are arterial blood gas to look at"
+  },
+  {
+   "start": 2411.12,
+   "end": 2415.12,
+   "text": "ph"
+  },
+  {
+   "start": 2412.16,
+   "end": 2417.92,
+   "text": "uh acid-base balance as well as"
+  },
+  {
+   "start": 2415.12,
+   "end": 2420.0,
+   "text": "electrolytes and possibly even lactate"
+  },
+  {
+   "start": 2417.92,
+   "end": 2422.56,
+   "text": "if it's on there if not using a"
+  },
+  {
+   "start": 2420.0,
+   "end": 2424.56,
+   "text": "point-of-care lactate machine is again"
+  },
+  {
+   "start": 2422.56,
+   "end": 2427.52,
+   "text": "very easy to do"
+  },
+  {
+   "start": 2424.56,
+   "end": 2429.36,
+   "text": "and then in select uh practices or"
+  },
+  {
+   "start": 2427.52,
+   "end": 2431.68,
+   "text": "institutions maybe even monitoring"
+  },
+  {
+   "start": 2429.36,
+   "end": 2433.92,
+   "text": "following osmotic pressure in patients"
+  },
+  {
+   "start": 2431.68,
+   "end": 2436.0,
+   "text": "with hypopronemia"
+  },
+  {
+   "start": 2433.92,
+   "end": 2438.0,
+   "text": "additional monitoring that we want to do"
+  },
+  {
+   "start": 2436.0,
+   "end": 2440.4,
+   "text": "is keeping a close eye on our complete"
+  },
+  {
+   "start": 2438.0,
+   "end": 2442.48,
+   "text": "blood count or at least a blood smear a"
+  },
+  {
+   "start": 2440.4,
+   "end": 2443.92,
+   "text": "biochemical profile and coagulation"
+  },
+  {
+   "start": 2442.48,
+   "end": 2445.92,
+   "text": "profile since we know many of these"
+  },
+  {
+   "start": 2443.92,
+   "end": 2447.52,
+   "text": "patients develop coagulation"
+  },
+  {
+   "start": 2445.92,
+   "end": 2449.76,
+   "text": "abnormalities"
+  },
+  {
+   "start": 2447.52,
+   "end": 2452.24,
+   "text": "we want to do point-of-care testing that"
+  },
+  {
+   "start": 2449.76,
+   "end": 2455.36,
+   "text": "not only will include blood glucose"
+  },
+  {
+   "start": 2452.24,
+   "end": 2458.16,
+   "text": "lactate but maybe even newer blood point"
+  },
+  {
+   "start": 2455.36,
+   "end": 2460.88,
+   "text": "of care machines such as creatinine"
+  },
+  {
+   "start": 2458.16,
+   "end": 2462.72,
+   "text": "ketones and others that will be"
+  },
+  {
+   "start": 2460.88,
+   "end": 2464.84,
+   "text": "available and validated hopefully in the"
+  },
+  {
+   "start": 2462.72,
+   "end": 2467.52,
+   "text": "near future"
+  },
+  {
+   "start": 2464.84,
+   "end": 2469.92,
+   "text": "electrocardiogram monitoring as well as"
+  },
+  {
+   "start": 2467.52,
+   "end": 2472.8,
+   "text": "blood pressure central venous pressure"
+  },
+  {
+   "start": 2469.92,
+   "end": 2474.72,
+   "text": "and central venous oxygen saturation if"
+  },
+  {
+   "start": 2472.8,
+   "end": 2476.56,
+   "text": "you feel they're indicated may be"
+  },
+  {
+   "start": 2474.72,
+   "end": 2478.4,
+   "text": "helpful in assessing the patient and the"
+  },
+  {
+   "start": 2476.56,
+   "end": 2481.36,
+   "text": "response to therapy"
+  },
+  {
+   "start": 2478.4,
+   "end": 2484.24,
+   "text": "pulse oximetry reading for oxygenation"
+  },
+  {
+   "start": 2481.36,
+   "end": 2487.28,
+   "text": "urine output is important to make sure"
+  },
+  {
+   "start": 2484.24,
+   "end": 2490.56,
+   "text": "that the the patient is not becoming"
+  },
+  {
+   "start": 2487.28,
+   "end": 2493.04,
+   "text": "oliguric or anuric and also monitoring"
+  },
+  {
+   "start": 2490.56,
+   "end": 2494.8,
+   "text": "that urine for any evidence of tasks"
+  },
+  {
+   "start": 2493.04,
+   "end": 2497.36,
+   "text": "glucose"
+  },
+  {
+   "start": 2494.8,
+   "end": 2499.28,
+   "text": "or signs of infection"
+  },
+  {
+   "start": 2497.36,
+   "end": 2502.4,
+   "text": "and keeping a close eye on vomiting or"
+  },
+  {
+   "start": 2499.28,
+   "end": 2504.48,
+   "text": "nausea or any other abnormalities that"
+  },
+  {
+   "start": 2502.4,
+   "end": 2506.24,
+   "text": "should be addressed therapeutically or"
+  },
+  {
+   "start": 2504.48,
+   "end": 2508.56,
+   "text": "may increase the risk for something like"
+  },
+  {
+   "start": 2506.24,
+   "end": 2510.48,
+   "text": "aspiration pneumonia"
+  },
+  {
+   "start": 2508.56,
+   "end": 2511.84,
+   "text": "potential complications that we really"
+  },
+  {
+   "start": 2510.48,
+   "end": 2513.44,
+   "text": "want to be aware of when we're"
+  },
+  {
+   "start": 2511.84,
+   "end": 2516.08,
+   "text": "monitoring these patients one is"
+  },
+  {
+   "start": 2513.44,
+   "end": 2518.88,
+   "text": "disseminated into vascular coagulation"
+  },
+  {
+   "start": 2516.08,
+   "end": 2520.16,
+   "text": "looking at things like blood smears for"
+  },
+  {
+   "start": 2518.88,
+   "end": 2522.72,
+   "text": "cystocytes"
+  },
+  {
+   "start": 2520.16,
+   "end": 2526.4,
+   "text": "monitoring or coagulation profile our"
+  },
+  {
+   "start": 2522.72,
+   "end": 2528.32,
+   "text": "platelet count rd dimers as well as the"
+  },
+  {
+   "start": 2526.4,
+   "end": 2530.96,
+   "text": "patient clinically for any evidence of a"
+  },
+  {
+   "start": 2528.32,
+   "end": 2533.2,
+   "text": "tiki or other signs of bleeding"
+  },
+  {
+   "start": 2530.96,
+   "end": 2535.84,
+   "text": "is is important"
+  },
+  {
+   "start": 2533.2,
+   "end": 2539.04,
+   "text": "cardiac insufficiency perhaps doing a t"
+  },
+  {
+   "start": 2535.84,
+   "end": 2541.44,
+   "text": "fast to look at cardiac contractility"
+  },
+  {
+   "start": 2539.04,
+   "end": 2543.2,
+   "text": "left atrial to aortic size to help"
+  },
+  {
+   "start": 2541.44,
+   "end": 2544.96,
+   "text": "manage the patient's overall"
+  },
+  {
+   "start": 2543.2,
+   "end": 2546.48,
+   "text": "intravascular volume and cardiac"
+  },
+  {
+   "start": 2544.96,
+   "end": 2548.96,
+   "text": "function"
+  },
+  {
+   "start": 2546.48,
+   "end": 2550.4,
+   "text": "acute lung injury or acute respiratory"
+  },
+  {
+   "start": 2548.96,
+   "end": 2552.72,
+   "text": "distress syndrome"
+  },
+  {
+   "start": 2550.4,
+   "end": 2555.28,
+   "text": "this can be seen in any animal with"
+  },
+  {
+   "start": 2552.72,
+   "end": 2557.68,
+   "text": "underlying inflammation or diseases that"
+  },
+  {
+   "start": 2555.28,
+   "end": 2560.8,
+   "text": "may lead to leakiness of the vascular"
+  },
+  {
+   "start": 2557.68,
+   "end": 2563.28,
+   "text": "endothelium and subsequently cause a"
+  },
+  {
+   "start": 2560.8,
+   "end": 2565.2,
+   "text": "non-cardiogenic high protein edema"
+  },
+  {
+   "start": 2563.28,
+   "end": 2568.16,
+   "text": "within the lungs"
+  },
+  {
+   "start": 2565.2,
+   "end": 2570.72,
+   "text": "acute kidney injury as evidenced by even"
+  },
+  {
+   "start": 2568.16,
+   "end": 2572.96,
+   "text": "mild increases in creatinine and or"
+  },
+  {
+   "start": 2570.72,
+   "end": 2575.04,
+   "text": "decreases in urine output that we want"
+  },
+  {
+   "start": 2572.96,
+   "end": 2576.84,
+   "text": "to identify and address as soon as"
+  },
+  {
+   "start": 2575.04,
+   "end": 2579.52,
+   "text": "possible"
+  },
+  {
+   "start": 2576.84,
+   "end": 2582.24,
+   "text": "gastrointestinal and hepatic dysfunction"
+  },
+  {
+   "start": 2579.52,
+   "end": 2585.52,
+   "text": "so primarily monitoring signs of"
+  },
+  {
+   "start": 2582.24,
+   "end": 2587.28,
+   "text": "nausea monitoring for diarrhea"
+  },
+  {
+   "start": 2585.52,
+   "end": 2589.84,
+   "text": "thinking about the fact that bacterial"
+  },
+  {
+   "start": 2587.28,
+   "end": 2592.8,
+   "text": "translocation could lead to"
+  },
+  {
+   "start": 2589.84,
+   "end": 2594.32,
+   "text": "uh further infections in the animals and"
+  },
+  {
+   "start": 2592.8,
+   "end": 2595.84,
+   "text": "and inflammation"
+  },
+  {
+   "start": 2594.32,
+   "end": 2599.2,
+   "text": "and then monitoring for hepatic"
+  },
+  {
+   "start": 2595.84,
+   "end": 2602.16,
+   "text": "dysfunction which might be recognized by"
+  },
+  {
+   "start": 2599.2,
+   "end": 2604.56,
+   "text": "uh decreases in albumin production as"
+  },
+  {
+   "start": 2602.16,
+   "end": 2606.64,
+   "text": "well as a decrease in coagulation factor"
+  },
+  {
+   "start": 2604.56,
+   "end": 2608.64,
+   "text": "production"
+  },
+  {
+   "start": 2606.64,
+   "end": 2611.2,
+   "text": "and then microcirculatory dysfunction"
+  },
+  {
+   "start": 2608.64,
+   "end": 2615.04,
+   "text": "which is beyond the scope of of this"
+  },
+  {
+   "start": 2611.2,
+   "end": 2618.32,
+   "text": "discussion but is a an interest of mine"
+  },
+  {
+   "start": 2615.04,
+   "end": 2620.48,
+   "text": "we do know that animals with severe"
+  },
+  {
+   "start": 2618.32,
+   "end": 2624.0,
+   "text": "sepsis and and even inflammatory"
+  },
+  {
+   "start": 2620.48,
+   "end": 2626.64,
+   "text": "diseases can get inappropriate shunting"
+  },
+  {
+   "start": 2624.0,
+   "end": 2630.0,
+   "text": "of blood out of microcirculatory beds"
+  },
+  {
+   "start": 2626.64,
+   "end": 2632.56,
+   "text": "that are in need of oxygen and nutrients"
+  },
+  {
+   "start": 2630.0,
+   "end": 2635.56,
+   "text": "and a decrease in the total number of"
+  },
+  {
+   "start": 2632.56,
+   "end": 2635.56,
+   "text": "microvascular"
+  },
+  {
+   "start": 2635.76,
+   "end": 2639.52,
+   "text": "beds that are available for oxygen"
+  },
+  {
+   "start": 2637.76,
+   "end": 2641.76,
+   "text": "delivery to the tissues and this can be"
+  },
+  {
+   "start": 2639.52,
+   "end": 2643.68,
+   "text": "very heterogeneous in nature"
+  },
+  {
+   "start": 2641.76,
+   "end": 2646.4,
+   "text": "and something that will be studied a bit"
+  },
+  {
+   "start": 2643.68,
+   "end": 2646.4,
+   "text": "more in the future"
+  },
+  {
+   "start": 2646.56,
+   "end": 2650.4,
+   "text": "i want to go to a case now because i"
+  },
+  {
+   "start": 2648.4,
+   "end": 2652.08,
+   "text": "feel like we can talk about a lot of"
+  },
+  {
+   "start": 2650.4,
+   "end": 2653.92,
+   "text": "these therapies and monitoring but"
+  },
+  {
+   "start": 2652.08,
+   "end": 2654.96,
+   "text": "really applying it to a case sometimes"
+  },
+  {
+   "start": 2653.92,
+   "end": 2657.28,
+   "text": "helps it"
+  },
+  {
+   "start": 2654.96,
+   "end": 2659.36,
+   "text": "to to stick and hit home as to the"
+  },
+  {
+   "start": 2657.28,
+   "end": 2662.8,
+   "text": "importance of the things that we have"
+  },
+  {
+   "start": 2659.36,
+   "end": 2664.96,
+   "text": "discussed so such far so far this hour"
+  },
+  {
+   "start": 2662.8,
+   "end": 2667.36,
+   "text": "so if you remember as a six-year-old"
+  },
+  {
+   "start": 2664.96,
+   "end": 2669.76,
+   "text": "male castrated rhodesian ridgeback that"
+  },
+  {
+   "start": 2667.36,
+   "end": 2670.96,
+   "text": "we we talked briefly about in the last"
+  },
+  {
+   "start": 2669.76,
+   "end": 2673.12,
+   "text": "lecture"
+  },
+  {
+   "start": 2670.96,
+   "end": 2675.52,
+   "text": "and patrick has no past medical"
+  },
+  {
+   "start": 2673.12,
+   "end": 2678.24,
+   "text": "histories up to date on his vaccines"
+  },
+  {
+   "start": 2675.52,
+   "end": 2680.4,
+   "text": "has good parasite control but got into"
+  },
+  {
+   "start": 2678.24,
+   "end": 2682.24,
+   "text": "the trash two days ago after the owners"
+  },
+  {
+   "start": 2680.4,
+   "end": 2684.72,
+   "text": "had a party at their house and then"
+  },
+  {
+   "start": 2682.24,
+   "end": 2686.0,
+   "text": "started vomiting thereafter and became"
+  },
+  {
+   "start": 2684.72,
+   "end": 2687.68,
+   "text": "anorexic"
+  },
+  {
+   "start": 2686.0,
+   "end": 2689.52,
+   "text": "the owners haven't noticed any change in"
+  },
+  {
+   "start": 2687.68,
+   "end": 2691.76,
+   "text": "his drinking urination and he's had no"
+  },
+  {
+   "start": 2689.52,
+   "end": 2693.6,
+   "text": "bowel movement since this started and on"
+  },
+  {
+   "start": 2691.76,
+   "end": 2695.36,
+   "text": "your physical examination you note that"
+  },
+  {
+   "start": 2693.6,
+   "end": 2698.48,
+   "text": "patrick is quite depressed"
+  },
+  {
+   "start": 2695.36,
+   "end": 2701.28,
+   "text": "mentally he is responsive uh seems about"
+  },
+  {
+   "start": 2698.48,
+   "end": 2703.36,
+   "text": "six to eight percent dehydrated based on"
+  },
+  {
+   "start": 2701.28,
+   "end": 2704.4,
+   "text": "his mucous membrane dryness and skin"
+  },
+  {
+   "start": 2703.36,
+   "end": 2706.24,
+   "text": "turgor"
+  },
+  {
+   "start": 2704.4,
+   "end": 2708.56,
+   "text": "his mucus membranes are bright red with"
+  },
+  {
+   "start": 2706.24,
+   "end": 2711.04,
+   "text": "a rapid capillary refill time of 0.5"
+  },
+  {
+   "start": 2708.56,
+   "end": 2713.44,
+   "text": "seconds his rectal temperature is 103"
+  },
+  {
+   "start": 2711.04,
+   "end": 2715.28,
+   "text": "degrees fahrenheit his heart rate is 160"
+  },
+  {
+   "start": 2713.44,
+   "end": 2717.76,
+   "text": "beats per minute with synchronous"
+  },
+  {
+   "start": 2715.28,
+   "end": 2720.56,
+   "text": "bounding femoral pulses you don't hear a"
+  },
+  {
+   "start": 2717.76,
+   "end": 2722.4,
+   "text": "murmur his respiratory rate is 28 he has"
+  },
+  {
+   "start": 2720.56,
+   "end": 2725.12,
+   "text": "cranial abdominal pain and proceeds to"
+  },
+  {
+   "start": 2722.4,
+   "end": 2729.12,
+   "text": "vomit bile after you palpate his abdomen"
+  },
+  {
+   "start": 2725.12,
+   "end": 2729.12,
+   "text": "and then has a mucus-filled diarrhea"
+  },
+  {
+   "start": 2729.52,
+   "end": 2733.6,
+   "text": "your you start to think about his"
+  },
+  {
+   "start": 2731.52,
+   "end": 2735.2,
+   "text": "problems and your initial diagnostic"
+  },
+  {
+   "start": 2733.6,
+   "end": 2737.68,
+   "text": "plan with his first problem being the"
+  },
+  {
+   "start": 2735.2,
+   "end": 2740.4,
+   "text": "vomiting diary and abdominal pain"
+  },
+  {
+   "start": 2737.68,
+   "end": 2742.56,
+   "text": "you have assessed this subjectively and"
+  },
+  {
+   "start": 2740.4,
+   "end": 2744.24,
+   "text": "objectively with dehydration"
+  },
+  {
+   "start": 2742.56,
+   "end": 2746.96,
+   "text": "increased rectal temperature and his"
+  },
+  {
+   "start": 2744.24,
+   "end": 2751.76,
+   "text": "tachycardia and your primary roulettes"
+  },
+  {
+   "start": 2746.96,
+   "end": 2753.84,
+   "text": "are either gi or extra gi as listed here"
+  },
+  {
+   "start": 2751.76,
+   "end": 2755.84,
+   "text": "your diagnostics that you might consider"
+  },
+  {
+   "start": 2753.84,
+   "end": 2758.84,
+   "text": "initially would be a venous blood gas"
+  },
+  {
+   "start": 2755.84,
+   "end": 2762.4,
+   "text": "extended database a non-invasive blood"
+  },
+  {
+   "start": 2758.84,
+   "end": 2763.92,
+   "text": "pressure a spot check of his ekg due to"
+  },
+  {
+   "start": 2762.4,
+   "end": 2766.0,
+   "text": "his tachycardia"
+  },
+  {
+   "start": 2763.92,
+   "end": 2769.28,
+   "text": "a complete blood count a biochemical"
+  },
+  {
+   "start": 2766.0,
+   "end": 2770.88,
+   "text": "profile urinalysis and probably hold"
+  },
+  {
+   "start": 2769.28,
+   "end": 2772.0,
+   "text": "some for culture and susceptibility"
+  },
+  {
+   "start": 2770.88,
+   "end": 2774.32,
+   "text": "testing"
+  },
+  {
+   "start": 2772.0,
+   "end": 2775.6,
+   "text": "abdominal radiographs plus or minus an"
+  },
+  {
+   "start": 2774.32,
+   "end": 2777.44,
+   "text": "ultrasound"
+  },
+  {
+   "start": 2775.6,
+   "end": 2779.92,
+   "text": "a fecal exam"
+  },
+  {
+   "start": 2777.44,
+   "end": 2782.16,
+   "text": "maybe consider a canine pancreatic"
+  },
+  {
+   "start": 2779.92,
+   "end": 2783.92,
+   "text": "lipase amino reactivity if you suspect"
+  },
+  {
+   "start": 2782.16,
+   "end": 2786.16,
+   "text": "pancreatitis"
+  },
+  {
+   "start": 2783.92,
+   "end": 2788.56,
+   "text": "maybe an acth stem if you suspect that"
+  },
+  {
+   "start": 2786.16,
+   "end": 2791.92,
+   "text": "he could be addisonian and possibly"
+  },
+  {
+   "start": 2788.56,
+   "end": 2794.16,
+   "text": "chest rads if there's any suspicion of"
+  },
+  {
+   "start": 2791.92,
+   "end": 2797.12,
+   "text": "intrathoracic disease or if you want to"
+  },
+  {
+   "start": 2794.16,
+   "end": 2798.8,
+   "text": "rule out neoplastic metastasis"
+  },
+  {
+   "start": 2797.12,
+   "end": 2801.76,
+   "text": "so the initial therapy would probably"
+  },
+  {
+   "start": 2798.8,
+   "end": 2805.2,
+   "text": "include intravenous fluids maybe a an"
+  },
+  {
+   "start": 2801.76,
+   "end": 2808.56,
+   "text": "antacid like famotidine or pantoprazole"
+  },
+  {
+   "start": 2805.2,
+   "end": 2810.56,
+   "text": "analgesia therapy and"
+  },
+  {
+   "start": 2808.56,
+   "end": 2812.56,
+   "text": "may be considered an anti-emetic and"
+  },
+  {
+   "start": 2810.56,
+   "end": 2814.72,
+   "text": "possibly antibiotics at this stage but i"
+  },
+  {
+   "start": 2812.56,
+   "end": 2817.92,
+   "text": "don't know that either of those are"
+  },
+  {
+   "start": 2814.72,
+   "end": 2820.08,
+   "text": "definitive must just yet"
+  },
+  {
+   "start": 2817.92,
+   "end": 2822.64,
+   "text": "monitoring of the vitals your physical"
+  },
+  {
+   "start": 2820.08,
+   "end": 2825.04,
+   "text": "exam parameters any eliminations"
+  },
+  {
+   "start": 2822.64,
+   "end": 2827.76,
+   "text": "continued blood pressure monitoring and"
+  },
+  {
+   "start": 2825.04,
+   "end": 2829.2,
+   "text": "his weight would be important"
+  },
+  {
+   "start": 2827.76,
+   "end": 2831.2,
+   "text": "so let's look at the results of the"
+  },
+  {
+   "start": 2829.2,
+   "end": 2833.36,
+   "text": "initial diagnostics your extended data"
+  },
+  {
+   "start": 2831.2,
+   "end": 2836.4,
+   "text": "based on a venous blood gas shows a pcb"
+  },
+  {
+   "start": 2833.36,
+   "end": 2838.32,
+   "text": "of 60 with a solids of 65. i think you"
+  },
+  {
+   "start": 2836.4,
+   "end": 2840.64,
+   "text": "can appreciate that the solid seems just"
+  },
+  {
+   "start": 2838.32,
+   "end": 2842.88,
+   "text": "a touch low compared to that pcv"
+  },
+  {
+   "start": 2840.64,
+   "end": 2845.36,
+   "text": "possibly due to either"
+  },
+  {
+   "start": 2842.88,
+   "end": 2847.52,
+   "text": "loss of those solids or potentially"
+  },
+  {
+   "start": 2845.36,
+   "end": 2850.08,
+   "text": "splunk contraction"
+  },
+  {
+   "start": 2847.52,
+   "end": 2851.92,
+   "text": "increase of the pcv but also"
+  },
+  {
+   "start": 2850.08,
+   "end": 2855.04,
+   "text": "dehydration"
+  },
+  {
+   "start": 2851.92,
+   "end": 2856.84,
+   "text": "the blood glucose is a bit high at 250."
+  },
+  {
+   "start": 2855.04,
+   "end": 2859.68,
+   "text": "the ph is low at"
+  },
+  {
+   "start": 2856.84,
+   "end": 2861.68,
+   "text": "7.19 with what appears to be respiratory"
+  },
+  {
+   "start": 2859.68,
+   "end": 2864.24,
+   "text": "compensation and hyperventilation with"
+  },
+  {
+   "start": 2861.68,
+   "end": 2866.48,
+   "text": "the pvco2 at 28."
+  },
+  {
+   "start": 2864.24,
+   "end": 2870.0,
+   "text": "sodium is a little elevated as is the"
+  },
+  {
+   "start": 2866.48,
+   "end": 2873.04,
+   "text": "chloride at 154 and 128 respectively"
+  },
+  {
+   "start": 2870.0,
+   "end": 2876.64,
+   "text": "the bicarbonate is low at 10."
+  },
+  {
+   "start": 2873.04,
+   "end": 2878.72,
+   "text": "creatinine is elevated at 2.9 as is the"
+  },
+  {
+   "start": 2876.64,
+   "end": 2880.64,
+   "text": "phosphorus at 10 and the lactate is"
+  },
+  {
+   "start": 2878.72,
+   "end": 2883.04,
+   "text": "increased at 4.1"
+  },
+  {
+   "start": 2880.64,
+   "end": 2884.88,
+   "text": "so it looks like there this is all"
+  },
+  {
+   "start": 2883.04,
+   "end": 2886.8,
+   "text": "consistent with what we initially"
+  },
+  {
+   "start": 2884.88,
+   "end": 2889.2,
+   "text": "thought on our physical exam that"
+  },
+  {
+   "start": 2886.8,
+   "end": 2891.2,
+   "text": "lactate is very concerning he has a"
+  },
+  {
+   "start": 2889.2,
+   "end": 2893.28,
+   "text": "primary metabolic acidosis with"
+  },
+  {
+   "start": 2891.2,
+   "end": 2894.48,
+   "text": "respiratory compensation"
+  },
+  {
+   "start": 2893.28,
+   "end": 2897.52,
+   "text": "and"
+  },
+  {
+   "start": 2894.48,
+   "end": 2898.88,
+   "text": "discordant pcb and total solids"
+  },
+  {
+   "start": 2897.52,
+   "end": 2900.48,
+   "text": "looks like he also has a little bit of"
+  },
+  {
+   "start": 2898.88,
+   "end": 2902.88,
+   "text": "free water loss as evidenced by the"
+  },
+  {
+   "start": 2900.48,
+   "end": 2905.04,
+   "text": "sodium chloride elevation"
+  },
+  {
+   "start": 2902.88,
+   "end": 2907.44,
+   "text": "his non-invasive blood pressure by"
+  },
+  {
+   "start": 2905.04,
+   "end": 2908.72,
+   "text": "doppler is 85 millimeters of mercury so"
+  },
+  {
+   "start": 2907.44,
+   "end": 2911.36,
+   "text": "that's low"
+  },
+  {
+   "start": 2908.72,
+   "end": 2915.28,
+   "text": "ekg shows a sinus tachycardia with a"
+  },
+  {
+   "start": 2911.36,
+   "end": 2915.28,
+   "text": "pulse oximeter reading of 97"
+  },
+  {
+   "start": 2915.36,
+   "end": 2919.12,
+   "text": "abdominal radiographs so porcerosal"
+  },
+  {
+   "start": 2917.44,
+   "end": 2921.12,
+   "text": "detail in the cranial abdomen and a"
+  },
+  {
+   "start": 2919.12,
+   "end": 2923.84,
+   "text": "gas-filled duodenum and chest"
+  },
+  {
+   "start": 2921.12,
+   "end": 2926.72,
+   "text": "radiographs were clear"
+  },
+  {
+   "start": 2923.84,
+   "end": 2929.28,
+   "text": "so your initial therapeutic plan based"
+  },
+  {
+   "start": 2926.72,
+   "end": 2931.6,
+   "text": "on these diagnostics and why you're"
+  },
+  {
+   "start": 2929.28,
+   "end": 2933.36,
+   "text": "getting these diagnostics might include"
+  },
+  {
+   "start": 2931.6,
+   "end": 2934.96,
+   "text": "an isotonic crystalloid such as"
+  },
+  {
+   "start": 2933.36,
+   "end": 2937.04,
+   "text": "plasmalite"
+  },
+  {
+   "start": 2934.96,
+   "end": 2939.52,
+   "text": "in this case he got about a third of a"
+  },
+  {
+   "start": 2937.04,
+   "end": 2941.52,
+   "text": "blood volume based on that lactate heart"
+  },
+  {
+   "start": 2939.52,
+   "end": 2943.52,
+   "text": "rate and other parameters"
+  },
+  {
+   "start": 2941.52,
+   "end": 2945.2,
+   "text": "and then we could consider more if"
+  },
+  {
+   "start": 2943.52,
+   "end": 2947.6,
+   "text": "needed but we'll probably want to stick"
+  },
+  {
+   "start": 2945.2,
+   "end": 2948.88,
+   "text": "to no more than 20 to 30 mls per kilo to"
+  },
+  {
+   "start": 2947.6,
+   "end": 2950.8,
+   "text": "start"
+  },
+  {
+   "start": 2948.88,
+   "end": 2954.08,
+   "text": "we may want to consider a synthetic"
+  },
+  {
+   "start": 2950.8,
+   "end": 2956.8,
+   "text": "colloid if the crystalloid is not"
+  },
+  {
+   "start": 2954.08,
+   "end": 2958.8,
+   "text": "effective or if it seems to have a"
+  },
+  {
+   "start": 2956.8,
+   "end": 2961.2,
+   "text": "short-lived efficacy"
+  },
+  {
+   "start": 2958.8,
+   "end": 2963.52,
+   "text": "and we could consider boluses of 5 mils"
+  },
+  {
+   "start": 2961.2,
+   "end": 2966.72,
+   "text": "per kilo up to a maximum of 20 ml per"
+  },
+  {
+   "start": 2963.52,
+   "end": 2969.36,
+   "text": "kilo if indicated"
+  },
+  {
+   "start": 2966.72,
+   "end": 2970.96,
+   "text": "we want to reassess after every bolus"
+  },
+  {
+   "start": 2969.36,
+   "end": 2972.64,
+   "text": "recheck his blood glucose after"
+  },
+  {
+   "start": 2970.96,
+   "end": 2975.12,
+   "text": "resuscitation in case part of the"
+  },
+  {
+   "start": 2972.64,
+   "end": 2977.2,
+   "text": "hyperglycemia was catecholamine driven"
+  },
+  {
+   "start": 2975.12,
+   "end": 2978.64,
+   "text": "and maybe consider flow by oxygen"
+  },
+  {
+   "start": 2977.2,
+   "end": 2980.56,
+   "text": "therapy until we have him more"
+  },
+  {
+   "start": 2978.64,
+   "end": 2982.8,
+   "text": "stabilized"
+  },
+  {
+   "start": 2980.56,
+   "end": 2985.76,
+   "text": "low-dose methadone was given iv for the"
+  },
+  {
+   "start": 2982.8,
+   "end": 2988.08,
+   "text": "abdominal discomfort to try and prevent"
+  },
+  {
+   "start": 2985.76,
+   "end": 2989.76,
+   "text": "him from being painful"
+  },
+  {
+   "start": 2988.08,
+   "end": 2992.96,
+   "text": "so his progression"
+  },
+  {
+   "start": 2989.76,
+   "end": 2995.36,
+   "text": "after one and a half total liters of"
+  },
+  {
+   "start": 2992.96,
+   "end": 2997.84,
+   "text": "either sodium chloride or plasmalite and"
+  },
+  {
+   "start": 2995.36,
+   "end": 2999.84,
+   "text": "300 ml of heterostarch his rectal"
+  },
+  {
+   "start": 2997.84,
+   "end": 3002.64,
+   "text": "temperature was down to 102. his heart"
+  },
+  {
+   "start": 2999.84,
+   "end": 3004.8,
+   "text": "rate was 120. his doppler pressure came"
+  },
+  {
+   "start": 3002.64,
+   "end": 3007.28,
+   "text": "up to 115. he was actually starting to"
+  },
+  {
+   "start": 3004.8,
+   "end": 3011.04,
+   "text": "look a little brighter his glucose was"
+  },
+  {
+   "start": 3007.28,
+   "end": 3012.96,
+   "text": "down to 150 and he had a lactate of 2.2"
+  },
+  {
+   "start": 3011.04,
+   "end": 3014.24,
+   "text": "so things seem to be going in the right"
+  },
+  {
+   "start": 3012.96,
+   "end": 3015.36,
+   "text": "direction"
+  },
+  {
+   "start": 3014.24,
+   "end": 3017.04,
+   "text": "um but"
+  },
+  {
+   "start": 3015.36,
+   "end": 3018.8,
+   "text": "as luck would have it about an hour"
+  },
+  {
+   "start": 3017.04,
+   "end": 3021.52,
+   "text": "later patrick developed severe"
+  },
+  {
+   "start": 3018.8,
+   "end": 3024.0,
+   "text": "hematomasis and heterokeezia his blood"
+  },
+  {
+   "start": 3021.52,
+   "end": 3026.0,
+   "text": "pressure fell back to down to 65 and his"
+  },
+  {
+   "start": 3024.0,
+   "end": 3027.92,
+   "text": "heart rate jumped up to 180 beats per"
+  },
+  {
+   "start": 3026.0,
+   "end": 3029.28,
+   "text": "minute"
+  },
+  {
+   "start": 3027.92,
+   "end": 3030.8,
+   "text": "so what do you what do you want to do"
+  },
+  {
+   "start": 3029.28,
+   "end": 3032.72,
+   "text": "now well we're going to have to"
+  },
+  {
+   "start": 3030.8,
+   "end": 3034.64,
+   "text": "obviously start from scratch here"
+  },
+  {
+   "start": 3032.72,
+   "end": 3036.96,
+   "text": "keeping in mind what we've already done"
+  },
+  {
+   "start": 3034.64,
+   "end": 3038.88,
+   "text": "but probably repeat our resuscitation"
+  },
+  {
+   "start": 3036.96,
+   "end": 3041.84,
+   "text": "protocol to a degree"
+  },
+  {
+   "start": 3038.88,
+   "end": 3043.84,
+   "text": "he's having a lot of losses and probably"
+  },
+  {
+   "start": 3041.84,
+   "end": 3046.16,
+   "text": "consider additional diagnostics that may"
+  },
+  {
+   "start": 3043.84,
+   "end": 3048.88,
+   "text": "have been kind of plus or minuses"
+  },
+  {
+   "start": 3046.16,
+   "end": 3051.12,
+   "text": "or further out in the tier two or three"
+  },
+  {
+   "start": 3048.88,
+   "end": 3054.72,
+   "text": "categories so that might include"
+  },
+  {
+   "start": 3051.12,
+   "end": 3057.52,
+   "text": "a pt and ptt a d dimer maybe a blood"
+  },
+  {
+   "start": 3054.72,
+   "end": 3060.32,
+   "text": "type and a cross match and possibly a"
+  },
+  {
+   "start": 3057.52,
+   "end": 3063.52,
+   "text": "colleague osmotic pressure if available"
+  },
+  {
+   "start": 3060.32,
+   "end": 3065.76,
+   "text": "maybe an abdominal ultrasound just to"
+  },
+  {
+   "start": 3063.52,
+   "end": 3067.28,
+   "text": "make sure that our rads"
+  },
+  {
+   "start": 3065.76,
+   "end": 3068.72,
+   "text": "we didn't miss anything on our"
+  },
+  {
+   "start": 3067.28,
+   "end": 3071.36,
+   "text": "radiograph"
+  },
+  {
+   "start": 3068.72,
+   "end": 3073.84,
+   "text": "perhaps get a urine for culture if not"
+  },
+  {
+   "start": 3071.36,
+   "end": 3076.72,
+   "text": "done already repeat an extended database"
+  },
+  {
+   "start": 3073.84,
+   "end": 3078.4,
+   "text": "including a pcb solids and lactate see"
+  },
+  {
+   "start": 3076.72,
+   "end": 3080.4,
+   "text": "how they've changed now"
+  },
+  {
+   "start": 3078.4,
+   "end": 3082.24,
+   "text": "probably start gi protectants and"
+  },
+  {
+   "start": 3080.4,
+   "end": 3083.52,
+   "text": "diabetics and anti-microbials if we"
+  },
+  {
+   "start": 3082.24,
+   "end": 3084.96,
+   "text": "haven't done that"
+  },
+  {
+   "start": 3083.52,
+   "end": 3086.64,
+   "text": "consider placement of a central"
+  },
+  {
+   "start": 3084.96,
+   "end": 3088.24,
+   "text": "multi-lumen catheter once he's"
+  },
+  {
+   "start": 3086.64,
+   "end": 3090.56,
+   "text": "stabilized and make sure we have a code"
+  },
+  {
+   "start": 3088.24,
+   "end": 3092.72,
+   "text": "from the owner just in case things don't"
+  },
+  {
+   "start": 3090.56,
+   "end": 3094.64,
+   "text": "go well"
+  },
+  {
+   "start": 3092.72,
+   "end": 3096.48,
+   "text": "so after receiving additional bolus of"
+  },
+  {
+   "start": 3094.64,
+   "end": 3099.6,
+   "text": "saline and head of starch the blood"
+  },
+  {
+   "start": 3096.48,
+   "end": 3102.0,
+   "text": "pressure is 90 millimeters of mercury"
+  },
+  {
+   "start": 3099.6,
+   "end": 3104.24,
+   "text": "the pt and ptt are both prolonged and"
+  },
+  {
+   "start": 3102.0,
+   "end": 3107.04,
+   "text": "the colony osmotic pressure is 12 normal"
+  },
+  {
+   "start": 3104.24,
+   "end": 3109.44,
+   "text": "is about 18 to 22."
+  },
+  {
+   "start": 3107.04,
+   "end": 3110.4,
+   "text": "we get 15 ml per kilo of fresh frozen"
+  },
+  {
+   "start": 3109.44,
+   "end": 3113.04,
+   "text": "plasma"
+  },
+  {
+   "start": 3110.4,
+   "end": 3115.12,
+   "text": "over about two hours and on ultrasound"
+  },
+  {
+   "start": 3113.04,
+   "end": 3117.84,
+   "text": "we see severe pancreatitis and large"
+  },
+  {
+   "start": 3115.12,
+   "end": 3119.76,
+   "text": "amounts of effusion on cytology it"
+  },
+  {
+   "start": 3117.84,
+   "end": 3122.32,
+   "text": "appears to be a neutrophilic exudate"
+  },
+  {
+   "start": 3119.76,
+   "end": 3125.04,
+   "text": "with no evidence of sepsis"
+  },
+  {
+   "start": 3122.32,
+   "end": 3127.52,
+   "text": "pcb is now down to 23 with a solids of"
+  },
+  {
+   "start": 3125.04,
+   "end": 3130.08,
+   "text": "2.5 and unfortunately our lactate is up"
+  },
+  {
+   "start": 3127.52,
+   "end": 3130.08,
+   "text": "to 5."
+  },
+  {
+   "start": 3130.24,
+   "end": 3134.8,
+   "text": "so we do give patrick 10 mils per kilo"
+  },
+  {
+   "start": 3132.96,
+   "end": 3137.92,
+   "text": "of packed red cells to try and keep his"
+  },
+  {
+   "start": 3134.8,
+   "end": 3141.2,
+   "text": "oxygen content in his blood adequate"
+  },
+  {
+   "start": 3137.92,
+   "end": 3143.6,
+   "text": "since his pcb is dropped now below 24."
+  },
+  {
+   "start": 3141.2,
+   "end": 3146.08,
+   "text": "we also place a central line and his"
+  },
+  {
+   "start": 3143.6,
+   "end": 3147.92,
+   "text": "central venous pressure is around seven"
+  },
+  {
+   "start": 3146.08,
+   "end": 3150.16,
+   "text": "which is really just a pressure but it"
+  },
+  {
+   "start": 3147.92,
+   "end": 3152.24,
+   "text": "does tell us that right atrial pressures"
+  },
+  {
+   "start": 3150.16,
+   "end": 3154.48,
+   "text": "are probably"
+  },
+  {
+   "start": 3152.24,
+   "end": 3156.64,
+   "text": "very adequate and not going to accept a"
+  },
+  {
+   "start": 3154.48,
+   "end": 3158.64,
+   "text": "lot more fluid"
+  },
+  {
+   "start": 3156.64,
+   "end": 3161.2,
+   "text": "his blood pressure is 90 millimeters of"
+  },
+  {
+   "start": 3158.64,
+   "end": 3163.68,
+   "text": "mercury he has red mucous membranes with"
+  },
+  {
+   "start": 3161.2,
+   "end": 3165.68,
+   "text": "a crt less than half a second still"
+  },
+  {
+   "start": 3163.68,
+   "end": 3168.64,
+   "text": "extremities are warm he just feels very"
+  },
+  {
+   "start": 3165.68,
+   "end": 3170.96,
+   "text": "vasodilated and has bounding pulses so"
+  },
+  {
+   "start": 3168.64,
+   "end": 3173.36,
+   "text": "we start dopamine at five mics per kg"
+  },
+  {
+   "start": 3170.96,
+   "end": 3176.24,
+   "text": "per minute to just help increase his"
+  },
+  {
+   "start": 3173.36,
+   "end": 3179.6,
+   "text": "vasomotor tone and hopefully improve"
+  },
+  {
+   "start": 3176.24,
+   "end": 3181.6,
+   "text": "improve his blood pressure and perfusion"
+  },
+  {
+   "start": 3179.6,
+   "end": 3183.28,
+   "text": "we continue his plasmalite and head of"
+  },
+  {
+   "start": 3181.6,
+   "end": 3185.84,
+   "text": "search with intermittent fresh frozen"
+  },
+  {
+   "start": 3183.28,
+   "end": 3188.08,
+   "text": "plasma every eight hours and his"
+  },
+  {
+   "start": 3185.84,
+   "end": 3190.32,
+   "text": "non-invasive blood pressure is now 110"
+  },
+  {
+   "start": 3188.08,
+   "end": 3192.0,
+   "text": "millimeters of mercury he looks more"
+  },
+  {
+   "start": 3190.32,
+   "end": 3194.48,
+   "text": "comfortable seems to have stabilized"
+  },
+  {
+   "start": 3192.0,
+   "end": 3197.12,
+   "text": "after our little crisis situation"
+  },
+  {
+   "start": 3194.48,
+   "end": 3200.16,
+   "text": "and uh we are going to continue our"
+  },
+  {
+   "start": 3197.12,
+   "end": 3202.8,
+   "text": "therapy of plasmalite head starch fresh"
+  },
+  {
+   "start": 3200.16,
+   "end": 3206.84,
+   "text": "frozen plasma every eight hours dopamine"
+  },
+  {
+   "start": 3202.8,
+   "end": 3210.0,
+   "text": "at five esomeperzol or pantoprazole"
+  },
+  {
+   "start": 3206.84,
+   "end": 3212.8,
+   "text": "metacopromide tycharcillinclavulinate"
+  },
+  {
+   "start": 3210.0,
+   "end": 3214.96,
+   "text": "and flow by oxygen"
+  },
+  {
+   "start": 3212.8,
+   "end": 3217.52,
+   "text": "we repeat our extended database and now"
+  },
+  {
+   "start": 3214.96,
+   "end": 3220.16,
+   "text": "see if pcv has come up to an acceptable"
+  },
+  {
+   "start": 3217.52,
+   "end": 3221.04,
+   "text": "number of solids is unfortunately quite"
+  },
+  {
+   "start": 3220.16,
+   "end": 3224.08,
+   "text": "low"
+  },
+  {
+   "start": 3221.04,
+   "end": 3227.04,
+   "text": "glucose is elevated again"
+  },
+  {
+   "start": 3224.08,
+   "end": 3229.36,
+   "text": "still a bit on the acidotic side with a"
+  },
+  {
+   "start": 3227.04,
+   "end": 3231.36,
+   "text": "small amount of respiratory compensation"
+  },
+  {
+   "start": 3229.36,
+   "end": 3233.92,
+   "text": "but luckily it looks like this lactates"
+  },
+  {
+   "start": 3231.36,
+   "end": 3237.84,
+   "text": "a little bit better and creatinine"
+  },
+  {
+   "start": 3233.92,
+   "end": 3237.84,
+   "text": "is is holding in there"
+  },
+  {
+   "start": 3238.0,
+   "end": 3243.04,
+   "text": "we do consider insulin therapy at this"
+  },
+  {
+   "start": 3240.16,
+   "end": 3246.0,
+   "text": "point since his glucose is 300 that's"
+  },
+  {
+   "start": 3243.04,
+   "end": 3248.56,
+   "text": "kind of sitting in a in an unacceptably"
+  },
+  {
+   "start": 3246.0,
+   "end": 3251.36,
+   "text": "high range generally over 250 we"
+  },
+  {
+   "start": 3248.56,
+   "end": 3252.88,
+   "text": "consider insulin and at 300 we almost"
+  },
+  {
+   "start": 3251.36,
+   "end": 3254.0,
+   "text": "always will start insulin in these"
+  },
+  {
+   "start": 3252.88,
+   "end": 3255.84,
+   "text": "patients"
+  },
+  {
+   "start": 3254.0,
+   "end": 3258.88,
+   "text": "we also decide to place a urinary"
+  },
+  {
+   "start": 3255.84,
+   "end": 3261.6,
+   "text": "catheter to monitor his ins and outs and"
+  },
+  {
+   "start": 3258.88,
+   "end": 3263.52,
+   "text": "keep a closer eye on urine output"
+  },
+  {
+   "start": 3261.6,
+   "end": 3265.36,
+   "text": "we started total parenteral nutrition"
+  },
+  {
+   "start": 3263.52,
+   "end": 3266.96,
+   "text": "through his central line"
+  },
+  {
+   "start": 3265.36,
+   "end": 3269.36,
+   "text": "unfortunately when we do that we give"
+  },
+  {
+   "start": 3266.96,
+   "end": 3271.44,
+   "text": "them a lot of iv dextrose so his blood"
+  },
+  {
+   "start": 3269.36,
+   "end": 3274.48,
+   "text": "glucose did increase further"
+  },
+  {
+   "start": 3271.44,
+   "end": 3276.56,
+   "text": "and we had to reformulate the tpn to"
+  },
+  {
+   "start": 3274.48,
+   "end": 3279.04,
+   "text": "contain less dextrose and also start the"
+  },
+  {
+   "start": 3276.56,
+   "end": 3280.4,
+   "text": "insulin cri if it hadn't been started"
+  },
+  {
+   "start": 3279.04,
+   "end": 3282.56,
+   "text": "already"
+  },
+  {
+   "start": 3280.4,
+   "end": 3285.2,
+   "text": "his blood pressure was kind of wavering"
+  },
+  {
+   "start": 3282.56,
+   "end": 3287.2,
+   "text": "in the 90 millimeters of mercury range"
+  },
+  {
+   "start": 3285.2,
+   "end": 3289.84,
+   "text": "his central venous pressure hung around"
+  },
+  {
+   "start": 3287.2,
+   "end": 3292.32,
+   "text": "five heart rate was at 120 and he still"
+  },
+  {
+   "start": 3289.84,
+   "end": 3294.64,
+   "text": "looked very vasodilated"
+  },
+  {
+   "start": 3292.32,
+   "end": 3297.84,
+   "text": "despite our dopamine therapy with us"
+  },
+  {
+   "start": 3294.64,
+   "end": 3300.0,
+   "text": "with a rectal temperature of 102.2"
+  },
+  {
+   "start": 3297.84,
+   "end": 3302.32,
+   "text": "we gradually increase the dopamine to 15"
+  },
+  {
+   "start": 3300.0,
+   "end": 3304.64,
+   "text": "mics per kilo per minute and then we"
+  },
+  {
+   "start": 3302.32,
+   "end": 3306.96,
+   "text": "started him on norepinephrine as well at"
+  },
+  {
+   "start": 3304.64,
+   "end": 3309.76,
+   "text": "0.1 mics per gig per minute and his"
+  },
+  {
+   "start": 3306.96,
+   "end": 3311.12,
+   "text": "non-invasive blood pressure was at 95"
+  },
+  {
+   "start": 3309.76,
+   "end": 3312.32,
+   "text": "millimeters of mercury which was"
+  },
+  {
+   "start": 3311.12,
+   "end": 3315.68,
+   "text": "considered"
+  },
+  {
+   "start": 3312.32,
+   "end": 3318.0,
+   "text": "acceptable although not ideal"
+  },
+  {
+   "start": 3315.68,
+   "end": 3320.08,
+   "text": "his abdominal effusion was quite severe"
+  },
+  {
+   "start": 3318.0,
+   "end": 3322.0,
+   "text": "we were worried about the degree of"
+  },
+  {
+   "start": 3320.08,
+   "end": 3322.64,
+   "text": "discomfort this was causing him as well"
+  },
+  {
+   "start": 3322.0,
+   "end": 3324.24,
+   "text": "as"
+  },
+  {
+   "start": 3322.64,
+   "end": 3326.4,
+   "text": "uh the"
+  },
+  {
+   "start": 3324.24,
+   "end": 3328.8,
+   "text": "prevention of caudal displacement of his"
+  },
+  {
+   "start": 3326.4,
+   "end": 3329.92,
+   "text": "abdomen of his of his diaphragm when he"
+  },
+  {
+   "start": 3328.8,
+   "end": 3331.44,
+   "text": "was breathing"
+  },
+  {
+   "start": 3329.92,
+   "end": 3333.12,
+   "text": "so we decided to measure his"
+  },
+  {
+   "start": 3331.44,
+   "end": 3334.88,
+   "text": "intra-abdominal pressure using his"
+  },
+  {
+   "start": 3333.12,
+   "end": 3337.28,
+   "text": "urinary catheter as our measurement"
+  },
+  {
+   "start": 3334.88,
+   "end": 3338.96,
+   "text": "device we hooked up a water manometer"
+  },
+  {
+   "start": 3337.28,
+   "end": 3340.56,
+   "text": "and a three-way stopcock and we measured"
+  },
+  {
+   "start": 3338.96,
+   "end": 3342.8,
+   "text": "it to be 25"
+  },
+  {
+   "start": 3340.56,
+   "end": 3345.12,
+   "text": "and we want that to be less than 5 to 10"
+  },
+  {
+   "start": 3342.8,
+   "end": 3347.52,
+   "text": "so this was this was elevated and"
+  },
+  {
+   "start": 3345.12,
+   "end": 3351.44,
+   "text": "suggests that there may be a decrease in"
+  },
+  {
+   "start": 3347.52,
+   "end": 3352.8,
+   "text": "perfusion to abdominal organs from"
+  },
+  {
+   "start": 3351.44,
+   "end": 3355.36,
+   "text": "a compartment syndrome from the"
+  },
+  {
+   "start": 3352.8,
+   "end": 3357.28,
+   "text": "intra-abdominal pressure in the effusion"
+  },
+  {
+   "start": 3355.36,
+   "end": 3359.52,
+   "text": "so because of that we decided to place a"
+  },
+  {
+   "start": 3357.28,
+   "end": 3361.6,
+   "text": "pigtail catheter into the abdomen to"
+  },
+  {
+   "start": 3359.52,
+   "end": 3363.04,
+   "text": "drain out this abdominal fluid that"
+  },
+  {
+   "start": 3361.6,
+   "end": 3365.68,
+   "text": "appeared to be non-septic and"
+  },
+  {
+   "start": 3363.04,
+   "end": 3367.36,
+   "text": "inflammatory and this would make the dog"
+  },
+  {
+   "start": 3365.68,
+   "end": 3368.8,
+   "text": "more comfortable and also help with his"
+  },
+  {
+   "start": 3367.36,
+   "end": 3370.4,
+   "text": "breathing effort"
+  },
+  {
+   "start": 3368.8,
+   "end": 3372.32,
+   "text": "this is what he looked like all hooked"
+  },
+  {
+   "start": 3370.4,
+   "end": 3374.8,
+   "text": "up to his machines his abdominal drain"
+  },
+  {
+   "start": 3372.32,
+   "end": 3376.64,
+   "text": "in his urinary catheter in"
+  },
+  {
+   "start": 3374.8,
+   "end": 3378.64,
+   "text": "he's receiving parental nutrition and"
+  },
+  {
+   "start": 3376.64,
+   "end": 3381.2,
+   "text": "very close monitoring"
+  },
+  {
+   "start": 3378.64,
+   "end": 3383.6,
+   "text": "and then on day three we decided to go"
+  },
+  {
+   "start": 3381.2,
+   "end": 3386.0,
+   "text": "ahead and start some steroids"
+  },
+  {
+   "start": 3383.6,
+   "end": 3389.36,
+   "text": "um we did actually"
+  },
+  {
+   "start": 3386.0,
+   "end": 3392.56,
+   "text": "show that his ach stem"
+  },
+  {
+   "start": 3389.36,
+   "end": 3394.0,
+   "text": "um was inadequate the units here are a"
+  },
+  {
+   "start": 3392.56,
+   "end": 3396.4,
+   "text": "little different"
+  },
+  {
+   "start": 3394.0,
+   "end": 3398.8,
+   "text": "than what i gave before but again"
+  },
+  {
+   "start": 3396.4,
+   "end": 3403.12,
+   "text": "a delta less than three i had said or in"
+  },
+  {
+   "start": 3398.8,
+   "end": 3406.64,
+   "text": "these units 83 is indicative of circe"
+  },
+  {
+   "start": 3403.12,
+   "end": 3408.72,
+   "text": "so we gave him dexamethasone at .02 migs"
+  },
+  {
+   "start": 3406.64,
+   "end": 3411.12,
+   "text": "per gig iv"
+  },
+  {
+   "start": 3408.72,
+   "end": 3413.04,
+   "text": "and this was our attempt to try and"
+  },
+  {
+   "start": 3411.12,
+   "end": 3415.44,
+   "text": "stabilize him a little bit faster and"
+  },
+  {
+   "start": 3413.04,
+   "end": 3417.36,
+   "text": "get him off of those vasopressor agents"
+  },
+  {
+   "start": 3415.44,
+   "end": 3419.68,
+   "text": "we did place an arterial catheter to"
+  },
+  {
+   "start": 3417.36,
+   "end": 3421.6,
+   "text": "monitor direct arterial blood pressure"
+  },
+  {
+   "start": 3419.68,
+   "end": 3423.52,
+   "text": "and we continued his supportive care"
+  },
+  {
+   "start": 3421.6,
+   "end": 3426.56,
+   "text": "matching ins and outs to try and prevent"
+  },
+  {
+   "start": 3423.52,
+   "end": 3429.36,
+   "text": "volume overload or underload"
+  },
+  {
+   "start": 3426.56,
+   "end": 3432.72,
+   "text": "and clinically he was depressed"
+  },
+  {
+   "start": 3429.36,
+   "end": 3434.32,
+   "text": "and nauseated but but stable for the"
+  },
+  {
+   "start": 3432.72,
+   "end": 3436.08,
+   "text": "time being"
+  },
+  {
+   "start": 3434.32,
+   "end": 3437.92,
+   "text": "over the course of day three to six his"
+  },
+  {
+   "start": 3436.08,
+   "end": 3439.28,
+   "text": "blood pressure gradually improved we"
+  },
+  {
+   "start": 3437.92,
+   "end": 3441.36,
+   "text": "were able to"
+  },
+  {
+   "start": 3439.28,
+   "end": 3443.36,
+   "text": "wean his presser slowly when his mean"
+  },
+  {
+   "start": 3441.36,
+   "end": 3444.8,
+   "text": "blood pressure was greater than 110 for"
+  },
+  {
+   "start": 3443.36,
+   "end": 3447.36,
+   "text": "four hours"
+  },
+  {
+   "start": 3444.8,
+   "end": 3449.68,
+   "text": "first we decreased the dopamine and"
+  },
+  {
+   "start": 3447.36,
+   "end": 3451.76,
+   "text": "subsequently we were able to wean off"
+  },
+  {
+   "start": 3449.68,
+   "end": 3453.84,
+   "text": "the norepinephrine as well"
+  },
+  {
+   "start": 3451.76,
+   "end": 3455.04,
+   "text": "by day seven he appeared clinically"
+  },
+  {
+   "start": 3453.84,
+   "end": 3456.64,
+   "text": "improved"
+  },
+  {
+   "start": 3455.04,
+   "end": 3458.88,
+   "text": "we"
+  },
+  {
+   "start": 3456.64,
+   "end": 3461.28,
+   "text": "went ahead and completely weaned his"
+  },
+  {
+   "start": 3458.88,
+   "end": 3463.04,
+   "text": "norepinephrine by the end of day seven"
+  },
+  {
+   "start": 3461.28,
+   "end": 3464.8,
+   "text": "pulled his abdominal drain which had"
+  },
+  {
+   "start": 3463.04,
+   "end": 3466.56,
+   "text": "decreased in production"
+  },
+  {
+   "start": 3464.8,
+   "end": 3468.72,
+   "text": "pulled his urinary catheter and then"
+  },
+  {
+   "start": 3466.56,
+   "end": 3471.12,
+   "text": "obtained a cystoke sample for culture"
+  },
+  {
+   "start": 3468.72,
+   "end": 3472.72,
+   "text": "following uh removal of the urinary"
+  },
+  {
+   "start": 3471.12,
+   "end": 3475.04,
+   "text": "catheter to make sure he didn't have a"
+  },
+  {
+   "start": 3472.72,
+   "end": 3477.04,
+   "text": "nosocomial infection"
+  },
+  {
+   "start": 3475.04,
+   "end": 3478.8,
+   "text": "we also stopped giving him fresh frozen"
+  },
+  {
+   "start": 3477.04,
+   "end": 3480.72,
+   "text": "plasma at this point"
+  },
+  {
+   "start": 3478.8,
+   "end": 3483.04,
+   "text": "his eight to ten he started drinking"
+  },
+  {
+   "start": 3480.72,
+   "end": 3485.12,
+   "text": "water on his own and keeping it down"
+  },
+  {
+   "start": 3483.04,
+   "end": 3487.28,
+   "text": "he was able to go on short walks outside"
+  },
+  {
+   "start": 3485.12,
+   "end": 3489.68,
+   "text": "to eliminate and even started eating"
+  },
+  {
+   "start": 3487.28,
+   "end": 3490.56,
+   "text": "small amounts of a bland diet on on day"
+  },
+  {
+   "start": 3489.68,
+   "end": 3492.4,
+   "text": "eight"
+  },
+  {
+   "start": 3490.56,
+   "end": 3495.44,
+   "text": "we were able to take away the insulin"
+  },
+  {
+   "start": 3492.4,
+   "end": 3497.76,
+   "text": "cri as his glucose remained stable"
+  },
+  {
+   "start": 3495.44,
+   "end": 3499.44,
+   "text": "we started weaning the tpn on day nine"
+  },
+  {
+   "start": 3497.76,
+   "end": 3501.84,
+   "text": "when it appeared that he was able to eat"
+  },
+  {
+   "start": 3499.44,
+   "end": 3504.12,
+   "text": "on his own and keep everything down and"
+  },
+  {
+   "start": 3501.84,
+   "end": 3507.36,
+   "text": "we also started weaning off some of his"
+  },
+  {
+   "start": 3504.12,
+   "end": 3508.4,
+   "text": "gastrointestinal medications"
+  },
+  {
+   "start": 3507.36,
+   "end": 3511.76,
+   "text": "he was"
+  },
+  {
+   "start": 3508.4,
+   "end": 3513.44,
+   "text": "he was discharged on day 10 um to some"
+  },
+  {
+   "start": 3511.76,
+   "end": 3516.48,
+   "text": "very happy owners"
+  },
+  {
+   "start": 3513.44,
+   "end": 3518.24,
+   "text": "uh granted his bill was in excess of ten"
+  },
+  {
+   "start": 3516.48,
+   "end": 3522.4,
+   "text": "thousand dollars but"
+  },
+  {
+   "start": 3518.24,
+   "end": 3522.4,
+   "text": "um at least he was able to go home"
+  },
+  {
+   "start": 3525.92,
+   "end": 3532.16,
+   "text": "some of the future therapies that"
+  },
+  {
+   "start": 3528.72,
+   "end": 3533.84,
+   "text": "are being looked at i think will come as"
+  },
+  {
+   "start": 3532.16,
+   "end": 3536.16,
+   "text": "we gain more research in this field"
+  },
+  {
+   "start": 3533.84,
+   "end": 3538.4,
+   "text": "especially in veterinary medicine"
+  },
+  {
+   "start": 3536.16,
+   "end": 3540.32,
+   "text": "targeted individualized treatments based"
+  },
+  {
+   "start": 3538.4,
+   "end": 3543.2,
+   "text": "on specific genomic and cellular"
+  },
+  {
+   "start": 3540.32,
+   "end": 3545.44,
+   "text": "operations are probably going to be the"
+  },
+  {
+   "start": 3543.2,
+   "end": 3547.2,
+   "text": "way of the future where we can really"
+  },
+  {
+   "start": 3545.44,
+   "end": 3548.56,
+   "text": "using if you can remember that pyro"
+  },
+  {
+   "start": 3547.2,
+   "end": 3551.04,
+   "text": "scheme we talked about in the first"
+  },
+  {
+   "start": 3548.56,
+   "end": 3552.88,
+   "text": "lecture to try and look at what is"
+  },
+  {
+   "start": 3551.04,
+   "end": 3554.48,
+   "text": "actually happening not only genetically"
+  },
+  {
+   "start": 3552.88,
+   "end": 3557.12,
+   "text": "but real time in that patient's"
+  },
+  {
+   "start": 3554.48,
+   "end": 3559.2,
+   "text": "inflammatory system to really target our"
+  },
+  {
+   "start": 3557.12,
+   "end": 3561.12,
+   "text": "therapy most appropriately to either"
+  },
+  {
+   "start": 3559.2,
+   "end": 3563.44,
+   "text": "decrease inflammation or maybe even"
+  },
+  {
+   "start": 3561.12,
+   "end": 3566.32,
+   "text": "stimulate inflammation based on how the"
+  },
+  {
+   "start": 3563.44,
+   "end": 3568.4,
+   "text": "individual animal is responding"
+  },
+  {
+   "start": 3566.32,
+   "end": 3570.32,
+   "text": "maybe even using biomarkers more"
+  },
+  {
+   "start": 3568.4,
+   "end": 3571.36,
+   "text": "specifically to try and guide our"
+  },
+  {
+   "start": 3570.32,
+   "end": 3573.52,
+   "text": "therapy"
+  },
+  {
+   "start": 3571.36,
+   "end": 3575.6,
+   "text": "and determine where they are in the"
+  },
+  {
+   "start": 3573.52,
+   "end": 3577.68,
+   "text": "inflammatory response"
+  },
+  {
+   "start": 3575.6,
+   "end": 3579.92,
+   "text": "and these are these are exciting new"
+  },
+  {
+   "start": 3577.68,
+   "end": 3583.04,
+   "text": "avenues i think for studying sirs and"
+  },
+  {
+   "start": 3579.92,
+   "end": 3585.28,
+   "text": "and sepsis and animals and people"
+  },
+  {
+   "start": 3583.04,
+   "end": 3587.76,
+   "text": "so in conclusion remember that rapid"
+  },
+  {
+   "start": 3585.28,
+   "end": 3588.8,
+   "text": "treatment of sirs and sepsis is truly"
+  },
+  {
+   "start": 3587.76,
+   "end": 3591.04,
+   "text": "vital"
+  },
+  {
+   "start": 3588.8,
+   "end": 3592.88,
+   "text": "we want to normalize oxygen delivery to"
+  },
+  {
+   "start": 3591.04,
+   "end": 3595.52,
+   "text": "the tissues as soon as possible"
+  },
+  {
+   "start": 3592.88,
+   "end": 3598.16,
+   "text": "definitely within six hours if we can"
+  },
+  {
+   "start": 3595.52,
+   "end": 3600.96,
+   "text": "but judicious fluid therapy titrate to"
+  },
+  {
+   "start": 3598.16,
+   "end": 3603.68,
+   "text": "effect to prevent volume overload and"
+  },
+  {
+   "start": 3600.96,
+   "end": 3605.76,
+   "text": "decrease in mortality"
+  },
+  {
+   "start": 3603.68,
+   "end": 3607.2,
+   "text": "we want to use repeated physical"
+  },
+  {
+   "start": 3605.76,
+   "end": 3609.2,
+   "text": "examinations"
+  },
+  {
+   "start": 3607.2,
+   "end": 3612.16,
+   "text": "all of our hemodynamic variables and"
+  },
+  {
+   "start": 3609.2,
+   "end": 3613.68,
+   "text": "point of care testing to try and closely"
+  },
+  {
+   "start": 3612.16,
+   "end": 3615.68,
+   "text": "monitor these patients and how they're"
+  },
+  {
+   "start": 3613.68,
+   "end": 3617.44,
+   "text": "responding responding to our treatment"
+  },
+  {
+   "start": 3615.68,
+   "end": 3619.36,
+   "text": "and supportive care"
+  },
+  {
+   "start": 3617.44,
+   "end": 3620.8,
+   "text": "don't forget about nutrition and the"
+  },
+  {
+   "start": 3619.36,
+   "end": 3621.84,
+   "text": "importance of nutrition in these"
+  },
+  {
+   "start": 3620.8,
+   "end": 3624.0,
+   "text": "patients"
+  },
+  {
+   "start": 3621.84,
+   "end": 3626.24,
+   "text": "consider physiologic steroids if they"
+  },
+  {
+   "start": 3624.0,
+   "end": 3629.52,
+   "text": "have refractory tension"
+  },
+  {
+   "start": 3626.24,
+   "end": 3632.0,
+   "text": "and with that i i would like to go ahead"
+  },
+  {
+   "start": 3629.52,
+   "end": 3634.32,
+   "text": "and answer any questions that you might"
+  },
+  {
+   "start": 3632.0,
+   "end": 3635.76,
+   "text": "have hopefully you're not all asleep as"
+  },
+  {
+   "start": 3634.32,
+   "end": 3637.68,
+   "text": "the pug and"
+  },
+  {
+   "start": 3635.76,
+   "end": 3640.4,
+   "text": "the toddler in this picture"
+  },
+  {
+   "start": 3637.68,
+   "end": 3642.96,
+   "text": "uh thank you again for"
+  },
+  {
+   "start": 3640.4,
+   "end": 3644.8,
+   "text": "participating in this webinar i i do"
+  },
+  {
+   "start": 3642.96,
+   "end": 3648.32,
+   "text": "hope it's been useful and again thank"
+  },
+  {
+   "start": 3644.8,
+   "end": 3650.32,
+   "text": "you to nova for providing this ce to"
+  },
+  {
+   "start": 3648.32,
+   "end": 3652.0,
+   "text": "everyone"
+  },
+  {
+   "start": 3650.32,
+   "end": 3656.6,
+   "text": "have a good night and i will go ahead"
+  },
+  {
+   "start": 3652.0,
+   "end": 3656.6,
+   "text": "and entertain questions at this point"
+  },
+  {
+   "start": 3677.52,
+   "end": 3682.32,
+   "text": "and i'm looking at the list of questions"
+  },
+  {
+   "start": 3680.4,
+   "end": 3684.08,
+   "text": "right now and i believe you have to go"
+  },
+  {
+   "start": 3682.32,
+   "end": 3685.92,
+   "text": "ahead and enter them into the system if"
+  },
+  {
+   "start": 3684.08,
+   "end": 3688.88,
+   "text": "anybody has any"
+  },
+  {
+   "start": 3685.92,
+   "end": 3691.12,
+   "text": "uh maybe it was really clear and"
+  },
+  {
+   "start": 3688.88,
+   "end": 3692.56,
+   "text": "nobody has questions oh"
+  },
+  {
+   "start": 3691.12,
+   "end": 3694.4,
+   "text": "there we go we're starting to get one"
+  },
+  {
+   "start": 3692.56,
+   "end": 3695.92,
+   "text": "here's a question that says"
+  },
+  {
+   "start": 3694.4,
+   "end": 3698.88,
+   "text": "have you ever used the cri of"
+  },
+  {
+   "start": 3695.92,
+   "end": 3701.28,
+   "text": "epinephrine if other vasopressors are"
+  },
+  {
+   "start": 3698.88,
+   "end": 3703.44,
+   "text": "unavailable and if so"
+  },
+  {
+   "start": 3701.28,
+   "end": 3708.56,
+   "text": "what is the dose"
+  },
+  {
+   "start": 3703.44,
+   "end": 3711.6,
+   "text": "cri of epinephrine is is a recent"
+  },
+  {
+   "start": 3708.56,
+   "end": 3712.4,
+   "text": "i recently described treatment"
+  },
+  {
+   "start": 3711.6,
+   "end": 3715.52,
+   "text": "for"
+  },
+  {
+   "start": 3712.4,
+   "end": 3718.08,
+   "text": "animals that may be catecholamine"
+  },
+  {
+   "start": 3715.52,
+   "end": 3719.84,
+   "text": "refractory or potentially"
+  },
+  {
+   "start": 3718.08,
+   "end": 3721.76,
+   "text": "unavailable"
+  },
+  {
+   "start": 3719.84,
+   "end": 3723.36,
+   "text": "and i do think that it's something to"
+  },
+  {
+   "start": 3721.76,
+   "end": 3726.32,
+   "text": "consider at a very"
+  },
+  {
+   "start": 3723.36,
+   "end": 3728.56,
+   "text": "low dose epinephrine can actually"
+  },
+  {
+   "start": 3726.32,
+   "end": 3731.2,
+   "text": "stimulate more beta receptors than alpha"
+  },
+  {
+   "start": 3728.56,
+   "end": 3733.52,
+   "text": "receptors so there's an increase in both"
+  },
+  {
+   "start": 3731.2,
+   "end": 3735.52,
+   "text": "heart rate and contractility"
+  },
+  {
+   "start": 3733.52,
+   "end": 3737.04,
+   "text": "potentially deleteriously there can also"
+  },
+  {
+   "start": 3735.52,
+   "end": 3739.44,
+   "text": "be an increase in"
+  },
+  {
+   "start": 3737.04,
+   "end": 3741.68,
+   "text": "the the work of the heart and therefore"
+  },
+  {
+   "start": 3739.44,
+   "end": 3745.28,
+   "text": "oxygen demand and"
+  },
+  {
+   "start": 3741.68,
+   "end": 3748.24,
+   "text": "and oxygen consumption of the heart"
+  },
+  {
+   "start": 3745.28,
+   "end": 3750.8,
+   "text": "the the very low dose range"
+  },
+  {
+   "start": 3748.24,
+   "end": 3752.16,
+   "text": "uh i am happy to provide to you i want"
+  },
+  {
+   "start": 3750.8,
+   "end": 3753.76,
+   "text": "to make sure i give you the correct dose"
+  },
+  {
+   "start": 3752.16,
+   "end": 3754.64,
+   "text": "and it's something we have not used very"
+  },
+  {
+   "start": 3753.76,
+   "end": 3756.72,
+   "text": "often"
+  },
+  {
+   "start": 3754.64,
+   "end": 3760.08,
+   "text": "um sorry i don't have a definitive dose"
+  },
+  {
+   "start": 3756.72,
+   "end": 3762.08,
+   "text": "right now but if you're able to email me"
+  },
+  {
+   "start": 3760.08,
+   "end": 3764.32,
+   "text": "after this i'm happy to"
+  },
+  {
+   "start": 3762.08,
+   "end": 3765.68,
+   "text": "to provide you with that dose"
+  },
+  {
+   "start": 3764.32,
+   "end": 3768.4,
+   "text": "i don't want to say a number that might"
+  },
+  {
+   "start": 3765.68,
+   "end": 3770.24,
+   "text": "be wrong but yes low dose epinephrine i"
+  },
+  {
+   "start": 3768.4,
+   "end": 3773.28,
+   "text": "i think does have a place in the"
+  },
+  {
+   "start": 3770.24,
+   "end": 3776.96,
+   "text": "treatment of of hypotensive vasodilated"
+  },
+  {
+   "start": 3773.28,
+   "end": 3779.6,
+   "text": "patients with service or sepsis"
+  },
+  {
+   "start": 3776.96,
+   "end": 3782.24,
+   "text": "okay i see another question here"
+  },
+  {
+   "start": 3779.6,
+   "end": 3783.68,
+   "text": "is the hyperglycemia due to insulin"
+  },
+  {
+   "start": 3782.24,
+   "end": 3785.04,
+   "text": "resistance from the systemic"
+  },
+  {
+   "start": 3783.68,
+   "end": 3786.88,
+   "text": "inflammation"
+  },
+  {
+   "start": 3785.04,
+   "end": 3788.48,
+   "text": "that's a great question and there's a"
+  },
+  {
+   "start": 3786.88,
+   "end": 3790.32,
+   "text": "lot of different"
+  },
+  {
+   "start": 3788.48,
+   "end": 3793.84,
+   "text": "potential theories as to why these"
+  },
+  {
+   "start": 3790.32,
+   "end": 3795.28,
+   "text": "animals become hyperglycemic one of the"
+  },
+  {
+   "start": 3793.84,
+   "end": 3797.6,
+   "text": "most popular"
+  },
+  {
+   "start": 3795.28,
+   "end": 3800.32,
+   "text": "theory that has been somewhat supported"
+  },
+  {
+   "start": 3797.6,
+   "end": 3803.52,
+   "text": "with testing is that very high cortisol"
+  },
+  {
+   "start": 3800.32,
+   "end": 3805.76,
+   "text": "levels are actually leading to the"
+  },
+  {
+   "start": 3803.52,
+   "end": 3807.44,
+   "text": "insulin resistance so it's like a stress"
+  },
+  {
+   "start": 3805.76,
+   "end": 3810.0,
+   "text": "response by the body"
+  },
+  {
+   "start": 3807.44,
+   "end": 3812.24,
+   "text": "in addition to high catecholamine levels"
+  },
+  {
+   "start": 3810.0,
+   "end": 3814.96,
+   "text": "that are are contributing to the insulin"
+  },
+  {
+   "start": 3812.24,
+   "end": 3816.48,
+   "text": "resistance more so than probably"
+  },
+  {
+   "start": 3814.96,
+   "end": 3819.76,
+   "text": "pancreatic"
+  },
+  {
+   "start": 3816.48,
+   "end": 3822.56,
+   "text": "insufficiency or decreases in insulin"
+  },
+  {
+   "start": 3819.76,
+   "end": 3825.84,
+   "text": "release cytokines have also been shown"
+  },
+  {
+   "start": 3822.56,
+   "end": 3827.28,
+   "text": "to create an anti-insulin effect and"
+  },
+  {
+   "start": 3825.84,
+   "end": 3829.04,
+   "text": "insulin resistance and there may"
+  },
+  {
+   "start": 3827.28,
+   "end": 3830.56,
+   "text": "actually be some down regulation of"
+  },
+  {
+   "start": 3829.04,
+   "end": 3833.52,
+   "text": "insulin receptors"
+  },
+  {
+   "start": 3830.56,
+   "end": 3834.48,
+   "text": "in in some animal models with sepsis as"
+  },
+  {
+   "start": 3833.52,
+   "end": 3836.12,
+   "text": "well"
+  },
+  {
+   "start": 3834.48,
+   "end": 3838.56,
+   "text": "so there it does seem to be"
+  },
+  {
+   "start": 3836.12,
+   "end": 3840.08,
+   "text": "multifactorial i do believe a lot of"
+  },
+  {
+   "start": 3838.56,
+   "end": 3841.36,
+   "text": "people have probably seen it happen"
+  },
+  {
+   "start": 3840.08,
+   "end": 3843.52,
+   "text": "before"
+  },
+  {
+   "start": 3841.36,
+   "end": 3845.92,
+   "text": "and they don't tolerate a lot of dexter"
+  },
+  {
+   "start": 3843.52,
+   "end": 3848.88,
+   "text": "supplementation very well usually in the"
+  },
+  {
+   "start": 3845.92,
+   "end": 3848.88,
+   "text": "form of tpn"
+  },
+  {
+   "start": 3849.2,
+   "end": 3853.28,
+   "text": "okay the next question i see here is"
+  },
+  {
+   "start": 3850.8,
+   "end": 3856.0,
+   "text": "which antibiotics do you recommend"
+  },
+  {
+   "start": 3853.28,
+   "end": 3858.24,
+   "text": "uh well that's that's a a complicated"
+  },
+  {
+   "start": 3856.0,
+   "end": 3859.6,
+   "text": "question i think because"
+  },
+  {
+   "start": 3858.24,
+   "end": 3861.76,
+   "text": "uh"
+  },
+  {
+   "start": 3859.6,
+   "end": 3865.52,
+   "text": "the general answer might be"
+  },
+  {
+   "start": 3861.76,
+   "end": 3867.12,
+   "text": "use intravenous bactericidal"
+  },
+  {
+   "start": 3865.52,
+   "end": 3870.08,
+   "text": "broad spectrum"
+  },
+  {
+   "start": 3867.12,
+   "end": 3873.6,
+   "text": "empiric therapy that's targeted to"
+  },
+  {
+   "start": 3870.08,
+   "end": 3876.16,
+   "text": "the bugs that you suspect as well as the"
+  },
+  {
+   "start": 3873.6,
+   "end": 3878.16,
+   "text": "tissues where an infection might be"
+  },
+  {
+   "start": 3876.16,
+   "end": 3879.04,
+   "text": "located"
+  },
+  {
+   "start": 3878.16,
+   "end": 3881.84,
+   "text": "the"
+  },
+  {
+   "start": 3879.04,
+   "end": 3883.6,
+   "text": "the combinations that i i presented in"
+  },
+  {
+   "start": 3881.84,
+   "end": 3885.6,
+   "text": "the lecture i think are"
+  },
+  {
+   "start": 3883.6,
+   "end": 3887.2,
+   "text": "are all valid you want to start with"
+  },
+  {
+   "start": 3885.6,
+   "end": 3889.6,
+   "text": "probably the"
+  },
+  {
+   "start": 3887.2,
+   "end": 3892.32,
+   "text": "the lesser of the big guns if you can"
+  },
+  {
+   "start": 3889.6,
+   "end": 3895.68,
+   "text": "just to save the the top shelf"
+  },
+  {
+   "start": 3892.32,
+   "end": 3897.68,
+   "text": "antibiotics for resistant bugs but"
+  },
+  {
+   "start": 3895.68,
+   "end": 3900.72,
+   "text": "animals that present to the hospital"
+  },
+  {
+   "start": 3897.68,
+   "end": 3902.56,
+   "text": "already receiving antimicrobial therapy"
+  },
+  {
+   "start": 3900.72,
+   "end": 3904.4,
+   "text": "either at the time of presentation or"
+  },
+  {
+   "start": 3902.56,
+   "end": 3905.28,
+   "text": "perhaps within the past two to three"
+  },
+  {
+   "start": 3904.4,
+   "end": 3907.84,
+   "text": "months"
+  },
+  {
+   "start": 3905.28,
+   "end": 3910.08,
+   "text": "very likely do have some degree of"
+  },
+  {
+   "start": 3907.84,
+   "end": 3912.08,
+   "text": "resistance that has developed and so in"
+  },
+  {
+   "start": 3910.08,
+   "end": 3914.0,
+   "text": "those cases we may start reaching a"
+  },
+  {
+   "start": 3912.08,
+   "end": 3915.44,
+   "text": "little bit more for top shelf"
+  },
+  {
+   "start": 3914.0,
+   "end": 3917.12,
+   "text": "drugs"
+  },
+  {
+   "start": 3915.44,
+   "end": 3919.04,
+   "text": "and by those i'm referring to things"
+  },
+  {
+   "start": 3917.12,
+   "end": 3920.64,
+   "text": "like third generation cephalosporins"
+  },
+  {
+   "start": 3919.04,
+   "end": 3922.48,
+   "text": "potentially even carbopenes like"
+  },
+  {
+   "start": 3920.64,
+   "end": 3925.28,
+   "text": "neuropenem"
+  },
+  {
+   "start": 3922.48,
+   "end": 3927.2,
+   "text": "and for just the empiric animal that's"
+  },
+  {
+   "start": 3925.28,
+   "end": 3929.2,
+   "text": "not on antibiotics i think using"
+  },
+  {
+   "start": 3927.2,
+   "end": 3931.52,
+   "text": "ampicillin and androfloxacin or"
+  },
+  {
+   "start": 3929.2,
+   "end": 3934.64,
+   "text": "clindamycin and reflexism"
+  },
+  {
+   "start": 3931.52,
+   "end": 3936.72,
+   "text": "uh might be good starting combinations"
+  },
+  {
+   "start": 3934.64,
+   "end": 3938.88,
+   "text": "but again it depends on where you think"
+  },
+  {
+   "start": 3936.72,
+   "end": 3940.16,
+   "text": "the infection might be and what bugs you"
+  },
+  {
+   "start": 3938.88,
+   "end": 3944.48,
+   "text": "suspect"
+  },
+  {
+   "start": 3940.16,
+   "end": 3946.88,
+   "text": "uh so so using all of the information to"
+  },
+  {
+   "start": 3944.48,
+   "end": 3950.16,
+   "text": "guess at what would be the best spectrum"
+  },
+  {
+   "start": 3946.88,
+   "end": 3952.64,
+   "text": "is is usually indicated"
+  },
+  {
+   "start": 3950.16,
+   "end": 3954.56,
+   "text": "the next question says i may have missed"
+  },
+  {
+   "start": 3952.64,
+   "end": 3956.64,
+   "text": "this but if there's hypoallevania"
+  },
+  {
+   "start": 3954.56,
+   "end": 3958.72,
+   "text": "present how would you manage"
+  },
+  {
+   "start": 3956.64,
+   "end": 3961.12,
+   "text": "well we we did mention that hyperlobium"
+  },
+  {
+   "start": 3958.72,
+   "end": 3964.48,
+   "text": "anemia quite commonly does exist in"
+  },
+  {
+   "start": 3961.12,
+   "end": 3966.4,
+   "text": "these patients not only due to losses"
+  },
+  {
+   "start": 3964.48,
+   "end": 3967.84,
+   "text": "uh either they leave the body or"
+  },
+  {
+   "start": 3966.4,
+   "end": 3969.76,
+   "text": "potentially losses just from"
+  },
+  {
+   "start": 3967.84,
+   "end": 3971.96,
+   "text": "transvascular leak"
+  },
+  {
+   "start": 3969.76,
+   "end": 3974.56,
+   "text": "from endothelial damage and"
+  },
+  {
+   "start": 3971.96,
+   "end": 3977.04,
+   "text": "hypoalbuminemia can be tough to to treat"
+  },
+  {
+   "start": 3974.56,
+   "end": 3979.04,
+   "text": "in these patients i think classically or"
+  },
+  {
+   "start": 3977.04,
+   "end": 3981.44,
+   "text": "traditionally we've recommended the use"
+  },
+  {
+   "start": 3979.04,
+   "end": 3983.2,
+   "text": "of synthetic colloids in animals that"
+  },
+  {
+   "start": 3981.44,
+   "end": 3986.16,
+   "text": "are not either bleeding or severely"
+  },
+  {
+   "start": 3983.2,
+   "end": 3988.96,
+   "text": "coagulopathic or thrombocytopenic"
+  },
+  {
+   "start": 3986.16,
+   "end": 3992.08,
+   "text": "but with the recent concern about acute"
+  },
+  {
+   "start": 3988.96,
+   "end": 3994.16,
+   "text": "kidney injury i do understand that most"
+  },
+  {
+   "start": 3992.08,
+   "end": 3995.92,
+   "text": "veterinarians are more cautious"
+  },
+  {
+   "start": 3994.16,
+   "end": 3997.44,
+   "text": "that being said for animals with no"
+  },
+  {
+   "start": 3995.92,
+   "end": 3999.68,
+   "text": "evidence of"
+  },
+  {
+   "start": 3997.44,
+   "end": 4002.8,
+   "text": "kidney compromise or any degree of"
+  },
+  {
+   "start": 3999.68,
+   "end": 4004.0,
+   "text": "injury or renal"
+  },
+  {
+   "start": 4002.8,
+   "end": 4006.32,
+   "text": "morbidity"
+  },
+  {
+   "start": 4004.0,
+   "end": 4007.68,
+   "text": "i do still use synthetic holloways just"
+  },
+  {
+   "start": 4006.32,
+   "end": 4009.84,
+   "text": "in moderation"
+  },
+  {
+   "start": 4007.68,
+   "end": 4012.0,
+   "text": "many of the human studies showing acute"
+  },
+  {
+   "start": 4009.84,
+   "end": 4013.84,
+   "text": "kidney injury using very high doses of"
+  },
+  {
+   "start": 4012.0,
+   "end": 4016.24,
+   "text": "synthetic colleagues and in small"
+  },
+  {
+   "start": 4013.84,
+   "end": 4019.28,
+   "text": "animals we typically will only use"
+  },
+  {
+   "start": 4016.24,
+   "end": 4022.56,
+   "text": "one mil per kilo per hour as a cri"
+  },
+  {
+   "start": 4019.28,
+   "end": 4025.2,
+   "text": "maybe 5 to 10 mils per kilo as a bolus"
+  },
+  {
+   "start": 4022.56,
+   "end": 4026.32,
+   "text": "and try not to exceed 20 mils per kilo"
+  },
+  {
+   "start": 4025.2,
+   "end": 4027.44,
+   "text": "per day"
+  },
+  {
+   "start": 4026.32,
+   "end": 4030.08,
+   "text": "of"
+  },
+  {
+   "start": 4027.44,
+   "end": 4032.48,
+   "text": "synthetic hydroxyethyl starches"
+  },
+  {
+   "start": 4030.08,
+   "end": 4035.12,
+   "text": "the tetra starches can probably be used"
+  },
+  {
+   "start": 4032.48,
+   "end": 4036.96,
+   "text": "up to even 40 ml per kilo per day"
+  },
+  {
+   "start": 4035.12,
+   "end": 4038.56,
+   "text": "uh but again there's ongoing studies i"
+  },
+  {
+   "start": 4036.96,
+   "end": 4041.44,
+   "text": "think the biggest and"
+  },
+  {
+   "start": 4038.56,
+   "end": 4043.12,
+   "text": "uh probably best quality study"
+  },
+  {
+   "start": 4041.44,
+   "end": 4045.44,
+   "text": "being is being done currently and we"
+  },
+  {
+   "start": 4043.12,
+   "end": 4047.44,
+   "text": "should have the results next year"
+  },
+  {
+   "start": 4045.44,
+   "end": 4049.92,
+   "text": "it was through one of the the grants"
+  },
+  {
+   "start": 4047.44,
+   "end": 4050.96,
+   "text": "that i hope with so i know about it and"
+  },
+  {
+   "start": 4049.92,
+   "end": 4053.12,
+   "text": "and hopefully we'll have more"
+  },
+  {
+   "start": 4050.96,
+   "end": 4055.12,
+   "text": "information about that soon"
+  },
+  {
+   "start": 4053.12,
+   "end": 4057.76,
+   "text": "the use of canine albumin or potentially"
+  },
+  {
+   "start": 4055.12,
+   "end": 4059.84,
+   "text": "human albumin uh is"
+  },
+  {
+   "start": 4057.76,
+   "end": 4061.44,
+   "text": "is something to entertain and it is a"
+  },
+  {
+   "start": 4059.84,
+   "end": 4063.6,
+   "text": "treatment that we use quite often in the"
+  },
+  {
+   "start": 4061.44,
+   "end": 4065.92,
+   "text": "icu where i work"
+  },
+  {
+   "start": 4063.6,
+   "end": 4068.48,
+   "text": "but it you have to remember that this is"
+  },
+  {
+   "start": 4065.92,
+   "end": 4070.96,
+   "text": "really for animals that have an albumin"
+  },
+  {
+   "start": 4068.48,
+   "end": 4073.84,
+   "text": "less than about one to one and a half"
+  },
+  {
+   "start": 4070.96,
+   "end": 4076.24,
+   "text": "and have continued ongoing losses"
+  },
+  {
+   "start": 4073.84,
+   "end": 4077.76,
+   "text": "and if you're going to use human albumin"
+  },
+  {
+   "start": 4076.24,
+   "end": 4079.84,
+   "text": "you want to make sure that the patient"
+  },
+  {
+   "start": 4077.76,
+   "end": 4081.76,
+   "text": "is also immunosuppressed"
+  },
+  {
+   "start": 4079.84,
+   "end": 4084.56,
+   "text": "to some degree because it does elicit"
+  },
+  {
+   "start": 4081.76,
+   "end": 4085.6,
+   "text": "quite an anti-antigenic response"
+  },
+  {
+   "start": 4084.56,
+   "end": 4088.16,
+   "text": "and"
+  },
+  {
+   "start": 4085.6,
+   "end": 4090.32,
+   "text": "we don't want animals to have either"
+  },
+  {
+   "start": 4088.16,
+   "end": 4092.48,
+   "text": "some type of immediate sensitivity or"
+  },
+  {
+   "start": 4090.32,
+   "end": 4094.56,
+   "text": "potentially a delayed hypersensitivity"
+  },
+  {
+   "start": 4092.48,
+   "end": 4096.96,
+   "text": "reaction which is quite common with a"
+  },
+  {
+   "start": 4094.56,
+   "end": 4099.28,
+   "text": "human product the canine product has a"
+  },
+  {
+   "start": 4096.96,
+   "end": 4101.44,
+   "text": "little less research behind it primarily"
+  },
+  {
+   "start": 4099.28,
+   "end": 4102.8,
+   "text": "because it has been intermittently"
+  },
+  {
+   "start": 4101.44,
+   "end": 4105.6,
+   "text": "available"
+  },
+  {
+   "start": 4102.8,
+   "end": 4108.56,
+   "text": "due to production problems and"
+  },
+  {
+   "start": 4105.6,
+   "end": 4110.24,
+   "text": "it is extremely expensive actually much"
+  },
+  {
+   "start": 4108.56,
+   "end": 4113.68,
+   "text": "much more expensive than the human"
+  },
+  {
+   "start": 4110.24,
+   "end": 4115.76,
+   "text": "product but there is uh there are some"
+  },
+  {
+   "start": 4113.68,
+   "end": 4118.8,
+   "text": "new manufacturing"
+  },
+  {
+   "start": 4115.76,
+   "end": 4120.8,
+   "text": "uh places that may lower the price a"
+  },
+  {
+   "start": 4118.8,
+   "end": 4122.72,
+   "text": "little bit in the future and hopefully"
+  },
+  {
+   "start": 4120.8,
+   "end": 4125.28,
+   "text": "within the next year or so there will be"
+  },
+  {
+   "start": 4122.72,
+   "end": 4127.04,
+   "text": "another company making canine albumin"
+  },
+  {
+   "start": 4125.28,
+   "end": 4128.0,
+   "text": "and that might help us as well with"
+  },
+  {
+   "start": 4127.04,
+   "end": 4130.56,
+   "text": "costs"
+  },
+  {
+   "start": 4128.0,
+   "end": 4133.36,
+   "text": "so i think either canine albumin or"
+  },
+  {
+   "start": 4130.56,
+   "end": 4135.6,
+   "text": "potentially synthetic colloids are"
+  },
+  {
+   "start": 4133.36,
+   "end": 4136.96,
+   "text": "probably the best way to deal with this"
+  },
+  {
+   "start": 4135.6,
+   "end": 4139.84,
+   "text": "i mentioned the dose for synthetic"
+  },
+  {
+   "start": 4136.96,
+   "end": 4142.48,
+   "text": "colloids with albumin we usually use one"
+  },
+  {
+   "start": 4139.84,
+   "end": 4144.96,
+   "text": "to two grams per kilo"
+  },
+  {
+   "start": 4142.48,
+   "end": 4148.16,
+   "text": "it's generally given as a cri after"
+  },
+  {
+   "start": 4144.96,
+   "end": 4150.56,
+   "text": "perhaps a small initial bolus over 10 or"
+  },
+  {
+   "start": 4148.16,
+   "end": 4153.36,
+   "text": "more hours so it's it's a very potent"
+  },
+  {
+   "start": 4150.56,
+   "end": 4154.8,
+   "text": "colloid uh it's it's a decent volume so"
+  },
+  {
+   "start": 4153.36,
+   "end": 4156.24,
+   "text": "we don't want to"
+  },
+  {
+   "start": 4154.8,
+   "end": 4158.72,
+   "text": "cause volume overload with these"
+  },
+  {
+   "start": 4156.24,
+   "end": 4160.64,
+   "text": "products it's one of the big concerns we"
+  },
+  {
+   "start": 4158.72,
+   "end": 4162.64,
+   "text": "have when administering it"
+  },
+  {
+   "start": 4160.64,
+   "end": 4164.48,
+   "text": "i'm happy to talk more give more"
+  },
+  {
+   "start": 4162.64,
+   "end": 4166.72,
+   "text": "information by email"
+  },
+  {
+   "start": 4164.48,
+   "end": 4168.96,
+   "text": "because there is a lot of information to"
+  },
+  {
+   "start": 4166.72,
+   "end": 4170.08,
+   "text": "go over with synthetic colloids or"
+  },
+  {
+   "start": 4168.96,
+   "end": 4171.92,
+   "text": "albumins"
+  },
+  {
+   "start": 4170.08,
+   "end": 4174.72,
+   "text": "there's also been a more recent paper"
+  },
+  {
+   "start": 4171.92,
+   "end": 4177.04,
+   "text": "showing that the use of cryo-poor plasma"
+  },
+  {
+   "start": 4174.72,
+   "end": 4179.92,
+   "text": "or potentially even frozen plasma can"
+  },
+  {
+   "start": 4177.04,
+   "end": 4181.92,
+   "text": "provide a good source of albumin in dogs"
+  },
+  {
+   "start": 4179.92,
+   "end": 4184.24,
+   "text": "that don't necessarily need coagulation"
+  },
+  {
+   "start": 4181.92,
+   "end": 4186.16,
+   "text": "factors obviously the volume of these"
+  },
+  {
+   "start": 4184.24,
+   "end": 4189.92,
+   "text": "products is quite large so they have to"
+  },
+  {
+   "start": 4186.16,
+   "end": 4191.12,
+   "text": "be fluid tolerant generally we we guess"
+  },
+  {
+   "start": 4189.92,
+   "end": 4193.76,
+   "text": "that about"
+  },
+  {
+   "start": 4191.12,
+   "end": 4195.84,
+   "text": "40 to 45 mils per kilo"
+  },
+  {
+   "start": 4193.76,
+   "end": 4198.24,
+   "text": "of plasma is necessary to raise the"
+  },
+  {
+   "start": 4195.84,
+   "end": 4200.88,
+   "text": "albumin between half and one gram per"
+  },
+  {
+   "start": 4198.24,
+   "end": 4204.72,
+   "text": "deciliter so again that can be quite"
+  },
+  {
+   "start": 4200.88,
+   "end": 4207.44,
+   "text": "expensive but it may be a practical way"
+  },
+  {
+   "start": 4204.72,
+   "end": 4208.32,
+   "text": "to increase albumen safely in animals"
+  },
+  {
+   "start": 4207.44,
+   "end": 4210.32,
+   "text": "that"
+  },
+  {
+   "start": 4208.32,
+   "end": 4212.96,
+   "text": "are hypoallopunemic especially very"
+  },
+  {
+   "start": 4210.32,
+   "end": 4215.36,
+   "text": "small animals this can be not too cost"
+  },
+  {
+   "start": 4212.96,
+   "end": 4216.84,
+   "text": "prohibitive if they have a coagulopathy"
+  },
+  {
+   "start": 4215.36,
+   "end": 4219.44,
+   "text": "and hypoalbumin"
+  },
+  {
+   "start": 4216.84,
+   "end": 4221.84,
+   "text": "hypoalbuminemia obviously fresh frozen"
+  },
+  {
+   "start": 4219.44,
+   "end": 4224.08,
+   "text": "plasma might be indicated but again"
+  },
+  {
+   "start": 4221.84,
+   "end": 4225.92,
+   "text": "plasma by itself is not a very efficient"
+  },
+  {
+   "start": 4224.08,
+   "end": 4228.24,
+   "text": "way to increase oncotic pressure or"
+  },
+  {
+   "start": 4225.92,
+   "end": 4230.4,
+   "text": "albumin but it can be used in select"
+  },
+  {
+   "start": 4228.24,
+   "end": 4233.12,
+   "text": "circumstances"
+  },
+  {
+   "start": 4230.4,
+   "end": 4235.28,
+   "text": "so the the next question is do you ever"
+  },
+  {
+   "start": 4233.12,
+   "end": 4237.28,
+   "text": "use cri antibiotics in your septic"
+  },
+  {
+   "start": 4235.28,
+   "end": 4239.6,
+   "text": "patient this is a great question and"
+  },
+  {
+   "start": 4237.28,
+   "end": 4242.16,
+   "text": "there's now good evidence at least in"
+  },
+  {
+   "start": 4239.6,
+   "end": 4245.04,
+   "text": "dogs to support the fact that a cri of"
+  },
+  {
+   "start": 4242.16,
+   "end": 4246.24,
+   "text": "the time dependent antibiotics is"
+  },
+  {
+   "start": 4245.04,
+   "end": 4249.44,
+   "text": "probably"
+  },
+  {
+   "start": 4246.24,
+   "end": 4251.28,
+   "text": "superior to intermittent dosing and it's"
+  },
+  {
+   "start": 4249.44,
+   "end": 4252.96,
+   "text": "really just a matter of getting the"
+  },
+  {
+   "start": 4251.28,
+   "end": 4254.16,
+   "text": "therapeutic level in the bloodstream"
+  },
+  {
+   "start": 4252.96,
+   "end": 4256.16,
+   "text": "maintained"
+  },
+  {
+   "start": 4254.16,
+   "end": 4257.68,
+   "text": "throughout a 24-hour period so there's"
+  },
+  {
+   "start": 4256.16,
+   "end": 4260.48,
+   "text": "not a chance for the"
+  },
+  {
+   "start": 4257.68,
+   "end": 4262.72,
+   "text": "bugs to to replicate"
+  },
+  {
+   "start": 4260.48,
+   "end": 4264.88,
+   "text": "and both human and and veterinary"
+  },
+  {
+   "start": 4262.72,
+   "end": 4266.96,
+   "text": "evidence are are in strong support of"
+  },
+  {
+   "start": 4264.88,
+   "end": 4268.56,
+   "text": "doing this i think sometimes it can be"
+  },
+  {
+   "start": 4266.96,
+   "end": 4270.24,
+   "text": "as much of a management problem as"
+  },
+  {
+   "start": 4268.56,
+   "end": 4272.16,
+   "text": "anything especially if we're using"
+  },
+  {
+   "start": 4270.24,
+   "end": 4274.0,
+   "text": "antibiotics that don't play nicely with"
+  },
+  {
+   "start": 4272.16,
+   "end": 4277.2,
+   "text": "other drugs such as"
+  },
+  {
+   "start": 4274.0,
+   "end": 4280.16,
+   "text": "zosin paper xylene and azobactam which"
+  },
+  {
+   "start": 4277.2,
+   "end": 4281.68,
+   "text": "is a commonly used antibiotic as a as a"
+  },
+  {
+   "start": 4280.16,
+   "end": 4283.36,
+   "text": "cri"
+  },
+  {
+   "start": 4281.68,
+   "end": 4285.6,
+   "text": "but for for"
+  },
+  {
+   "start": 4283.36,
+   "end": 4287.6,
+   "text": "especially penicillins most likely even"
+  },
+  {
+   "start": 4285.6,
+   "end": 4290.24,
+   "text": "cephalosporins"
+  },
+  {
+   "start": 4287.6,
+   "end": 4292.56,
+   "text": "and others it has been shown that cris"
+  },
+  {
+   "start": 4290.24,
+   "end": 4293.92,
+   "text": "may be superior i think more evidence"
+  },
+  {
+   "start": 4292.56,
+   "end": 4295.44,
+   "text": "will be available in the future that"
+  },
+  {
+   "start": 4293.92,
+   "end": 4297.44,
+   "text": "might help guide us"
+  },
+  {
+   "start": 4295.44,
+   "end": 4299.12,
+   "text": "but for now there has been some good"
+  },
+  {
+   "start": 4297.44,
+   "end": 4301.52,
+   "text": "studies on penicillins primarily"
+  },
+  {
+   "start": 4299.12,
+   "end": 4303.52,
+   "text": "extended spectrum penicillins"
+  },
+  {
+   "start": 4301.52,
+   "end": 4306.48,
+   "text": "in small animals with sepsis so great"
+  },
+  {
+   "start": 4303.52,
+   "end": 4308.96,
+   "text": "that's a great question"
+  },
+  {
+   "start": 4306.48,
+   "end": 4311.6,
+   "text": "the next question is"
+  },
+  {
+   "start": 4308.96,
+   "end": 4313.84,
+   "text": "with our septic patient we often see"
+  },
+  {
+   "start": 4311.6,
+   "end": 4316.48,
+   "text": "issues with thermoregulation usually"
+  },
+  {
+   "start": 4313.84,
+   "end": 4318.96,
+   "text": "they end up too low we give warm iv"
+  },
+  {
+   "start": 4316.48,
+   "end": 4320.8,
+   "text": "fluids and provide warm bedding etc are"
+  },
+  {
+   "start": 4318.96,
+   "end": 4323.44,
+   "text": "there absolute temperatures we should be"
+  },
+  {
+   "start": 4320.8,
+   "end": 4326.0,
+   "text": "trying to achieve for instance post-op"
+  },
+  {
+   "start": 4323.44,
+   "end": 4328.56,
+   "text": "pyometra almost always have around 98"
+  },
+  {
+   "start": 4326.0,
+   "end": 4330.96,
+   "text": "but clinically are doing well well that"
+  },
+  {
+   "start": 4328.56,
+   "end": 4333.76,
+   "text": "that's also a an interesting question i"
+  },
+  {
+   "start": 4330.96,
+   "end": 4335.68,
+   "text": "think we do want to try and keep them as"
+  },
+  {
+   "start": 4333.76,
+   "end": 4338.16,
+   "text": "close to normal as possible"
+  },
+  {
+   "start": 4335.68,
+   "end": 4340.32,
+   "text": "in some animals that are azotemic it's"
+  },
+  {
+   "start": 4338.16,
+   "end": 4341.76,
+   "text": "important to remember that their"
+  },
+  {
+   "start": 4340.32,
+   "end": 4344.48,
+   "text": "set point"
+  },
+  {
+   "start": 4341.76,
+   "end": 4347.44,
+   "text": "tends to be lower than normal animals"
+  },
+  {
+   "start": 4344.48,
+   "end": 4350.4,
+   "text": "without isotemia so they typically do"
+  },
+  {
+   "start": 4347.44,
+   "end": 4352.8,
+   "text": "want to hover around 98 99 degrees and"
+  },
+  {
+   "start": 4350.4,
+   "end": 4355.04,
+   "text": "they will be still hot if we try to warm"
+  },
+  {
+   "start": 4352.8,
+   "end": 4357.2,
+   "text": "them much above that"
+  },
+  {
+   "start": 4355.04,
+   "end": 4359.6,
+   "text": "but for animals suffering with sepsis"
+  },
+  {
+   "start": 4357.2,
+   "end": 4362.16,
+   "text": "that are hypothermic i do think"
+  },
+  {
+   "start": 4359.6,
+   "end": 4363.6,
+   "text": "continuing with"
+  },
+  {
+   "start": 4362.16,
+   "end": 4366.72,
+   "text": "aggressive"
+  },
+  {
+   "start": 4363.6,
+   "end": 4368.8,
+   "text": "warming is important we obviously don't"
+  },
+  {
+   "start": 4366.72,
+   "end": 4371.76,
+   "text": "want to make them"
+  },
+  {
+   "start": 4368.8,
+   "end": 4374.16,
+   "text": "their temperature go above normal but i"
+  },
+  {
+   "start": 4371.76,
+   "end": 4377.52,
+   "text": "think 98 is probably a little too low if"
+  },
+  {
+   "start": 4374.16,
+   "end": 4379.76,
+   "text": "they're not asateemic um and and"
+  },
+  {
+   "start": 4377.52,
+   "end": 4381.28,
+   "text": "probably somewhere between 99 and 100"
+  },
+  {
+   "start": 4379.76,
+   "end": 4383.12,
+   "text": "would be ideal"
+  },
+  {
+   "start": 4381.28,
+   "end": 4385.28,
+   "text": "um if we increase the temperature too"
+  },
+  {
+   "start": 4383.12,
+   "end": 4388.08,
+   "text": "much that can obviously cause"
+  },
+  {
+   "start": 4385.28,
+   "end": 4389.92,
+   "text": "increases in oxygen consumption in an"
+  },
+  {
+   "start": 4388.08,
+   "end": 4391.6,
+   "text": "attempt to get rid of heat things like"
+  },
+  {
+   "start": 4389.92,
+   "end": 4393.44,
+   "text": "shivering"
+  },
+  {
+   "start": 4391.6,
+   "end": 4395.28,
+   "text": "so probably trying to just keep it in"
+  },
+  {
+   "start": 4393.44,
+   "end": 4397.44,
+   "text": "the normal range is best and i i do"
+  },
+  {
+   "start": 4395.28,
+   "end": 4400.0,
+   "text": "realize that can be difficult sometimes"
+  },
+  {
+   "start": 4397.44,
+   "end": 4401.92,
+   "text": "i think circulating warm air around them"
+  },
+  {
+   "start": 4400.0,
+   "end": 4404.64,
+   "text": "with some sort of blanket or comforter"
+  },
+  {
+   "start": 4401.92,
+   "end": 4407.6,
+   "text": "over the warm air that's circulating"
+  },
+  {
+   "start": 4404.64,
+   "end": 4411.12,
+   "text": "is often the most successful in addition"
+  },
+  {
+   "start": 4407.6,
+   "end": 4413.28,
+   "text": "to using the warm iv fluids"
+  },
+  {
+   "start": 4411.12,
+   "end": 4414.88,
+   "text": "thank you for that question"
+  },
+  {
+   "start": 4413.28,
+   "end": 4415.92,
+   "text": "uh the next question i have is in the"
+  },
+  {
+   "start": 4414.88,
+   "end": 4418.32,
+   "text": "practice"
+  },
+  {
+   "start": 4415.92,
+   "end": 4420.08,
+   "text": "where i work we use component therapy"
+  },
+  {
+   "start": 4418.32,
+   "end": 4422.4,
+   "text": "and plasma is preferred to synthetic"
+  },
+  {
+   "start": 4420.08,
+   "end": 4424.56,
+   "text": "colloids would you choose plasma over"
+  },
+  {
+   "start": 4422.4,
+   "end": 4427.52,
+   "text": "synthetic colloidal readily and they'll"
+  },
+  {
+   "start": 4424.56,
+   "end": 4429.6,
+   "text": "available and this includes cryopore"
+  },
+  {
+   "start": 4427.52,
+   "end": 4431.84,
+   "text": "um i touched upon that just a little bit"
+  },
+  {
+   "start": 4429.6,
+   "end": 4433.68,
+   "text": "and i think that"
+  },
+  {
+   "start": 4431.84,
+   "end": 4434.56,
+   "text": "you have to weigh the pros and cons of"
+  },
+  {
+   "start": 4433.68,
+   "end": 4436.8,
+   "text": "both"
+  },
+  {
+   "start": 4434.56,
+   "end": 4438.24,
+   "text": "um obviously with synthetic colloids we"
+  },
+  {
+   "start": 4436.8,
+   "end": 4441.2,
+   "text": "worry about"
+  },
+  {
+   "start": 4438.24,
+   "end": 4443.28,
+   "text": "coagulation as well as the potential for"
+  },
+  {
+   "start": 4441.2,
+   "end": 4444.16,
+   "text": "acute kidney injury but i consider that"
+  },
+  {
+   "start": 4443.28,
+   "end": 4446.32,
+   "text": "to be"
+  },
+  {
+   "start": 4444.16,
+   "end": 4449.36,
+   "text": "not common and not fully proven at this"
+  },
+  {
+   "start": 4446.32,
+   "end": 4451.2,
+   "text": "point but if an animal is aseptic or has"
+  },
+  {
+   "start": 4449.36,
+   "end": 4453.44,
+   "text": "any evidence of acute kidney injury"
+  },
+  {
+   "start": 4451.2,
+   "end": 4454.48,
+   "text": "which may be as simple as a very mild"
+  },
+  {
+   "start": 4453.44,
+   "end": 4456.56,
+   "text": "elevation"
+  },
+  {
+   "start": 4454.48,
+   "end": 4458.48,
+   "text": "in creatinine within the normal range so"
+  },
+  {
+   "start": 4456.56,
+   "end": 4461.2,
+   "text": "maybe they come in at 0.4 and they"
+  },
+  {
+   "start": 4458.48,
+   "end": 4462.8,
+   "text": "increase to 0.7 to me that indicates a"
+  },
+  {
+   "start": 4461.2,
+   "end": 4465.68,
+   "text": "potential problem assuming they're not"
+  },
+  {
+   "start": 4462.8,
+   "end": 4467.44,
+   "text": "volume deplete so if there's any risk of"
+  },
+  {
+   "start": 4465.68,
+   "end": 4470.0,
+   "text": "using synthetic colleagues i will"
+  },
+  {
+   "start": 4467.44,
+   "end": 4472.56,
+   "text": "definitely re reach for either"
+  },
+  {
+   "start": 4470.0,
+   "end": 4474.48,
+   "text": "a natural colloid uh in the form of"
+  },
+  {
+   "start": 4472.56,
+   "end": 4477.52,
+   "text": "plasma or potentially"
+  },
+  {
+   "start": 4474.48,
+   "end": 4480.08,
+   "text": "uh albumin concentrated albumin but"
+  },
+  {
+   "start": 4477.52,
+   "end": 4483.28,
+   "text": "again the the oncotic pressure"
+  },
+  {
+   "start": 4480.08,
+   "end": 4485.12,
+   "text": "of something like albumin is is going to"
+  },
+  {
+   "start": 4483.28,
+   "end": 4487.76,
+   "text": "be close to"
+  },
+  {
+   "start": 4485.12,
+   "end": 4489.84,
+   "text": "20 which is the normal dog so if we're"
+  },
+  {
+   "start": 4487.76,
+   "end": 4492.24,
+   "text": "talking about trying to really increase"
+  },
+  {
+   "start": 4489.84,
+   "end": 4495.04,
+   "text": "oncotic pressure then a synthetic"
+  },
+  {
+   "start": 4492.24,
+   "end": 4497.76,
+   "text": "colloid or concentrated albumin would be"
+  },
+  {
+   "start": 4495.04,
+   "end": 4499.36,
+   "text": "far more effective with smaller volumes"
+  },
+  {
+   "start": 4497.76,
+   "end": 4503.12,
+   "text": "and less cost"
+  },
+  {
+   "start": 4499.36,
+   "end": 4504.96,
+   "text": "if our our goal is to increase the"
+  },
+  {
+   "start": 4503.12,
+   "end": 4507.36,
+   "text": "albumin then obviously giving"
+  },
+  {
+   "start": 4504.96,
+   "end": 4509.12,
+   "text": "concentrated albumin or potentially a"
+  },
+  {
+   "start": 4507.36,
+   "end": 4511.12,
+   "text": "synthetic colloid"
+  },
+  {
+   "start": 4509.12,
+   "end": 4513.84,
+   "text": "would be indicated it just takes a lot"
+  },
+  {
+   "start": 4511.12,
+   "end": 4516.0,
+   "text": "i'm sorry or plasma would be indicated"
+  },
+  {
+   "start": 4513.84,
+   "end": 4519.28,
+   "text": "but it does take a lot of blood products"
+  },
+  {
+   "start": 4516.0,
+   "end": 4522.0,
+   "text": "to get the albumen up uh and so"
+  },
+  {
+   "start": 4519.28,
+   "end": 4524.2,
+   "text": "cost aside the other consideration is"
+  },
+  {
+   "start": 4522.0,
+   "end": 4525.92,
+   "text": "that many of these animals are"
+  },
+  {
+   "start": 4524.2,
+   "end": 4528.8,
+   "text": "hypercoagulable"
+  },
+  {
+   "start": 4525.92,
+   "end": 4531.76,
+   "text": "and when we give plasma products even"
+  },
+  {
+   "start": 4528.8,
+   "end": 4534.32,
+   "text": "cryopore or or frozen plasma that's more"
+  },
+  {
+   "start": 4531.76,
+   "end": 4537.12,
+   "text": "than a year old those products still do"
+  },
+  {
+   "start": 4534.32,
+   "end": 4539.92,
+   "text": "have some of the non-labial clotting"
+  },
+  {
+   "start": 4537.12,
+   "end": 4542.48,
+   "text": "factors and we may increase clotting"
+  },
+  {
+   "start": 4539.92,
+   "end": 4544.8,
+   "text": "factors in these patients or potentially"
+  },
+  {
+   "start": 4542.48,
+   "end": 4546.72,
+   "text": "fuel the fire of intravascular"
+  },
+  {
+   "start": 4544.8,
+   "end": 4549.36,
+   "text": "coagulation"
+  },
+  {
+   "start": 4546.72,
+   "end": 4550.64,
+   "text": "such that we contribute to"
+  },
+  {
+   "start": 4549.36,
+   "end": 4552.8,
+   "text": "dic"
+  },
+  {
+   "start": 4550.64,
+   "end": 4554.32,
+   "text": "and inappropriate thrombosis in the"
+  },
+  {
+   "start": 4552.8,
+   "end": 4555.76,
+   "text": "vascular system"
+  },
+  {
+   "start": 4554.32,
+   "end": 4558.08,
+   "text": "so i think"
+  },
+  {
+   "start": 4555.76,
+   "end": 4560.64,
+   "text": "it's not necessarily a reason to not use"
+  },
+  {
+   "start": 4558.08,
+   "end": 4562.56,
+   "text": "it unless you already have proof of of"
+  },
+  {
+   "start": 4560.64,
+   "end": 4564.4,
+   "text": "intravascular coagulation and a"
+  },
+  {
+   "start": 4562.56,
+   "end": 4566.32,
+   "text": "hyperflaggable state"
+  },
+  {
+   "start": 4564.4,
+   "end": 4567.76,
+   "text": "which in and of itself can be difficult"
+  },
+  {
+   "start": 4566.32,
+   "end": 4570.88,
+   "text": "to diagnose"
+  },
+  {
+   "start": 4567.76,
+   "end": 4573.28,
+   "text": "but i think the cost factor the volume"
+  },
+  {
+   "start": 4570.88,
+   "end": 4575.84,
+   "text": "and using what are sometimes precious"
+  },
+  {
+   "start": 4573.28,
+   "end": 4577.68,
+   "text": "resources should be taken into account"
+  },
+  {
+   "start": 4575.84,
+   "end": 4580.08,
+   "text": "when comparing plasma to maybe"
+  },
+  {
+   "start": 4577.68,
+   "end": 4581.2,
+   "text": "concentrated albumin so if money is not"
+  },
+  {
+   "start": 4580.08,
+   "end": 4583.44,
+   "text": "an issue"
+  },
+  {
+   "start": 4581.2,
+   "end": 4586.4,
+   "text": "i would consider canine albumin if it's"
+  },
+  {
+   "start": 4583.44,
+   "end": 4589.6,
+   "text": "available for just increasing oncotic"
+  },
+  {
+   "start": 4586.4,
+   "end": 4592.48,
+   "text": "pressure and albumin as opposed to using"
+  },
+  {
+   "start": 4589.6,
+   "end": 4594.4,
+   "text": "up the the plasma supply"
+  },
+  {
+   "start": 4592.48,
+   "end": 4596.0,
+   "text": "if the patient is coagulopathic then i"
+  },
+  {
+   "start": 4594.4,
+   "end": 4598.48,
+   "text": "think it makes sense to just give large"
+  },
+  {
+   "start": 4596.0,
+   "end": 4601.28,
+   "text": "volumes volumes of albumin"
+  },
+  {
+   "start": 4598.48,
+   "end": 4603.44,
+   "text": "uh rather than concentrated elements so"
+  },
+  {
+   "start": 4601.28,
+   "end": 4605.04,
+   "text": "that you can treat the albumin as well"
+  },
+  {
+   "start": 4603.44,
+   "end": 4607.04,
+   "text": "as treating the the clotting"
+  },
+  {
+   "start": 4605.04,
+   "end": 4608.88,
+   "text": "deficiencies"
+  },
+  {
+   "start": 4607.04,
+   "end": 4611.92,
+   "text": "so i think it depends a lot on the"
+  },
+  {
+   "start": 4608.88,
+   "end": 4614.24,
+   "text": "patient the resources the finances"
+  },
+  {
+   "start": 4611.92,
+   "end": 4617.68,
+   "text": "as well as coexisting abnormalities such"
+  },
+  {
+   "start": 4614.24,
+   "end": 4617.68,
+   "text": "as coagulation abnormalities"
+  },
+  {
+   "start": 4618.24,
+   "end": 4622.08,
+   "text": "i'm looking for"
+  },
+  {
+   "start": 4620.0,
+   "end": 4624.24,
+   "text": "other questions at this point if anybody"
+  },
+  {
+   "start": 4622.08,
+   "end": 4626.88,
+   "text": "has them those are all great questions i"
+  },
+  {
+   "start": 4624.24,
+   "end": 4626.88,
+   "text": "appreciate it"
+  },
+  {
+   "start": 4628.56,
+   "end": 4632.8,
+   "text": "i i don't see any right now if any of"
+  },
+  {
+   "start": 4631.36,
+   "end": 4634.84,
+   "text": "you want to ask"
+  },
+  {
+   "start": 4632.8,
+   "end": 4637.36,
+   "text": "more detail about the ones you've"
+  },
+  {
+   "start": 4634.84,
+   "end": 4638.8,
+   "text": "already asked i'm happy to answer them i"
+  },
+  {
+   "start": 4637.36,
+   "end": 4643.32,
+   "text": "didn't need to rush through them but we"
+  },
+  {
+   "start": 4638.8,
+   "end": 4643.32,
+   "text": "do have a few more minutes here"
+  },
+  {
+   "start": 4661.68,
+   "end": 4667.12,
+   "text": "okay i see a couple people saying thank"
+  },
+  {
+   "start": 4664.64,
+   "end": 4669.52,
+   "text": "you so i i'd like to say you're you're"
+  },
+  {
+   "start": 4667.12,
+   "end": 4671.2,
+   "text": "very welcome and it it's my pleasure i'm"
+  },
+  {
+   "start": 4669.52,
+   "end": 4672.88,
+   "text": "always happy to talk about subjects that"
+  },
+  {
+   "start": 4671.2,
+   "end": 4675.52,
+   "text": "are near and dear to my heart"
+  },
+  {
+   "start": 4672.88,
+   "end": 4677.44,
+   "text": "um if you have any follow up questions"
+  },
+  {
+   "start": 4675.52,
+   "end": 4680.16,
+   "text": "please contact either the nova"
+  },
+  {
+   "start": 4677.44,
+   "end": 4681.6,
+   "text": "representatives or or you can email me i"
+  },
+  {
+   "start": 4680.16,
+   "end": 4684.08,
+   "text": "believe my email"
+  },
+  {
+   "start": 4681.6,
+   "end": 4686.16,
+   "text": "information was on the first slide"
+  },
+  {
+   "start": 4684.08,
+   "end": 4687.92,
+   "text": "uh for the presentation"
+  },
+  {
+   "start": 4686.16,
+   "end": 4690.32,
+   "text": "so thank you all and and i hope you have"
+  },
+  {
+   "start": 4687.92,
+   "end": 4693.76,
+   "text": "a good night and and that your septic"
+  },
+  {
+   "start": 4690.32,
+   "end": 4695.36,
+   "text": "patients perhaps benefit from your any"
+  },
+  {
+   "start": 4693.76,
+   "end": 4696.72,
+   "text": "knowledge you might have gained during"
+  },
+  {
+   "start": 4695.36,
+   "end": 4701.24,
+   "text": "the past hour"
+  },
+  {
+   "start": 4696.72,
+   "end": 4701.24,
+   "text": "thanks so much and and take care"
+  },
+  {
+   "start": 4887.12,
+   "end": 4889.2,
+   "text": "you"
+  }
+ ]
+}
