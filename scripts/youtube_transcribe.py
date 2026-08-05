@@ -31,10 +31,12 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import os
 import shutil
 import subprocess
 import sys
 import tempfile
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -56,6 +58,48 @@ DOMAIN_PROMPT = (
 
 def log(msg: str) -> None:
     print(f"  {msg}", flush=True)
+
+
+# ------------------------------------------- captions via transcript API
+def fetch_via_api(video_id: str, vocab: set[str], key: str) -> list[dict] | None:
+    """youtubetranscriptdownload.com — a hosted proxy for YouTube's caption feed.
+
+    Worth having as the FIRST option because it works from IPs YouTube blocks
+    outright (CI runners, cloud shells, anywhere the direct caption endpoints
+    return IpBlocked). It costs one credit per successful video; videos without
+    captions fail for free and fall through to the next method.
+
+    Set YTD_API_KEY in the environment. Results are cached on disk, so a video is
+    never fetched - or charged - twice.
+    """
+    import urllib.error
+    import urllib.request
+
+    url = f"https://youtubetranscriptdownload.com/api/v1/transcript?videoId={video_id}"
+    req = urllib.request.Request(url, headers={"Authorization": f"Bearer {key}"})
+    try:
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+    except urllib.error.HTTPError as exc:
+        if exc.code == 402:
+            log("! transcript API credits exhausted — falling back")
+        elif exc.code == 429:
+            time.sleep(10)
+            return fetch_via_api(video_id, vocab, key)
+        return None                      # 403/404 = no captions, charged nothing
+    except Exception:
+        return None
+
+    cues = []
+    for seg in data.get("transcript") or []:
+        text = (seg.get("text") or "").strip()
+        if not text or text.startswith("["):
+            continue
+        start = float(seg.get("start", 0)) / 1000.0        # API returns ms
+        dur = float(seg.get("duration", 0)) / 1000.0
+        cues.append({"start": round(start, 2), "end": round(start + dur, 2),
+                     "text": correct(" ".join(text.split()), vocab)})
+    return cues or None
 
 
 # ---------------------------------------------------- captions (fast path)
@@ -267,10 +311,18 @@ def main() -> int:
 
             # Captions first: instant, free, and enough to make the citation
             # seek to the right second.
-            cues = None if args.no_captions else fetch_captions(vid, vocab)
+            api_key = os.environ.get("YTD_API_KEY", "").strip()
+            cues = None
+            if not args.no_captions:
+                if api_key:
+                    cues = fetch_via_api(vid, vocab, api_key)
+                    if cues:
+                        time.sleep(2.2)          # 5 requests / 10 s
+                if not cues:
+                    cues = fetch_captions(vid, vocab)
             if cues:
                 (TRANSCRIPTS / f"{vid}.json").write_text(json.dumps({
-                    "video_id": vid, "model": "youtube/captions",
+                    "video_id": vid, "model": "youtube/captions" if not os.environ.get("YTD_API_KEY") else "youtube/captions (transcript API)",
                     "transcribed_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
                     "cue_count": len(cues), "cues": cues,
                 }, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
