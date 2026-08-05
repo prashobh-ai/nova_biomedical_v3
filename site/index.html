@@ -100,14 +100,27 @@
       <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M19 12l-7 7-7-7"/></svg>
     </div>
 
-    <div id="galaxy" class="hero-galaxy"></div>
+    <!-- The graph is the point of this section, so it is a panel with its own
+         frame and space - not a wash behind the copy. Overlays live inside the
+         stage so they anchor to the graph rather than to the whole viewport. -->
+    <div class="hero-stage">
+      <div id="galaxy" class="hero-galaxy"></div>
+
+      <div class="graph-controls" id="graph-controls" aria-label="Graph controls"></div>
+
+      <div class="graph-legend" aria-hidden="true">
+        <span><i class="lg lg-active"></i>cited in this answer</span>
+        <span><i class="lg lg-related"></i>directly connected</span>
+        <span><i class="lg lg-base"></i>rest of the corpus</span>
+      </div>
+
+      <div class="graph-hint" id="graph-hint">Hover a node to name it · click to open it</div>
 
     <!-- Galaxy detail card (entity / chunk) — overlay -->
     <div class="galaxy-detail" id="galaxy-detail" hidden>
       <button class="detail-close" id="galaxy-detail-close" aria-label="Close">×</button>
       <div id="galaxy-detail-body"></div>
     </div>
-
     <!-- Inline status overlay -->
     <!-- One chip, two states. At rest it states what the graph IS; while an
          answer is live it states what the graph DID. Same position, same
@@ -117,7 +130,9 @@
       <span class="hero-status-text" id="galaxy-status">indexing…</span>
       <span class="retrieval-badge" id="retrieval-mode-badge" data-mode="lexical" title="Retrieval mode">lexical · bm25</span>
     </div>
-  </section>
+  
+    </div>
+</section>
 
   <!-- ============================================================
        SECTION 2 — LIVE ANSWER (the answer + citations + confidence)
@@ -186,6 +201,11 @@
   <!-- What the graph contributed to THIS answer -->
   <div class="graph-value-wrap" id="graph-value-wrap" hidden></div>
 
+  <!-- Watch the source. Shown whenever an answer cites a video: a page number is
+       the wrong address for spoken evidence, so the player is embedded and seeks
+       to the exact second the sentence was said. -->
+  <div class="video-sources-wrap" id="video-sources-wrap" hidden></div>
+
   <section class="story-section explain-section" id="section-explain">
     <div class="story-head">
       <span class="story-eyebrow">Section 03 · Explainability</span>
@@ -223,7 +243,7 @@
         <header class="explain-panel-head">
           <span class="explain-panel-eyebrow">Trust Pillars</span>
         </header>
-        <div class="pillars-list">
+        <div class="pillars-list pillars-grid">
           <div class="pillar">
             <span class="pillar-num">01</span>
             <div class="pillar-body">
