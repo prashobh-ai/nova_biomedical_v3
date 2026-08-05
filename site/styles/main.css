@@ -4242,3 +4242,412 @@ summary:focus-visible, [tabindex]:focus-visible {
 }
 .cite-ref .cite-mark-doc { color: currentColor; opacity: .85; }
 .cite-ref.is-video { white-space: nowrap; }
+
+/* ==========================================================================
+   UI polish — density, motion, graph legibility
+   ========================================================================== */
+
+/* --- Trust Pillars: four short claims, not four paragraphs -----------------
+   Section 03 was running long because the pillars stacked full-width with a
+   sub-line each. They are supporting evidence for the lineage panel beside
+   them, so they get a 2x2 grid and tighter type. Same four claims, roughly
+   half the vertical space. */
+.pillars-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: .55rem;
+}
+.pillars-grid .pillar {
+  display: flex;
+  gap: .55rem;
+  align-items: flex-start;
+  padding: .6rem .7rem;
+  border: 1px solid rgba(255, 255, 255, .08);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, .025);
+  transition: border-color .25s ease, background .25s ease, transform .25s ease;
+}
+.pillars-grid .pillar:hover {
+  border-color: rgba(244, 63, 122, .38);
+  background: rgba(255, 255, 255, .05);
+  transform: translateY(-2px);
+}
+.pillars-grid .pillar-num {
+  font-size: .74rem;
+  font-variant-numeric: tabular-nums;
+  opacity: .45;
+  padding-top: .1rem;
+}
+.pillars-grid .pillar-title {
+  font-size: .84rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+.pillars-grid .pillar-sub {
+  font-size: .74rem;
+  line-height: 1.4;
+  opacity: .68;
+  margin-top: .15rem;
+}
+@media (max-width: 720px) {
+  .pillars-grid { grid-template-columns: 1fr; }
+}
+
+/* --- Reveal on scroll -----------------------------------------------------
+   Short travel, one easing, runs once. Anything longer reads as a page that is
+   pleased with itself rather than one that is confident. */
+.will-reveal {
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity .6s cubic-bezier(.22, .61, .36, 1),
+              transform .6s cubic-bezier(.22, .61, .36, 1);
+  will-change: opacity, transform;
+}
+.will-reveal.is-revealed {
+  opacity: 1;
+  transform: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .will-reveal { opacity: 1; transform: none; transition: none; }
+}
+
+/* --- Interactive lift on cards -------------------------------------------- */
+.metric-card, .insight-card, .video-source, .risk-card {
+  transition: transform .28s cubic-bezier(.22, .61, .36, 1),
+              box-shadow .28s ease, border-color .28s ease;
+}
+.metric-card:hover, .insight-card:hover, .risk-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 28px -14px rgba(0, 0, 0, .65);
+}
+.video-source:hover .video-source-frame {
+  border-color: rgba(244, 63, 122, .45);
+}
+.cite-ref {
+  transition: color .18s ease, transform .18s ease;
+}
+.cite-ref:hover {
+  transform: translateY(-1px);
+  cursor: pointer;
+}
+
+/* --- Graph controls -------------------------------------------------------
+   Sit over the hero graph, bottom-right, out of the way of the question box. */
+.graph-controls {
+  position: absolute;
+  right: 1.1rem;
+  bottom: 1.1rem;
+  z-index: 6;
+  display: flex;
+  gap: .35rem;
+  align-items: center;
+}
+.gctl {
+  width: 2rem;
+  height: 2rem;
+  display: grid;
+  place-items: center;
+  font-size: .95rem;
+  line-height: 1;
+  color: rgba(255, 255, 255, .82);
+  background: rgba(18, 10, 40, .62);
+  border: 1px solid rgba(255, 255, 255, .16);
+  border-radius: 8px;
+  cursor: pointer;
+  backdrop-filter: blur(8px);
+  transition: background .2s ease, border-color .2s ease,
+              color .2s ease, transform .2s ease;
+}
+.gctl:hover {
+  background: rgba(40, 20, 78, .85);
+  border-color: rgba(244, 63, 122, .5);
+  color: #fff;
+  transform: translateY(-1px);
+}
+.gctl:focus-visible { outline: 2px solid rgba(244, 63, 122, .8); outline-offset: 2px; }
+.gctl-wide {
+  width: auto;
+  padding: 0 .7rem;
+  font-size: .78rem;
+  font-weight: 600;
+  letter-spacing: .02em;
+}
+.gctl[aria-pressed="true"] {
+  background: rgba(244, 63, 122, .22);
+  border-color: rgba(244, 63, 122, .65);
+  color: #fff;
+}
+
+
+
+/* ==========================================================================
+   Hero — the graph is the component, not the wallpaper
+   ==========================================================================
+   Previously .hero-galaxy was `position:absolute; inset:0; z-index:1` with the
+   copy floating over it. That is a background treatment, and it is why the graph
+   read as texture: it had no frame, no edges, no space of its own, and every
+   node sat behind a paragraph. It also could not be used - you cannot hover
+   something that is underneath text.
+
+   Now it is a two-column stage. Copy takes a narrow left column; the graph takes
+   the rest and is the largest object on the screen, with its own border,
+   background and controls. Nothing overlaps it except its own overlays.
+   ========================================================================== */
+.hero-section {
+  display: grid;
+  grid-template-columns: minmax(300px, 32%) 1fr;
+  gap: clamp(20px, 2.6vw, 44px);
+  align-items: center;
+  padding: clamp(64px, 8vh, 104px) clamp(24px, 4vw, 64px) clamp(56px, 7vh, 88px);
+  height: 100vh;
+  min-height: 720px;
+  overflow: hidden;
+}
+
+/* Was absolutely positioned and vertically centred over the graph. Now simply
+   the first column. */
+.hero-overlay {
+  position: static;
+  transform: none;
+  width: auto;
+  max-width: 560px;
+  z-index: 3;
+}
+.hero-sub { max-width: none; }
+
+.hero-stage {
+  position: relative;
+  height: 100%;
+  min-height: 420px;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid color-mix(in oklab, var(--sem-purple, #8b5cf6) 26%, transparent);
+  background:
+    radial-gradient(120% 90% at 70% 15%, rgba(139, 92, 246, .16), transparent 62%),
+    radial-gradient(90% 80% at 20% 90%, rgba(244, 63, 122, .12), transparent 60%),
+    rgba(10, 6, 26, .55);
+  box-shadow: 0 24px 70px -30px rgba(0, 0, 0, .8),
+              inset 0 0 0 1px rgba(255, 255, 255, .03);
+}
+
+/* Fills its panel instead of the viewport. No blur, no dim - it is being read. */
+.hero-galaxy {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  opacity: 1;
+  filter: none;
+}
+
+/* Overlays anchor to the stage, so they sit over the graph and never over the
+   copy. */
+.hero-stage .galaxy-detail {
+  position: absolute;
+  left: 12px; right: 12px; bottom: 12px;
+  max-height: 58%;
+  z-index: 6;
+}
+.hero-stage .hero-status {
+  position: absolute;
+  top: 12px; right: 12px;
+  z-index: 5;
+}
+.hero-stage .graph-controls {
+  position: absolute;
+  right: 12px; bottom: 12px;
+  z-index: 5;
+}
+
+/* Legend. Three states, named in plain language, because "what is a pink dot"
+   is the first question anyone asks and it should not need answering out loud
+   during a demo. */
+.graph-legend {
+  position: absolute;
+  left: 12px; top: 12px;
+  z-index: 5;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: .55rem .7rem;
+  border-radius: 10px;
+  font-size: .7rem;
+  line-height: 1;
+  color: rgba(255, 255, 255, .74);
+  background: rgba(12, 7, 30, .58);
+  border: 1px solid rgba(255, 255, 255, .1);
+  backdrop-filter: blur(8px);
+  pointer-events: none;
+}
+.graph-legend span { display: flex; align-items: center; gap: .45rem; }
+.graph-legend .lg {
+  width: .62rem; height: .62rem; border-radius: 50%;
+  display: inline-block; flex: 0 0 auto;
+}
+.lg-active  { background: #f43f7a; box-shadow: 0 0 8px rgba(244, 63, 122, .8); }
+.lg-related { background: #8b9dff; }
+.lg-base    { background: #6b5fa8; opacity: .55; }
+
+/* Interaction hint. Fades out once the user has actually hovered a node - it is
+   an onboarding cue, not permanent furniture. */
+.graph-hint {
+  position: absolute;
+  left: 50%; bottom: 14px;
+  transform: translateX(-50%);
+  z-index: 5;
+  padding: .38rem .8rem;
+  border-radius: 999px;
+  font-size: .72rem;
+  white-space: nowrap;
+  color: rgba(255, 255, 255, .72);
+  background: rgba(12, 7, 30, .62);
+  border: 1px solid rgba(255, 255, 255, .1);
+  backdrop-filter: blur(8px);
+  pointer-events: none;
+  transition: opacity .5s ease, transform .5s ease;
+}
+.graph-hint.is-dismissed {
+  opacity: 0;
+  transform: translateX(-50%) translateY(6px);
+}
+
+.hero-scroll-cue { z-index: 4; }
+
+/* Below ~1080px the two columns stop earning their keep: the graph gets too
+   narrow to read. Stack, and give the graph the taller share. */
+@media (max-width: 1080px) {
+  .hero-section {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr;
+    height: auto;
+    min-height: 100vh;
+    gap: clamp(18px, 3vh, 28px);
+  }
+  .hero-overlay { max-width: none; }
+  .hero-stage { min-height: 52vh; }
+  .hero-scroll-cue { display: none; }
+}
+@media (max-width: 620px) {
+  .graph-legend { font-size: .64rem; padding: .45rem .55rem; }
+  .graph-hint { display: none; }
+}
+
+/* ==========================================================================
+   HERO — the graph is the exhibit, not the wallpaper
+   ==========================================================================
+   Previously .hero-galaxy was inset:0 behind .hero-overlay, so the map was
+   literally a background image with type sitting on it. That is why it read as
+   messy: it was dimmed to keep the headline legible, cropped by the section
+   edges, and every click competed with the copy above it.
+
+   The mobile rules further down already solved this — copy in normal flow, map
+   as a framed exhibit — so this brings the same structure to desktop and gives
+   the map the larger share of the width, since it is the thing worth looking at
+   first.
+   ========================================================================== */
+@media (min-width: 1024px) {
+  .hero-section {
+    display: grid;
+    grid-template-columns: minmax(340px, 30%) 1fr;
+    align-items: center;
+    gap: clamp(24px, 3vw, 48px);
+    padding: clamp(28px, 4vh, 56px) clamp(24px, 3.5vw, 64px);
+    height: auto;
+    min-height: 92vh;
+    overflow: visible;
+  }
+
+  /* Left column: copy in normal flow, no longer floating over the canvas */
+  .hero-overlay {
+    position: static;
+    transform: none;
+    width: auto;
+    left: auto;
+    z-index: 3;
+    gap: 18px;
+  }
+
+  /* Right column: a real panel with an edge, so it reads as an instrument
+     rather than a texture bleeding off the page. */
+  .hero-galaxy {
+    position: relative;
+    inset: auto;
+    z-index: 2;
+    height: min(76vh, 720px);
+    border-radius: 18px;
+    overflow: hidden;
+    border: 1px solid rgba(150, 170, 255, 0.22);
+    background:
+      radial-gradient(ellipse at 55% 45%, rgba(91, 134, 255, 0.14), transparent 68%),
+      rgba(8, 12, 38, 0.5);
+    box-shadow: 0 30px 70px -38px rgba(0, 0, 0, 0.92),
+                inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    /* No dim, no blur. It is being read now, not sat behind. */
+    opacity: 1;
+    filter: none;
+  }
+
+  /* The section wash sat over the whole hero; keep it off the panel. */
+  .hero-section::before { z-index: 0; }
+  .hero-veil, .hero-scrim { display: none; }
+
+  /* Status chip and detail card belong to the panel, not the viewport. */
+  .hero-status { position: absolute; left: 14px; bottom: 14px; z-index: 6; }
+  .galaxy-detail { position: absolute; right: 14px; top: 14px; z-index: 8;
+                   max-width: min(360px, 42%); }
+  .graph-controls { right: 14px; bottom: 14px; }
+
+  .hero-scroll-cue { grid-column: 1 / -1; justify-self: center; margin-top: 4px; }
+}
+
+/* Wide screens: give the map even more room — it scales better than the copy. */
+@media (min-width: 1440px) {
+  .hero-section { grid-template-columns: minmax(360px, 26%) 1fr; }
+}
+
+/* --- Interaction affordances ---------------------------------------------
+   A canvas gives no hint that it is clickable. The cursor and a one-line hint
+   do the work that a tooltip cannot, because the hint has to be visible BEFORE
+   the pointer is over a node. */
+.hero-galaxy canvas { cursor: grab; }
+.hero-galaxy canvas:active { cursor: grabbing; }
+.hero-galaxy::before {
+  content: "Drag to pan · scroll to zoom · click a node";
+  position: absolute;
+  left: 50%;
+  bottom: 12px;
+  transform: translateX(-50%);
+  font-size: 0.62rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(210, 220, 250, 0.42);
+  background: rgba(8, 14, 44, 0.6);
+  padding: 0.28em 0.8em;
+  border-radius: 999px;
+  pointer-events: none;
+  z-index: 5;
+  backdrop-filter: blur(6px);
+  transition: opacity .35s ease;
+}
+/* The hint has done its job once the map has been touched. */
+.hero-galaxy.is-engaged::before { opacity: 0; }
+
+/* Expand: full-viewport map for a demo, without hiding anything. */
+body.graph-expanded .hero-galaxy {
+  position: fixed;
+  inset: 3vh 3vw;
+  height: auto;
+  z-index: 60;
+  border-radius: 20px;
+}
+body.graph-expanded::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: rgba(6, 4, 20, 0.82);
+  backdrop-filter: blur(3px);
+  z-index: 55;
+  animation: gfFade .3s ease both;
+}
+body.graph-expanded .graph-controls { position: fixed; right: 5vw; bottom: 6vh; z-index: 62; }
+body.graph-expanded .galaxy-detail  { position: fixed; right: 5vw; top: 6vh;    z-index: 63; }
+body.graph-expanded .hero-status    { position: fixed; left: 5vw;  bottom: 6vh; z-index: 62; }
