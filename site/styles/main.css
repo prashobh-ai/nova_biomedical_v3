@@ -4156,7 +4156,13 @@ summary:focus-visible, [tabindex]:focus-visible {
 }
 
 /* --- "Watch the source": a first-class answer subsection ------------------- */
-.video-sources-wrap { margin-top: 1rem; }
+.video-sources-wrap {
+  /* Superseded: video sources are rendered inside Source Lineage (Section 03),
+     where the rest of the citation chain already lives. A second player block
+     under the answer showed the same videos twice. */
+  display: none !important;
+}
+.video-sources-wrap--legacy { margin-top: 1rem; }
 .video-sources {
   border: 1px solid rgba(255, 255, 255, .1);
   border-radius: 12px;
@@ -4293,23 +4299,11 @@ summary:focus-visible, [tabindex]:focus-visible {
   .pillars-grid { grid-template-columns: 1fr; }
 }
 
-/* --- Reveal on scroll -----------------------------------------------------
-   Short travel, one easing, runs once. Anything longer reads as a page that is
-   pleased with itself rather than one that is confident. */
-.will-reveal {
-  opacity: 0;
-  transform: translateY(14px);
-  transition: opacity .6s cubic-bezier(.22, .61, .36, 1),
-              transform .6s cubic-bezier(.22, .61, .36, 1);
-  will-change: opacity, transform;
-}
-.will-reveal.is-revealed {
-  opacity: 1;
-  transform: none;
-}
-@media (prefers-reduced-motion: reduce) {
-  .will-reveal { opacity: 1; transform: none; transition: none; }
-}
+/* The earlier .will-reveal / .is-revealed pair latched once and fired at the
+   viewport edge. Superseded by .is-inview (centre-triggered, bidirectional) in
+   the Motion block below. Neutralised rather than deleted so any stale markup
+   cannot be left permanently invisible. */
+.will-reveal { opacity: 1; transform: none; }
 
 /* --- Interactive lift on cards -------------------------------------------- */
 .metric-card, .insight-card, .video-source, .risk-card {
@@ -4576,9 +4570,10 @@ summary:focus-visible, [tabindex]:focus-visible {
     border-radius: 18px;
     overflow: hidden;
     border: 1px solid rgba(150, 170, 255, 0.22);
-    background:
-      radial-gradient(ellipse at 55% 45%, rgba(91, 134, 255, 0.14), transparent 68%),
-      rgba(8, 12, 38, 0.5);
+    /* Flat panel tint only. A radial-gradient here rendered as a hard-edged
+       purple disc over the canvas - the graph has its own glow and does not
+       need a second one behind it. */
+    background: rgba(8, 12, 38, 0.42);
     box-shadow: 0 30px 70px -38px rgba(0, 0, 0, 0.92),
                 inset 0 1px 0 rgba(255, 255, 255, 0.05);
     /* No dim, no blur. It is being read now, not sat behind. */
@@ -4651,3 +4646,72 @@ body.graph-expanded::after {
 body.graph-expanded .graph-controls { position: fixed; right: 5vw; bottom: 6vh; z-index: 62; }
 body.graph-expanded .galaxy-detail  { position: fixed; right: 5vw; top: 6vh;    z-index: 63; }
 body.graph-expanded .hero-status    { position: fixed; left: 5vw;  bottom: 6vh; z-index: 62; }
+
+/* ==========================================================================
+   Motion — arrival, not decoration
+   ==========================================================================
+   Rules that hold across every animated element here:
+
+   1. Trigger when the element reaches the MIDDLE of the viewport, not its edge.
+      Firing at the boundary means the animation is half over before the reader
+      has looked at it.
+   2. Work in both scroll directions. Coming back up a page and finding a dead,
+      already-fired section is worse than no animation at all.
+   3. Nothing is ever left invisible if the trigger never runs.
+   ========================================================================== */
+
+/* --- Heatmap bars: grow from zero ---------------------------------------- */
+.hm-fill {
+  width: 0;
+  transition: width 900ms cubic-bezier(.22, .61, .36, 1);
+}
+.is-inview .hm-fill { width: var(--hm-w, 0); }
+/* Stagger down the list so it reads as a chart drawing itself. */
+.is-inview .hm-row:nth-child(1)  .hm-fill { transition-delay:  40ms; }
+.is-inview .hm-row:nth-child(2)  .hm-fill { transition-delay:  90ms; }
+.is-inview .hm-row:nth-child(3)  .hm-fill { transition-delay: 140ms; }
+.is-inview .hm-row:nth-child(4)  .hm-fill { transition-delay: 190ms; }
+.is-inview .hm-row:nth-child(5)  .hm-fill { transition-delay: 240ms; }
+.is-inview .hm-row:nth-child(6)  .hm-fill { transition-delay: 290ms; }
+.is-inview .hm-row:nth-child(7)  .hm-fill { transition-delay: 340ms; }
+.is-inview .hm-row:nth-child(8)  .hm-fill { transition-delay: 390ms; }
+.is-inview .hm-row:nth-child(9)  .hm-fill { transition-delay: 440ms; }
+.is-inview .hm-row:nth-child(10) .hm-fill { transition-delay: 490ms; }
+.is-inview .hm-row:nth-child(11) .hm-fill { transition-delay: 540ms; }
+.is-inview .hm-row:nth-child(12) .hm-fill { transition-delay: 590ms; }
+
+/* --- Readiness rings and gauges: redraw on entry -------------------------- */
+.health-rings svg circle[stroke-dasharray],
+.ring-arc {
+  transition: stroke-dashoffset 1200ms cubic-bezier(.22, .61, .36, 1);
+}
+.section-inview .ring-arc { stroke-dashoffset: var(--arc-to, 0); }
+
+/* --- Counters and stat tiles --------------------------------------------- */
+.stat-tile, .metric-card, .risk-card, .insight-card {
+  opacity: 0;
+  transform: translateY(16px) scale(.985);
+  transition: opacity .55s cubic-bezier(.22, .61, .36, 1),
+              transform .55s cubic-bezier(.22, .61, .36, 1);
+}
+.is-inview .stat-tile,
+.is-inview .metric-card,
+.is-inview .risk-card,
+.is-inview .insight-card,
+.stat-tile.is-inview, .metric-card.is-inview,
+.risk-card.is-inview, .insight-card.is-inview {
+  opacity: 1;
+  transform: none;
+}
+
+/* --- Section headings ----------------------------------------------------- */
+.section-head { opacity: 0; transform: translateY(18px);
+  transition: opacity .6s cubic-bezier(.22,.61,.36,1), transform .6s cubic-bezier(.22,.61,.36,1); }
+.is-inview.section-head, .is-inview .section-head { opacity: 1; transform: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  .hm-fill { width: var(--hm-w, 0); transition: none; }
+  .stat-tile, .metric-card, .risk-card, .insight-card, .section-head {
+    opacity: 1; transform: none; transition: none;
+  }
+}
