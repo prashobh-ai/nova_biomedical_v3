@@ -84,6 +84,11 @@ function renderPage(citation) {
 // the sentence was spoken, so the citation embeds the player seeked to that
 // second - the reader hears the source say it, which is a stronger check than
 // reading a page number.
+const YT_MARK = `<svg class="yt-mark" viewBox="0 0 28 20" aria-hidden="true" focusable="false">
+  <path d="M27.4 3.1A3.5 3.5 0 0 0 24.9.6C22.7 0 14 0 14 0S5.3 0 3.1.6A3.5 3.5 0 0 0 .6 3.1C0 5.3 0 10 0 10s0 4.7.6 6.9a3.5 3.5 0 0 0 2.5 2.5C5.3 20 14 20 14 20s8.7 0 10.9-.6a3.5 3.5 0 0 0 2.5-2.5c.6-2.2.6-6.9.6-6.9s0-4.7-.6-6.9z" fill="#FF0000"/>
+  <path d="M11.2 14.3 18.4 10l-7.2-4.3z" fill="#fff"/>
+</svg>`;
+
 function renderVideo(citation) {
   const c = citation.chunk;
   const m = c.meta || {};                       // connector metadata lives here
@@ -97,7 +102,7 @@ function renderVideo(citation) {
   return `
     <div class="lineage-page lineage-video">
       <div class="lineage-page-info">
-        [${citation.num}]
+        [${citation.num}] ${YT_MARK}
         ${transcribed
           ? `<span class="lineage-stamp">spoken at ${escapeHtml(stamp)}</span>`
           : `<span class="lineage-stamp">published video</span>`}

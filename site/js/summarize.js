@@ -27,6 +27,37 @@ import { evidencePrior, contentTokens, META_REGULATORY_RE, familyMembers } from 
 
 const MMR_LAMBDA = 0.72;
 const MAX_SENTENCES = 5;
+// Proportional boost for a sentence from a source system not yet cited in this
+// answer. Tuned by sweep: high enough to surface a relevant video or regulatory
+// record alongside manual text, low enough that a weak candidate never displaces
+// a strong one. See the comment in the MMR loop below.
+const SOURCE_DIVERSITY_BONUS = 0.5;
+// ...but only for candidates that are already competitive. Without a floor the
+// bonus rescues weak-but-novel candidates - a Magnesium video answering a
+// lactate question, an unrelated battery recall answering a meter question -
+// which is worse than the crowding-out it was meant to fix. Diversity must
+// break ties among relevant evidence, never substitute for relevance.
+const SOURCE_DIVERSITY_FLOOR = 0.55;
+
+// A numbered step and the step after it are, by construction, lexically similar
+// - "1. Remove the back battery cover." / "3. Replace the battery cover." - so
+// MMR's redundancy penalty suppresses every step after the first. The result is
+// an answer that quotes the heading of a procedure and then stops:
+//   "Install/Replace the battery as follows: 1."
+// which is exactly what a "how do I..." question must not return. Procedures are
+// the one case where consecutive, similar sentences are the answer, so a step
+// that continues the step immediately before it bypasses the penalty entirely.
+// The sentence splitter breaks on '.', which detaches a step's number from its
+// body: "…as follows: 1." / "Remove the back battery cover." / "2." /
+// "Install 2 AAA batteries." So continuity is POSITIONAL - follow the sentences
+// that come next in the same chunk - and hops over the bare-number fragments.
+const STEP_LEAD_RE = /(?:\bas follows\b|\bfollowing steps\b|\bthese steps\b|\bprocedure\b|:\s*)\s*\d{0,2}\s*[.)]?\s*$/i;
+const BARE_NUMBER_RE = /^\s*\d{1,2}\s*[.)]?\s*$/;
+const MAX_PROCEDURE_STEPS = 6;
+
+function startsProcedure(text) {
+  return STEP_LEAD_RE.test(text) || /\b\d{1,2}\s*[.)]\s*$/.test(text);
+}
 const MIN_SENTENCE_CHARS = 30;
 const MAX_ANSWER_CHARS = 900;
 
@@ -278,12 +309,28 @@ export function summarise(query, ranked, chunks, opts = {}) {
   candidates.sort((a, b) => b.final - a.final);
 
   // ---- MMR selection -------------------------------------------------------
-  const selected = [];
+  let selected = [];
   const pool = candidates.slice(0, 60);
+  let procRun = 0;
   let chars = 0;
 
   while (selected.length < maxSentences && pool.length) {
-    let bestIdx = -1, bestScore = -Infinity;
+    let bestIdx = -1, bestScore = -Infinity, bestIsStep = false;
+
+    // MMR measures LEXICAL diversity only, which leaves it blind to where
+    // evidence came from. A source system whose records are short - one video
+    // contributes a single sentence, against thousands of rich passages from a
+    // 300-page manual - can be retrieved into the pool and then never win a
+    // sentence slot, so it never appears in an answer at all. That is a
+    // retrieval-quality bug, not a ranking preference: the corpus spans product
+    // manuals, regulatory filings and channel media, and an answer that can only
+    // ever quote one of them is not a fabric.
+    //
+    // The bonus is PROPORTIONAL to the candidate's own score, never flat. A weak
+    // candidate gets a weak bonus and still loses; a genuinely relevant one from
+    // an unrepresented source can take a slot. Nothing irrelevant is forced in.
+    const seenSources = new Set(selected.map(x => x.chunk.source_type));
+    const topFinal = pool.length ? Math.max(...pool.map(c => c.final)) : 0;
 
     for (let i = 0; i < pool.length; i++) {
       const cand = pool[i];
@@ -292,22 +339,55 @@ export function summarise(query, ranked, chunks, opts = {}) {
         const sim = redundancy(cand.tokens, chosen.tokens);
         if (sim > maxSim) maxSim = sim;
       }
-      const mmr = MMR_LAMBDA * cand.final - (1 - MMR_LAMBDA) * maxSim;
+      const novelSource = selected.length > 0
+        && !seenSources.has(cand.chunk.source_type)
+        && cand.final >= SOURCE_DIVERSITY_FLOOR * topFinal;
+      const mmr = MMR_LAMBDA * cand.final - (1 - MMR_LAMBDA) * maxSim
+                + (novelSource ? SOURCE_DIVERSITY_BONUS * cand.final : 0);
       if (mmr > bestScore) { bestScore = mmr; bestIdx = i; }
     }
     if (bestIdx < 0) break;
 
     const pick = pool.splice(bestIdx, 1)[0];
     // Hard redundancy floor — a near-paraphrase adds nothing, whatever MMR says.
-    const dup = selected.some(s => redundancy(pick.tokens, s.tokens) > 0.62);
+    // Steps of one procedure are meant to resemble each other; the floor exists
+    // to drop near-paraphrases, not to truncate a numbered sequence.
+    const dup = !bestIsStep && selected.some(s => redundancy(pick.tokens, s.tokens) > 0.62);
     if (dup) { rejected++; continue; }
 
     const text = polish(pick.text);
-    if (chars + text.length > MAX_ANSWER_CHARS && selected.length >= 2) break;
+    if (!bestIsStep && chars + text.length > MAX_ANSWER_CHARS && selected.length >= 2) break;
 
-    selected.push({ ...pick, display: text });
+    selected.push({ ...pick, display: text, _proc: bestIsStep });
+    procRun = bestIsStep ? procRun + 1 : 0;
     chars += text.length;
   }
+
+  // ---- complete any procedure we started ----------------------------------
+  // MMR selects by relevance, so a step-lead ("Install/Replace the battery as
+  // follows: 1.") can be picked as the LAST of the five sentences, leaving no
+  // iteration in which its steps could be chosen. Worse, the steps themselves
+  // score poorly on their own - "Remove the back battery cover." matches almost
+  // nothing in the question - so they may never enter the candidate pool at all.
+  // Quoting the heading of a procedure and stopping is the failure mode this
+  // guards against: a "how do I..." answer that names the task and omits it.
+  // Steps are pulled straight from the chunk's sentence layer, not the pool.
+  const withSteps = [];
+  for (const sel of selected) {
+    withSteps.push(sel);
+    if (!startsProcedure(sel.text)) continue;
+    const sents = sentencesOf(sel.chunk);
+    let added = 0;
+    for (let pos = sel.position + 1; pos < sents.length && added < MAX_PROCEDURE_STEPS; pos++) {
+      const t = (sents[pos].text || '').trim();
+      if (!t || BARE_NUMBER_RE.test(t)) continue;          // skip lone "2."
+      if (selected.some(x => x.chunk.id === sel.chunk.id && x.position === pos)) continue;
+      if (withSteps.some(x => x.chunk.id === sel.chunk.id && x.position === pos)) continue;
+      withSteps.push({ ...sel, position: pos, text: t, display: polish(t), _proc: true });
+      added++;
+    }
+  }
+  selected = withSteps;
 
   // ---- ordering: group by document, preserve original reading order --------
   selected.sort((a, b) => {
