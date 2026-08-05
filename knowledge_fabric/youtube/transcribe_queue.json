@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T00:53:50+00:00",
-  "pending": 64,
+  "generated_at": "2026-08-05T04:53:18+00:00",
+  "pending": 65,
   "queue": [
     {
       "video_id": "p3Lt0s-kOCM",
@@ -90,6 +90,13 @@
       "video_id": "hQpF3rZcbIk",
       "title": "Role of ionized magnesium in the care of the ICU patient: implications for point",
       "duration_sec": 121,
+      "priority": 0,
+      "english_declared": true
+    },
+    {
+      "video_id": "nOGtFubWta8",
+      "title": "Maximize Productivity and Patient Care with Clinical Services",
+      "duration_sec": 146,
       "priority": 0,
       "english_declared": true
     },
