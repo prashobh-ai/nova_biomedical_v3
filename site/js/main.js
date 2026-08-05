@@ -354,7 +354,7 @@ function renderVideoSources(citations) {
                   referrerpolicy="strict-origin-when-cross-origin"></iframe>
         </div>
         <figcaption class="video-source-meta">
-          <div class="video-source-title">${YT_MARK}<span>${escapeHtml(v.title)}</span></div>
+          <div class="video-source-title"><span>${escapeHtml(v.title)}</span></div>
           <div class="video-source-sub">
             <span class="video-source-cite">[${v.num}]</span>
             ${v.transcribed

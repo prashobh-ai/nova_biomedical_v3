@@ -102,7 +102,7 @@ function renderVideo(citation) {
   return `
     <div class="lineage-page lineage-video">
       <div class="lineage-page-info">
-        [${citation.num}] ${YT_MARK}
+        ${YT_MARK}[${citation.num}]
         ${transcribed
           ? `<span class="lineage-stamp">spoken at ${escapeHtml(stamp)}</span>`
           : `<span class="lineage-stamp">published video</span>`}

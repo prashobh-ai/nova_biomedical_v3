@@ -230,10 +230,32 @@ function buildClosing(analysis, confidence, summary) {
  * Compose the reply.
  * @returns {{html:string, plain:string, opener:string, closing:string|null}}
  */
+// Source marks sit INSIDE the citation superscript, beside the number, because
+// that is the moment a reader decides whether to trust a claim: "[2] is a video,
+// [3] is the IFU". A mark anywhere else - a panel header, a card title - answers
+// the question in the wrong place, after the reader has already moved on.
+// Inline SVG so there is no network fetch and no sprite sheet; sized in `em` so
+// both marks track the superscript rather than fighting it.
+const MARK_YOUTUBE = `<svg class="cite-mark cite-mark-yt" viewBox="0 0 28 20" aria-hidden="true" focusable="false">
+  <path d="M27.4 3.1A3.5 3.5 0 0 0 24.9.6C22.7 0 14 0 14 0S5.3 0 3.1.6A3.5 3.5 0 0 0 .6 3.1C0 5.3 0 10 0 10s0 4.7.6 6.9a3.5 3.5 0 0 0 2.5 2.5C5.3 20 14 20 14 20s8.7 0 10.9-.6a3.5 3.5 0 0 0 2.5-2.5c.6-2.2.6-6.9.6-6.9s0-4.7-.6-6.9z" fill="#FF0000"/>
+  <path d="M11.2 14.3 18.4 10l-7.2-4.3z" fill="#fff"/>
+</svg>`;
+const MARK_DOC = `<svg class="cite-mark cite-mark-doc" viewBox="0 0 16 20" aria-hidden="true" focusable="false">
+  <path d="M3 0h7l5 5v13a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2z" fill="currentColor" opacity=".28"/>
+  <path d="M10 0l5 5h-4a1 1 0 0 1-1-1V0z" fill="currentColor" opacity=".6"/>
+  <path d="M4 9h8M4 12h8M4 15h5" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" fill="none"/>
+</svg>`;
+
+function sourceMark(sourceType) {
+  if (sourceType === 'video') return MARK_YOUTUBE;
+  return MARK_DOC;          // manuals, IFUs and regulatory records alike
+}
+
 export function composeResponse(analysis, sentences, citations, confidence, summary) {
   if (!sentences.length) return { html: '', plain: '', opener: '', closing: null };
 
   const citeNum = new Map(citations.map(c => [c.chunkIdx, c.num]));
+  const citeType = new Map(citations.map(c => [c.chunkIdx, c.chunk && c.chunk.source_type]));
   const opener = buildOpener(analysis, sentences);
   const usedMarkers = new Set();
 
@@ -246,8 +268,15 @@ export function composeResponse(analysis, sentences, citations, confidence, summ
     const num = citeNum.get(s.chunkIdx) || 1;
 
     let body;
+    // Steps of a procedure are joined by their own numbering, not by discourse
+    // markers. "It adds that remove the back battery cover" is ungrammatical and
+    // reads as broken output; the step should simply follow the one before it.
+    const isStep = s._proc === true;
     if (i === 0) {
       body = clean;
+    } else if (isStep) {
+      body = clean;
+      plainParts.push(clean);
     } else {
       const marker = pickMarker(sentences[i - 1], s, usedMarkers);
       const joined = decapitalise(clean);
@@ -256,9 +285,13 @@ export function composeResponse(analysis, sentences, citations, confidence, summ
     }
     if (i === 0) plainParts.push(clean);
 
+    const srcType = citeType.get(s.chunkIdx);
+    const isVideo = srcType === 'video';
     parts.push(
       `<span class="answer-sent">${body}` +
-      `<sup class="cite-ref" data-cite="${num}" title="Source ${num}">[${num}]</sup></span>`
+      `<sup class="cite-ref${isVideo ? ' is-video' : ''}" data-cite="${num}" ` +
+      `title="Source ${num} — ${isVideo ? 'YouTube video' : 'document'}">` +
+      `${sourceMark(srcType)}[${num}]</sup></span>`
     );
   });
 
