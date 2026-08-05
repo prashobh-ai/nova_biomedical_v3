@@ -58,6 +58,42 @@ def log(msg: str) -> None:
     print(f"  {msg}", flush=True)
 
 
+# ---------------------------------------------------- captions (fast path)
+def fetch_captions(video_id: str, vocab: set[str]) -> list[dict] | None:
+    """Publisher or auto-generated captions, straight from YouTube.
+
+    Tried BEFORE audio because it is instant, needs no model download, and costs
+    nothing - roughly a fifth of this channel carries auto-captions. Quality is
+    below Whisper's (no punctuation, more domain-term errors), so the same
+    correction pass runs over it, but a real timestamp from captions beats a
+    perfect transcript nobody got round to generating.
+
+    Returns None when the video has no captions, so the caller falls through to
+    audio + Whisper.
+    """
+    try:
+        from youtube_transcript_api import YouTubeTranscriptApi
+    except ImportError:
+        return None
+    try:
+        api = YouTubeTranscriptApi()
+        fetched = api.fetch(video_id, languages=["en", "en-US", "en-GB"])
+        raw = fetched.to_raw_data() if hasattr(fetched, "to_raw_data") else list(fetched)
+    except Exception:
+        return None
+
+    cues = []
+    for seg in raw:
+        text = (seg.get("text") if isinstance(seg, dict) else getattr(seg, "text", "")) or ""
+        text = correct(" ".join(text.split()), vocab)
+        if not text or text.startswith("["):          # [Music], [Applause]
+            continue
+        start = float(seg.get("start") if isinstance(seg, dict) else getattr(seg, "start", 0.0))
+        dur = float(seg.get("duration") if isinstance(seg, dict) else getattr(seg, "duration", 0.0))
+        cues.append({"start": round(start, 2), "end": round(start + dur, 2), "text": text})
+    return cues or None
+
+
 # ------------------------------------------------------------------- audio
 def fetch_audio(video_id: str, dest: Path) -> Path | None:
     """Audio only, smallest usable. Deleted immediately after transcription."""
@@ -172,6 +208,10 @@ def main() -> int:
     ap.add_argument("--compute-type", default="int8",
                     help="int8 on CPU, float16 on GPU")
     ap.add_argument("--video", default="", help="transcribe a single video id")
+    ap.add_argument("--captions-only", action="store_true",
+                    help="use YouTube captions only; never download audio or load a model")
+    ap.add_argument("--no-captions", action="store_true",
+                    help="skip the caption fast path and always run speech recognition")
     args = ap.parse_args()
 
     if not MANIFEST.exists():
@@ -181,8 +221,11 @@ def main() -> int:
     try:
         from faster_whisper import WhisperModel
     except ImportError:
-        print("pip install faster-whisper yt-dlp")
-        return 1
+        if not args.captions_only:
+            print("pip install faster-whisper yt-dlp youtube-transcript-api")
+            print("(or run with --captions-only, which needs only youtube-transcript-api)")
+            return 1
+        WhisperModel = None
 
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
     TRANSCRIPTS.mkdir(parents=True, exist_ok=True)
@@ -204,9 +247,11 @@ def main() -> int:
         return 0
 
     total_sec = sum(q.get("duration_sec", 0) for q in pending)
-    log(f"loading {args.model} on {args.device} ({args.compute_type})")
-    model = WhisperModel(args.model, device=args.device, compute_type=args.compute_type)
     vocab = load_corpus_vocabulary()
+    model = None
+    if not args.captions_only:
+        log(f"loading {args.model} on {args.device} ({args.compute_type})")
+        model = WhisperModel(args.model, device=args.device, compute_type=args.compute_type)
     log(f"corpus vocabulary: {len(vocab)} terms"
         if vocab else "corpus vocabulary unavailable — hard fixes only")
     log(f"{len(pending)} videos, {total_sec / 3600:.1f} hours of audio")
@@ -219,6 +264,24 @@ def main() -> int:
             vid = item["video_id"]
             title = (item.get("title") or vid)[:58]
             print(f"[{i}/{len(pending)}] {title}", flush=True)
+
+            # Captions first: instant, free, and enough to make the citation
+            # seek to the right second.
+            cues = None if args.no_captions else fetch_captions(vid, vocab)
+            if cues:
+                (TRANSCRIPTS / f"{vid}.json").write_text(json.dumps({
+                    "video_id": vid, "model": "youtube/captions",
+                    "transcribed_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+                    "cue_count": len(cues), "cues": cues,
+                }, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+                manifest["videos"].setdefault(vid, {})["transcript_status"] = "done"
+                log(f"{len(cues)} cues from YouTube captions")
+                done += 1
+                continue
+            if args.captions_only:
+                log("no captions; skipping (--captions-only)")
+                manifest["videos"].setdefault(vid, {})["transcript_status"] = "no_captions"
+                continue
 
             audio = fetch_audio(vid, workdir)
             if audio is None:
