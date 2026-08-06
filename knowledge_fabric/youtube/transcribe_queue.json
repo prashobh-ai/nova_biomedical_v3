@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T04:53:18+00:00",
-  "pending": 65,
+  "generated_at": "2026-08-06T04:53:48+00:00",
+  "pending": 40,
   "queue": [
     {
       "video_id": "p3Lt0s-kOCM",
@@ -73,13 +73,6 @@
       "english_declared": true
     },
     {
-      "video_id": "91NrXvLndKc",
-      "title": "Allegro - A Fast, Simple Capillary Blood Analyzer",
-      "duration_sec": 92,
-      "priority": 0,
-      "english_declared": true
-    },
-    {
       "video_id": "p702N9zxvk4",
       "title": "Monitor Kidney Function, In or Outside the Hospital",
       "duration_sec": 113,
@@ -87,23 +80,9 @@
       "english_declared": true
     },
     {
-      "video_id": "hQpF3rZcbIk",
-      "title": "Role of ionized magnesium in the care of the ICU patient: implications for point",
-      "duration_sec": 121,
-      "priority": 0,
-      "english_declared": true
-    },
-    {
       "video_id": "nOGtFubWta8",
       "title": "Maximize Productivity and Patient Care with Clinical Services",
       "duration_sec": 146,
-      "priority": 0,
-      "english_declared": true
-    },
-    {
-      "video_id": "S1Xlvaou8SQ",
-      "title": "Bioprocess Automation for PAT with BioProfile FLEX2 plus Seg-Flow",
-      "duration_sec": 158,
       "priority": 0,
       "english_declared": true
     },
@@ -143,20 +122,6 @@
       "english_declared": true
     },
     {
-      "video_id": "OcPDxwr39bg",
-      "title": "BioProfile Flex 2 with ambr® 15 integration",
-      "duration_sec": 358,
-      "priority": 0,
-      "english_declared": true
-    },
-    {
-      "video_id": "7vUmiNFHjG0",
-      "title": "ArtelWare™: PCS® - Managing Pipette Calibration Schedules",
-      "duration_sec": 415,
-      "priority": 0,
-      "english_declared": true
-    },
-    {
       "video_id": "StXLA74MOS0",
       "title": "Early Diagnosis and Screening for AKI/CKD | AKI & CRRT 2022",
       "duration_sec": 501,
@@ -167,13 +132,6 @@
       "video_id": "O7rxlygSC44",
       "title": "Sistema Allegro – Procedura",
       "duration_sec": 571,
-      "priority": 0,
-      "english_declared": false
-    },
-    {
-      "video_id": "FmUl4L6Iqjk",
-      "title": "Nova Biomedical at EuroMedLab 2021",
-      "duration_sec": 701,
       "priority": 0,
       "english_declared": false
     },
@@ -192,13 +150,6 @@
       "english_declared": true
     },
     {
-      "video_id": "zTKvas47J6I",
-      "title": "Nova Biomedical Italia - Sistema Allegro",
-      "duration_sec": 883,
-      "priority": 0,
-      "english_declared": false
-    },
-    {
       "video_id": "GhxtuzaIJxA",
       "title": "Estimated Plasma Volume in CRRT | AKI & CRRT 2022",
       "duration_sec": 1039,
@@ -213,23 +164,9 @@
       "english_declared": true
     },
     {
-      "video_id": "gogFM-9s_rU",
-      "title": "Deep Diving into Clinical Utilization of Ionized Magnesium with Dr. Kato",
-      "duration_sec": 1427,
-      "priority": 0,
-      "english_declared": true
-    },
-    {
       "video_id": "xZt8qvbOClg",
       "title": "Point-of-Care Glucose Testing in Critically Ill Patients",
       "duration_sec": 1516,
-      "priority": 0,
-      "english_declared": true
-    },
-    {
-      "video_id": "duIG7vtwv3c",
-      "title": "A Conversation with Ravi Mehta, Professor of Medicine",
-      "duration_sec": 1711,
       "priority": 0,
       "english_declared": true
     },
@@ -248,41 +185,6 @@
       "english_declared": true
     },
     {
-      "video_id": "2xh0JWOaP5g",
-      "title": "Arterial Blood Gases: Obtaining a Sample and Avoiding Pre-Analytical Errors in Companion Animals",
-      "duration_sec": 2606,
-      "priority": 0,
-      "english_declared": true
-    },
-    {
-      "video_id": "IyVEoWZQ_X4",
-      "title": "Preventing Pre analytical Errors in Critical Care Testing",
-      "duration_sec": 3634,
-      "priority": 0,
-      "english_declared": true
-    },
-    {
-      "video_id": "G-SgbL_hX_Q",
-      "title": "Cardiopulmonary Resuscitation and Blood Gas Sampling",
-      "duration_sec": 3653,
-      "priority": 0,
-      "english_declared": true
-    },
-    {
-      "video_id": "TehnjesWxu0",
-      "title": "Bedside glucose testing in critically ill patients The importance of improved accuracy",
-      "duration_sec": 3888,
-      "priority": 0,
-      "english_declared": true
-    },
-    {
-      "video_id": "0SHUkBhPxVY",
-      "title": "Glucose meter use in the critically ill Why improved meter accuracy may lead to better ICU outcomes",
-      "duration_sec": 3965,
-      "priority": 0,
-      "english_declared": true
-    },
-    {
       "video_id": "0S2eg0srHRA",
       "title": "Overcoming confounding issues in point of care POC glucose measurement",
       "duration_sec": 4140,
@@ -297,27 +199,6 @@
       "english_declared": true
     },
     {
-      "video_id": "9ytXMQhmVjI",
-      "title": "Red, Hot, and Inflamed Part II: Treatment and Monitoring of SIRS and Sepsis in Small Animals",
-      "duration_sec": 4888,
-      "priority": 0,
-      "english_declared": true
-    },
-    {
-      "video_id": "-LO_XRsVwkw",
-      "title": "NanoCellect® | N1 Single Cell Dispenser",
-      "duration_sec": 67,
-      "priority": 1,
-      "english_declared": true
-    },
-    {
-      "video_id": "_gtVKITAoKU",
-      "title": "ArtelWare™: Activating an MVS® Calibrator Plate",
-      "duration_sec": 74,
-      "priority": 1,
-      "english_declared": true
-    },
-    {
       "video_id": "WKqTySZy5GA",
       "title": "NanoCellect® WOLF G2® Cell Sorter",
       "duration_sec": 111,
@@ -325,30 +206,9 @@
       "english_declared": true
     },
     {
-      "video_id": "ae1rtnjn2jA",
-      "title": "ArtelWare™: Label & Report Customization",
-      "duration_sec": 208,
-      "priority": 1,
-      "english_declared": true
-    },
-    {
-      "video_id": "emzFd-z6iQI",
-      "title": "ArtelWare™: MVS® - Adding a Library Plate Model",
-      "duration_sec": 222,
-      "priority": 1,
-      "english_declared": true
-    },
-    {
       "video_id": "VuF-WoXVB3Q",
       "title": "ArtelWare™: MVS® - Running the MVS Calibrator Plate and Baseline Plate",
       "duration_sec": 238,
-      "priority": 1,
-      "english_declared": true
-    },
-    {
-      "video_id": "jzP4MnQkn7k",
-      "title": "ArtelWare™: MVS® - Managing Automated Liquid Handler Devices",
-      "duration_sec": 277,
       "priority": 1,
       "english_declared": true
     },
@@ -402,20 +262,6 @@
       "english_declared": true
     },
     {
-      "video_id": "MStyReu0Cak",
-      "title": "ArtelWare™: Importing a Plate Layout from Data Manager",
-      "duration_sec": 356,
-      "priority": 1,
-      "english_declared": true
-    },
-    {
-      "video_id": "YP6-qB-EqiU",
-      "title": "ArtelWare™: MVS® - Managing Pipette Calibration Plans",
-      "duration_sec": 511,
-      "priority": 1,
-      "english_declared": true
-    },
-    {
       "video_id": "S81XpvjjW0M",
       "title": "ArtelWare™: MVS® - Managing Verification Plans",
       "duration_sec": 649,
@@ -423,30 +269,9 @@
       "english_declared": true
     },
     {
-      "video_id": "bpJcMudyMlQ",
-      "title": "ArtelWare™: Managing Users",
-      "duration_sec": 668,
-      "priority": 1,
-      "english_declared": true
-    },
-    {
-      "video_id": "HCbwCH8verM",
-      "title": "ArtelWare™: Managing Pipettes Devices",
-      "duration_sec": 724,
-      "priority": 1,
-      "english_declared": true
-    },
-    {
       "video_id": "xjE7si4XIp8",
       "title": "ArtelWare™: MVS® - Performing a Multichannel Pipette Calibration",
       "duration_sec": 1069,
-      "priority": 1,
-      "english_declared": true
-    },
-    {
-      "video_id": "FYGLc_q_WMs",
-      "title": "Surviving Sepsis in Veterinary Medicine Chapter 1: Development of Organ Failure",
-      "duration_sec": 3487,
       "priority": 1,
       "english_declared": true
     },

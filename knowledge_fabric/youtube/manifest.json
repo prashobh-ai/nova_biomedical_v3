@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T00:53:50+00:00",
-  "video_count": 79,
+  "generated_at": "2026-08-06T04:53:48+00:00",
+  "video_count": 80,
   "withdrawn_count": 0,
   "videos": {
     "-LO_XRsVwkw": {
@@ -1387,6 +1387,26 @@
       "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
+    },
+    "nOGtFubWta8": {
+      "video_id": "nOGtFubWta8",
+      "title": "Maximize Productivity and Patient Care with Clinical Services",
+      "description": "Your osmometer is a critical part of your laboratory workflow. Is your service strategy helping you get the most from it?\n\nIn this video, discover how Nova Biomedical Clinical Services help laboratories maximize osmometer performance, maintain compliance, and minimize downtime throughout the life of their instrument.\n\nFrom installation and validation to preventive maintenance and ongoing technical support, our manufacturer-trained and certified service experts provide:\n• Installation and instrument validation\n• Certification documentation to support laboratory inspections\n• Preventive maintenance to maximize performa\nnce and reliability\n• Expert training and ongoing technical support\n\nLearn how the right service partner can help your laboratory improve productivity, maintain compliance, and get the most from your Nova Biomedical osmometer.",
+      "duration_sec": 146,
+      "published_at": "2026-08-04",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "Product Demonstrations (Virtual & In-Person)",
+        "Advanced Instruments®",
+        "English (US)",
+        "Hospital"
+      ],
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9,
+      "content_hash": "ba3cb24e8a2eedab",
+      "first_seen": "2026-08-06",
+      "withdrawn": false,
+      "transcript_status": "pending"
     },
     "nRr999Llito": {
       "video_id": "nRr999Llito",
