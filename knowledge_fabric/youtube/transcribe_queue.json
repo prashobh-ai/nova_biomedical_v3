@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T06:40:18+00:00",
-  "pending": 40,
+  "generated_at": "2026-09-05T06:26:32+00:00",
+  "pending": 41,
   "queue": [
     {
       "video_id": "p3Lt0s-kOCM",
@@ -83,6 +83,13 @@
       "video_id": "nOGtFubWta8",
       "title": "Maximize Productivity and Patient Care with Clinical Services",
       "duration_sec": 146,
+      "priority": 0,
+      "english_declared": true
+    },
+    {
+      "video_id": "lW_bb_g3hG0",
+      "title": "BioProfile® FLEX2: Automated Cell Culture Analyzer",
+      "duration_sec": 166,
       "priority": 0,
       "english_declared": true
     },

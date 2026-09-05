@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T06:40:18+00:00",
-  "video_count": 80,
+  "generated_at": "2026-09-05T06:26:32+00:00",
+  "video_count": 81,
   "withdrawn_count": 0,
   "videos": {
     "-LO_XRsVwkw": {
@@ -1387,6 +1387,25 @@
       "transcript_status": "done",
       "date_method": "channel_publication_date",
       "date_confidence": 0.9
+    },
+    "lW_bb_g3hG0": {
+      "video_id": "lW_bb_g3hG0",
+      "title": "BioProfile® FLEX2: Automated Cell Culture Analyzer",
+      "description": "Reduce testing bottlenecks and make critical upstream bioprocessing decisions sooner. Nova Biomedical’s BioProfile® FLEX2 Automated Cell Culture Analyzer delivers a complete 16-test profile in 4.5 minutes using only 275 μL—75% less sample volume.\n\nSee how faster, sample-saving analysis can transform your cell culture workflow:\nhttps://www.novabiomedical.com/cell-c...",
+      "duration_sec": 166,
+      "published_at": "2026-09-04",
+      "channel": "Nova Biomedical",
+      "playlists": [
+        "BioProfile®",
+        "English (US)",
+        "Bioprocessing"
+      ],
+      "date_method": "channel_publication_date",
+      "date_confidence": 0.9,
+      "content_hash": "3cdfb8b205f014ca",
+      "first_seen": "2026-09-05",
+      "withdrawn": false,
+      "transcript_status": "pending"
     },
     "nOGtFubWta8": {
       "video_id": "nOGtFubWta8",
